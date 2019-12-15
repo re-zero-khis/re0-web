@@ -189,7 +189,7 @@
 	* [幕間　『イタダキマス』](markdown/jp/chapter030/88.md)
 	* [幕間　『それぞれの、誓い』](markdown/jp/chapter030/89.md)
 	* [番外編　『王様』](markdown/jp/chapter030/90.md)
-* [第四章　『永遠の契約](markdown/jp/chapter040/README.md)
+* [第四章　『永遠の契約』](markdown/jp/chapter040/README.md)
 	* [01　『帰り着いた場所で』](markdown/jp/chapter040/01.md)
 	* [02　『罵倒と感謝』](markdown/jp/chapter040/02.md)
 	* [03　『再会とすれ違い』](markdown/jp/chapter040/03.md)

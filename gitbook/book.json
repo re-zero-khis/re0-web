@@ -142,6 +142,9 @@
                 "level3Icon": "fa fa-circle-o"
             }
         },
+        "search": {
+            "maxIndexSize": 100000
+        },
         "sharing": {
             "facebook": true,
             "twitter": true,

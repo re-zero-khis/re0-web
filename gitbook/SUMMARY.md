@@ -6,14 +6,15 @@
 
 ## 汉化版
 
-* [第一章　『怒涛の一日目』](markdown/ch/chapter010/README.md)
-* [第二章　『激動の一週間』](markdown/ch/chapter020/README.md)
-* [番外編　『わんでい』](markdown/ch/chapter021/README.md)
-* [第三章　『再来の王都』](markdown/ch/chapter030/README.md)
-* [第四章　『永遠の契約』](markdown/ch/chapter040/README.md)
-* [番外編　『わんでいⅡ』](markdown/ch/chapter041/README.md)
-* [第五章　『歴史を刻む星々』](markdown/ch/chapter050/README.md)
-* [第六章　『記憶の回廊』](markdown/ch/chapter060/README.md)
+* [第一章　『怒涛般的第一天』](markdown/ch/chapter010/README.md)
+* [第二章　『动荡的一周』](markdown/ch/chapter020/README.md)
+* [番外編　『Oneday』](markdown/ch/chapter021/README.md)
+* [第三章　『再次来到王都』](markdown/ch/chapter030/README.md)
+* [第四章　『永远的契约』](markdown/ch/chapter040/README.md)
+* [番外編　『OnedayⅡ』](markdown/ch/chapter041/README.md)
+* [第五章　『刻画历史的群星』](markdown/ch/chapter050/README.md)
+* [第六章　『记忆的回廊』](markdown/ch/chapter060/README.md)
+* [ReZero　EX](markdown/ch/chapter099/README.md)
 
 ----
 

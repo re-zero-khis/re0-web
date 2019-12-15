@@ -68,12 +68,19 @@ def take_index() :
 		title = title.replace('７', '7')
 		title = title.replace('８', '8')
 		title = title.replace('９', '9')
-		print('%s : %s' % (uri, title))
 		save_page(uri, title)
 
 
 
 def save_page(uri, title) :
+	grps = re.findall(r'(\D+?)(\d*)　(.+)', title)
+	chapter = grps[0][0]
+	segidx = grps[0][1]
+	segidx = segidx if segidx else ('%i' % time.time())	# 若无分节编号，则使用时间戳代替
+	_title = grps[0][2]
+
+	print('* [%s](markdown/jp/chapter/%s.md)' % (title, segidx))
+
 	mth = re.search(r'/(\d+)/', uri)
 	if mth :
 		urlidx = int(mth.group(1))
@@ -82,13 +89,8 @@ def save_page(uri, title) :
 			return
 	else :
 		return
-
 	PAGE_URL = '%s/%i' % (URL, urlidx)
-	grps = re.findall(r'(\D+?)(\d*)　(.+)', title)
-	chapter = grps[0][0]
-	segidx = grps[0][1]
-	segidx = segidx if segidx else ('%i' % time.time())	# 若无分节编号，则使用时间戳代替
-	title = grps[0][2]
+	
 	
 	_dir = ('%s/%s' % (DOWNLOAD_DIR, chapter)).decode('utf-8').encode('gbk')	# windows 文件夹名称要转码为GBK
 	if not os.path.exists(_dir) :
@@ -98,7 +100,7 @@ def save_page(uri, title) :
 	html = response.text.encode('utf-8')
 
 	lines = [
-		'# %s\n' % title, 
+		'# %s\n' % _title, 
 		'\n------\n',
 		'\n'
 	]
@@ -119,7 +121,7 @@ def save_page(uri, title) :
 	with open(_path, 'w') as file :
 		file.write(''.join(lines))
 	save_progress(urlidx)
-	print('download finish')
+	print('%s : download finish' % uri)
 
 
 

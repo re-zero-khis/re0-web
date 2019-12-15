@@ -1,6 +1,7 @@
 # 目录索引
 
-* [首页](README.md)
+* [封面](README.md)
+* [登场人物](markdown/character.md)
 
 ----
 
@@ -525,8 +526,4 @@
 ## MF文库J - 原版连载
 
 * [Ｒｅ：ゼロから始める異世界生活](http://ncode.syosetu.com/n2267be/)
-* [鼠色猫/長月達平](https://mypage.syosetu.com/235132/)
-
-----
-
-* [Copyright @ EXP]()
+* [Copyright @ 鼠色猫/長月達平](https://mypage.syosetu.com/235132/)

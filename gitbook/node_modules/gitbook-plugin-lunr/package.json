@@ -1,0 +1,66 @@
+{
+  "_from": "gitbook-plugin-lunr",
+  "_id": "gitbook-plugin-lunr@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-8+gOx2US+9t16wUkqoK43/EqUKs=",
+  "_location": "/gitbook-plugin-lunr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gitbook-plugin-lunr",
+    "name": "gitbook-plugin-lunr",
+    "escapedName": "gitbook-plugin-lunr",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-lunr/-/gitbook-plugin-lunr-1.2.0.tgz",
+  "_shasum": "f3e80ec76512fbdb75eb0524aa82b8dff12a50ab",
+  "_spec": "gitbook-plugin-lunr",
+  "_where": "/gitbook",
+  "bugs": {
+    "url": "https://github.com/GitbookIO/plugin-lunr/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "gitbook-plugin-search": "*",
+    "html-entities": "1.2.0",
+    "lunr": "0.5.12"
+  },
+  "deprecated": false,
+  "description": "Index book in a lunr index accessible from the search plugin",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.0"
+  },
+  "gitbook": {
+    "properties": {
+      "maxIndexSize": {
+        "type": "number",
+        "title": "Limit size for the index",
+        "default": 1000000
+      },
+      "ignoreSpecialCharacters": {
+        "type": "boolean",
+        "title": "Ignore special characters in words",
+        "default": false
+      }
+    }
+  },
+  "homepage": "https://github.com/GitbookIO/plugin-lunr",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "gitbook-plugin-lunr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitbookIO/plugin-lunr.git"
+  },
+  "scripts": {
+    "prepublish": "cp node_modules/lunr/lunr.min.js ./assets/lunr.min.js"
+  },
+  "version": "1.2.0"
+}

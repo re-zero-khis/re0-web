@@ -1,0 +1,84 @@
+{
+  "_from": "gitbook-plugin-fontsettings",
+  "_id": "gitbook-plugin-fontsettings@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-g1+QCuPdERCG/n7UQl7j3gJIYas=",
+  "_location": "/gitbook-plugin-fontsettings",
+  "_phantomChildren": {},
+  "_requested": {
+    "escapedName": "gitbook-plugin-fontsettings",
+    "fetchSpec": "latest",
+    "name": "gitbook-plugin-fontsettings",
+    "raw": "gitbook-plugin-fontsettings",
+    "rawSpec": "",
+    "registry": true,
+    "saveSpec": null,
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-fontsettings/-/gitbook-plugin-fontsettings-2.0.0.tgz",
+  "_shasum": "835f900ae3dd111086fe7ed4425ee3de024861ab",
+  "_spec": "gitbook-plugin-fontsettings",
+  "_where": "/gitbook",
+  "bugs": {
+    "url": "https://github.com/GitbookIO/plugin-fontsettings/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Fonts and colors themes settings the website for a better reading experience",
+  "devDependencies": {
+    "eslint": "^2.7.0",
+    "less": "2.5.1"
+  },
+  "engines": {
+    "gitbook": ">=2.4.0"
+  },
+  "gitbook": {
+    "properties": {
+      "family": {
+        "default": "sans",
+        "enum": [
+          "sans",
+          "serif"
+        ],
+        "title": "Default font family",
+        "type": "string"
+      },
+      "size": {
+        "default": 2,
+        "max": 4,
+        "min": 1,
+        "title": "Default font size",
+        "type": "number"
+      },
+      "theme": {
+        "default": "white",
+        "enum": [
+          "white",
+          "sepia",
+          "night"
+        ],
+        "title": "Default theme",
+        "type": "string"
+      }
+    }
+  },
+  "homepage": "https://github.com/GitbookIO/plugin-fontsettings",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "gitbook-plugin-fontsettings",
+  "optionalDependencies": {},
+  "readme": "# plugin-fontsettings\n\nThis plugin adds font settings button in the GitBook website.\n\n### Disable this plugin\n\nThis is a default plugin and it can be disabled using a `book.json` configuration:\n\n```\n{\n    plugins: [\"-fontsettings\"]\n}\n```\n\n### Configuration\n\nThis plugin can be configured in the `book.json`:\n\nDefault configuration is:\n\n```js\n{\n    \"pluginsConfig\": {\n        \"fontsettings\": {\n            \"theme\": 'white', // 'sepia', 'night' or 'white',\n            \"family\": 'sans', // 'serif' or 'sans',\n            \"size\": 2         // 1 - 4\n        }\n    }\n}\n```\n\n### Plugin API\n\nThis plugin exposes the following API to easily allow new themes to manage the plugin behavior.\n\nAll API functions are called using the prefix `gitbook.fontsettings.`, for instance `gitbook.fontsettings.enlargeFontSize()`.\n\n#### Font manipulation\n\n##### `gitbook.fontsettings.enlargeFontSize()`\n\nIncreases the font size of the document by one. Max value is `4`.\n\n##### `gitbook.fontsettings.reduceFontSize()`\n\nDecreases the font size of the document by one. Min value is `1`.\n\n#### Font families\n\nEach font family should be described as:\n\n```js\nvar fontFamily = {\n    config: 'sans',  // name of the font family in book.json for your theme\n    text: 'Sans',    // display name of the font family in menu\n    id: 0            // the id appended to the CSS class for this font-family\n};\n```\n\nThe `text` property will be used to display the font-family name in the fontsettings dropdown menu.\n\nThe `config` property allows you to let the users of your theme choose a default font family in their `book.json`. You will have to handle setting the chosen font family in your theme's frontend JavaScript.\n\nFor instance:\n\n```json\n// book.json\n{\n    plugins: [\"my-theme\"],\n    pluginsConfig: {\n        \"my-theme\": {\n            \"font-family\": \"sans\"\n        }\n    }\n}\n```\n\n```js\n// my-theme.js\nrequire('gitbook', function(gitbook) {\n    var FONT_FAMILIES = [\n        {\n            config: 'sans',\n            text: 'Sans',\n            id: 0\n        },\n        {\n            config: 'serif',\n            text: 'Serif',\n            id: 1\n        }\n    ];\n\n    gitbook.events.on('start', function(e, config) {\n        // Read configuration\n        var themeConfig = config['my-theme'],\n            defaultFont = themeConfig['font-family'];\n\n        // Initialize new font families\n        gitbook.fontsettings.setFamilies(FONT_FAMILIES);\n        // Set to configured font-family\n        gitbook.fontsettings.setFamily(defaultFont);\n    });\n});\n```\n\nThe `id` property lets you define a specific id to use for your CSS rules as explained below.\n\n##### CSS rules\n\nThe CSS class `font-family-<id>` will be applied to the theme book's root element `<div class=\"book\">` when a font family is selected in the menu.\n\nThe CSS rules for the font-family can then easily be defined using the parent selector `.book.font-family-<id>`:\n\n```CSS\n.book.font-family-<id> {\n  font-family: 'My Awesome Font';\n}\n```\n\n##### Managing the font families\n\n##### `gitbook.fontsettings.getFamilies()`\n\nReturns the currently set font families.\n\nBy default, the font families are:\n\n```js\n// Default font families\nvar FAMILIES = [\n    {\n        config: 'serif',\n        text: 'Serif',\n        id: 0\n    },\n    {\n        config: 'sans',\n        text: 'Sans',\n        id: 1\n    }\n];\n```\n\n##### `gitbook.fontsettings.setFamilies()`\n\nSet the new font families configuration, as an array of font family objects, used by the `plugin-fontsettings` in the form:\n\n```js\nvar FONT_FAMILIES = [\n    {\n        config: 'sans',\n        text: 'Sans',\n        id: 0\n    },\n    {\n        config: 'serif',\n        text: 'Serif',\n        id: 1\n    }\n];\n\ngitbook.fontsettings.setFamilies(FONT_FAMILIES);\n```\n\nThis will recreate the fontsettings menu to reflect the changes.\n\n##### `gitbook.fontsettings.setFamily()`\n\nTakes a font-family `config` key as an argument and updates the font-family used for this book.\n\nThis will basically apply the CSS class with the corresponding family `id`: `.font-family-<id>`.\n\n#### Color themes\n\nSetting and manipulating color themes follow the exact same rules as font families.\n\nHere are the default value for the color themes in the plugin:\n\n```js\n// Default themes\nvar THEMES = [\n    {\n        config: 'white',\n        text: 'White',\n        id: 0\n    },\n    {\n        config: 'sepia',\n        text: 'Sepia',\n        id: 1\n    },\n    {\n        config: 'night',\n        text: 'Night',\n        id: 2\n    }\n];\n```\n\n##### CSS rules\n\nThe applied CSS classes for color themes will be in the form: `.color-theme-<id>`.\n\n**Caution**: No CSS class for color theme with `id: 0` will be applied. Basically, the first color theme corresponds to your default theme's colors.\n\nFor instance, using the default color themes:\n\n```js\ngitbook.fontsettings.setTheme('night');\n```\n\nwill result in the following HTML state for the root element:\n\n```HTML\n<div class=\"book color-theme-2\">\n```\n\nWhile:\n\n```js\ngitbook.fontsettings.setTheme('white');\n```\n\nwill reset the HTML state for the root element:\n\n```HTML\n<div class=\"book\">\n```\n\n##### Managing the color themes\n\n##### `gitbook.fontsettings.getFamilies()`\n\nReturns the currently set color themes.\n\nBy default, the font families are:\n\n```js\n// Default themes\nvar THEMES = [\n    {\n        config: 'white',\n        text: 'White',\n        id: 0\n    },\n    {\n        config: 'sepia',\n        text: 'Sepia',\n        id: 1\n    },\n    {\n        config: 'night',\n        text: 'Night',\n        id: 2\n    }\n];\n```\n\n##### `gitbook.fontsettings.setThemes()`\n\nSet the new color themes configuration, as an array of font family objects, used by the `plugin-fontsettings` in the form:\n\n```js\nvar COLOR_THEMES = [\n    {\n        config: 'light',\n        text: 'Light',\n        id: 0\n    },\n    {\n        config: 'dark',\n        text: 'Dark',\n        id: 1\n    }\n];\n\ngitbook.fontsettings.setThemes(COLOR_THEMES);\n```\n\nThis will recreate the fontsettings menu to reflect the changes.\n\n##### `gitbook.fontsettings.setTheme()`\n\nTakes a color theme `config` key as an argument and updates the color theme used for this book.\n\nThis will basically apply the CSS class with the corresponding theme `id`: `.color-theme-<id>`, or remove the applied CSS class if the selected theme `id` is `0`.",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitbookIO/plugin-fontsettings.git"
+  },
+  "scripts": {
+    "prepublish": "lessc ./less/website.less > ./assets/website.css;"
+  },
+  "version": "2.0.0"
+}

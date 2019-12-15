@@ -1,0 +1,62 @@
+{
+  "_from": "intl-format-cache@^2.0.5",
+  "_id": "intl-format-cache@2.2.9",
+  "_inBundle": false,
+  "_integrity": "sha512-Zv/u8wRpekckv0cLkwpVdABYST4hZNTDaX7reFetrYTJwxExR2VyTqQm+l0WmL0Qo8Mjb9Tf33qnfj0T7pjxdQ==",
+  "_location": "/intl-format-cache",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "intl-format-cache@^2.0.5",
+    "name": "intl-format-cache",
+    "escapedName": "intl-format-cache",
+    "rawSpec": "^2.0.5",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.5"
+  },
+  "_requiredBy": [
+    "/react-intl"
+  ],
+  "_resolved": "https://registry.npmjs.org/intl-format-cache/-/intl-format-cache-2.2.9.tgz",
+  "_shasum": "fb560de20c549cda20b569cf1ffb6dc62b5b93b4",
+  "_spec": "intl-format-cache@^2.0.5",
+  "_where": "/gitbook/node_modules/react-intl",
+  "author": {
+    "name": "Eric Ferraiuolo",
+    "email": "eferraiuolo@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/formatjs/formatjs/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A memoizer factory for Intl format constructors.",
+  "devDependencies": {
+    "intl-messageformat": "^3.3.0",
+    "intl-relativeformat": "^5.0.0"
+  },
+  "gitHead": "6c131ebfbd0431cc32520f6880e1ea917797a389",
+  "homepage": "https://github.com/formatjs/formatjs",
+  "keywords": [
+    "intl",
+    "i18n"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "module": "lib/index.js",
+  "name": "intl-format-cache",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formatjs/formatjs.git"
+  },
+  "scripts": {
+    "benchmark": "ts-node --project tests/tsconfig.json tests/benchmark",
+    "build": "tsc && tsc -p src/tsconfig.cjs.json && rollup -c rollup.config.js",
+    "clean": "rimraf dist lib",
+    "prepublishOnly": "npm run build",
+    "test": "mocha --opts ../../mocha.opts tests/index.ts"
+  },
+  "typings": "lib/index.d.ts",
+  "version": "2.2.9"
+}

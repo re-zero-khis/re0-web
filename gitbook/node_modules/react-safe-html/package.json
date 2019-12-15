@@ -1,0 +1,99 @@
+{
+  "_from": "react-safe-html@0.4.0",
+  "_id": "react-safe-html@0.4.0",
+  "_inBundle": false,
+  "_integrity": "sha1-Z9HgZBi0Rp2bbkjp/KDd6hzjiWY=",
+  "_location": "/react-safe-html",
+  "_phantomChildren": {
+    "css-select": "1.2.0",
+    "dom-serializer": "0.1.1",
+    "domelementtype": "1.3.1",
+    "domhandler": "2.3.0",
+    "domutils": "1.5.1",
+    "entities": "1.1.2",
+    "inherits": "2.0.4",
+    "lodash.assignin": "4.2.0",
+    "lodash.bind": "4.2.1",
+    "lodash.defaults": "4.2.0",
+    "lodash.filter": "4.6.0",
+    "lodash.flatten": "4.4.0",
+    "lodash.foreach": "4.5.0",
+    "lodash.map": "4.6.0",
+    "lodash.merge": "4.6.2",
+    "lodash.pick": "4.4.0",
+    "lodash.reduce": "4.6.0",
+    "lodash.reject": "4.6.0",
+    "lodash.some": "4.6.0",
+    "safe-buffer": "5.2.0",
+    "util-deprecate": "1.0.2"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-safe-html@0.4.0",
+    "name": "react-safe-html",
+    "escapedName": "react-safe-html",
+    "rawSpec": "0.4.0",
+    "saveSpec": null,
+    "fetchSpec": "0.4.0"
+  },
+  "_requiredBy": [
+    "/gitbook-core"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-safe-html/-/react-safe-html-0.4.0.tgz",
+  "_shasum": "67d1e06418b4469d9b6e48e9fca0ddea1ce38966",
+  "_spec": "react-safe-html@0.4.0",
+  "_where": "/gitbook/node_modules/gitbook-core",
+  "author": {
+    "name": "Frankie Bagnardi",
+    "email": "f.bagnardi@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/brigand/react-safe-html/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "html-entities": "^1.2.0",
+    "htmlparser2": "^3.9.1"
+  },
+  "deprecated": false,
+  "description": "render user provided html safely by using react components",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.17.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-1": "^6.16.0",
+    "chai": "^3.5.0",
+    "enzyme": "^2.4.1",
+    "jest": "^16.0.1",
+    "jsdom": "^9.6.0",
+    "mocha": "^3.1.1",
+    "react": "^15.3.2"
+  },
+  "directories": {
+    "test": "lib/__test__"
+  },
+  "homepage": "https://github.com/brigand/react-safe-html#readme",
+  "keywords": [
+    "react",
+    "html",
+    "safe",
+    "security",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "react-safe-html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brigand/react-safe-html.git"
+  },
+  "scripts": {
+    "build": "babel src --out-dir lib --ignore src/__tests__",
+    "test": "jest",
+    "watch": "npm run build -- --watch"
+  },
+  "version": "0.4.0"
+}

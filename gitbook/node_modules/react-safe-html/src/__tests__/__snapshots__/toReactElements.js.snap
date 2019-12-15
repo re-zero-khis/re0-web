@@ -1,0 +1,18 @@
+exports[`test toReactElements basic 1`] = `
+<function div() /* istanbul ignore next */{return {};}>
+  <span>
+    a child
+  </span>
+</function div() /* istanbul ignore next */{return {};}>
+`;
+
+exports[`test toReactElements override text 1`] = `
+<span>
+  <span>
+    <p
+      data-foo="bar">
+      a child
+    </p>
+  </span>
+</span>
+`;

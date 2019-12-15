@@ -1,0 +1,139 @@
+{
+  "_args": [
+    [
+      {
+        "name": "list-item",
+        "raw": "list-item@^1.1.1",
+        "rawSpec": "^1.1.1",
+        "scope": null,
+        "spec": ">=1.1.1 <2.0.0",
+        "type": "range"
+      },
+      "/gitbook/node_modules/markdown-toc"
+    ]
+  ],
+  "_from": "list-item@>=1.1.1 <2.0.0",
+  "_id": "list-item@1.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/list-item",
+  "_nodeVersion": "5.0.0",
+  "_npmUser": {
+    "email": "github@sellside.com",
+    "name": "jonschlinkert"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "list-item",
+    "raw": "list-item@^1.1.1",
+    "rawSpec": "^1.1.1",
+    "scope": null,
+    "spec": ">=1.1.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/markdown-toc"
+  ],
+  "_resolved": "https://registry.npmjs.org/list-item/-/list-item-1.1.1.tgz",
+  "_shasum": "0c65d00e287cb663ccb3cb3849a77e89ec268a56",
+  "_shrinkwrap": null,
+  "_spec": "list-item@^1.1.1",
+  "_where": "/gitbook/node_modules/markdown-toc",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/list-item/issues"
+  },
+  "contributors": [
+    {
+      "name": "Anders D. Johnson",
+      "url": "https://github.com/adjohnson916"
+    }
+  ],
+  "dependencies": {
+    "expand-range": "^1.8.1",
+    "extend-shallow": "^2.0.1",
+    "is-number": "^2.1.0",
+    "repeat-string": "^1.5.2"
+  },
+  "description": "Generate a single formatted list item, allowing you to easily generate lists with proper indentation, bullets, numbers or other leading characters.",
+  "devDependencies": {
+    "mocha": "*",
+    "romanize": "^0.1.0",
+    "should": "*"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "0c65d00e287cb663ccb3cb3849a77e89ec268a56",
+    "tarball": "https://registry.npmjs.org/list-item/-/list-item-1.1.1.tgz"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "gitHead": "26f9ef24523c2374acffd97b7627c217c7fce7c0",
+  "homepage": "https://github.com/jonschlinkert/list-item",
+  "keywords": [
+    "bullet",
+    "format",
+    "item",
+    "list",
+    "list-item",
+    "markdown",
+    "numbered",
+    "numerals",
+    "ordered",
+    "roman",
+    "test",
+    "unordered"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "github@sellside.com",
+      "name": "jonschlinkert"
+    },
+    {
+      "email": "adjohnson916@gmail.com",
+      "name": "adjohnson916"
+    }
+  ],
+  "name": "list-item",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/list-item.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "verb": {
+    "layout": "default",
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "reflinks": [
+      "expand-range",
+      "randomatic",
+      "romanize"
+    ],
+    "related": {
+      "list": [
+        "deromanize",
+        "expand-range",
+        "fill-range",
+        "randomatic",
+        "romanize",
+        "to-regex-range"
+      ]
+    }
+  },
+  "version": "1.1.1"
+}

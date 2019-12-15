@@ -1,0 +1,61 @@
+{
+  "_from": "understyle@^1.2.0",
+  "_id": "understyle@1.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-3z+am+lnedcYw9qVmPrRwvkPJO4=",
+  "_location": "/understyle",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "understyle@^1.2.0",
+    "name": "understyle",
+    "escapedName": "understyle",
+    "rawSpec": "^1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.2.0"
+  },
+  "_requiredBy": [
+    "/robox"
+  ],
+  "_resolved": "https://registry.npmjs.org/understyle/-/understyle-1.3.0.tgz",
+  "_shasum": "df3f9a9be96779d718c3da9598fad1c2f90f24ee",
+  "_spec": "understyle@^1.2.0",
+  "_where": "/gitbook/node_modules/robox",
+  "author": {
+    "name": "Brent Jackson"
+  },
+  "ava": {
+    "require": [
+      "babel-register"
+    ]
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "object-assign": "^4.1.0"
+  },
+  "deprecated": false,
+  "description": "Functional style utilities for authoring JavaScript style objects",
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "babel-cli": "^6.11.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.11.5",
+    "standard": "^7.1.2"
+  },
+  "keywords": [
+    "style",
+    "css",
+    "css-in-js",
+    "utility"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "understyle",
+  "scripts": {
+    "prepublish": "mkdir -p dist && babel src --out-dir dist",
+    "test": "standard && ava -v"
+  },
+  "version": "1.3.0"
+}

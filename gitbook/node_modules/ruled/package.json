@@ -1,0 +1,52 @@
+{
+  "_from": "ruled@^1.0.1",
+  "_id": "ruled@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-gwGhrMydLhS2UC/KcDNYIzXCwPQ=",
+  "_location": "/ruled",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ruled@^1.0.1",
+    "name": "ruled",
+    "escapedName": "ruled",
+    "rawSpec": "^1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.1"
+  },
+  "_requiredBy": [
+    "/reflexbox"
+  ],
+  "_resolved": "https://registry.npmjs.org/ruled/-/ruled-1.0.1.tgz",
+  "_shasum": "8301a1accc9d2e14b6502fca7033582335c2c0f4",
+  "_spec": "ruled@^1.0.1",
+  "_where": "/gitbook/node_modules/reflexbox",
+  "author": {
+    "name": "Brent Jackson"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Grid/Graph paper like CSS background gradient generator",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "babel-cli": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0"
+  },
+  "keywords": [
+    "grid",
+    "graph",
+    "background",
+    "css",
+    "style",
+    "css-in-js"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "ruled",
+  "scripts": {
+    "prepublish": "mkdir -p dist && babel src --out-dir dist",
+    "test": "ava"
+  },
+  "version": "1.0.1"
+}

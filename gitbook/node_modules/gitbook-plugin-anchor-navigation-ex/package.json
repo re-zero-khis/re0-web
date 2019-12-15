@@ -1,0 +1,155 @@
+{
+  "_args": [
+    [
+      {
+        "name": "gitbook-plugin-anchor-navigation-ex",
+        "raw": "gitbook-plugin-anchor-navigation-ex@1.0.14",
+        "rawSpec": "1.0.14",
+        "scope": null,
+        "spec": "1.0.14",
+        "type": "version"
+      },
+      "/gitbook"
+    ]
+  ],
+  "_from": "gitbook-plugin-anchor-navigation-ex@1.0.14",
+  "_hasShrinkwrap": false,
+  "_id": "gitbook-plugin-anchor-navigation-ex@1.0.14",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gitbook-plugin-anchor-navigation-ex",
+  "_nodeVersion": "8.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gitbook-plugin-anchor-navigation-ex_1.0.14_1547606984350_0.8921102049937961"
+  },
+  "_npmUser": {
+    "email": "99299684@qq.com",
+    "name": "zhuqiang"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gitbook-plugin-anchor-navigation-ex",
+    "raw": "gitbook-plugin-anchor-navigation-ex@1.0.14",
+    "rawSpec": "1.0.14",
+    "scope": null,
+    "spec": "1.0.14",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-anchor-navigation-ex/-/gitbook-plugin-anchor-navigation-ex-1.0.14.tgz",
+  "_shasum": "1b1933f00a7188e3c0329a4507138579043a4277",
+  "_shrinkwrap": null,
+  "_spec": "gitbook-plugin-anchor-navigation-ex@1.0.14",
+  "_where": "/gitbook",
+  "author": {
+    "name": "zhuqiang,yuan1994"
+  },
+  "bugs": {
+    "url": "https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/issues"
+  },
+  "dependencies": {
+    "cheerio": "*",
+    "colors": "^1.1.2",
+    "github-slugid": "1.0.1"
+  },
+  "description": "Supports two navigation mode, title, anchor effect is the default theme, style, follow the website",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 33,
+    "integrity": "sha512-SEPrBRHYB+l+I8oRpME7HYOMqRDqWg08Y6t0FKd6PYz+sTYXogMjn3Nz3pbCDYBjzDI5/hXwmcMCBEpwG/m8SQ==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcPpvICRA9TVsSAnZWagAAs0kP/0ZGPAMeEtnf5CdInlo/\nDrLOvkuI+vQotB7hhTaSsa80KwloprH4gE5qufRi1mBy8ZjfymowrZqUqTr7\nFwQrIssOc1fFkNZC1lvobMJkdDtIkaHRFn73cRcKGlSJx9115WOVS8M9j//l\nJZiQJczSkueiWjY+0MCYrk8PXuqFJCc1OzauBPnS+k0jzJIF268l8yi6VZ32\nlwM4q3TpnpVv7dhQPNRKyrjL9Csa8rYpFyrdA2uUJPBTjDIKdv6cIdAOe4uM\nshRcA3wrWGCr50aEvPKA3a/aRzEZXBQHhFMVY1dEwk99F72V1qP1YGFDLTDu\neIJQGtd4aBFef3qSPWj4LdBzIFViyM6WeHfGQ+PC18D+TCncCIWXd3iPcuk3\nqOggfrfiqWNbYb59d8rdoLkQg1GLuJnnUbHSs4ipvpWXKSFCYf/LbhBY7jlh\nlzojLYYo2F5ibaBqDqr6ZzjL9Va4PHrPl6siDwWngvE9KQihq48qRffME/4s\nl2HoXMSjKuppUhGIzboDUpd/0qZvQwWYATtGmBPbWxMLiMy7erb6g8aBcUTg\nLoXD9UE9jiDmYWzds6mgorro3wi8ykq60+N/yD08hNzlOBKgBDvvmy33+hCX\nBdOZ1ZPNMScU0k9Mimk8BkSt9pZUVEbIi+3qQyVkw2Ra6WtNoQvOr3G81ExM\njOaP\r\n=XqBT\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "1b1933f00a7188e3c0329a4507138579043a4277",
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-anchor-navigation-ex/-/gitbook-plugin-anchor-navigation-ex-1.0.14.tgz",
+    "unpackedSize": 1131889
+  },
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "gitHead": "a0079c8436bc8392e890f7e50662c57b18b53cac",
+  "gitbook": {
+    "properties": {
+      "associatedWithSummary": {
+        "default": true,
+        "title": "是否与官方默认主题summary目录生成的序号相关联",
+        "type": "boolean"
+      },
+      "float": {
+        "default": {
+          "floatIcon": "fa fa-navicon",
+          "level1Icon": "",
+          "level2Icon": "",
+          "level3Icon": "",
+          "showLevelIcon": false
+        },
+        "title": "浮动右侧导航模式",
+        "type": "object"
+      },
+      "mode": {
+        "default": "float",
+        "title": "导航模式",
+        "type": "string"
+      },
+      "multipleH1": {
+        "default": true,
+        "title": "false:去掉每页开头H1标题被重写成1. xxx（如果您的md文档遵循一个md文件只有一个H1标题的话)",
+        "type": "boolean"
+      },
+      "pageTop": {
+        "default": {
+          "level1Icon": "",
+          "level2Icon": "",
+          "level3Icon": "",
+          "showLevelIcon": false
+        },
+        "title": "页内顶部导航模式",
+        "type": "object"
+      },
+      "printLog": {
+        "default": false,
+        "title": "是否打印处理进度日志，方便排错",
+        "type": "boolean"
+      },
+      "showGoTop": {
+        "default": true,
+        "title": "是否显示返回顶部按钮",
+        "type": "boolean"
+      },
+      "showLevel": {
+        "default": true,
+        "title": "是否为标题增加锚点效果并显示序号",
+        "type": "boolean"
+      }
+    }
+  },
+  "homepage": "https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex#readme",
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "anchor-navigation-ex",
+    "ex"
+  ],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "99299684@qq.com",
+      "name": "zhuqiang"
+    }
+  ],
+  "name": "gitbook-plugin-anchor-navigation-ex",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.14"
+}

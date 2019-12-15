@@ -1,0 +1,61 @@
+{
+  "_from": "gitbook-plugin-copy-code-button",
+  "_id": "gitbook-plugin-copy-code-button@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-Q0UzIAtc9ZbChMFOHYu1d3IIRHU=",
+  "_location": "/gitbook-plugin-copy-code-button",
+  "_nodeVersion": "0.10.38",
+  "_npmUser": {
+    "name": "webengage",
+    "email": "lithin@webklipper.com"
+  },
+  "_npmVersion": "2.9.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gitbook-plugin-copy-code-button",
+    "name": "gitbook-plugin-copy-code-button",
+    "escapedName": "gitbook-plugin-copy-code-button",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-copy-code-button/-/gitbook-plugin-copy-code-button-0.0.2.tgz",
+  "_shasum": "434533200b5cf596c284c14e1d8bb57772084475",
+  "_spec": "gitbook-plugin-copy-code-button",
+  "_where": "/gitbook",
+  "author": {
+    "name": "Nitin Bansal",
+    "email": "nitin@webklipper.com"
+  },
+  "bugs": {
+    "url": "https://github.com/WebEngage/gitbook-plugin-copy-code-button/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Copy code on GitBook",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/WebEngage/gitbook-plugin-copy-code-button",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "Nitin Bansal",
+      "email": "nitin@webklipper.com"
+    }
+  ],
+  "name": "gitbook-plugin-copy-code-button",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebEngage/gitbook-plugin-copy-code-button.git"
+  },
+  "scripts": {},
+  "version": "0.0.2"
+}

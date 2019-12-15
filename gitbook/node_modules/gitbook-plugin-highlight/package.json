@@ -1,0 +1,56 @@
+{
+  "_from": "gitbook-plugin-highlight",
+  "_id": "gitbook-plugin-highlight@2.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-ia9mqUwWj16t3j52dKgpW3fbWYc=",
+  "_location": "/gitbook-plugin-highlight",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gitbook-plugin-highlight",
+    "name": "gitbook-plugin-highlight",
+    "escapedName": "gitbook-plugin-highlight",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-highlight/-/gitbook-plugin-highlight-2.0.3.tgz",
+  "_shasum": "89af66a94c168f5eadde3e7674a8295b77db5987",
+  "_spec": "gitbook-plugin-highlight",
+  "_where": "/gitbook",
+  "bugs": {
+    "url": "https://github.com/GitbookIO/plugin-highlight/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "highlight.js": "9.8.0"
+  },
+  "deprecated": false,
+  "description": "Default code highlighter for GitBook",
+  "devDependencies": {
+    "gitbook-tester": "1.4.3",
+    "less": "2.7.1",
+    "mocha": "3.2.0"
+  },
+  "engines": {
+    "gitbook": ">=2.4.0"
+  },
+  "homepage": "https://github.com/GitbookIO/plugin-highlight",
+  "license": "Apache 2",
+  "main": "index.js",
+  "name": "gitbook-plugin-highlight",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitbookIO/plugin-highlight.git"
+  },
+  "scripts": {
+    "prepublish": "mkdir -p css && lessc ./less/website.less > ./css/website.css; lessc ./less/ebook.less > ./css/ebook.css",
+    "test": "mocha test/"
+  },
+  "version": "2.0.3"
+}

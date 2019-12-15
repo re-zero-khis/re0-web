@@ -1,0 +1,21 @@
+<script src="/test/env/jquery.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="/words.json"></script>
+<script src="/lib/lunr.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="/lib/token_store.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="/lib/reverse_index.js" type="text/javascript" charset="utf-8"></script>
+<script src="/lib/ternary_tree.js" type="text/javascript" charset="utf-8"></script>
+
+<script>
+  tokenStore = new lunr.TokenStore
+  ternaryTree = new lunr.TernaryTree
+  reverseIndex = new lunr.ReverseIndex
+
+  words.forEach(function (word) {
+    ternaryTree.add(word)
+    reverseIndex.set(word, 1, 1)
+    tokenStore.add(word, {ref: 1, tf: 1})
+  })
+</script>

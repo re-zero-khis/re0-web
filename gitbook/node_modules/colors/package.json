@@ -1,0 +1,109 @@
+{
+  "_args": [
+    [
+      {
+        "name": "colors",
+        "raw": "colors@^1.1.2",
+        "rawSpec": "^1.1.2",
+        "scope": null,
+        "spec": ">=1.1.2 <2.0.0",
+        "type": "range"
+      },
+      "/gitbook/node_modules/gitbook-plugin-anchor-navigation-ex"
+    ]
+  ],
+  "_from": "colors@>=1.1.2 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "colors@1.4.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/colors",
+  "_nodeVersion": "10.16.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/colors_1.4.0_1569195967207_0.2781122116893864"
+  },
+  "_npmUser": {
+    "email": "dabh@alumni.stanford.edu",
+    "name": "dabh"
+  },
+  "_npmVersion": "6.9.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "colors",
+    "raw": "colors@^1.1.2",
+    "rawSpec": "^1.1.2",
+    "scope": null,
+    "spec": ">=1.1.2 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/gitbook-plugin-anchor-navigation-ex"
+  ],
+  "_resolved": "https://registry.npmjs.org/colors/-/colors-1.4.0.tgz",
+  "_shasum": "c50491479d4c1bdaed2c9ced32cf7c7dc2360f78",
+  "_shrinkwrap": null,
+  "_spec": "colors@^1.1.2",
+  "_where": "/gitbook/node_modules/gitbook-plugin-anchor-navigation-ex",
+  "author": {
+    "name": "Marak Squires"
+  },
+  "bugs": {
+    "url": "https://github.com/Marak/colors.js/issues"
+  },
+  "contributors": [
+    {
+      "name": "DABH",
+      "url": "https://github.com/DABH"
+    }
+  ],
+  "dependencies": {},
+  "description": "get colors in your node.js console",
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-google": "^0.11.0"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 21,
+    "integrity": "sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdiAfACRA9TVsSAnZWagAA7gMP/1eUoL2YZSoe4XH3p7o5\n2NRhGJuE+81Kwbl/2+HWvlWGXxTo1vLYWGVAfBVYtEuUdnPlMOpCEyqdB8Ng\nqMr9acH/8ZkHKRyNYu9GeDLWWUFx8wv94qpcmnuqgp+24X3gBhiS7hnG6UJh\nL4kKUSycTGp0FFWPQ4tdpBuvC6PDGTowPfHh/oj0RosHygRcW6F4V5HDyws1\nQTnuE3k5vBhhzKQQ4oktGCUuQATqsg89lDDSw5hjThBf2y5ZrpF6qLVoiLgm\noMrEF3vDOIyf63naUmj/3qzBYFfQZU3wlGyaRfNxdqNooKW2QOb/x2XFtP46\nYibCl2xhGA0JsinmaAclbLfDkZSZs1bsjpj2xUOFJjQOeMReeS2PzCgHRBJy\nT9ow3X6MbRblOcWuX8Bbhr8kg9Av1xx2A9mtJ7G/DVuHLHBQOTro2l/qIb5M\nf9Z/++j4P1lMMKBp5jHvCRUNq9jgWdSaT9NHo1RvNKuEZM9mxyzyygcidj5w\ngaCGQ5G5kFOKAgmN1LvRYai5P31waqJ+Wr96g6XRfA9SBeeeX12v481jpKQm\nVZ6khQeII1VUgbadjWWegRAobEkW5JXLjdZbISZeIBahs5bOWPFiAFXowf4O\n7Hygdj0xtzkH/sWJeKUCxnzX6VN/mtu+QkPfjGBgDHNL4gtZsGDAizcsFuly\nDWUs\r\n=9VVk\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "c50491479d4c1bdaed2c9ced32cf7c7dc2360f78",
+    "tarball": "https://registry.npmjs.org/colors/-/colors-1.4.0.tgz",
+    "unpackedSize": 39506
+  },
+  "engines": {
+    "node": ">=0.1.90"
+  },
+  "gitHead": "baa0e1c7dc50d868354206b9ea71273e3f05f593",
+  "homepage": "https://github.com/Marak/colors.js",
+  "keywords": [
+    "ansi",
+    "terminal",
+    "colors"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "email": "dabh@stanford.edu",
+      "name": "dabh"
+    },
+    {
+      "email": "marak.squires@gmail.com",
+      "name": "marak"
+    }
+  ],
+  "name": "colors",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Marak/colors.js.git"
+  },
+  "scripts": {
+    "lint": "eslint . --fix",
+    "test": "node tests/basic-test.js && node tests/safe-test.js"
+  },
+  "version": "1.4.0"
+}

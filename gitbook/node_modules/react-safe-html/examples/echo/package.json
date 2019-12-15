@@ -1,0 +1,21 @@
+{
+  "name": "echo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify ./index.js -t babelify -o bundle.js",
+    "watch": "watchify ./index.js -t babelify -o bundle.js"
+  },
+  "author": "Frankie Bagnardi <f.bagnardi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "react-dom": "^0.14.7"
+  }
+}

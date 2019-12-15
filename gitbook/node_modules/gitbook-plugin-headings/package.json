@@ -1,0 +1,65 @@
+{
+  "_from": "gitbook-plugin-headings",
+  "_id": "gitbook-plugin-headings@4.0.0-alpha.1",
+  "_inBundle": false,
+  "_integrity": "sha1-9bzC47/xyd6LQNOPb6MEa8NJVAw=",
+  "_location": "/gitbook-plugin-headings",
+  "_phantomChildren": {},
+  "_requested": {
+    "escapedName": "gitbook-plugin-headings",
+    "fetchSpec": "latest",
+    "name": "gitbook-plugin-headings",
+    "raw": "gitbook-plugin-headings",
+    "rawSpec": "",
+    "registry": true,
+    "saveSpec": null,
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-headings/-/gitbook-plugin-headings-4.0.0-alpha.1.tgz",
+  "_shasum": "f5bcc2e3bff1c9de8b40d38f6fa3046bc349540c",
+  "_spec": "gitbook-plugin-headings",
+  "_where": "/gitbook",
+  "browser": "./_assets/plugin.js",
+  "bugs": {
+    "url": "https://github.com/GitbookIO/gitbook/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "gitbook-core": "^4.0.0-alpha.1"
+  },
+  "deprecated": false,
+  "description": "Automatically add anchors to headings",
+  "devDependencies": {
+    "gitbook-plugin": "^4.0.0-alpha.1"
+  },
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "gitbook": {
+    "properties": {
+      "position": {
+        "default": "left",
+        "title": "Position of anchors",
+        "type": "string"
+      }
+    }
+  },
+  "homepage": "https://github.com/GitbookIO/gitbook",
+  "main": "index.js",
+  "name": "gitbook-plugin-headings",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitbookIO/gitbook.git"
+  },
+  "scripts": {
+    "build-js": "gitbook-plugin build ./src/index.js ./_assets/plugin.js",
+    "prepublish": "npm run build-js"
+  },
+  "version": "4.0.0-alpha.1"
+}

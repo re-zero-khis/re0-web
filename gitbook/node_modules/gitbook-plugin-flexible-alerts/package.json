@@ -1,0 +1,122 @@
+{
+  "_from": "gitbook-plugin-flexible-alerts",
+  "_id": "gitbook-plugin-flexible-alerts@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-81hXO9fIN4MYkRQ2D56kaNh4XQ/ztjQQQijB0cwXXqTbaLkpo+2P56BH6THRBMApxpFe5S9Q6X5YhTHkMyhHNw==",
+  "_location": "/gitbook-plugin-flexible-alerts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gitbook-plugin-flexible-alerts",
+    "name": "gitbook-plugin-flexible-alerts",
+    "escapedName": "gitbook-plugin-flexible-alerts",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-flexible-alerts/-/gitbook-plugin-flexible-alerts-1.0.3.tgz",
+  "_shasum": "057a15a91209febbfdd0e813437be17da6bbd8a0",
+  "_spec": "gitbook-plugin-flexible-alerts",
+  "_where": "/gitbook",
+  "author": {
+    "name": "Fabian Zankl"
+  },
+  "bugs": {
+    "url": "https://github.com/zanfab/gitbook-plugin-flexible-alerts/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "GitBook plugin to convert blockquotes into beautiful and configurable alerts using preconfigured or own styles and alert types.",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "eslint": "^5.14.1",
+    "lodash.merge": "^4.6.1",
+    "rimraf": "^2.6.3",
+    "rollup": "^1.2.3",
+    "rollup-copy-plugin": "^0.1.0",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-copy-assets": "^1.1.0",
+    "rollup-plugin-eslint": "^5.0.0",
+    "rollup-plugin-node-resolve": "^4.0.1",
+    "rollup-plugin-uglify": "^6.0.2",
+    "rollup-plugin-url": "^2.2.0"
+  },
+  "engines": {
+    "gitbook": ">=2.0.0"
+  },
+  "gitbook": {
+    "properties": {
+      "style": {
+        "type": "string",
+        "title": "Style used for alerts.",
+        "default": "callout"
+      },
+      "note": {
+        "type": "object",
+        "title": "Configuration for alerts of type 'note'",
+        "default": {
+          "label": "Note",
+          "icon": "fa fa-info-circle",
+          "className": "info"
+        }
+      },
+      "tip": {
+        "type": "object",
+        "title": "Configuration for alerts of type 'tip'",
+        "default": {
+          "label": "Tip",
+          "icon": "fa fa-lightbulb-o",
+          "className": "tip"
+        }
+      },
+      "warning": {
+        "type": "object",
+        "title": "Configuration for alerts of type 'warning'",
+        "default": {
+          "label": "Warning",
+          "icon": "fa fa-exclamation-triangle",
+          "className": "warning"
+        }
+      },
+      "danger": {
+        "type": "object",
+        "title": "Configuration for alerts of type 'danger'",
+        "default": {
+          "label": "Attention",
+          "icon": "fa fa-ban",
+          "className": "danger"
+        }
+      }
+    }
+  },
+  "homepage": "https://github.com/zanfab/gitbook-plugin-flexible-alerts#readme",
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "alert",
+    "blockquotes",
+    "quote",
+    "hint",
+    "callout"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "gitbook-plugin-flexible-alerts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanfab/gitbook-plugin-flexible-alerts.git"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "clean": "rimraf dist/*",
+    "prepare": "npm run clean && npm run build",
+    "start": "npm run build -- -w"
+  },
+  "version": "1.0.3"
+}

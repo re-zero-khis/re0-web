@@ -1,0 +1,52 @@
+{
+  "_from": "gitbook-plugin-sectionx@^3.1.0",
+  "_id": "gitbook-plugin-sectionx@3.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-YRxp2KmHQ/KKf0VSQdAvUA0vLFI=",
+  "_location": "/gitbook-plugin-sectionx",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "gitbook-plugin-sectionx@^3.1.0",
+    "name": "gitbook-plugin-sectionx",
+    "escapedName": "gitbook-plugin-sectionx",
+    "rawSpec": "^3.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-sectionx/-/gitbook-plugin-sectionx-3.1.0.tgz",
+  "_shasum": "611c69d8a98743f28a7f455241d02f500d2f2c52",
+  "_spec": "gitbook-plugin-sectionx@^3.1.0",
+  "_where": "/gitbook",
+  "bugs": {
+    "url": "https://github.com/ymcatar/gitbook-plugin-sectionx/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "cheerio": "*"
+  },
+  "deprecated": false,
+  "description": "A GitBook plugin for separating the page into sections.",
+  "engines": {
+    "gitbook": ">=3.x.x"
+  },
+  "homepage": "https://github.com/ymcatar/gitbook-plugin-sectionx",
+  "keywords": [
+    "section",
+    "gitbook",
+    "interactive",
+    "panel"
+  ],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "gitbook-plugin-sectionx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymcatar/gitbook-plugin-sectionx.git"
+  },
+  "version": "3.1.0"
+}

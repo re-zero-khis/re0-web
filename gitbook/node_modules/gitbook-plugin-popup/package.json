@@ -1,0 +1,44 @@
+{
+  "_from": "gitbook-plugin-popup",
+  "_id": "gitbook-plugin-popup@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-6iOOXiSMNc9Lc9KH3fVw8J3/Yzw=",
+  "_location": "/gitbook-plugin-popup",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gitbook-plugin-popup",
+    "name": "gitbook-plugin-popup",
+    "escapedName": "gitbook-plugin-popup",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-popup/-/gitbook-plugin-popup-0.0.1.tgz",
+  "_shasum": "ea238e5e248c35cf4b73d287ddf570f09dff633c",
+  "_spec": "gitbook-plugin-popup",
+  "_where": "/gitbook",
+  "bugs": {
+    "url": "https://github.com/somax/gitbook-plugin-popup/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "plugin for GitBook, open image in new window",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/somax/gitbook-plugin-popup#readme",
+  "license": "Apache 2",
+  "main": "index.js",
+  "name": "gitbook-plugin-popup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somax/gitbook-plugin-popup.git"
+  },
+  "version": "0.0.1"
+}

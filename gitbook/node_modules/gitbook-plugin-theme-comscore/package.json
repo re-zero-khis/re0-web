@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "name": "gitbook-plugin-theme-comscore",
+        "raw": "gitbook-plugin-theme-comscore@0.0.3",
+        "rawSpec": "0.0.3",
+        "scope": null,
+        "spec": "0.0.3",
+        "type": "version"
+      },
+      "/gitbook"
+    ]
+  ],
+  "_from": "gitbook-plugin-theme-comscore@0.0.3",
+  "_id": "gitbook-plugin-theme-comscore@0.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gitbook-plugin-theme-comscore",
+  "_nodeVersion": "4.4.7",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/gitbook-plugin-theme-comscore-0.0.3.tgz_1469400841870_0.42822451679967344"
+  },
+  "_npmUser": {
+    "email": "liujiaren1992@vip.qq.com",
+    "name": "jounqin"
+  },
+  "_npmVersion": "3.10.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gitbook-plugin-theme-comscore",
+    "raw": "gitbook-plugin-theme-comscore@0.0.3",
+    "rawSpec": "0.0.3",
+    "scope": null,
+    "spec": "0.0.3",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-theme-comscore/-/gitbook-plugin-theme-comscore-0.0.3.tgz",
+  "_shasum": "9a254fa4a37135292095e4344f259212b5781fed",
+  "_shrinkwrap": null,
+  "_spec": "gitbook-plugin-theme-comscore@0.0.3",
+  "_where": "/gitbook",
+  "bugs": {
+    "url": "https://github.com/JounQin/gitbook-plugin-cs/issues"
+  },
+  "dependencies": {},
+  "description": "comScore Color Theme plugin for GitBook(renamed from gitbook-theme-comscore)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9a254fa4a37135292095e4344f259212b5781fed",
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-theme-comscore/-/gitbook-plugin-theme-comscore-0.0.3.tgz"
+  },
+  "engines": {
+    "gitbook": "*"
+  },
+  "gitHead": "e2ac2a95debd623a7e16f7e8dca3647ce8266ae4",
+  "homepage": "https://github.com/JounQin/gitbook-plugin-cs",
+  "license": "Apache 2",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "liujiaren1992@vip.qq.com",
+      "name": "jounqin"
+    }
+  ],
+  "name": "gitbook-plugin-theme-comscore",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JounQin/gitbook-plugin-cs.git"
+  },
+  "scripts": {},
+  "version": "0.0.3"
+}

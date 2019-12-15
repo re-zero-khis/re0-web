@@ -1,0 +1,56 @@
+{
+  "_from": "lunr@0.5.12",
+  "_id": "lunr@0.5.12",
+  "_inBundle": false,
+  "_integrity": "sha1-ova314AcvizLFpbaZ/H3eI+J4Mg=",
+  "_location": "/lunr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "lunr@0.5.12",
+    "name": "lunr",
+    "escapedName": "lunr",
+    "rawSpec": "0.5.12",
+    "saveSpec": null,
+    "fetchSpec": "0.5.12"
+  },
+  "_requiredBy": [
+    "/gitbook-plugin-lunr"
+  ],
+  "_resolved": "https://registry.npmjs.org/lunr/-/lunr-0.5.12.tgz",
+  "_shasum": "a2f6b7d7801cbe2ccb1696da67f1f7788f89e0c8",
+  "_spec": "lunr@0.5.12",
+  "_where": "/gitbook/node_modules/gitbook-plugin-lunr",
+  "author": {
+    "name": "Oliver Nightingale"
+  },
+  "bugs": {
+    "url": "http://github.com/olivernn/lunr.js/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple full-text search in your browser.",
+  "devDependencies": {
+    "dox": "0.4.4",
+    "dox-template": "0.1.1",
+    "phantomjs": "1.8.1-3",
+    "uglify-js": "2.4.13"
+  },
+  "homepage": "http://lunrjs.com",
+  "keywords": [
+    "search"
+  ],
+  "license": "MIT",
+  "main": "lunr.js",
+  "name": "lunr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivernn/lunr.js.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "make test"
+  },
+  "version": "0.5.12"
+}

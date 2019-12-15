@@ -1,0 +1,72 @@
+{
+  "_from": "robox@^1.0.0-beta.8",
+  "_id": "robox@1.0.0-beta.8",
+  "_inBundle": false,
+  "_integrity": "sha1-mq7h2s84qMTKRYSoABKuurVxHHM=",
+  "_location": "/robox",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "robox@^1.0.0-beta.8",
+    "name": "robox",
+    "escapedName": "robox",
+    "rawSpec": "^1.0.0-beta.8",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0-beta.8"
+  },
+  "_requiredBy": [
+    "/reflexbox"
+  ],
+  "_resolved": "https://registry.npmjs.org/robox/-/robox-1.0.0-beta.8.tgz",
+  "_shasum": "9aaee1dacf38a8c4ca4584a80012aebab5711c73",
+  "_spec": "robox@^1.0.0-beta.8",
+  "_where": "/gitbook/node_modules/reflexbox",
+  "author": {
+    "name": "Brent Jackson"
+  },
+  "ava": {
+    "require": [
+      "babel-register"
+    ],
+    "babel": "inherit"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "understyle": "^1.2.0"
+  },
+  "deprecated": false,
+  "description": "Higher-order React component for adding style helper props based on understyle",
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "babel-cli": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.11.5",
+    "enzyme": "^2.4.1",
+    "react": "^15.2.1",
+    "react-addons-test-utils": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "standard": "^7.1.2",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "keywords": [
+    "react",
+    "react-hoc",
+    "style",
+    "css",
+    "css-in-js",
+    "understyle"
+  ],
+  "license": "MIT",
+  "main": "dist/Robox.js",
+  "name": "robox",
+  "scripts": {
+    "prepublish": "mkdir -p dist && babel src --out-dir dist",
+    "test": "standard && ava -v"
+  },
+  "version": "1.0.0-beta.8"
+}

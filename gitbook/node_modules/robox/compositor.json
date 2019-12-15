@@ -1,0 +1,88 @@
+{
+  "name": "jxnblk/robox",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.10"
+  },
+  "title": "",
+  "branch": "",
+  "style": {
+    "name": "Brutalist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BasicHeader",
+      "article": "article/MarkdownArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+    "heading": {},
+    "typeScale": [
+      48,
+      32,
+      20,
+      18,
+      16,
+      14,
+      12
+    ],
+    "colors": {
+      "text": "#333",
+      "background": "#fff",
+      "primary": "#666",
+      "secondary": "#888",
+      "highlight": "#1f80ff",
+      "muted": "#f6f6f6",
+      "border": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/jxnblk/robox",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://npmjs.com/package/robox",
+          "text": "npm"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "robox",
+      "subhead": "Higher-order React component for adding style helper props based on understyle",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "robox: Higher-order React component for adding style helper props based on understyle",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "jxnblk",
+          "repo": "robox"
+        }
+      ],
+      "text": "v1.0.0-beta.1"
+    },
+    {
+      "component": "article",
+      "html": "\n\n<p><a href=\"https://travis-ci.org/jxnblk/understyle\"><img src=\"https://travis-ci.org/jxnblk/understyle.svg?branch=master\" alt=\"Build Status\"></a>\n<a href=\"http://standardjs.com/\"><img src=\"https://img.shields.io/badge/code%20style-standard-brightgreen.svg\" alt=\"js-standard-style\"></a></p>\n<pre>npm i robox</pre><pre><span class=\"hljs-comment\">// Example component</span>\n<span class=\"hljs-keyword\">import</span> React <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;react&apos;</span>\n<span class=\"hljs-keyword\">import</span> Robox <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;robox&apos;</span>\n\n<span class=\"hljs-keyword\">const</span> Button = (props) =&gt; {\n  <span class=\"hljs-keyword\">return</span> <span class=\"xml\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">button</span> {<span class=\"hljs-attr\">...props</span>} /&gt;</span>\n}\n\nexport default Robox(Button)</span></pre><pre><span class=\"hljs-comment\">// Example component instance</span>\n\n&lt;div&gt;\n  <span class=\"xml\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">Button</span>\n    <span class=\"hljs-attr\">m</span>=<span class=\"hljs-string\">{2}</span>\n    <span class=\"hljs-attr\">p</span>=<span class=\"hljs-string\">{2}</span>\n    <span class=\"hljs-attr\">onClick</span>=<span class=\"hljs-string\">{e</span> =&gt;</span> alert(&apos;hello&apos;)}\n    children=&apos;Hello&apos; /&gt;\n<span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">div</span>&gt;</span></span></pre><h2 id=\"props\">Props</h2>\n<h3 id=\"margin\">Margin</h3>\n<p>Sets margin based on a 0&#x2013;6 spacing scale array <code>[0, 8, 16, 32, 48, 64, 96]</code></p>\n<table>\n<thead>\n<tr>\n<th>prop</th>\n<th>type</th>\n<th>description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>m</code></td>\n<td>number</td>\n<td>margin</td>\n</tr>\n<tr>\n<td><code>mt</code></td>\n<td>number</td>\n<td>margin-top</td>\n</tr>\n<tr>\n<td><code>mr</code></td>\n<td>number</td>\n<td>margin-right</td>\n</tr>\n<tr>\n<td><code>mb</code></td>\n<td>number</td>\n<td>margin-bottom</td>\n</tr>\n<tr>\n<td><code>ml</code></td>\n<td>number</td>\n<td>margin-left</td>\n</tr>\n<tr>\n<td><code>mx</code></td>\n<td>number</td>\n<td>margin-left and margin-right</td>\n</tr>\n<tr>\n<td><code>my</code></td>\n<td>number</td>\n<td>margin-top and margin-bottom</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"padding\">Padding</h3>\n<p>Sets padding based on the same spacing scale</p>\n<table>\n<thead>\n<tr>\n<th>prop</th>\n<th>type</th>\n<th>description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>p</code></td>\n<td>number</td>\n<td>padding</td>\n</tr>\n<tr>\n<td><code>pt</code></td>\n<td>number</td>\n<td>padding-top</td>\n</tr>\n<tr>\n<td><code>pr</code></td>\n<td>number</td>\n<td>padding-right</td>\n</tr>\n<tr>\n<td><code>pb</code></td>\n<td>number</td>\n<td>padding-bottom</td>\n</tr>\n<tr>\n<td><code>pl</code></td>\n<td>number</td>\n<td>padding-left</td>\n</tr>\n<tr>\n<td><code>px</code></td>\n<td>number</td>\n<td>padding-left and padding-right</td>\n</tr>\n<tr>\n<td><code>py</code></td>\n<td>number</td>\n<td>padding-top and padding-bottom</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"width\">Width</h3>\n<p>Sets percentage-based width based on a 12 column grid</p>\n<table>\n<thead>\n<tr>\n<th>prop</th>\n<th>type</th>\n<th>description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>col</code></td>\n<td>number</td>\n<td>0-12</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"display\">Display</h3>\n<p>Sets display based on the prop name</p>\n<table>\n<thead>\n<tr>\n<th>prop</th>\n<th>type</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>block</code></td>\n<td>boolean</td>\n</tr>\n<tr>\n<td><code>inlineBlock</code></td>\n<td>boolean</td>\n</tr>\n<tr>\n<td><code>inline</code></td>\n<td>boolean</td>\n</tr>\n<tr>\n<td><code>table</code></td>\n<td>boolean</td>\n</tr>\n<tr>\n<td><code>tableRow</code></td>\n<td>boolean</td>\n</tr>\n<tr>\n<td><code>tableCell</code></td>\n<td>boolean</td>\n</tr>\n<tr>\n<td><code>flex</code></td>\n<td>boolean</td>\n</tr>\n<tr>\n<td><code>inlineFlex</code></td>\n<td>boolean</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"flexbox\">Flexbox</h3>\n<p>Sets various flexbox layout properties</p>\n<table>\n<thead>\n<tr>\n<th>prop</th>\n<th>type</th>\n<th>description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>wrap</code></td>\n<td>boolean</td>\n<td>flex-wrap: wrap</td>\n</tr>\n<tr>\n<td><code>column</code></td>\n<td>boolean</td>\n<td>flex-direction: column</td>\n</tr>\n<tr>\n<td><code>align</code></td>\n<td>string</td>\n<td>align-items</td>\n</tr>\n<tr>\n<td><code>justify</code></td>\n<td>string</td>\n<td>justify-content</td>\n</tr>\n<tr>\n<td><code>flexAuto</code></td>\n<td>boolean</td>\n<td>flex: 1 1 auto</td>\n</tr>\n<tr>\n<td><code>flexNone</code></td>\n<td>boolean</td>\n<td>flex: none</td>\n</tr>\n<tr>\n<td><code>order</code></td>\n<td>number</td>\n<td>order</td>\n</tr>\n</tbody>\n</table>\n<h2 id=\"configuration\">Configuration</h2>\n<p>The space scale and number of grid columns can be configured through React context.</p>\n<pre><span class=\"hljs-comment\">// Example context configuration</span>\n<span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">App</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">React</span>.<span class=\"hljs-title\">Component</span> </span>{\n  getChildContext () {\n    <span class=\"hljs-keyword\">return</span> {\n      robox: {\n        scale: [<span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">6</span>, <span class=\"hljs-number\">12</span>, <span class=\"hljs-number\">18</span>, <span class=\"hljs-number\">24</span>, <span class=\"hljs-number\">30</span>, <span class=\"hljs-number\">36</span>],\n        columns: <span class=\"hljs-number\">16</span>\n      }\n    }\n  }\n}\n\nApp.contextTypes = {\n  robox: React.PropTypes.object\n}</pre><p>MIT License</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/jxnblk/robox",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/jxnblk",
+          "text": "jxnblk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "_from": "gitbook-plugin-insert-logo",
+  "_id": "gitbook-plugin-insert-logo@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-2q6N2kGiNtVPE5MeVwsmcpVXiFo=",
+  "_location": "/gitbook-plugin-insert-logo",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gitbook-plugin-insert-logo",
+    "name": "gitbook-plugin-insert-logo",
+    "escapedName": "gitbook-plugin-insert-logo",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-insert-logo/-/gitbook-plugin-insert-logo-0.1.5.tgz",
+  "_shasum": "daae8dda41a236d54f13931e570b26729557885a",
+  "_spec": "gitbook-plugin-insert-logo",
+  "_where": "/gitbook",
+  "author": {
+    "name": "matusnovak",
+    "email": "matusnov@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/matusnovak/gitbook-plugin-insert-logo/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "GitBook Plugin to insert (url or file or base64) into the navigation above search input.",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "gitbook": {
+    "properties": {
+      "url": {
+        "type": "string",
+        "default": "http://www.example.com/my-logo.png",
+        "title": "Logo URL"
+      },
+      "style": {
+        "type": "string",
+        "default": "background: none;",
+        "title": "Custom CSS"
+      }
+    }
+  },
+  "homepage": "https://github.com/matusnovak/gitbook-plugin-insert-logo#readme",
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "insert-logo",
+    "logo",
+    "github"
+  ],
+  "main": "index.js",
+  "name": "gitbook-plugin-insert-logo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matusnovak/gitbook-plugin-insert-logo.git"
+  },
+  "version": "0.1.5"
+}

@@ -1,0 +1,54 @@
+{
+  "_from": "react-addons-css-transition-group@15.4.1",
+  "_id": "react-addons-css-transition-group@15.4.1",
+  "_inBundle": false,
+  "_integrity": "sha1-YLEz+sURbkAJ5WqwZ03C3cwaGPY=",
+  "_location": "/react-addons-css-transition-group",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-addons-css-transition-group@15.4.1",
+    "name": "react-addons-css-transition-group",
+    "escapedName": "react-addons-css-transition-group",
+    "rawSpec": "15.4.1",
+    "saveSpec": null,
+    "fetchSpec": "15.4.1"
+  },
+  "_requiredBy": [
+    "/gitbook-core"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-addons-css-transition-group/-/react-addons-css-transition-group-15.4.1.tgz",
+  "_shasum": "60b133fac5116e4009e56ab0674dc2ddcc1a18f6",
+  "_spec": "react-addons-css-transition-group@15.4.1",
+  "_where": "/gitbook/node_modules/gitbook-core",
+  "bugs": {
+    "url": "https://github.com/facebook/react/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "This package provides the React CSSTransitionGroup add-on.",
+  "files": [
+    "LICENSE",
+    "PATENTS",
+    "README.md",
+    "index.js"
+  ],
+  "homepage": "https://github.com/facebook/react#readme",
+  "keywords": [
+    "react",
+    "react-addon"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "name": "react-addons-css-transition-group",
+  "peerDependencies": {
+    "react": "^15.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git"
+  },
+  "version": "15.4.1"
+}

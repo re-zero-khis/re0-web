@@ -1,0 +1,44 @@
+{
+  "_from": "gitbook-plugin-hide-element",
+  "_id": "gitbook-plugin-hide-element@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-k6Pedq7r1TUmFZfSV/cYdvDR3DQ=",
+  "_location": "/gitbook-plugin-hide-element",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gitbook-plugin-hide-element",
+    "name": "gitbook-plugin-hide-element",
+    "escapedName": "gitbook-plugin-hide-element",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-hide-element/-/gitbook-plugin-hide-element-0.0.4.tgz",
+  "_shasum": "93a3de76aeebd535261597d257f71876f0d1dc34",
+  "_spec": "gitbook-plugin-hide-element",
+  "_where": "/gitbook",
+  "bugs": {
+    "url": "https://github.com/gonjay/gitbook-plugin-hide-element/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Hide the element that you don't want to see.",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/gonjay/gitbook-plugin-hide-element",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "gitbook-plugin-hide-element",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonjay/gitbook-plugin-hide-element.git"
+  },
+  "version": "0.0.4"
+}

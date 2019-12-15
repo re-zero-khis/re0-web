@@ -1,0 +1,74 @@
+{
+  "_from": "react-immutable-proptypes@^2.1.0",
+  "_id": "react-immutable-proptypes@2.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-Aj1vObsVyXwHHp5g0A0TbqxfoLQ=",
+  "_location": "/react-immutable-proptypes",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-immutable-proptypes@^2.1.0",
+    "name": "react-immutable-proptypes",
+    "escapedName": "react-immutable-proptypes",
+    "rawSpec": "^2.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.1.0"
+  },
+  "_requiredBy": [
+    "/gitbook-core"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-immutable-proptypes/-/react-immutable-proptypes-2.1.0.tgz",
+  "_shasum": "023d6f39bb15c97c071e9e60d00d136eac5fa0b4",
+  "_spec": "react-immutable-proptypes@^2.1.0",
+  "_where": "/gitbook/node_modules/gitbook-core",
+  "author": {
+    "name": "James Burnett",
+    "email": "HurricaneJamesEsq@gmail.com",
+    "url": "https://github.com/HurricaneJames/react-immutable-proptypes"
+  },
+  "bugs": {
+    "url": "https://github.com/HurricaneJames/react-immutable-proptypes/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "PropType validators that work with Immutable.js.",
+  "devDependencies": {
+    "babel": "^4.6.6",
+    "babel-eslint": "^3.1.1",
+    "eslint": "^0.21.0",
+    "eslint-plugin-react": "^2.2.0",
+    "expect.js": "^0.3.1",
+    "immutable": "^3.7.4",
+    "istanbul": "~0.3.7",
+    "mocha": "^2.3.3",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "homepage": "https://github.com/HurricaneJames/react-immutable-proptypes",
+  "keywords": [
+    "react",
+    "immutable-js",
+    "immutable",
+    "immutablejs",
+    "proptype"
+  ],
+  "license": "MIT",
+  "main": "dist/ImmutablePropTypes.js",
+  "name": "react-immutable-proptypes",
+  "peerDependencies": {
+    "immutable": ">=3.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HurricaneJames/react-immutable-proptypes.git"
+  },
+  "scripts": {
+    "build": "./scripts/build",
+    "lint": "eslint ./src",
+    "prepublish": "npm run build",
+    "test": "./scripts/test",
+    "test-cov": "./scripts/test-cov"
+  },
+  "version": "2.1.0"
+}

@@ -1,0 +1,79 @@
+{
+  "_from": "gitbook-plugin-terminal@^0.3.2",
+  "_id": "gitbook-plugin-terminal@0.3.2",
+  "_inBundle": false,
+  "_integrity": "sha1-yayn6v8aA1fK/UYnTziukA19ndc=",
+  "_location": "/gitbook-plugin-terminal",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "gitbook-plugin-terminal@^0.3.2",
+    "name": "gitbook-plugin-terminal",
+    "escapedName": "gitbook-plugin-terminal",
+    "rawSpec": "^0.3.2",
+    "saveSpec": null,
+    "fetchSpec": "^0.3.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-terminal/-/gitbook-plugin-terminal-0.3.2.tgz",
+  "_shasum": "c9aca7eaff1a0357cafd46274f38ae900d7d9dd7",
+  "_spec": "gitbook-plugin-terminal@^0.3.2",
+  "_where": "/gitbook",
+  "author": {
+    "name": "David Moreno-García",
+    "email": "david.mogar@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmogar/gitbook-plugin-terminal/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Change code blocks to look more like a terminal",
+  "engines": {
+    "gitbook": ">2.5.0"
+  },
+  "gitbook": {
+    "properties": {
+      "copyButtons": {
+        "default": true,
+        "title": "Adds buttons to copy the commands",
+        "type": "boolean"
+      },
+      "fade": {
+        "default": true,
+        "title": "If true, the text will fade to highlight the command",
+        "type": "boolean"
+      },
+      "style": {
+        "default": "flat",
+        "enum": [
+          "black",
+          "classic",
+          "flat",
+          "ubuntu",
+          "white"
+        ],
+        "title": "Style for the terminal (defaults to 'flat')",
+        "type": "string"
+      }
+    }
+  },
+  "homepage": "https://github.com/davidmogar/gitbook-plugin-terminal",
+  "keywords": [
+    "gitbook",
+    "github",
+    "terminal",
+    "plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "gitbook-plugin-terminal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmogar/gitbook-plugin-terminal.git"
+  },
+  "version": "0.3.2"
+}

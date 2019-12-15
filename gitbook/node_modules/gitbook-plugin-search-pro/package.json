@@ -1,0 +1,58 @@
+{
+  "_from": "gitbook-plugin-search-pro@^2.0.2",
+  "_id": "gitbook-plugin-search-pro@2.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-fOduj2XCBESJucaSc2sj+B/mofI=",
+  "_location": "/gitbook-plugin-search-pro",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "gitbook-plugin-search-pro@^2.0.2",
+    "name": "gitbook-plugin-search-pro",
+    "escapedName": "gitbook-plugin-search-pro",
+    "rawSpec": "^2.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-search-pro/-/gitbook-plugin-search-pro-2.0.2.tgz",
+  "_shasum": "7ce76e8f65c2044489b9c692736b23f81fe6a1f2",
+  "_spec": "gitbook-plugin-search-pro@^2.0.2",
+  "_where": "/gitbook",
+  "analyze": true,
+  "author": {
+    "name": "xunuo",
+    "email": "i@xunuo.com"
+  },
+  "bugs": {
+    "url": "https://github.com/gitbook-plugins/gitbook-plugin-search-pro/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "html-entities": "1.2.0"
+  },
+  "deprecated": false,
+  "description": "Gitbook search engine pro. (支持中文搜索)",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "homepage": "https://xunuo.com",
+  "keywords": [
+    "中文",
+    "搜索",
+    "chinese",
+    "gitbook",
+    "search",
+    "utf-8"
+  ],
+  "license": "MIT",
+  "name": "gitbook-plugin-search-pro",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitbook-plugins/gitbook-plugin-search-pro.git"
+  },
+  "version": "2.0.2"
+}

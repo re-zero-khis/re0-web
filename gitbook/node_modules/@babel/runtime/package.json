@@ -1,0 +1,50 @@
+{
+  "_from": "@babel/runtime@^7.1.2",
+  "_id": "@babel/runtime@7.6.3",
+  "_inBundle": false,
+  "_integrity": "sha512-kq6anf9JGjW8Nt5rYfEuGRaEAaH1mkv3Bbu6rYvLOpPh/RusSJXuKPEAoZ7L7gybZkchE8+NV5g9vKF4AGAtsA==",
+  "_location": "/@babel/runtime",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@babel/runtime@^7.1.2",
+    "name": "@babel/runtime",
+    "escapedName": "@babel%2fruntime",
+    "scope": "@babel",
+    "rawSpec": "^7.1.2",
+    "saveSpec": null,
+    "fetchSpec": "^7.1.2"
+  },
+  "_requiredBy": [
+    "/history"
+  ],
+  "_resolved": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.6.3.tgz",
+  "_shasum": "935122c74c73d2240cafd32ddb5fc2a6cd35cf1f",
+  "_spec": "@babel/runtime@^7.1.2",
+  "_where": "/gitbook/node_modules/history",
+  "author": {
+    "name": "Sebastian McKenzie",
+    "email": "sebmck@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "regenerator-runtime": "^0.13.2"
+  },
+  "deprecated": false,
+  "description": "babel's modular runtime helpers",
+  "devDependencies": {
+    "@babel/helpers": "^7.6.2"
+  },
+  "gitHead": "d329156ebc17da01382acb83e212cb4328534ebc",
+  "license": "MIT",
+  "name": "@babel/runtime",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-runtime"
+  },
+  "version": "7.6.3"
+}

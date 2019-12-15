@@ -1,0 +1,80 @@
+{
+  "_from": "gitbook-plugin-edit-link@^2.0.2",
+  "_id": "gitbook-plugin-edit-link@2.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-2PzZJ+ztgeemYqctWdtgnq/X5y8=",
+  "_location": "/gitbook-plugin-edit-link",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "gitbook-plugin-edit-link@^2.0.2",
+    "name": "gitbook-plugin-edit-link",
+    "escapedName": "gitbook-plugin-edit-link",
+    "rawSpec": "^2.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-edit-link/-/gitbook-plugin-edit-link-2.0.2.tgz",
+  "_shasum": "d8fcd927eced81e7a662a72d59db609eafd7e72f",
+  "_spec": "gitbook-plugin-edit-link@^2.0.2",
+  "_where": "/gitbook",
+  "author": {
+    "name": "rtCamp",
+    "email": "admin@rtcamp.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rtCamp/gitbook-plugin-edit-link/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Rahul Bansal",
+      "email": "rahul.bansal@rtcamp.com"
+    },
+    {
+      "name": "Samy Pessé",
+      "email": "samy@gitbook.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "GitBook Plugin to add \"Edit this page\" link on every page. Link target will be that page's source file on Github or Gitlab or any repo.",
+  "engines": {
+    "gitbook": ">=2.5.0"
+  },
+  "gitbook": {
+    "properties": {
+      "base": {
+        "type": "string",
+        "title": "Base for the edit redirection",
+        "required": true
+      },
+      "label": {
+        "type": [
+          "string",
+          "object"
+        ],
+        "title": "Label for the edit button",
+        "default": "Edit This Page"
+      }
+    }
+  },
+  "homepage": "https://github.com/rtCamp/gitbook-plugin-edit-link",
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "edit-with",
+    "github"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "gitbook-plugin-edit-link",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtCamp/gitbook-plugin-edit-link.git"
+  },
+  "version": "2.0.2"
+}

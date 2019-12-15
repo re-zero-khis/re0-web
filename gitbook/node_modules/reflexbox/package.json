@@ -1,0 +1,121 @@
+{
+  "_from": "reflexbox@^2.2.2",
+  "_id": "reflexbox@2.2.3",
+  "_inBundle": false,
+  "_integrity": "sha1-m5zpg9vmd86/OpTPLFC4FX9QwNE=",
+  "_location": "/reflexbox",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "reflexbox@^2.2.2",
+    "name": "reflexbox",
+    "escapedName": "reflexbox",
+    "rawSpec": "^2.2.2",
+    "saveSpec": null,
+    "fetchSpec": "^2.2.2"
+  },
+  "_requiredBy": [
+    "/gitbook-core"
+  ],
+  "_resolved": "https://registry.npmjs.org/reflexbox/-/reflexbox-2.2.3.tgz",
+  "_shasum": "9b9ce983dbe677cebf3a94cf2c50b8157f50c0d1",
+  "_spec": "reflexbox@^2.2.2",
+  "_where": "/gitbook/node_modules/gitbook-core",
+  "author": {
+    "name": "Brent Jackson"
+  },
+  "ava": {
+    "require": [
+      "babel-register"
+    ],
+    "babel": "inherit"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-0",
+      "react"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/jxnblk/reflexbox/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "robox": "^1.0.0-beta.8",
+    "ruled": "^1.0.1"
+  },
+  "deprecated": false,
+  "description": "React flexbox layout and grid system",
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.5.2",
+    "babel-eslint": "^6.1.2",
+    "babel-loader": "^6.2.3",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.11.6",
+    "cxs": "^1.0.0",
+    "enzyme": "^2.4.1",
+    "gh-pages": "^0.11.0",
+    "html-loader": "^0.4.3",
+    "jsdom": "^9.4.1",
+    "jsdom-global": "^2.0.0",
+    "json-loader": "^0.5.3",
+    "markdown-loader": "^0.1.7",
+    "mocha": "^2.3.3",
+    "raw-loader": "^0.5.1",
+    "react": "^15.3.0",
+    "react-addons-test-utils": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "react-element-to-jsx-string": "^3.2.0",
+    "standard": "^7.1.2",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  },
+  "homepage": "https://github.com/jxnblk/reflexbox#readme",
+  "keywords": [
+    "react",
+    "react-component",
+    "flexbox",
+    "layout",
+    "grid"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "reflexbox",
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxnblk/reflexbox.git"
+  },
+  "scripts": {
+    "build": "NODE_ENV=production webpack --progress --colors --config docs/webpack.config.js",
+    "fix": "standard --fix",
+    "gh-pages": "gh-pages -d docs",
+    "prepublish": "mkdir -p dist && babel src --out-dir dist",
+    "start": "webpack-dev-server --progress --colors --config docs/webpack.config.js",
+    "test": "standard && ava -v"
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      "docs/dev.js"
+    ],
+    "globals": [
+      "before",
+      "beforeEach",
+      "after",
+      "afterEach",
+      "context",
+      "describe",
+      "it"
+    ]
+  },
+  "version": "2.2.3"
+}

@@ -1,0 +1,60 @@
+{
+  "_from": "mousetrap@1.6.0",
+  "_id": "mousetrap@1.6.0",
+  "_inBundle": false,
+  "_integrity": "sha1-AWj8q7EdB2aeh0kDJMmBIIEhrE0=",
+  "_location": "/mousetrap",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "mousetrap@1.6.0",
+    "name": "mousetrap",
+    "escapedName": "mousetrap",
+    "rawSpec": "1.6.0",
+    "saveSpec": null,
+    "fetchSpec": "1.6.0"
+  },
+  "_requiredBy": [
+    "/gitbook-core"
+  ],
+  "_resolved": "https://registry.npmjs.org/mousetrap/-/mousetrap-1.6.0.tgz",
+  "_shasum": "0168fcabb11d07669e87490324c981208121ac4d",
+  "_spec": "mousetrap@1.6.0",
+  "_where": "/gitbook/node_modules/gitbook-core",
+  "author": {
+    "name": "Craig Campbell"
+  },
+  "bugs": {
+    "url": "https://github.com/ccampbell/mousetrap/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple library for handling keyboard shortcuts",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-complexity": "~0.1.2",
+    "grunt-mocha": "~0.3.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "gitHead": "c202a0bd4967d5a3064f9cb376db51dec9345336",
+  "homepage": "https://github.com/ccampbell/mousetrap#readme",
+  "keywords": [
+    "keyboard",
+    "shortcuts",
+    "events"
+  ],
+  "license": "Apache 2.0",
+  "main": "mousetrap.js",
+  "name": "mousetrap",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ccampbell/mousetrap.git"
+  },
+  "scripts": {
+    "test": "grunt mocha"
+  },
+  "version": "1.6.0"
+}

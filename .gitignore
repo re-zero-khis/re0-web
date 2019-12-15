@@ -1,0 +1,5 @@
+*.log
+
+# _book 下的内容为本地构建时生成的 Html 内容
+# 由于目录有下划线， Github Pages 是无法识别的
+gitbook/_book

@@ -1,0 +1,103 @@
+{
+  "_from": "react-side-effect@^1.1.0",
+  "_id": "react-side-effect@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-v1ht1aHg5k/thv56DRcjw+WtojuuDHFUgGfc+bFHOWsF4ZK6C2V57DO0Or0GPsg6+LSTE0M6Ry/gfzhzSwbc5w==",
+  "_location": "/react-side-effect",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-side-effect@^1.1.0",
+    "name": "react-side-effect",
+    "escapedName": "react-side-effect",
+    "rawSpec": "^1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.1.0"
+  },
+  "_requiredBy": [
+    "/react-helmet"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-side-effect/-/react-side-effect-1.2.0.tgz",
+  "_shasum": "0e940c78faba0c73b9b0eba9cd3dda8dfb7e7dae",
+  "_spec": "react-side-effect@^1.1.0",
+  "_where": "/gitbook/node_modules/react-helmet",
+  "author": {
+    "name": "Dan Abramov",
+    "email": "dan.abramov@me.com",
+    "url": "http://github.com/gaearon"
+  },
+  "bugs": {
+    "url": "https://github.com/gaearon/react-side-effect/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Louis DeScioli",
+      "url": "https://descioli.design"
+    }
+  ],
+  "dependencies": {
+    "shallowequal": "^1.0.1"
+  },
+  "deprecated": false,
+  "description": "Create components whose prop changes map to a global side effect",
+  "devDependencies": {
+    "@babel/cli": "7.0.0",
+    "@babel/core": "7.0.0",
+    "@babel/node": "7.0.0",
+    "@babel/plugin-proposal-class-properties": "7.0.0",
+    "@babel/plugin-proposal-object-rest-spread": "7.0.0",
+    "@babel/preset-env": "7.0.0",
+    "@babel/preset-react": "7.0.0",
+    "@babel/register": "7.0.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "chai": "^3.2.0",
+    "enzyme": "^2.7.0",
+    "gzip-size": "^4.1.0",
+    "isparta": "^4.0.0",
+    "jsdom": "^9.9.1",
+    "mocha": "^3.2.0",
+    "pretty-bytes": "^4.0.2",
+    "react": "^15.4.2",
+    "react-addons-test-utils": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "rimraf": "^2.4.3",
+    "rollup": "^1.20.3",
+    "rollup-plugin-babel": "^4.0.0",
+    "rollup-plugin-commonjs": "^8.3.0",
+    "rollup-plugin-node-resolve": "^3.0.3",
+    "rollup-plugin-uglify": "^3.0.0"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "lib/"
+  ],
+  "homepage": "https://github.com/gaearon/react-side-effect",
+  "keywords": [
+    "react",
+    "component",
+    "side",
+    "effect"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "react-side-effect",
+  "peerDependencies": {
+    "react": "^0.13.0 || ^0.14.0 || ^15.0.0 || ^16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaearon/react-side-effect.git"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "clean": "rimraf lib",
+    "prepare": "npm test && npm run clean && npm run build",
+    "test": "mocha",
+    "test:cov": "babel-node ./node_modules/.bin/isparta cover ./node_modules/.bin/_mocha",
+    "test:watch": "mocha --watch"
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,1 @@
+docker run -d --rm -v "$PWD/gitbook:/gitbook" -p 4000:4000 expm02/gitbook-server gitbook serve

@@ -1,0 +1,32 @@
+
+pre, samp, code,
+.mono {
+  font-family: Menlo, monospace;
+  font-size: 12px;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
+.v100 { min-height: 100vh }
+
+.demo-flex,
+.demo-box,
+.Example .Flex,
+.Example .Box {
+  outline: 1px solid #07c;
+}
+
+.white { color: #fff }
+.blue { color: #0cf }
+.dark-blue { color: #047 }
+
+.blue { color: #069 }
+  .blue { color: #07c }
+
+.bg-white { background-color: #fff }
+.bg-blue { background-color: #07c }
+
+.b3 { border-width: 3px }
+.border-blue { border-color: #07c }
+.border-light-blue { border-color: #cef }
+

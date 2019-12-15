@@ -1,0 +1,146 @@
+{
+  "_args": [
+    [
+      {
+        "name": "prismjs",
+        "raw": "prismjs@^1.15.0",
+        "rawSpec": "^1.15.0",
+        "scope": null,
+        "spec": ">=1.15.0 <2.0.0",
+        "type": "range"
+      },
+      "/gitbook/node_modules/gitbook-plugin-prism"
+    ]
+  ],
+  "_from": "prismjs@>=1.15.0 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "prismjs@1.17.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/prismjs",
+  "_nodeVersion": "12.4.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/prismjs_1.17.1_1563761317109_0.1799139526758191"
+  },
+  "_npmUser": {
+    "email": "jamesorodig@gmail.com",
+    "name": "jamesdigioia"
+  },
+  "_npmVersion": "6.9.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "prismjs",
+    "raw": "prismjs@^1.15.0",
+    "rawSpec": "^1.15.0",
+    "scope": null,
+    "spec": ">=1.15.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/gitbook-plugin-prism"
+  ],
+  "_resolved": "https://registry.npmjs.org/prismjs/-/prismjs-1.17.1.tgz",
+  "_shasum": "e669fcbd4cdd873c35102881c33b14d0d68519be",
+  "_shrinkwrap": null,
+  "_spec": "prismjs@^1.15.0",
+  "_where": "/gitbook/node_modules/gitbook-plugin-prism",
+  "author": {
+    "name": "Lea Verou"
+  },
+  "bugs": {
+    "url": "https://github.com/LeaVerou/prism/issues"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.0"
+  },
+  "description": "Lightweight, robust, elegant syntax highlighting. A spin-off project from Dabblet.",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.3.4",
+    "gulp-header": "^2.0.7",
+    "gulp-rename": "^1.2.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-uglify": "^3.0.1",
+    "jsdom": "^13.0.0",
+    "mocha": "^6.0.0",
+    "pump": "^3.0.0",
+    "simple-git": "^1.107.0",
+    "yargs": "^13.2.2"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 442,
+    "integrity": "sha512-PrEDJAFdUGbOP6xK/UsfkC5ghJsPJviKgnQOoxaDbBjwc8op68Quupwt1DeAFoG8GImPhiKXAvvsH7wDSLsu1Q==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdNRqlCRA9TVsSAnZWagAAWMMQAJRV+QO9NLz0lJSr95j5\ncsRgLwoXxmK4zR6VPDIbmYFOy5RWzV7moaiIUxbecZvRwkDtdHqSgQhSo5wl\nztiWp60du6dTzfY2uENZhqqE2XdQVLgLBHK32IRHfv6CrVi8zIEYhX3ir5xY\nIGc4hRptAzEcIBIb1uYQhwdgpn3BCv1coRjstGG+/4NlSuPPa2C5rQiSYS9g\nlQ2FtRtBrBQTahEXYeo69D8Hzj2rFAjn5iiRJXpogDYVH4nEyFV4sSrOjkzR\nIQp28ZO6wwhnp+zR/aSdjzbrJhfw4SFQhvM3zM7E6KBi1wNge0+qsBEwqBku\nmr1LxHl/qIJO54uCw7e8nkq4fHKk0w66dtPn/pAcpqyET8zEruEOMfR3fi0O\nWYFZKWS6ZTqgQZy3+uDz2jo7KWZcBUrVxeIxNfTnLXf7+UeIRuxwIxXI41Yc\nNvI7ACSy4NDMWg1VuCscHWTJsjlKuixf71CIq7r1/dnsQwhiRmVjy+mDmfrS\nCuKijGNLvIfw4TgleplxfkQVzr7jVdn64aQGug2GtTIysH6vitODQkWqQ11Z\nBJv+73UhZhT8RR3hHyxgBkq+pLRQpb7/IDikH0nLCMJ9Uz/wU84mGGVrgj4R\nmIKjvS4nnLD0H2Ft3fZUzuUOpBf0Llg66gbAniEbk3zL5C5gG0ICtewtWydz\nEl42\r\n=FS39\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "e669fcbd4cdd873c35102881c33b14d0d68519be",
+    "tarball": "https://registry.npmjs.org/prismjs/-/prismjs-1.17.1.tgz",
+    "unpackedSize": 1157450
+  },
+  "gitHead": "aba55105897299e61815e873f8fcce7063227927",
+  "homepage": "https://github.com/LeaVerou/prism#readme",
+  "jspm": {
+    "files": [
+      "components/**/*.js",
+      "plugins/**/*",
+      "themes/*.css",
+      "prism.js"
+    ],
+    "format": "global",
+    "jspmPackage": true,
+    "main": "prism",
+    "registry": "jspm"
+  },
+  "keywords": [
+    "prism",
+    "highlight"
+  ],
+  "license": "MIT",
+  "main": "prism.js",
+  "maintainers": [
+    {
+      "email": "chansen87@gmail.com",
+      "name": "charleshansen"
+    },
+    {
+      "email": "gpleiss@gmail.com",
+      "name": "gpleiss"
+    },
+    {
+      "email": "lea@verou.me",
+      "name": "leaverou"
+    },
+    {
+      "email": "ryan.dy@gmail.com",
+      "name": "rdy"
+    },
+    {
+      "email": "nicole@stubbornella.org",
+      "name": "stubbornella"
+    },
+    {
+      "email": "vinsonchuong@gmail.com",
+      "name": "vinsonchuong"
+    }
+  ],
+  "name": "prismjs",
+  "optionalDependencies": {
+    "clipboard": "^2.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeaVerou/prism.git"
+  },
+  "scripts": {
+    "test": "npm run test:runner && npm run test:languages && npm run test:plugins && npm run test:aliases && npm run test:regex",
+    "test:aliases": "mocha tests/aliases-test.js",
+    "test:languages": "mocha tests/run.js",
+    "test:plugins": "mocha tests/plugins/**/*.js",
+    "test:regex": "mocha tests/regex-tests.js",
+    "test:runner": "mocha tests/testrunner-tests.js"
+  },
+  "style": "themes/prism.css",
+  "version": "1.17.1"
+}

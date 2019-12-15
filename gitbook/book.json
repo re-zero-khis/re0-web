@@ -1,0 +1,207 @@
+{
+    "title" : "RE0",
+    "author" : "EXP",
+    "description" : "RE0：从零开始的异世界生活 （WEB版）",
+    "language" : "en",
+    "links" : {
+        "sidebar" : {
+            "EXP's Github" : "https://github.com/lyy289065406"
+        }
+    },
+
+    "plugin-comment": {
+        "//": "插件功能说明（以 - 号开头表示不启用该插件，多用于会冲突的默认插件）",
+
+        "theme-comscore": "主题插件：使用不同颜色标识章节标题", 
+        "theme-api": "主题插件：支持 API 动态模块，但是 Guthub Pages 不支持 octopress 类的插件，这里纯粹使用其宽屏效果", 
+        "sitemap-general": "在网站根目录生成站点地图 sitemap.xml", 
+        "favicon": "用于更改网站的 favicon.ico （但因为加载顺序问题，无法覆盖原生的 favicon 图片）",
+        "canvas-nest": "基于 html5 绘制的网页背景效果",
+        "insert-logo": "在左侧导航栏顶部插入网站 logo",
+        "hide-element": "通过 HTML 元素的 class 名字来隐藏不想看到的元素",
+
+        "simple-page-toc": "生成当前页面的目录结构，在需要生成的地方添加： <!-- toc -->",
+        "back-to-top-button": "添加返回顶部按钮",
+        "anchor-navigation-ex": "添加当前页面的菜单导航",
+        "expandable-chapters-small": "支持左侧目录折叠（第二级目录开始默认叠起）", 
+        "splitter": "可调节侧栏宽度",
+        "headings": "在章节标题前添加锚点", 
+
+        "search-pro": "支持中文的高级搜索",
+        "sharing-plus": "分享当前页面（比默认插件多了更多分享方式）", 
+        "edit-link": "若源码页面存储在 Github 上，可以链接到对应源码的编辑页面", 
+
+        "page-copyright": "添加页脚版权信息（含二维码，相对复杂）",
+        "tbfed-pagefooter": "添加页脚版权信息（精简版）", 
+        "donate": "添加打赏系统", 
+        "pageview-count": "添加阅读量计数系统（借用第三方接口 https://hitcounter.pythonanywhere.com/）",
+        
+        "image-captions": "抓取内容中图片的 alt 或 title 属性，在图片下显示图片注解", 
+        "popup": "点击图片弹出大图",
+        "auto-scroll-table": "表格水平滚动条（过宽时自动添加）", 
+        "terminal": "使代码块支持模拟终端回显",
+        "sectionx": "页面分块支持",
+        "todo": "复选框支持", 
+        "alerts": "支持 4 种不同样式的警示引用框",
+        "flexible-alerts": "比 alerts 功能更丰富的警示引用框",
+        "code": "为代码块添加复制按钮和行号（行号会影响代码样式）",
+        "copy-code-button": "为代码块添加复制按钮",
+        "prism": "代码高亮（样式可选，内置在插件内）"
+    },
+
+    "plugins": [
+        "theme-comscore",
+        "theme-api",
+        "sitemap-general",
+        "-favicon",
+        "canvas-nest",
+        "-insert-logo",
+        "hide-element",
+
+        "simple-page-toc",
+        "back-to-top-button",
+        "anchor-navigation-ex",
+        "expandable-chapters-small",
+        "splitter",
+
+        "search-pro",
+        "-sharing",
+        "sharing-plus",
+        "edit-link",
+        
+        "-page-copyright",
+        "tbfed-pagefooter",
+        "donate",
+        "pageview-count",
+
+        "image-captions",
+        "popup",
+        "auto-scroll-table",
+        "terminal",
+        "sectionx",
+        "todo",
+        "alerts",
+        "flexible-alerts",
+        "-code",
+        "copy-code-button",
+        "prism"
+    ],
+
+    "pluginsConfig": {
+        "theme-default": {
+            "//": "是否显示章节序号",
+            "showLevel": false
+        },
+        "sitemap-general": {
+            "//": "所生成的站点地图路径前缀",
+            "prefix": "https://lyy289065406.github.io/exp-blog/gitbook/"
+        },
+        "simple-page-toc": {
+            "//": "所生成的章节目录最大深度",
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "favicon": {
+            "shortcut": "/res/img/logo/favicon_48x48.ico",
+            "bookmark": "/res/img/logo/favicon_48x48.ico",
+            "appleTouch": "/res/img/logo/favicon_48x48.ico",
+            "appleTouchMore": {
+                "64x64": "/res/img/logo/favicon_48x48.ico",
+                "128x128": "/res/img/logo/favicon_48x48.ico",
+                "512x512": "/res/img/logo/favicon_48x48.ico.png"
+            }
+        },
+        "insert-logo": {
+            "url": "/res/img/logo//exp-blog - logo-min.png",
+            "style": "background: none; min-height: 30px; max-height: 50px"
+        },
+        "hide-element": {
+            "//": "隐藏导航栏底部的 gitbook 超链",
+            "elements": [
+                ".gitbook-link"
+            ]
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false,
+            "associatedWithSummary": true,
+            "printLog": false,
+            "multipleH1": true,
+            "mode": "float",
+            "showGoTop":false,
+            "float": {
+                "floatIcon": "fa fa-anchor",
+                "showLevelIcon": true,
+                "level1Icon": "fa fa-circle",
+                "level2Icon": "fa fa-circle-o",
+                "level3Icon": "fa fa-circle-o"
+            },
+            "pageTop": {
+                "showLevelIcon": true,
+                "level1Icon": "fa fa-circle",
+                "level2Icon": "fa fa-circle-o",
+                "level3Icon": "fa fa-circle-o"
+            }
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "weibo": true,
+            "qq": true,
+            "all": [
+                "douban", "google", "instapaper", "linkedin", "twitter", "messenger", "qzone", "viber", "whatsapp"
+            ]
+        },
+        "edit-link": {
+            "base": "https://github.com/lyy289065406/exp-blog/edit/master/gitbook",
+            "label": "EDIT THIS PAGE"
+        },
+        "page-copyright": {
+          "description": "modified at",
+          "signature": "EXP",
+          "wisdom": "Designer, Frontend Developer & overall web enthusiast",
+          "format": "YYYY-MM-dd hh:mm:ss",
+          "copyright": "Copyright &#169; EXP",
+          "timeColor": "#666",
+          "copyrightColor": "#666",
+          "utcOffset": "8",
+          "style": "normal",
+          "noPowered": false
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy EXP 2019",
+            "modify_label": "最后修改时间 ： ",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "donate": {
+            "title": "感谢阅读 (^_^) 如有帮助，谢予支持",
+            "button": "赞助",
+            "alipay": "res/img/donate/alipay.png",
+            "alipayText": "支付宝",
+            "wechat": "res/img/donate/wechat.png",
+            "wechatText": "微信"
+        },
+        "image-captions": {
+            "//": "图片注解格式",
+            "caption": "【图 _PAGE_IMAGE_NUMBER_】 _CAPTION_"
+        },
+        "terminal": {
+            "copyButtons": true,
+            "fade": false,
+            "style": "flat"
+        },
+        "sectionx": {
+            "//": "分块标题使用的标签",
+            "tag": "b"
+        },
+        "code": {
+            "//": "为代码块添加复制按钮",
+            "copyButtons": true
+        },
+        "prism": {
+            "//": "样式可选，内置在插件内",
+            "css": [
+                "prismjs/themes/prism-okaidia.css"
+            ]
+        }
+    }
+}

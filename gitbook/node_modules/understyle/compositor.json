@@ -1,0 +1,88 @@
+{
+  "name": "jxnblk/understyle",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.19"
+  },
+  "title": "Understyle",
+  "branch": "",
+  "style": {
+    "name": "Swiss",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/SwissHeader",
+      "article": "article/SwissArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "heading": {
+      "fontWeight": 700,
+      "letterSpacing": "-0.01em"
+    },
+    "layout": {
+      "fluid": true
+    },
+    "colors": {
+      "text": "#000",
+      "background": "#fff",
+      "primary": "#05a",
+      "secondary": "#444",
+      "highlight": "#f30",
+      "border": "#ccc",
+      "muted": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/jxnblk/understyle",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://npmjs.com/package/understyle",
+          "text": "npm"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "understyle",
+      "subhead": "Functional style utilities for authoring JavaScript style objects",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "understyle: Functional style utilities for authoring JavaScript style objects",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "jxnblk",
+          "repo": "understyle"
+        }
+      ],
+      "text": "v1.2.0"
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "\n\n<p><a href=\"https://travis-ci.org/jxnblk/understyle\"><img src=\"https://travis-ci.org/jxnblk/understyle.svg?branch=master\"></a>\n<a href=\"http://standardjs.com/\"><img src=\"https://img.shields.io/badge/code%20style-standard-brightgreen.svg\"></a></p>\n<pre>npm i understyle</pre><pre><span class=\"hljs-comment\">// Example</span>\n<span class=\"hljs-keyword\">import</span> _style <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;understyle&apos;</span>\n\n<span class=\"hljs-keyword\">const</span> style = _style({\n  m: <span class=\"hljs-number\">2</span>,\n  flex: <span class=\"hljs-literal\">true</span>\n})\n\n<span class=\"hljs-comment\">// { margin: 16, display: &apos;flex&apos; }</span></pre><pre><span class=\"hljs-comment\">// Individual modules</span>\n<span class=\"hljs-keyword\">import</span> { margin, padding } <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;understyle&apos;</span>\n\n<span class=\"hljs-keyword\">const</span> style = {\n  ...margin({ m: <span class=\"hljs-number\">2</span> }),\n  ...padding({ p: <span class=\"hljs-number\">2</span> })\n}\n\n<span class=\"hljs-comment\">// { margin: 16, padding: 16 }</span></pre><h3>Usage in React</h3>\n<p>Understyle is intended for use in functional component-based UI systems, like React.</p>\n<pre><span class=\"hljs-comment\">// Example component</span>\n<span class=\"hljs-keyword\">import</span> React <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;react&apos;</span>\n<span class=\"hljs-keyword\">import</span> _style <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;understyle&apos;</span>\n\n<span class=\"hljs-keyword\">const</span> MyComponent = ({ children, ...props }) =&gt; {\n  <span class=\"hljs-keyword\">const</span> style = {\n    ..._style(props),\n    color: <span class=\"hljs-string\">&apos;tomato&apos;</span>\n  }\n\n  <span class=\"hljs-keyword\">return</span> <span class=\"xml\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">div</span> <span class=\"hljs-attr\">style</span>=<span class=\"hljs-string\">{style}</span>&gt;</span>{children}<span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">div</span>&gt;</span></span>\n}\n\n<span class=\"hljs-keyword\">export</span> <span class=\"hljs-keyword\">default</span> MyComponent</pre><pre><span class=\"hljs-comment\">// Example component instance</span>\n<span class=\"hljs-keyword\">return</span> (\n  <span class=\"xml\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">div</span>&gt;</span>\n    <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">MyComponent</span> <span class=\"hljs-attr\">p</span>=<span class=\"hljs-string\">{2}</span> <span class=\"hljs-attr\">mb</span>=<span class=\"hljs-string\">{4}</span>&gt;</span>\n      Hello\n    <span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">MyComponent</span>&gt;</span>\n  <span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">div</span>&gt;</span></span>\n)</pre><h2>Functions</h2>\n<p>Each function accepts its own unique set of shorthand options to create style objects</p>\n<h3><code>margin</code></h3>\n<pre><span class=\"hljs-keyword\">import</span> { margin } <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;understyle&apos;</span>\n<span class=\"hljs-keyword\">const</span> style = margin({ m: <span class=\"hljs-number\">1</span> })\n<span class=\"hljs-comment\">// { margin: 8 }</span></pre><p>Each option should be a number from 0&#x2013;6, which will return a value based on a spacing scale\narray <code>[0, 8, 16, 32, 48, 64, 96]</code>.\nNegative numbers return negative values, and <code>&apos;auto&apos;</code> will return <code>margin: auto</code>.</p>\n<p>Props:</p>\n<ul>\n<li><code>m</code>: <code>margin</code></li>\n<li><code>mt</code>: <code>marginTop</code></li>\n<li><code>mr</code>: <code>marginRight</code></li>\n<li><code>mb</code>: <code>marginBottom</code></li>\n<li><code>ml</code>: <code>marginLeft</code></li>\n<li><code>mx</code>: <code>marginLeft</code> &amp; <code>marginRight</code></li>\n<li><code>my</code>: <code>marginTop</code> &amp; <code>marginBottom</code></li>\n<li><code>gutter</code>: negative <code>marginLeft</code> &amp; <code>marginRight</code></li>\n</ul>\n<h3><code>padding</code></h3>\n<p>Padding uses the same spacing scale array</p>\n<pre><span class=\"hljs-keyword\">import</span> { padding } <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;understyle&apos;</span>\n<span class=\"hljs-keyword\">const</span> style = padding({ p: <span class=\"hljs-number\">1</span> })\n<span class=\"hljs-comment\">// { padding: 8 }</span></pre><p>Props:</p>\n<ul>\n<li><code>p</code>: <code>padding</code></li>\n<li><code>pt</code>: <code>paddingTop</code></li>\n<li><code>pr</code>: <code>paddingRight</code></li>\n<li><code>pb</code>: <code>paddingBottom</code></li>\n<li><code>pl</code>: <code>paddingLeft</code></li>\n<li><code>px</code>: <code>paddingLeft</code> &amp; <code>paddingRight</code></li>\n<li><code>py</code>: <code>paddingTop</code> &amp; <code>paddingBottom</code></li>\n</ul>\n<h3><code>column</code></h3>\n<pre><span class=\"hljs-keyword\">import</span> { column } <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;understyle&apos;</span>\n<span class=\"hljs-keyword\">const</span> style = column({ col: <span class=\"hljs-number\">6</span> })\n<span class=\"hljs-comment\">// { width: &apos;50%&apos; }</span></pre><p>The <code>col</code> option should be a number from 1&#x2013;12 to return a percentage-based width based on a 12 column grid.</p>\n<h3><code>display</code></h3>\n<pre><span class=\"hljs-keyword\">import</span> { display } <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;understyle&apos;</span>\n<span class=\"hljs-keyword\">const</span> style = display({ inlineBlock: <span class=\"hljs-literal\">true</span> })\n<span class=\"hljs-comment\">// { display: &apos;inline-block&apos; }</span></pre><p>Each display option should be a boolean.</p>\n<p>Props:</p>\n<ul>\n<li><code>block</code></li>\n<li><code>inlineBlock</code></li>\n<li><code>inline</code></li>\n<li><code>table</code></li>\n<li><code>tableRow</code></li>\n<li><code>tableCell</code></li>\n<li><code>flex</code></li>\n<li><code>inlineFlex</code></li>\n</ul>\n<h3><code>flex</code></h3>\n<pre><span class=\"hljs-keyword\">import</span> { flex } <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&apos;understyle&apos;</span>\n<span class=\"hljs-keyword\">const</span> style = flex({\n  align: <span class=\"hljs-string\">&apos;center&apos;</span>,\n  justify: <span class=\"hljs-string\">&apos;center&apos;</span>\n})\n<span class=\"hljs-comment\">// { alignItems: &apos;center&apos;, justifyContent: &apos;center&apos; }</span></pre><p>The flex options are a mix of booleans and strings to set various flexbox style properties.</p>\n<p>Props:</p>\n<ul>\n<li><code>wrap</code> boolean - sets <code>flexWrap: &apos;wrap&apos;</code></li>\n<li><code>align</code> string - sets <code>alignItems</code></li>\n<li><code>justify</code> string - sets <code>justifyContent</code></li>\n<li><code>flexColumn</code> boolean - sets <code>flexDirection: &apos;column&apos;</code></li>\n<li><code>flexAuto</code> boolean - sets <code>flex: &apos;1 1 auto&apos;</code></li>\n<li><code>flexNone</code> boolean - sets <code>flex: &apos;none&apos;</code></li>\n</ul>\n<p>MIT License</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/jxnblk/understyle",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/jxnblk",
+          "text": "jxnblk"
+        }
+      ]
+    }
+  ]
+}

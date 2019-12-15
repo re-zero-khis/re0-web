@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 从MF文库原版连载网站中爬取小说内容（需要爬梯）
+# 从MF文库原版连载网站中爬取小说内容（需要翻墙）
 
 import os
 import requests

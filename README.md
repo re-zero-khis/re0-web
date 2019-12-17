@@ -6,7 +6,7 @@
 
 - [日文原版（需翻墙）](http://ncode.syosetu.com/n2267be/)
 - [汉化整合（百度贴吧）](https://tieba.baidu.com/p/4974060711?red_tag=0820409600)
-- [汉化搬运（有道云）](https://note.youdao.com/ynoteshare1/index.html?id=c79c8f8e467ac554d292d62a43dc8bf6&type=note#/&sfc=qqfriend)
+- 汉化搬运（有道云）： [【上】](https://note.youdao.com/ynoteshare1/index.html?id=8a308a38db5ff96ec6e69d5807a917ba) [【下】](https://note.youdao.com/ynoteshare1/index.html?id=c79c8f8e467ac554d292d62a43dc8bf6&type=note#/&sfc=qqfriend)
 - [汉化搬运（真白萌）](https://masiro.moe/forum.php?mod=forumdisplay&fid=251)
 
 ------

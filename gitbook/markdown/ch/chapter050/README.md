@@ -85,3 +85,4 @@
 - [幕間　『未完成的大器』](83.html)
 - [幕間　『温暖的名字』](84.html)
 
+![](/res/img/article/chapter050.jpg)

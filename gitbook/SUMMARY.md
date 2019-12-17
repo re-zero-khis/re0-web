@@ -683,7 +683,7 @@
 	* [78　『角四つ』](markdown/jp/chapter060/78.md)
 	* [79　『READY STEADY GO』](markdown/jp/chapter060/79.md)
 * [リゼロＥＸ　『IF』](markdown/jp/chapter099/README.md)
-	* [01　『鬼も幸福も』](markdown/jp/chapter099/01.md)
+	* [01　『鬼的幸福』](markdown/jp/chapter099/01.md)
 	* [02　『胡蝶之夢』](markdown/jp/chapter099/02.md)
 	* [03　『フォーチュンロール・ラプソディ』](markdown/jp/chapter099/03.md)
 	* [04　『学園リゼロ！　1時間目！』](markdown/jp/chapter099/04.md)

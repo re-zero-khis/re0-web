@@ -79,3 +79,5 @@
 - [77　『反击的狼烟』](77.html)（2019-10-29 : 最新翻译进度）
 - [78　『角四つ』](78.html)
 - [79　『READY STEADY GO』](79.html)
+
+![](/res/img/article/chapter060.jpg)

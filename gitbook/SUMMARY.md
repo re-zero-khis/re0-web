@@ -85,7 +85,7 @@
 	* [幕間　『月下的密谈』](markdown/ch/chapter020/50.md)
 * [番外編　『Oneday』](markdown/ch/chapter021/README.md)
 	* [01　『中毒症状』](markdown/ch/chapter021/01.md)
-	* [02　『第一次マヨネーズ騒動』](markdown/ch/chapter021/02.md)
+	* [02　『第一次蛋黄酱骚动』](markdown/ch/chapter021/02.md)
 * [第三章　『再次来到王都』](markdown/ch/chapter030/README.md)
 * [第四章　『永远的契约』](markdown/ch/chapter040/README.md)
 * [番外編　『OnedayⅡ』](markdown/ch/chapter041/README.md)

@@ -1,0 +1,138 @@
+pre.terminal {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  overflow-x: hidden;
+  padding: 0;
+  position: relative;
+}
+
+pre.terminal code {
+  display: block;
+  margin: 1em 2em 0 1em;
+  padding-bottom: 1em;
+  overflow-x: auto;
+}
+
+pre.terminal span.t-line {
+  /* display: block; */
+}
+
+
+pre.terminal.t-fade span.t-line:not(.t-prompt-line),
+pre.terminal.t-fade span.t-delimiter,
+pre.terminal.t-fade span.t-path,
+pre.terminal.t-fade span.t-prompt {
+  transition: opacity 0.3s ease-in-out;
+}
+
+pre.terminal.t-fade:hover span.t-line:not(.t-prompt-line),
+pre.terminal.t-fade:hover span.t-delimiter,
+pre.terminal.t-fade:hover span.t-path,
+pre.terminal.t-fade:hover span.t-prompt {
+  opacity: 0.3;
+}
+
+pre.terminal > i.t-copy {
+  cursor: pointer;
+  margin-top: 0.3em;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: 0.4em;
+  transition: opacity 0.3s ease-in-out;
+}
+
+pre.terminal:hover > i.t-copy {
+  opacity: 1;
+}
+
+#t-textarea {
+  height: 0;
+  position: fixed;
+  top: -1000px;
+  width: 0;
+}
+
+pre.terminal.t-black {
+  background-color: #222;
+  color: #dedede;
+}
+
+pre.terminal.t-black .t-prompt {
+  font-weight: bold;
+}
+
+pre.terminal.t-classic {
+  background-color: black;
+  color: lawngreen;
+}
+
+pre.terminal.t-classic .t-error {
+  color: red;
+}
+
+pre.terminal.t-classic .t-warning {
+  color: orange;
+}
+
+pre.terminal.t-flat {
+  background-color: #2b3d50;
+  color: #dedede;
+}
+
+pre.terminal.t-flat .t-delimiter {
+  color: #60b0e5;
+}
+
+pre.terminal.t-flat .t-error {
+  color: #f55
+}
+
+pre.terminal.t-flat .t-prompt {
+  color: #28c66e;
+}
+
+pre.terminal.t-flat .t-warning {
+  color: #d93;
+}
+
+pre.terminal.t-ubuntu {
+  background-color: #300b24;
+  color: #b8c4c5;
+}
+
+pre.terminal.t-ubuntu .t-error {
+  color: #e22227;
+}
+
+pre.terminal.t-ubuntu .t-path {
+  color: #475ca0;
+}
+
+pre.terminal.t-ubuntu .t-prompt {
+  color: #84cc40;
+}
+
+pre.terminal.t-ubuntu .t-warning {
+  color: #d93;
+}
+
+pre.terminal.t-white {
+  background-color: white;
+  color: #333;
+}
+
+pre.terminal.t-white .t-error {
+  color: #e22227;
+}
+
+pre.terminal.t-white .t-path {
+  color: #475ca0;
+}
+
+pre.terminal.t-white .t-prompt {
+  color: #4caf50;
+}
+
+pre.terminal.t-white .t-warning {
+  color: #d93;
+}

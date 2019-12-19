@@ -31,7 +31,7 @@
 	* [20　『登场角色凑齐了』](markdown/ch/chapter010/20.md)
 	* [21　『剑圣的威力』](markdown/ch/chapter010/21.md)
 	* [22　『从零开始的异世界生活』](markdown/ch/chapter010/22.md)
-	* [幕間　『月亮高挂夜空』](markdown/ch/chapter010/23.md)
+	* [幕間　『月亮都看在眼里』](markdown/ch/chapter010/23.md)
 * [第二章　『动荡的一周』](markdown/ch/chapter020/README.md)
 	* [01　『見知らぬ天井、終わりのない廊下』](markdown/ch/chapter020/01.md)
 	* [02　『禁書庫の番人と双子のメイド』](markdown/ch/chapter020/02.md)

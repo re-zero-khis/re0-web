@@ -8,7 +8,7 @@
 ## 汉化版
 
 * [第一章　『怒涛般的第一天』](markdown/ch/chapter010/README.md)
-	* [序章　『开始的余热』](markdown/ch/chapter010/00.md)
+	* [序章　『开始的余温』](markdown/ch/chapter010/00.md)
 	* [01　『无法使用的十元硬币』](markdown/ch/chapter010/01.md)
 	* [02　『不要得意忘形，神明如是说』](markdown/ch/chapter010/02.md)
 	* [03　『第一次见识到魔法』](markdown/ch/chapter010/03.md)
@@ -494,7 +494,7 @@
 	* [78　『角四つ』](markdown/ch/chapter060/78.md)
 	* [79　『READY STEADY GO』](markdown/ch/chapter060/79.md)
 * [ReZeroEX　『IF线』](markdown/ch/chapter099/README.md)
-	* [01　『鬼も幸福も』](markdown/ch/chapter099/01.md)
+	* [01　『鬼的幸福』](markdown/ch/chapter099/01.md)
 	* [02　『胡蝶之夢』](markdown/ch/chapter099/02.md)
 	* [03　『フォーチュンロール・ラプソディ』](markdown/ch/chapter099/03.md)
 	* [04　『学院Re：0！第一堂课！』](markdown/ch/chapter099/04.md)

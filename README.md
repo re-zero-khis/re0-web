@@ -12,8 +12,8 @@
 ------
 
 | MJ文库版 | 插图 | 下载 | 对应WEB版范围 |
-|:-----:|:-----:|:-----:|:-----:|
-| EPUB 第 01 卷 | ![](https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter010/00.jpg) | x | <ul><li>起：【第一章】 序章 『开始的余温』</li><li>止：【第一章】 幕間 『月亮都看在眼里』</li></ul> |
+|:-----:|:-----:|:-----:|:-----|
+| EPUB 第 01 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter010/00.jpg"> | x | <ul><li><b>起</b>：【第一章】 序章 『开始的余温』</li><li><b>止</b>：【第一章】 幕間 『月亮都看在眼里』</li></ul> |
 | EPUB 第 02 卷 | x | x | x |
 | EPUB 第 03 卷 | x | x | x |
 | EPUB 第 04 卷 | x | x | x |

@@ -8,7 +8,7 @@
 ## 汉化版
 
 * [第一章　『怒涛般的第一天』](markdown/ch/chapter010/README.md)
-	* [序章　『开始的余热』](markdown/ch/chapter010/00.md)
+	* [序章　『开始的余温』](markdown/ch/chapter010/00.md)
 	* [01　『无法使用的十元硬币』](markdown/ch/chapter010/01.md)
 	* [02　『不要得意忘形，神明如是说』](markdown/ch/chapter010/02.md)
 	* [03　『第一次见识到魔法』](markdown/ch/chapter010/03.md)
@@ -31,7 +31,8 @@
 	* [20　『登场角色凑齐了』](markdown/ch/chapter010/20.md)
 	* [21　『剑圣的威力』](markdown/ch/chapter010/21.md)
 	* [22　『从零开始的异世界生活』](markdown/ch/chapter010/22.md)
-	* [幕間　『月亮高挂夜空』](markdown/ch/chapter010/23.md)
+	* [幕間　『月亮都看在眼里』](markdown/ch/chapter010/23.md)
+	* [『后记』](markdown/ch/chapter010/24.md)
 * [第二章　『动荡的一周』](markdown/ch/chapter020/README.md)
 	* [01　『見知らぬ天井、終わりのない廊下』](markdown/ch/chapter020/01.md)
 	* [02　『禁書庫の番人と双子のメイド』](markdown/ch/chapter020/02.md)
@@ -494,7 +495,7 @@
 	* [78　『角四つ』](markdown/ch/chapter060/78.md)
 	* [79　『READY STEADY GO』](markdown/ch/chapter060/79.md)
 * [ReZeroEX　『IF线』](markdown/ch/chapter099/README.md)
-	* [01　『鬼も幸福も』](markdown/ch/chapter099/01.md)
+	* [01　『鬼的幸福』](markdown/ch/chapter099/01.md)
 	* [02　『胡蝶之夢』](markdown/ch/chapter099/02.md)
 	* [03　『フォーチュンロール・ラプソディ』](markdown/ch/chapter099/03.md)
 	* [04　『学院Re：0！第一堂课！』](markdown/ch/chapter099/04.md)

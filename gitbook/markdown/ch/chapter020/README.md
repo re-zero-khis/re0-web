@@ -51,8 +51,8 @@
 - [48　『全部都』](48.html)
 - [49　『未来的故事』](49.html)
 - [幕間　『月下的密谈』](50.html)
-- [手稿　『章节插图』](99.html)
+- [后记　『篇章插图』](99.html)
 
-![](/res/img/article/chapter020/00-a.jpg)
+![](/res/img/article/chapter020/00-b.jpg)
 
-![](/res/img/article/chapter020/00-c.jpg)
+![](/res/img/article/chapter020/00-d.jpg)

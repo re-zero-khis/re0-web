@@ -53,6 +53,4 @@
 - [幕間　『月下的密谈』](50.html)
 - [后记　『篇章插图』](99.html)
 
-![](/res/img/article/chapter020/00-b.jpg)
-
 ![](/res/img/article/chapter020/00-d.jpg)

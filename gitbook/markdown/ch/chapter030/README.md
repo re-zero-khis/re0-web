@@ -1,5 +1,6 @@
 ## 第三章　『再次来到王都』
 
+- [序章　『愚蠢者的固执』](00.html)
 - [01　『安稳的早上』](01.html)
 - [02　『佣人们的茶话』](02.html)
 - [03　『王都旅行计划』](03.html)
@@ -91,5 +92,8 @@
 - [幕間　『各自的誓言』](89.html)
 - [番外編　『王様』](90.html)
 
-	
-![](/res/img/article/chapter030.jpg)
+![](/res/img/article/chapter030/00-b.jpg)
+
+![](/res/img/article/chapter030/00-c.jpg)
+
+![](/res/img/article/chapter030/00-e.jpg)

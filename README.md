@@ -20,7 +20,7 @@
 | EPUB 第 05 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-d.jpg"> | x | <ul><li><b>起</b>：【第三章】 26 『被侵蚀的精神』</li><li><b>止</b>：【第三章】 40 『杀机的里侧』</li></ul> | x |
 | EPUB 第 06 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-f.jpg"> | x | <ul><li><b>起</b>：【第三章】 41 『幼稚的交涉』</li><li><b>止</b>：【第三章】 53 『被配给的手牌』</li></ul> | x |
 | EPUB 第 07 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-h.jpg"> | x | <ul><li><b>起</b>：【第三章】 54 『同盟交渉』</li><li><b>止</b>：【第三章】 62 『過去与未来一起清算』</li></ul> | x |
-| EPUB 第 08 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-j.jpg"> | x | <ul><li><b>起</b>：【第三章】 63 『怠惰一閃』</li><li><b>止</b>：【第三章】 74 『履行的契约』</li></ul> | 这卷改动极大，文库版<br/>几乎把 WEB版 重写了 |
+| EPUB 第 08 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-j.jpg"> | x | <ul><li><b>起</b>：【第三章】 63 『怠惰一閃』</li><li><b>止</b>：【第三章】 74 『履行的契约』</li></ul> | 这卷改动极大，文库版几乎把 WEB版 重写了 |
 | EPUB 第 09 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-l.jpg"> | x | <ul><li><b>起</b>：【第三章】 75 『再会x推迟x逆转的契机』</li><li><b>止</b>：【第三章】 番外編 『王様』</li></ul> | x |
 | EPUB 第 10 卷 | x | x | x | x |
 | EPUB 第 11 卷 | x | x | x | x |

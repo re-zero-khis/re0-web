@@ -16,7 +16,7 @@
 | EPUB 第 01 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter010/00-a.jpg"> | x | <ul><li><b>起</b>：【第一章】 序章 『开始的余温』</li><li><b>止</b>：【第一章】 幕間 『月亮都看在眼里』</li></ul> |
 | EPUB 第 02 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter020/00-a.jpg"> | x | <ul><li><b>起</b>：【第二章】 序章 『赎罪的开端』</li><li><b>止</b>：【第二章】 28 『觉悟与告白』</li></ul> |
 | EPUB 第 03 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter020/00-c.jpg"> | x | <ul><li><b>起</b>：【第二章】 29 『菜月昴的重新开始』</li><li><b>止</b>：【第二章】 幕間 『月下的密谈』</li></ul> |
-| EPUB 第 04 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-a.jpg"> | x | <ul><li><b>起</b>：【第三章】 序章 『愚蠢者的固执』</li><li><b>止</b>：【第三章】 幕間 『骑士们的疑惑』</li></ul> |
+| EPUB 第 04 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-a.jpg"> | x | <ul><li><b>起</b>：【第三章】 01 『安稳的早上』</li><li><b>止</b>：【第三章】 幕間 『骑士们的疑惑』</li></ul> |
 | EPUB 第 05 卷 | x | x | <ul><li><b>起</b>：【第三章】 26 『被侵蚀的精神』</li><li><b>止</b>：【第三章】 番外編 『王様』</li></ul> |
 | EPUB 第 06 卷 | x | x | x |
 | EPUB 第 07 卷 | x | x | x |

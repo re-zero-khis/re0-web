@@ -24,6 +24,6 @@
 - [21　『剑圣的威力』](21.html)
 - [22　『从零开始的异世界生活』](22.html)
 - [幕間　『月亮高挂夜空』](23.html)
-- [手稿　『章节插图』](99.html)
+- [后记　『篇章插图』](99.html)
 
-![](/res/img/article/chapter010/00.jpg)
+![](/res/img/article/chapter010/00-b.jpg)

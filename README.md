@@ -33,7 +33,7 @@
 | EPUB 第 08 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-j.jpg"> | x | <ul><li><b>起</b>：【第三章】 63 『怠惰一閃』</li><li><b>止</b>：【第三章】 74 『履行的契约』</li></ul><br/><i>（这卷改动极大，文库版 几乎把 WEB版 重写了）</i> |
 | EPUB 第 09 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-l.jpg"> | x | <ul><li><b>起</b>：【第三章】 75 『再会x推迟x逆转的契机』</li><li><b>止</b>：【第三章】 番外編 『王様』</li></ul> |
 | EPUB 第 10 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-a.jpg"> | x | <ul><li><b>起</b>：【第四章】 序章 『坟墓』</li><li><b>止</b>：【第四章】 23 『迈出的一步』</li></ul> |
-| EPUB 第 11 卷 | x | x | x |
+| EPUB 第 11 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-c.jpg"> | x | <ul><li><b>起</b>：【第四章】 24 『等待』</li><li><b>止</b>：【第四章】 50 『远处处的吼声』</li></ul> |
 | EPUB 第 12 卷 | x | x | x |
 | EPUB 第 13 卷 | x | x | x |
 | EPUB 第 14 卷 | x | x | x |

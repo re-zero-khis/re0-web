@@ -34,10 +34,10 @@
 | EPUB 第 09 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter030/00-l.jpg"> | x | <ul><li><b>起</b>：【第三章】 75 『再会x推迟x逆转的契机』</li><li><b>止</b>：【第三章】 番外編 『王様』</li></ul> |
 | EPUB 第 10 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-a.jpg"> | x | <ul><li><b>起</b>：【第四章】 序章 『坟墓』</li><li><b>止</b>：【第四章】 23 『迈出的一步』</li></ul> |
 | EPUB 第 11 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-c.jpg"> | x | <ul><li><b>起</b>：【第四章】 24 『等待』</li><li><b>止</b>：【第四章】 50 『远处处的吼声』</li></ul> |
-| EPUB 第 12 卷 | x | x | x |
-| EPUB 第 13 卷 | x | x | x |
-| EPUB 第 14 卷 | x | x | x |
-| EPUB 第 15 卷 | x | x | x |
+| EPUB 第 12 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-f.jpg"> | x | <ul><li><b>起</b>：【第四章】 51 『LOVELOVELOVE……LOVELOVELOVEME–』</li><li><b>止</b>：【第四章】 77 『孤身一人的……』</li></ul> |
+| EPUB 第 13 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-h.jpg"> | x | <ul><li><b>起</b>：【第四章】 78 『欲哭的声音』</li><li><b>止</b>：【第四章】 117 『情信』</li></ul> |
+| EPUB 第 14 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-j.jpg"> | x | <ul><li><b>起</b>：【第四章】 118 『平家星笑的日子』</li><li><b>止</b>：【第四章】 122 『咆哮的再会』</li></ul> |
+| EPUB 第 15 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-k.jpg"> | x | <ul><li><b>起</b>：【第四章】 123 『猎肠者VS圣域之盾』</li><li><b>止</b>：【第四章】 蛇足 『再临』</li></ul> |
 | EPUB 第 16 卷 | x | x | x |
 | EPUB 第 17 卷 | x | x | x |
 | EPUB 第 18 卷 | x | x | x |

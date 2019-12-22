@@ -143,4 +143,9 @@
 - [蛇足　『再临』](135.html)
 - [后记　『篇章插图』](199.html)
 
-![](/res/img/article/chapter040.jpg)
+
+
+| <img width="500" src="/res/img/article/chapter040/00-b.jpg"> | <img width="500" src="/res/img/article/chapter040/00-d.jpg"> | <img width="500" src="/res/img/article/chapter040/00-e.jpg"> |
+|:------:|:------:|:------:|
+| <img width="500" src="/res/img/article/chapter040/00-g.jpg"> | <img width="500" src="/res/img/article/chapter040/00-i.jpg"> | <img width="500" src="/res/img/article/chapter040/00-l.jpg"> |
+

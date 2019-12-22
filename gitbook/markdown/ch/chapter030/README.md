@@ -93,6 +93,7 @@
 - [番外編　『王様』](90.html)
 - [后记　『篇章插图』](99.html)
 
+
 ![](/res/img/article/chapter030/00-b.jpg)
 
 ![](/res/img/article/chapter030/00-e.jpg)

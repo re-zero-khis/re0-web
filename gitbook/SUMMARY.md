@@ -167,7 +167,7 @@
 	* [73　『恶毒的怠惰』](markdown/ch/chapter030/73.md)
 	* [74　『履行的契约』](markdown/ch/chapter030/74.md)
 	* [75　『再会x推迟x逆转的契机』](markdown/ch/chapter030/75.md)
-	* [76　『舞台幕后×阴谋诡计×拉钩约定』](markdown/ch/chapter030/76.md)
+	* [76　『幕后舞台×阴谋诡计×拉钩约定』](markdown/ch/chapter030/76.md)
 	* [77　『俘虏交涉与再会』](markdown/ch/chapter030/77.md)
 	* [78　『狂人与狂语』](markdown/ch/chapter030/78.md)
 	* [79　『自称的骑士与最优的骑士』](markdown/ch/chapter030/79.md)

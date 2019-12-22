@@ -4,6 +4,8 @@
 
 ------
 
+## 资源
+
 - [日文原版（需翻墙）](http://ncode.syosetu.com/n2267be/)
 - [汉化整合（百度贴吧）](https://tieba.baidu.com/p/4974060711?red_tag=0820409600)
 - 汉化搬运（有道云）： [【上】](https://note.youdao.com/ynoteshare1/index.html?id=8a308a38db5ff96ec6e69d5807a917ba) [【下】](https://note.youdao.com/ynoteshare1/index.html?id=c79c8f8e467ac554d292d62a43dc8bf6&type=note#/&sfc=qqfriend)
@@ -11,7 +13,7 @@
 
 ------
 
-WEB版 与 文库版 的区别：
+**WEB版 与 文库版 的区别**：
 
 - WEB版相当于草稿，文库版在此基础上进行了大量修缮
 - 文库版无论剧情精彩度、人物刻画深度、还是逻辑严谨度都比WEB版要好
@@ -44,3 +46,25 @@ WEB版 与 文库版 的区别：
 | EPUB 第 21 卷 | x | x | x |
 
 
+------
+
+## 致开发者
+
+此书籍是利用 [GitBook](https://docs.gitbook.com/) 搭建的，同时兼容在 [Github Pages](https://lyy289065406.github.io/re0-web) 和 [本地（线下）](http://127.0.0.1:4000/) 运行。
+
+> 关于 **本地** 环境的搭建可见 [gitbook-server-docker](https://github.com/lyy289065406/gitbook-server-docker) 的说明
+<br/> 另由于 [`SUMMARY.md`](https://github.com/lyy289065406/re0-web/blob/master/gitbook/SUMMARY.md) 索引量较大，[`build.sh`](https://github.com/lyy289065406/re0-web/blob/master/build.sh)  或 [`build.ps1`](https://github.com/lyy289065406/re0-web/blob/master/build.ps1) 编译一次约需 3 小时，因此要谨慎发布变更
+
+
+------
+
+## 版权声明
+
+　[![Copyright (C) 2016-2020 By EXP](https://img.shields.io/badge/Copyright%20(C)-2016~2019%20By%20EXP-blue.svg)](http://exp-blog.com)　[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  
+
+- Site: [http://exp-blog.com](http://exp-blog.com) 
+- Mail: <a href="mailto:289065406@qq.com?subject=[EXP's Github]%20Your%20Question%20（请写下您的疑问）&amp;body=What%20can%20I%20help%20you?%20（需要我提供什么帮助吗？）">289065406@qq.com</a>
+
+
+------

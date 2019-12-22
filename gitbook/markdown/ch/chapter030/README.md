@@ -77,7 +77,7 @@
 - [73　『恶毒的怠惰』](73.html)
 - [74　『履行的契约』](74.html)
 - [75　『再会x推迟x逆转的契机』](75.html)
-- [76　『舞台幕后×阴谋诡计×拉钩约定』](76.html)
+- [76　『幕后舞台×阴谋诡计×拉钩约定』](76.html)
 - [77　『俘虏交涉与再会』](77.html)
 - [78　『狂人与狂语』](78.html)
 - [79　『自称的骑士与最优的骑士』](79.html)
@@ -93,14 +93,9 @@
 - [番外編　『王様』](90.html)
 - [后记　『篇章插图』](99.html)
 
-![](/res/img/article/chapter030/00-b.jpg)
 
-![](/res/img/article/chapter030/00-e.jpg)
 
-![](/res/img/article/chapter030/00-g.jpg)
+| <img width="500" src="/res/img/article/chapter030/00-b.jpg"> | <img width="500" src="/res/img/article/chapter030/00-e.jpg"> | <img width="500" src="/res/img/article/chapter030/00-g.jpg"> |
+|:------:|:------:|:------:|
+| <img width="500" src="/res/img/article/chapter030/00-i.jpg"> | <img width="500" src="/res/img/article/chapter030/00-k.jpg"> | <img width="500" src="/res/img/article/chapter030/00-m.jpg"> |
 
-![](/res/img/article/chapter030/00-i.jpg)
-
-![](/res/img/article/chapter030/00-k.jpg)
-
-![](/res/img/article/chapter030/00-m.jpg)

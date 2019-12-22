@@ -94,14 +94,10 @@
 - [后记　『篇章插图』](99.html)
 
 
-![](/res/img/article/chapter030/00-b.jpg)
 
-![](/res/img/article/chapter030/00-e.jpg)
 
-![](/res/img/article/chapter030/00-g.jpg)
 
-![](/res/img/article/chapter030/00-i.jpg)
+| <img width="500" src="/res/img/article/chapter030/00-b.jpg"> | <img width="500" src="/res/img/article/chapter030/00-e.jpg"> | <img width="500" src="/res/img/article/chapter030/00-g.jpg"> |
+|:------:|:------:|:------:|
+| <img width="500" src="/res/img/article/chapter030/00-i.jpg"> | <img width="500" src="/res/img/article/chapter030/00-k.jpg"> | <img width="500" src="/res/img/article/chapter030/00-m.jpg"> |
 
-![](/res/img/article/chapter030/00-k.jpg)
-
-![](/res/img/article/chapter030/00-m.jpg)

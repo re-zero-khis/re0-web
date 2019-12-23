@@ -357,7 +357,7 @@
 	* [19　『剧场型恶意』](markdown/ch/chapter050/19.md)
 	* [20　『共相高涨的情绪』](markdown/ch/chapter050/20.md)
 	* [21　『最佳的解法』](markdown/ch/chapter050/21.md)
-	* [22　『轻易的回答』](markdown/ch/chapter050/22.md)
+	* [22　『草率的解法』](markdown/ch/chapter050/22.md)
 	* [23　『被扰乱的事态』](markdown/ch/chapter050/23.md)
 	* [24　『冰炎的结局』](markdown/ch/chapter050/24.md)
 	* [25　『狮子座剧场』](markdown/ch/chapter050/25.md)

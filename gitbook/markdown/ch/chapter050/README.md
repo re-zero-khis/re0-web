@@ -21,7 +21,7 @@
 - [19　『剧场型恶意』](19.html)
 - [20　『共相高涨的情绪』](20.html)
 - [21　『最佳的解法』](21.html)
-- [22　『轻易的回答』](22.html)
+- [22　『草率的解法』](22.html)
 - [23　『被扰乱的事态』](23.html)
 - [24　『冰炎的结局』](24.html)
 - [25　『狮子座剧场』](25.html)
@@ -85,4 +85,7 @@
 - [幕間　『未完成的大器』](83.html)
 - [幕間　『温暖的名字』](84.html)
 
-![](/res/img/article/chapter050/00-b.jpg)
+
+| <img width="500" src="/res/img/article/chapter050/00-b.jpg"> | <img width="500" src="/res/img/article/chapter050/00-c.jpg"> |
+|:------:|:------:|
+| 　 | 　 |

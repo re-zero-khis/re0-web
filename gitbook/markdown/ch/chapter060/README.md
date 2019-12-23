@@ -80,4 +80,4 @@
 - [78　『角四つ』](78.html)
 - [79　『READY STEADY GO』](79.html)
 
-![](/res/img/article/chapter060.jpg)
+![](/res/img/article/chapter060/00.jpg)

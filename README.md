@@ -38,7 +38,7 @@
 | EPUB 第 13 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-h.jpg"> | x | <ul><li><b>起</b>：【第四章】 78 『欲哭的声音』</li><li><b>止</b>：【第四章】 117 『情信』</li></ul> |
 | EPUB 第 14 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-j.jpg"> | x | <ul><li><b>起</b>：【第四章】 118 『平家星笑的日子』</li><li><b>止</b>：【第四章】 122 『咆哮的再会』</li></ul> |
 | EPUB 第 15 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-k.jpg"> | x | <ul><li><b>起</b>：【第四章】 123 『猎肠者VS圣域之盾』</li><li><b>止</b>：【第四章】 蛇足 『再临』</li></ul> |
-| EPUB 第 16 卷 | x | x | x |
+| EPUB 第 16 卷 | <img width="150" src="https://github.com/lyy289065406/re0-web/raw/master/gitbook/res/img/article/chapter040/00-a.jpg"> | x | x |
 | EPUB 第 17 卷 | x | x | x |
 | EPUB 第 18 卷 | x | x | x |
 | EPUB 第 19 卷 | x | x | x |

@@ -500,7 +500,7 @@
 	* [77　『反撃の狼煙』](markdown/ch/chapter060/77.md)
 	* [78　『角四つ』](markdown/ch/chapter060/78.md)
 	* [79　『READY STEADY GO』](markdown/ch/chapter060/79.md)
-* [ReZeroEX　『IF线』](markdown/ch/chapter099/README.md)
+* [ReZeroEX　『短篇集』（IF线）](markdown/ch/chapter099/README.md)
 	* [01　『鬼的幸福』](markdown/ch/chapter099/01.md)
 	* [02　『胡蝶之夢』](markdown/ch/chapter099/02.md)
 	* [03　『フォーチュンロール・ラプソディ』](markdown/ch/chapter099/03.md)

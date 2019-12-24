@@ -22,12 +22,12 @@
 - [『酒精之乱』](06.html)
 
 
-| <img width="300" src="/res/img/article/chapter099/short02/00-a.jpg"> | <img width="300" src="/res/img/article/chapter099/short02/00-b.jpg | <img width="300" src="/res/img/article/chapter099/short02/00-c.jpg | <img width="300" src="/res/img/article/chapter099/short02/00-d.jpg | <img width="300" src="/res/img/article/chapter099/short02/11.jpg |
+| <img width="300" src="/res/img/article/chapter099/short02/00-a.jpg"> | <img width="300" src="/res/img/article/chapter099/short02/00-b.jpg"> | <img width="300" src="/res/img/article/chapter099/short02/00-c.jpg"> | <img width="300" src="/res/img/article/chapter099/short02/00-d.jpg"> | <img width="300" src="/res/img/article/chapter099/short02/11.jpg"> |
 |:------:|:------:|:------:|:------:|:------:|
 | 　 | 　 | 　 | 　 | 　 |
 
 
-| <img width="300" src="/res/img/article/chapter099/short02/12.jpg"> | <img width="300" src="/res/img/article/chapter099/short02/13.jpg |
+| <img width="300" src="/res/img/article/chapter099/short02/12.jpg"> | <img width="300" src="/res/img/article/chapter099/short02/13.jpg"> |
 |:------:|:------:|
 | 　 | 　 |
 

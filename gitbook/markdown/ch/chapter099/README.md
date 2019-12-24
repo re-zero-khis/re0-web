@@ -32,7 +32,7 @@
 
 - [『从零开始的英雄史诗』](short01/01.html)
 - [『女仆长无法放松休息的假日』](short01/02.html)
-- [『放弃追随的那天』](short01/03.html)
+- [『放弃尾随的日子』](short01/03.html)
 - [『爱蜜莉雅梦游仙境』](short01/04.html)
 
 
@@ -110,3 +110,6 @@
 - [『贝亚特丽斯和蕾姆的侍奉很头疼』](special/25.html)
 - [『艾米莉娅和拉姆的主从凸凹』](special/26.html)
 - [『大精灵帕克的喵喵喵晴天』](special/27.html)
+- [『大精灵帕克的喵喵喵晴天』](special/27.html)
+- [『Memory Snow 前日谈莉雅 Days』](special/28.html)
+- [『冰洁之绊 前日谈冰洁的日常』](special/29.html)

@@ -420,6 +420,7 @@
 	* [幕間　『结对的条件』](markdown/ch/chapter050/82.md)
 	* [幕間　『未完成的大器』](markdown/ch/chapter050/83.md)
 	* [幕間　『温暖的名字』](markdown/ch/chapter050/84.md)
+	* [后记　『篇章插图』](markdown/ch/chapter050/99.md)
 * [第六章　『记忆的回廊』](markdown/ch/chapter060/README.md)
 	* [01　『龙车归途路』](markdown/ch/chapter060/01.md)
 	* [02　『他相应的款待』](markdown/ch/chapter060/02.md)
@@ -527,7 +528,7 @@
 	* [短篇集　01](markdown/ch/chapter099/short01/README.md)
 		* [『从零开始的英雄史诗』](markdown/ch/chapter099/short01/01.md)
 		* [『女仆长无法放松休息的假日』](markdown/ch/chapter099/short01/02.md)
-		* [『放弃追随的那天』](markdown/ch/chapter099/short01/03.md)
+		* [『放弃尾随的日子』](markdown/ch/chapter099/short01/03.md)
 		* [『爱蜜莉雅梦游仙境』](markdown/ch/chapter099/short01/04.md)
 	* [短篇集　02](markdown/ch/chapter099/short02/README.md)
 		* [『对 E·M·T 献上情歌』](markdown/ch/chapter099/short02/01.md)
@@ -590,7 +591,8 @@
 		* [『贝亚特丽斯和蕾姆的侍奉很头疼』](markdown/ch/chapter099/special/25.md)
 		* [『艾米莉娅和拉姆的主从凸凹』](markdown/ch/chapter099/special/26.md)
 		* [『大精灵帕克的喵喵喵晴天』](markdown/ch/chapter099/special/27.md)
-
+		* [『Memory Snow 前日谈莉雅 Days』](markdown/ch/chapter099/special/28.md)
+		* [『冰洁之绊 前日谈冰洁的日常』](markdown/ch/chapter099/special/29.md)
 
 ----
 

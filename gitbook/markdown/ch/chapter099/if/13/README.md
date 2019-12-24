@@ -9,3 +9,8 @@
 - [『——十个月』](07.html)
 - [『——产月』](08.html)
 - [终章　『——纪念日』](09.html)
+
+
+| <img width="300" src="/res/img/article/chapter099/if/13/00-a.jpg" /> | <img width="300" src="/res/img/article/chapter099/if/13/00-b.jpg" /> |
+|:------:|:------:|
+| 　 | 　 |

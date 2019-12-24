@@ -17,3 +17,9 @@
 - [『女仆长无法放松休息的假日』](02.html)
 - [『放弃追随的那天』](03.html)
 - [『爱蜜莉雅梦游仙境』](04.html)
+
+
+| <img width="500" src="/res/img/article/chapter099/short01/00.jpg"> | <img width="500" src="/res/img/article/chapter099/short01/11.jpg"> |
+|:------:|:------:|
+| <img width="500" src="/res/img/article/chapter099/short01/12.jpg"> | <img width="500" src="/res/img/article/chapter099/short01/13.jpg"> |
+| <img width="500" src="/res/img/article/chapter099/short01/14.jpg"> | <img width="500" src="/res/img/article/chapter099/short01/15.jpg"> |

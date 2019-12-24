@@ -20,3 +20,14 @@
 - [『图书馆员碧翠丝不甘愿的约定』](04.html)
 - [『喜欢冷天气』](05.html)
 - [『酒精之乱』](06.html)
+
+
+| <img width="300" src="/res/img/article/chapter099/short02/00-a.jpg"> | <img width="300" src="/res/img/article/chapter099/short02/00-b.jpg | <img width="300" src="/res/img/article/chapter099/short02/00-c.jpg | <img width="300" src="/res/img/article/chapter099/short02/00-d.jpg | <img width="300" src="/res/img/article/chapter099/short02/11.jpg |
+|:------:|:------:|:------:|:------:|:------:|
+| 　 | 　 | 　 | 　 | 　 |
+
+
+| <img width="300" src="/res/img/article/chapter099/short02/12.jpg"> | <img width="300" src="/res/img/article/chapter099/short02/13.jpg |
+|:------:|:------:|
+| 　 | 　 |
+

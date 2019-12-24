@@ -7,12 +7,12 @@
 - [『狮子王所见之梦』](05.html)
 
 
-| <img width="500" src="/res/img/article/chapter099/short03/00-a.jpg"> | <img width="500" src="/res/img/article/chapter099/short03/00-b.jpg"> | <img width="500" src="/res/img/article/chapter099/short03/11.jpg"> |
+| <img width="500" src="/res/img/article/chapter099/short03/00-a.jpg" /> | <img width="500" src="/res/img/article/chapter099/short03/00-b.jpg" /> | <img width="500" src="/res/img/article/chapter099/short03/11.jpg" /> |
 |:------:|:------:|:------:|
 | 　 | 　 | 　 |
 
 
-| <img width="500" src="/res/img/article/chapter099/short03/12.jpg"> | <img width="500" src="/res/img/article/chapter099/short03/13.jpg"> |
+| <img width="500" src="/res/img/article/chapter099/short03/12.jpg" /> | <img width="500" src="/res/img/article/chapter099/short03/13.jpg" /> |
 |:------:|:------:|
-| <img width="500" src="/res/img/article/chapter099/short03/14.jpg"> | <img width="500" src="/res/img/article/chapter099/short03/15.jpg"> |
+| <img width="500" src="/res/img/article/chapter099/short03/14.jpg" /> | <img width="500" src="/res/img/article/chapter099/short03/15.jpg" /> |
 

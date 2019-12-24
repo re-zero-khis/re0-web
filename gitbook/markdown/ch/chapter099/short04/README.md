@@ -15,6 +15,6 @@
 | 　 | 　 | 　 |
 
 
-| <img width="500" src="/res/img/article/chapter099/short04/12.jpg"> | <img width="500" src="/res/img/article/chapter099/short04/13.jpg" /> |
+| <img width="500" src="/res/img/article/chapter099/short04/12.jpg" /> | <img width="500" src="/res/img/article/chapter099/short04/13.jpg" /> |
 |:------:|:------:|
 | <img width="500" src="/res/img/article/chapter099/short04/14.jpg" /> | <img width="500" src="/res/img/article/chapter099/short04/15.jpg" /> |

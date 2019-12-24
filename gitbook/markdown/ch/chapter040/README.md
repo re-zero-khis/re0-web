@@ -145,7 +145,7 @@
 
 
 
-| <img width="500" src="/res/img/article/chapter040/00-b.jpg"> | <img width="500" src="/res/img/article/chapter040/00-d.jpg"> | <img width="500" src="/res/img/article/chapter040/00-e.jpg"> |
+| <img width="500" src="/res/img/article/chapter040/00-b.jpg" /> | <img width="500" src="/res/img/article/chapter040/00-d.jpg" /> | <img width="500" src="/res/img/article/chapter040/00-e.jpg" /> |
 |:------:|:------:|:------:|
-| <img width="500" src="/res/img/article/chapter040/00-g.jpg"> | <img width="500" src="/res/img/article/chapter040/00-i.jpg"> | <img width="500" src="/res/img/article/chapter040/00-l.jpg"> |
+| <img width="500" src="/res/img/article/chapter040/00-g.jpg" /> | <img width="500" src="/res/img/article/chapter040/00-i.jpg" /> | <img width="500" src="/res/img/article/chapter040/00-l.jpg" /> |
 

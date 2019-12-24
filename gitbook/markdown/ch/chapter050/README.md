@@ -87,6 +87,6 @@
 - [后记　『篇章插图』](99.html)
 
 
-| <img width="500" src="/res/img/article/chapter050/00-b.jpg"> | <img width="500" src="/res/img/article/chapter050/00-c.jpg"> |
+| <img width="500" src="/res/img/article/chapter050/00-b.jpg" /> | <img width="500" src="/res/img/article/chapter050/00-c.jpg" /> |
 |:------:|:------:|
 | 　 | 　 |

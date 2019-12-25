@@ -48,11 +48,22 @@
 
 ------
 
+## 致开发者
+
 <details>
 <summary>展开查看</summary>
 <br/>
 
+</details>
+
+------
+
+
 ## 致开发者
+
+<details>
+<summary>展开查看</summary>
+<br/>
 
 此书籍是利用 [GitBook](https://docs.gitbook.com/) 搭建的，同时兼容在 [Github Pages](https://lyy289065406.github.io/re0-web) 和 [本地（线下）](http://127.0.0.1:4000/) 运行。
 

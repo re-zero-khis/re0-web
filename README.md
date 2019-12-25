@@ -16,29 +16,7 @@
 
 ![](https://github.com/lyy289065406/re0-web/blob/master/img/01.png)
 
-![](https://github.com/lyy289065406/re0-web/blob/master/img/02.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/03.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/04.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/05.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/06.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/07.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/08.png)
-
 ![](https://github.com/lyy289065406/re0-web/blob/master/img/09.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/10.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/11.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/12.png)
-
-![](https://github.com/lyy289065406/re0-web/blob/master/img/13.png)
 
 ![](https://github.com/lyy289065406/re0-web/blob/master/img/14.png)
 

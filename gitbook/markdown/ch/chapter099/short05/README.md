@@ -10,7 +10,7 @@
 - [『隠れ里の鬼姉妹Ex　祝福の日』](08.html)
 - [『从零开始的王选生活　金狮子与剑圣』](09.html)
 
-| <img width="500" src="/res/img/article/chapter099/short05/01.jpg" /> | <img width="500" src="/res/img/article/chapter099/short05/02.jpg" /> | <img width="500" src="/res/img/article/chapter099/short05/03.jpg" /> |
+| <img width="400" src="/res/img/article/chapter099/short05/01.jpg" /> | <img width="400" src="/res/img/article/chapter099/short05/02.jpg" /> | <img width="400" src="/res/img/article/chapter099/short05/03.jpg" /> |
 |:------:|:------:|:------:|
-| <img width="500" src="/res/img/article/chapter099/short05/04.jpg" /> | <img width="500" src="/res/img/article/chapter099/short05/05.jpg" /> | <img width="500" src="/res/img/article/chapter099/short05/06.jpg" /> |
-| <img width="500" src="/res/img/article/chapter099/short05/7.jpg" /> | <img width="500" src="/res/img/article/chapter099/short05/08.jpg" /> | <img width="500" src="/res/img/article/chapter099/short05/09.jpg" /> |
+| <img width="400" src="/res/img/article/chapter099/short05/04.jpg" /> | <img width="400" src="/res/img/article/chapter099/short05/05.jpg" /> | <img width="400" src="/res/img/article/chapter099/short05/06.jpg" /> |
+| <img width="400" src="/res/img/article/chapter099/short05/07.jpg" /> | <img width="400" src="/res/img/article/chapter099/short05/08.jpg" /> | <img width="400" src="/res/img/article/chapter099/short05/09.jpg" /> |

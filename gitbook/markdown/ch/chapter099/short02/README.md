@@ -27,7 +27,7 @@
 | 　 | 　 | 　 | 　 | 　 |
 
 
-| <img width="300" src="/res/img/article/chapter099/short02/12.jpg" /> | <img width="300" src="/res/img/article/chapter099/short02/13.jpg" /> |
+| <img width="500" src="/res/img/article/chapter099/short02/12.jpg" /> | <img width="500" src="/res/img/article/chapter099/short02/13.jpg" /> |
 |:------:|:------:|
 | 　 | 　 |
 

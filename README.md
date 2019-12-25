@@ -33,7 +33,6 @@
 - 汉化整合（巴哈姆特）：[【三四章】](https://home.gamer.com.tw/creationDetail.php?sn=3279407)[【五章】](https://home.gamer.com.tw/creationDetail.php?sn=3686795)
 - 汉化搬运（有道云）： [【上】](https://note.youdao.com/ynoteshare1/index.html?id=8a308a38db5ff96ec6e69d5807a917ba) [【下】](https://note.youdao.com/ynoteshare1/index.html?id=c79c8f8e467ac554d292d62a43dc8bf6&type=note#/&sfc=qqfriend)
 - [汉化搬运（真白萌）](https://masiro.moe/forum.php?mod=forumdisplay&fid=251)
-- [~汉化搬运（B站轻小说）~](https://www.bilibili.com/read/cv2917910/)
 
 ------
 

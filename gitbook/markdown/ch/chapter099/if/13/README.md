@@ -1,16 +1,16 @@
 ## 从 IF 开始的异世界生活（雷姆 IF 线）
 
-- [序章　『——启程』](01.html)
-- [『——两个月』](02.html)
-- [『——三个月（1）』](03.html)
-- [『——三个月（2）』](04.html)
-- [『——六个月』](05.html)
-- [幕间　『——忌日』](06.html)
-- [『——十个月』](07.html)
-- [『——产月』](08.html)
-- [终章　『——纪念日』](09.html)
+- [序章　『启程』](00.html)
+- [『两个月』](01.html)
+- [『三个月』　上篇](02.html)
+- [『三个月』　下篇](03.html)
+- [『六个月』](04.html)
+- [幕间　『忌日』](05.html)
+- [『十个月』](06.html)
+- [『产月』](07.html)
+- [终章　『纪念日』](08.html)
 
 
-| <img width="300" src="/res/img/article/chapter099/if/13/00-a.jpg" /> | <img width="300" src="/res/img/article/chapter099/if/13/00-b.jpg" /> |
+| <img width="500" src="/res/img/article/chapter099/if/13/00-a.jpg" /> | <img width="500" src="/res/img/article/chapter099/if/13/00-b.jpg" /> |
 |:------:|:------:|
 | 　 | 　 |

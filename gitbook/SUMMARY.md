@@ -431,7 +431,7 @@
 	* [07　『以沙海为目标』](markdown/ch/chapter060/07.md)
 	* [08　『沙丘的洗礼』](markdown/ch/chapter060/08.md)
 	* [09　『沙时间中的跋涉』](markdown/ch/chapter060/09.md)
-	* [10　『像闪光一样』](markdown/ch/chapter060/10.md)
+	* [10　『宛如闪光』](markdown/ch/chapter060/10.md)
 	* [11　『听见眼泪的声音』](markdown/ch/chapter060/11.md)
 	* [12　『监视塔的洗礼』](markdown/ch/chapter060/12.md)
 	* [13　『沙海的嘲笑』](markdown/ch/chapter060/13.md)

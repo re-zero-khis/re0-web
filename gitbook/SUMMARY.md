@@ -444,7 +444,7 @@
 	* [20　『夏乌拉≠贤者=弗琉盖尔』](markdown/ch/chapter060/20.md)
 	* [21　『独白的挑战书』](markdown/ch/chapter060/21.md)
 	* [22　『白色星空的群星』](markdown/ch/chapter060/22.md)
-	* [23　『三层塔基忒的大图书馆』](markdown/ch/chapter060/23.md)
+	* [23　『三层塔基忒大图书馆』](markdown/ch/chapter060/23.md)
 	* [24　『性格扭曲的考官』](markdown/ch/chapter060/24.md)
 	* [25　『二层厄勒克特拉盼望之人』](markdown/ch/chapter060/25.md)
 	* [26　『挥棒的男人』](markdown/ch/chapter060/26.md)

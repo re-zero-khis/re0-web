@@ -443,7 +443,7 @@
 	* [18　『砂塔的看守者』](markdown/ch/chapter060/18.md)
 	* [19　『贤者的行踪』](markdown/ch/chapter060/19.md)
 	* [20　『夏乌拉≠贤者=弗琉盖尔』](markdown/ch/chapter060/20.md)
-	* [21　『独白的挑战书』](markdown/ch/chapter060/21.md)
+	* [21　『巨石板的挑战书』](markdown/ch/chapter060/21.md)
 	* [22　『白色星空的群星』](markdown/ch/chapter060/22.md)
 	* [23　『三层塔基忒大图书馆』](markdown/ch/chapter060/23.md)
 	* [24　『性格扭曲的考官』](markdown/ch/chapter060/24.md)

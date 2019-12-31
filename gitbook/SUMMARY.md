@@ -428,7 +428,7 @@
 	* [03　『少女的牢笼』](markdown/ch/chapter060/03.md)
 	* [04　『把你带出的理由』](markdown/ch/chapter060/04.md)
 	* [05　『各自的不安』](markdown/ch/chapter060/05.md)
-	* [06　『尤利乌斯的身世』](markdown/ch/chapter060/06.md)
+	* [06　『尤里乌斯的身世』](markdown/ch/chapter060/06.md)
 	* [07　『以沙海为目标』](markdown/ch/chapter060/07.md)
 	* [08　『沙丘的洗礼』](markdown/ch/chapter060/08.md)
 	* [09　『沙时间中的跋涉』](markdown/ch/chapter060/09.md)

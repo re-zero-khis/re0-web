@@ -422,6 +422,7 @@
 	* [幕間　『温暖的名字』](markdown/ch/chapter050/84.md)
 	* [后记　『篇章插图』](markdown/ch/chapter050/99.md)
 * [第六章　『记忆的回廊』](markdown/ch/chapter060/README.md)
+	* [序章　『贤者监视塔』](markdown/ch/chapter060/00.md)
 	* [01　『龙车归途路』](markdown/ch/chapter060/01.md)
 	* [02　『他相应的款待』](markdown/ch/chapter060/02.md)
 	* [03　『少女的牢笼』](markdown/ch/chapter060/03.md)

@@ -89,7 +89,7 @@
 * [番外編　『Oneday』](markdown/ch/chapter021/README.md)
 	* [01　『中毒症状』](markdown/ch/chapter021/01.md)
 	* [02　『第一次蛋黄酱骚动』](markdown/ch/chapter021/02.md)
-* [第三章　『再次来到王都』](markdown/ch/chapter030/README.md)
+* [第三章　『再次来到王都』（王选篇）](markdown/ch/chapter030/README.md)
 	* [序章　『愚蠢者的固执』](markdown/ch/chapter030/00.md)
 	* [01　『安稳的早上』](markdown/ch/chapter030/01.md)
 	* [02　『佣人们的茶话』](markdown/ch/chapter030/02.md)

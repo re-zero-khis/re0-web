@@ -500,7 +500,7 @@
 	* [75　『露伊·阿尔内布』](markdown/ch/chapter060/75.md)
 	* [76　『自分という名の地獄』](markdown/ch/chapter060/76.md)
 	* [77　『反撃の狼煙』](markdown/ch/chapter060/77.md)
-	* [78　『角四つ』](markdown/ch/chapter060/78.md)
+	* [78　『四角』](markdown/ch/chapter060/78.md)
 	* [79　『READY STEADY GO』](markdown/ch/chapter060/79.md)
 * [ReZeroEX](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)

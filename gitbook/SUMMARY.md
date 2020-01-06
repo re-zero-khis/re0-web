@@ -555,7 +555,7 @@
 		* [『贝亚特丽斯和蕾姆的侍奉很头疼』](markdown/ch/chapter099/special/26.md)
 		* [『大精灵帕克的喵喵喵晴天』](markdown/ch/chapter099/special/27.md)
 		* [『Memory Snow 前日谈莉雅 Days』](markdown/ch/chapter099/special/28.md)
-		* [『冰洁之绊 前日谈冰洁的日常』](markdown/ch/chapter099/special/29.md)
+		* [『冰结之绊 前日谈冰结的日常』](markdown/ch/chapter099/special/29.md)
 	* [短篇集　01](markdown/ch/chapter099/short01/README.md)
 		* [『从零开始的英雄史诗』](markdown/ch/chapter099/short01/01.md)
 		* [『女仆长无法放松休息的假日』](markdown/ch/chapter099/short01/02.md)
@@ -594,6 +594,13 @@
 		* [『奥尔科斯领的赤雪』](markdown/ch/chapter099/short05/07.md)
 		* [『隠れ里の鬼姉妹Ex　祝福の日』](markdown/ch/chapter099/short05/08.md)
 		* [『从零开始的王选生活　金狮子与剑圣』](markdown/ch/chapter099/short05/09.md)
+	* [短篇集　06　『冰洁的羁绊』](markdown/ch/chapter099/short05/README.md)
+		* [序章　『四大与异物』](markdown/ch/chapter099/short06/00.md)
+		* [01　『被你呼唤』](markdown/ch/chapter099/short06/01.md)
+		* [02　『我在这里』](markdown/ch/chapter099/short06/02.md)
+		* [03　『只要是为了你』](markdown/ch/chapter099/short06/03.md)
+		* [04　『什么都能成』](markdown/ch/chapter099/short06/04.md)
+		* [结尾　『幸福的意思』](markdown/ch/chapter099/short06/05.md)
 
 ----
 

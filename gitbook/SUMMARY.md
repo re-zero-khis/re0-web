@@ -596,10 +596,10 @@
 		* [『从零开始的王选生活　金狮子与剑圣』](markdown/ch/chapter099/short05/09.md)
 	* [短篇集　06　『冰洁的羁绊』](markdown/ch/chapter099/short05/README.md)
 		* [序章　『四大与异物』](markdown/ch/chapter099/short06/00.md)
-		* [01　『被你呼唤』](markdown/ch/chapter099/short06/01.md)
-		* [02　『我在这里』](markdown/ch/chapter099/short06/02.md)
-		* [03　『只要是为了你』](markdown/ch/chapter099/short06/03.md)
-		* [04　『什么都能成』](markdown/ch/chapter099/short06/04.md)
+		* [第一章　『被你呼唤』](markdown/ch/chapter099/short06/01.md)
+		* [第二章　『我在这里』](markdown/ch/chapter099/short06/02.md)
+		* [第三章　『只要是为了你』](markdown/ch/chapter099/short06/03.md)
+		* [第四章　『什么都能成』](markdown/ch/chapter099/short06/04.md)
 		* [结尾　『幸福的意思』](markdown/ch/chapter099/short06/05.md)
 
 ----

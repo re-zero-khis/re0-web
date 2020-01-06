@@ -28,6 +28,6 @@
 - [『贝亚特丽斯和雷姆的侍奉很头疼』](26.html)
 - [『大精灵帕克的喵喵喵晴天』](27.html)
 - [『Memory Snow 前日谈莉雅 Days』](28.html)
-- [『冰洁之绊 前日谈冰洁的日常』](29.html)
+- [『冰结之绊 前日谈冰结的日常』](29.html)
 
 ![](/res/img/article/chapter099/special/00.jpg)

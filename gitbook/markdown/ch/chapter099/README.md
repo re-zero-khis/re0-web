@@ -58,7 +58,7 @@
 - [『贝亚特丽斯和雷姆的侍奉很头疼』](special/26.html)
 - [『大精灵帕克的喵喵喵晴天』](special/27.html)
 - [『Memory Snow 前日谈莉雅 Days』](special/28.html)
-- [『冰洁之绊 前日谈冰洁的日常』](special/29.html)
+- [『冰结之绊 前日谈冰结的日常』](special/29.html)
 
 
 ### 短篇集　01

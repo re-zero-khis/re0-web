@@ -17,7 +17,7 @@
 - [『对 E·M·T 献上情歌』](01.html)
 - [『RAM IS ORDER』](02.html)
 - [『OPERATION·KOKKURI』](03.html)
-- [『图书馆员碧翠丝不甘愿的约定』](04.html)
+- [『图书馆员贝亚托莉丝不甘愿的约定』](04.html)
 - [『喜欢冷天气』](05.html)
 - [『酒精之乱』](06.html)
 

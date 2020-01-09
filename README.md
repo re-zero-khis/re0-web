@@ -7,13 +7,13 @@
 ## 如何阅读
 
 - 【PC/手机】用户均可从这个链接直接阅读：[https://lyy289065406.github.io/re0-web](https://lyy289065406.github.io/re0-web)
-- 【手机】用户也可以安装 APP 【[OpenHub for Github](https://github.com/ThirtyDegreesRay/OpenHub)】 阅读纯文字版：
-<br/>　(1) [注册](https://github.com/join?source=header-home) 一个 Github 账号
-<br/>　(2) 点击此项目仓库([re0-web](https://github.com/lyy289065406/re0-web))右上角的【Star】和【Fork】按钮
-<br/>　(3) 从 手机应用商城 或 Github 安装【OpenHub】
-<br/>　(4) 使用刚才注册的 Github 账号登录【OpenHub】
-<br/>　(5) 打开【My repos】，找到 [re0-web](https://github.com/lyy289065406/re0-web) 并点击进入项目
-<br/>　(6) 点击【FILES】可打开仓库文件，在路径 `gitbook/markdown/ch` 下即为各个章节的内容
+- 【手机】用户若加载时间过长，也可以安装 APP 【[OpenHub for Github](https://github.com/ThirtyDegreesRay/OpenHub)】 阅读纯文字版：
+<br/>　（1）[注册](https://github.com/join?source=header-home) 一个 Github 账号
+<br/>　（2）点击此项目仓库([re0-web](https://github.com/lyy289065406/re0-web))右上角的【Star】和【Fork】按钮
+<br/>　（3）从 手机应用商城 或 Github 安装【OpenHub】
+<br/>　（4）使用刚才注册的 Github 账号登录【OpenHub】
+<br/>　（5）打开【My repos】，找到 [re0-web](https://github.com/lyy289065406/re0-web) 并点击进入项目
+<br/>　（6）点击【FILES】可打开仓库文件，在路径 `gitbook/markdown/ch` 下即为各个章节的内容
 
 
 ## 内容预览

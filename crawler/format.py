@@ -5,14 +5,13 @@ import os
 
 def main() :
     DIR = '.'
-    SUFFIX = '.md'
     
     for dirPath, dirNames, fileNames in os.walk(DIR):   #迭代目录
         if DIR != dirPath :
                 continue
 
         for fileName in fileNames :
-            if SUFFIX not in fileName :
+            if ('.md' not in fileName) or ('README' in fileName) :
                 continue
 
             print(fileName)

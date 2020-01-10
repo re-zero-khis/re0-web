@@ -81,4 +81,4 @@
 - [78　『四角』](78.html)
 - [79　『READY STEADY GO』](79.html)（译文缺损）
 
-![](/res/img/article/chapter060/00.jpg)
+![](/res/img/article/chapter060/00-a.jpg)

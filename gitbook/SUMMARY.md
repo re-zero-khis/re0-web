@@ -495,7 +495,7 @@
 	* [70　『专情的星星』](markdown/ch/chapter060/70.md)
 	* [71　『Count·One』](markdown/ch/chapter060/71.md)
 	* [72　『■■・■』](markdown/ch/chapter060/72.md)
-	* [73　『　『ナツキ・スバル』　』](markdown/ch/chapter060/73.md)
+	* [73　『 『ナツキ・スバル』 』](markdown/ch/chapter060/73.md)
 	* [74　『ナツキ・スバル』](markdown/ch/chapter060/74.md)
 	* [75　『路伊·阿尔尼普』](markdown/ch/chapter060/75.md)
 	* [76　『名为自己的地狱』](markdown/ch/chapter060/76.md)

@@ -556,7 +556,7 @@
 		* [『大精灵帕克的喵喵喵晴天』](markdown/ch/chapter099/special/27.md)
 		* [『Memory Snow 前日谈莉雅 Days』](markdown/ch/chapter099/special/28.md)
 		* [『冰结之绊 前日谈冰结的日常』](markdown/ch/chapter099/special/29.md)
-		* [BD特典　『Re：从零开始的前日传 冰洁的羁绊』](markdown/ch/special/bd/README.md)
+		* [BD特典　『Re：从零开始的前日传 冰洁的羁绊』](markdown/ch/chapter099/special/bd/README.md)
 			* [序章　『四大与异物』](markdown/ch/special/bd/00.md)
 			* [第一章　『被你呼唤』](markdown/ch/special/bd/01.md)
 			* [第二章　『我在这里』](markdown/ch/special/bd/02.md)

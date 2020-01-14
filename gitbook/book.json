@@ -71,7 +71,7 @@
         
         "-page-copyright",
         "tbfed-pagefooter",
-        "donate",
+        "-donate",
         "pageview-count",
 
         "image-captions",

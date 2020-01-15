@@ -29,6 +29,6 @@
 - [『大精灵帕克的喵喵喵晴天』](27.html)
 - [『Memory Snow 前日谈莉雅 Days』](28.html)
 - [『冰结之绊 前日谈冰结的日常』](29.html)
-- [BD特典-『Re：从零开始的前日传 冰洁的羁绊』](bd/)
+- [BD特典-『Re：从零开始的前日传 冰结的羁绊』](bd/)
 
 ![](/res/img/article/chapter099/special/00.jpg)

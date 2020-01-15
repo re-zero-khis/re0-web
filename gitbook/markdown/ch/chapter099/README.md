@@ -64,7 +64,7 @@
 - [『Memory Snow 前日谈莉雅 Days』](special/28.html)
 - [『冰结之绊 前日谈冰结的日常』](special/29.html)
 
-#### BD特典-『Re：从零开始的前日传 冰洁的羁绊』
+#### BD特典-『Re：从零开始的前日传 冰结的羁绊』
 
 - [序章　『四大与异物』](special/bd/00.html)
 - [第一章　『被你呼唤』](special/bd/01.html)

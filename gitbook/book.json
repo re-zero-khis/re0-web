@@ -5,7 +5,7 @@
     "language" : "en",
     "links" : {
         "sidebar" : {
-            "EXP's Github" : "https://github.com/lyy289065406"
+            "EXP's Github" : "https://github.com/lyy289065406/re0-web"
         }
     },
 
@@ -171,7 +171,7 @@
           "noPowered": false
         },
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy EXP 2019",
+            "copyright":"Copyright &copy EXP 2020",
             "modify_label": "最后修改时间 ： ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },

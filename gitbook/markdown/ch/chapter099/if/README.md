@@ -7,7 +7,7 @@
 - [05　『学院 Re：0！第二堂课！』](05.html)
 - [06　『菜月・利格鲁』](06.html)
 - [07　『从零开始的 Sane Louis』](07.html)
-- [08　『fortune·fish head tree』](08.html)
+- [08　『fortune・fish head tree』](08.html)
 - [09　『从零开始过错的异世界生活』](09.html)
 - [10　『Fate・春分霍洛』](10.html)
 - [11　『从零开始溺水的异世界生活』](11.html)

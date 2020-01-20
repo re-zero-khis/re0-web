@@ -11,7 +11,7 @@
 - [05　『学院 Re：0！第二堂课！』](if/05.html)
 - [06　『菜月・利格鲁』](if/06.html)
 - [07　『从零开始的 Sane Louis』](if/07.html)
-- [08　『fortune·fish head tree』](if/08.html)
+- [08　『fortune・fish head tree』](if/08.html)
 - [09　『从零开始过错的异世界生活』](if/09.html)
 - [10　『Fate・春分霍洛』](if/10.html)
 - [11　『从零开始溺水的异世界生活』](if/11.html)
@@ -86,9 +86,9 @@
 
 ### 短篇集　02
 
-- [『对 E·M·T 献上情歌』](short02/01.html)
+- [『对 E・M・T 献上情歌』](short02/01.html)
 - [『RAM IS ORDER』](short02/02.html)
-- [『OPERATION·KOKKURI』](short02/03.html)
+- [『OPERATION・KOKKURI』](short02/03.html)
 - [『图书馆员贝亚托莉丝不甘愿的约定』](short02/04.html)
 - [『喜欢冷天气』](short02/05.html)
 - [『酒精之乱』](short02/06.html)
@@ -97,9 +97,9 @@
 ### 短篇集　03
 
 - [『梦想的起始』](short03/01.html)
-- [『菲利克斯·阿盖尔是男儿身女儿心』](short03/02.html)
+- [『菲利克斯・阿盖尔是男儿身女儿心』](short03/02.html)
 - [『卡尔斯腾公爵领地的战乙女』](short03/03.html)
-- [『菲利克斯·阿盖尔的束缚』](short03/04.html)
+- [『菲利克斯・阿盖尔的束缚』](short03/04.html)
 - [『狮子王所见之梦』](short03/05.html)
 
 

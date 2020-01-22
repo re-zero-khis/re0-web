@@ -76,9 +76,9 @@
 | EPUB<br/>第 16 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-a.jpg"> | [腾讯微云](https://share.weiyun.com/5sX0q7P)<br/>（9qsp4y） | <ul><li><b>起</b>：【第五章】 01 『事情的起头总是由到访者开始』</li><li><b>止</b>：【第五章】 20 『共相高涨的情绪』</li></ul> |
 | EPUB<br/>第 17 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-c.jpg"> | [腾讯微云](https://share.weiyun.com/54yiuf6)<br/>（dw5txm） | <ul><li><b>起</b>：【第五章】 21 『最佳的解法』</li><li><b>止</b>：【第五章】 36 『爱的起点与终点』</li></ul> |
 | EPUB<br/>第 18 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-e.jpg"> | [腾讯微云](https://share.weiyun.com/5grVLUR)<br/>（i639w8） | <ul><li><b>起</b>：【第五章】 37 『重整旗鼓』</li><li><b>止</b>：【第五章】 48 『真正喜欢的人』</li></ul><br/><i>（这卷改动略大，文库版 把时间线和对战搭配调整了）</i> |
-| EPUB<br/>第 19 卷 | - | - | - |
-| EPUB<br/>第 20 卷 | - | - | - |
-| EPUB<br/>第 21 卷 | - | - | - |
+| EPUB<br/>第 19 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-g.jpg"> | - | - |
+| EPUB<br/>第 20 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-h.jpg"> | - | - |
+| EPUB<br/>第 21 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter060/00-a.jpg"> | - | - |
 
 ------
 

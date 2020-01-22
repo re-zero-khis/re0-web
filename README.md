@@ -40,6 +40,7 @@
 
 ## 相关资源
 
+- [文库版图源](https://rezero.fandom.com/wiki/Re:Zero_kara_Hajimeru_Isekai_Seikatsu)
 - [日文原版（需翻墙）](http://ncode.syosetu.com/n2267be/)
 - [汉化整合（百度贴吧）](https://tieba.baidu.com/p/4974060711?red_tag=0820409600)
 - 汉化整合（巴哈姆特）：[【三四章】](https://home.gamer.com.tw/creationDetail.php?sn=3279407)[【五章】](https://home.gamer.com.tw/creationDetail.php?sn=3686795)

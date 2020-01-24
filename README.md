@@ -78,7 +78,7 @@
 | EPUB<br/>第 18 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-e.jpg"> | [腾讯微云](https://share.weiyun.com/5grVLUR)<br/>（i639w8） | <ul><li><b>起</b>：【第五章】 37 『重整旗鼓』</li><li><b>止</b>：【第五章】 48 『真正喜欢的人』</li></ul> |
 | EPUB<br/>第 19 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-g.jpg"> | - | <ul><li><b>起</b>：【第五章】 49 『强欲攻略战开幕』</li><li><b>止</b>：【第五章】 59 『雷格鲁斯·柯尼亚斯』</li></ul> |
 | EPUB<br/>第 20 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-h.jpg"> | - | <ul><li><b>起</b>：【第五章】 60 『一波方平，一波又起』</li><li><b>止</b>：【第五章】 幕間 『温暖的名字』</li></ul> |
-| EPUB<br/>第 21 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter060/00-a.jpg"> | - | - |
+| EPUB<br/>第 21 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter060/00-a.jpg"> | - | <ul><li><b>起</b>：【第六章】 01 『龙车归途路』</li><li><b>止</b>：【第六章】 18 『砂塔的看守者』</li></ul> |
 
 ------
 

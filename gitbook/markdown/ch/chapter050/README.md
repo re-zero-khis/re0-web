@@ -90,3 +90,8 @@
 | <img width="500" src="/res/img/article/chapter050/00-b.jpg" /> | <img width="500" src="/res/img/article/chapter050/00-d.jpg" /> | <img width="500" src="/res/img/article/chapter050/00-f.jpg" /> |
 |:------:|:------:|:------:|
 | 　 | 　 | 　 |
+
+| <img width="500" src="/res/img/article/chapter050/00-g.jpg" /> | <img width="500" src="/res/img/article/chapter050/00-i.png" /> |
+|:------:|:------:|
+| 　 | 　 |
+

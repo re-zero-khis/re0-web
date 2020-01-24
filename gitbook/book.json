@@ -94,7 +94,7 @@
         },
         "sitemap-general": {
             "//": "所生成的站点地图路径前缀",
-            "prefix": "https://lyy289065406.github.io/exp-blog/gitbook/"
+            "prefix": "https://lyy289065406.github.io/re0-web/gitbook/"
         },
         "simple-page-toc": {
             "//": "所生成的章节目录最大深度",
@@ -155,7 +155,7 @@
             ]
         },
         "edit-link": {
-            "base": "https://github.com/lyy289065406/exp-blog/edit/master/gitbook",
+            "base": "https://github.com/lyy289065406/re0-web/edit/master/gitbook",
             "label": "EDIT THIS PAGE"
         },
         "page-copyright": {

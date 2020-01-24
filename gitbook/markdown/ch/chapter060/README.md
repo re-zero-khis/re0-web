@@ -80,5 +80,6 @@
 - [77　『反击的狼烟』](77.html)
 - [78　『四角』](78.html)
 - [79　『READY STEADY GO』](79.html)（译文缺损）
+- [后记　『篇章插图』](99.html)
 
-![](/res/img/article/chapter060/00-a.jpg)
+![](/res/img/article/chapter060/00-b.png)

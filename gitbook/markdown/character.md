@@ -127,7 +127,7 @@
 | **『初代剑圣』 雷德・阿斯特雷亚** | - |
 | **『前代剑圣』 特蕾西亚・范・阿斯特雷亚** | <img width="150" src="/res/img/character/tlxy.png" /> |
 | **亨克尔・阿斯特雷亚**<br/>威尔海姆和特蕾西亚的儿子，莱因哈鲁特的父亲。 | <img width="150" src="/res/img/character/Heinkel.png" /> |
-| **『八腕斗神』 库鲁刚** | - |
+| **『八腕斗神』 库鲁刚** | <img width="150" src="/res/img/character/klg.png" /> |
 | **『魔女』 斯芬克斯** | - |
 | **『184號』 希尔菲**<br/>强欲大罪司教雷格鲁斯的其中一个妻子。 | <img width="150" src="/res/img/character/184.png" /> |
 | **波拉奇亚　** | - |

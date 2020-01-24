@@ -502,6 +502,7 @@
 	* [77　『反击的狼烟』](markdown/ch/chapter060/77.md)
 	* [78　『四角』](markdown/ch/chapter060/78.md)
 	* [79　『READY STEADY GO』](markdown/ch/chapter060/79.md)
+	* [后记　『篇章插图』](markdown/ch/chapter060/99.md)
 * [ReZeroEX](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『鬼的幸福』](markdown/ch/chapter099/if/01.md)

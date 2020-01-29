@@ -130,7 +130,6 @@
 | **『八腕斗神』 库鲁刚** | <img width="150" src="/res/img/character/klg.png" /> |
 | **『魔女』 斯芬克斯** | - |
 | **『184號』 希尔菲**<br/>强欲大罪司教雷格鲁斯的其中一个妻子。 | <img width="150" src="/res/img/character/184.png" /> |
-| **波拉奇亚　** | - |
 | **菜月・贤一**<br/>昴的父亲。 | <img width="150" src="/res/img/character/xy.png" /> |
 | **菜月・菜穗子**<br/>昴的母亲。 | <img width="150" src="/res/img/character/csz.png" /> |
 | **福尔图娜**<br/>爱蜜莉娅的生母的妹妹，也是爱蜜莉娅的养母。 | <img width="150" src="/res/img/character/fetn.png" /> |

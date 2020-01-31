@@ -79,7 +79,7 @@
 - [76　『名为自己的地狱』](76.html)（缺译文）
 - [77　『反击的狼烟』](77.html)
 - [78　『四角』](78.html)
-- [79　『READY STEADY GO』](79.html)（译文缺损）
+- [79　『READY STEADY GO』](79.html)
 - [后记　『篇章插图』](99.html)
 
 ![](/res/img/article/chapter060/00-b.png)

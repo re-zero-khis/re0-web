@@ -59,7 +59,7 @@
 - [『安娜塔西亚的卡拉拉基商人道』](special/23.html)
 - [『爱蜜莉娅和拉姆的主从凸凹』](special/24.html)
 - [『爱蜜莉娅和拉姆的主从凸凸凹凹』](special/25.html)
-- [『贝亚托莉丝和雷姆的侍奉很头疼』](special/26.html)
+- [『碧翠丝和雷姆的侍奉很头疼』](special/26.html)
 - [『大精灵帕克的喵喵喵晴天』](special/27.html)
 - [『Memory Snow 前日谈莉雅 Days』](special/28.html)
 - [『冰结之绊 前日谈冰结的日常』](special/29.html)
@@ -89,7 +89,7 @@
 - [『对 E・M・T 献上情歌』](short02/01.html)
 - [『RAM IS ORDER』](short02/02.html)
 - [『OPERATION・KOKKURI』](short02/03.html)
-- [『图书馆员贝亚托莉丝不甘愿的约定』](short02/04.html)
+- [『图书馆员碧翠丝不甘愿的约定』](short02/04.html)
 - [『喜欢冷天气』](short02/05.html)
 - [『酒精之乱』](short02/06.html)
 

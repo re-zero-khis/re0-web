@@ -12,7 +12,7 @@
     "plugin-comment": {
         "//": "插件功能说明（以 - 号开头表示不启用该插件，多用于会冲突的默认插件）",
 
-        "theme-comscore": "主题插件：使用不同颜色标识章节标题", 
+        "theme-comscore": "主题插件：使用不同颜色标识章节标题。增加自定义宽屏效果，并保留【前一篇、后一篇】效果", 
         "theme-api": "主题插件：支持 API 动态模块，但是 Guthub Pages 不支持 octopress 类的插件，这里纯粹使用其宽屏效果", 
         "sitemap-general": "在网站根目录生成站点地图 sitemap.xml", 
         "favicon": "用于更改网站的 favicon.ico （但因为加载顺序问题，无法覆盖原生的 favicon 图片）",
@@ -51,7 +51,7 @@
 
     "plugins": [
         "theme-comscore",
-        "theme-api",
+        "-theme-api",
         "sitemap-general",
         "-favicon",
         "canvas-nest",

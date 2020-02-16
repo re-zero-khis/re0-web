@@ -13,7 +13,7 @@
 - [07　『从零开始的 Sane Louis』](if/07.html)
 - [08　『fortune・fish head tree』](if/08.html)
 - [09　『从零开始过错的异世界生活』](if/09.html)
-- [10　『Fate・春分霍洛』](if/10.html)
+- [10　『Fate・节分霍洛』](if/10.html)
 - [11　『从零开始溺水的异世界生活』](if/11.html)
 - [12　『从零开始的拼凑生活』（暴食 IF 线）](if/12.html)
 

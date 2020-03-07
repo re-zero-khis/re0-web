@@ -508,7 +508,7 @@
 		* [01　『学院 Re：0！第一堂课！』](markdown/ch/chapter099/if/01.md)
 		* [02　『学院 Re：0！第二堂课！』](markdown/ch/chapter099/if/02.md)
 		* [03　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/03.md)
-		* [04　『从零开始的 Sane Louis』](markdown/ch/chapter099/if/04.md)
+		* [04　『从零开始的 Sane Louis』（强欲 IF 线）](markdown/ch/chapter099/if/04.md)
 		* [05　『从零开始过错的异世界生活』（傲慢 IF 线）](markdown/ch/chapter099/if/05.md)
 		* [06　『从零开始溺水的异世界生活』（拉姆 IF 线）](markdown/ch/chapter099/if/06.md)
 		* [07　『从零开始的拼凑生活』（暴食 IF 线）](markdown/ch/chapter099/if/07.md)

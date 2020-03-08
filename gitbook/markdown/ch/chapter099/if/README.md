@@ -15,4 +15,4 @@
 - [13　『Fortune・节分霍洛』](13.html)
 
 
-![](/res/img/article/chapter099/if/00.jpg)
+![](/res/img/article/chapter099/if/00-b.jpg)

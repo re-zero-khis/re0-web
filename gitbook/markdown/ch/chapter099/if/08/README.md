@@ -11,6 +11,6 @@
 - [终章　『纪念日』](08.html)
 
 
-| <img width="500" src="/res/img/article/chapter099/if/13/00-a.jpg" /> | <img width="500" src="/res/img/article/chapter099/if/13/00-b.jpg" /> |
+| <img width="500" src="/res/img/article/chapter099/if/08/00-a.jpg" /> | <img width="500" src="/res/img/article/chapter099/if/08/00-b.jpg" /> |
 |:------:|:------:|
 | 　 | 　 |

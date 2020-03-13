@@ -40,12 +40,18 @@
 
 ## 相关资源
 
+<details>
+<summary>展开查看</summary>
+<br/>
+
 - [文库版图源](https://rezero.fandom.com/wiki/Re:Zero_kara_Hajimeru_Isekai_Seikatsu)
 - [日文原版（需翻墙）](http://ncode.syosetu.com/n2267be/)
 - [汉化整合（百度贴吧）](https://tieba.baidu.com/p/4974060711?red_tag=0820409600)
 - 汉化整合（巴哈姆特）：[【三四章】](https://home.gamer.com.tw/creationDetail.php?sn=3279407)[【五章】](https://home.gamer.com.tw/creationDetail.php?sn=3686795)
 - 汉化搬运（有道云）： [【上】](https://note.youdao.com/ynoteshare1/index.html?id=8a308a38db5ff96ec6e69d5807a917ba) [【下】](https://note.youdao.com/ynoteshare1/index.html?id=c79c8f8e467ac554d292d62a43dc8bf6&type=note#/&sfc=qqfriend)
 - [汉化搬运（真白萌）](https://masiro.moe/forum.php?mod=forumdisplay&fid=251)
+
+</details>
 
 ------
 

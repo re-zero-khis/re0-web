@@ -71,7 +71,7 @@
         
         "-page-copyright",
         "tbfed-pagefooter",
-        "-donate",
+        "donate",
         "pageview-count",
 
         "image-captions",
@@ -176,8 +176,8 @@
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "donate": {
-            "title": "感谢阅读 (^_^) 如有帮助，谢予支持",
-            "button": "赞助",
+            "title": "校对不易 (^_^) 谢予支持",
+            "button": "打赏",
             "alipay": "res/img/donate/alipay.png",
             "alipayText": "支付宝",
             "wechat": "res/img/donate/wechat.png",

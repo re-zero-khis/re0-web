@@ -15,7 +15,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 		if ($('.gitbook-donate').length === 0 && wechatURL !== undefined && (wechatURL !== '' || alipayURL !== '')) {
 			var pageDepth = gitbook.state.page.depth + 2;
 			var pageLevel = gitbook.state.page.level;
-			if (pageLevel == '1.1') {	// 1.1 即根目录，深度调整为 0
+			if (/^1\.\d+$/.test(pageLevel)) {	// 1.x 的页面都挂在根目录下，深度调整为 0
 				pageDepth = 0;
 			}
 

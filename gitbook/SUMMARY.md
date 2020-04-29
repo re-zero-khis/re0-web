@@ -600,7 +600,7 @@
 		* [『剑鬼恋谭　婚礼之日』](markdown/ch/chapter099/short05/05.md)
 		* [『剣聖と雷光の銀華乱舞』](markdown/ch/chapter099/short05/06.md)
 		* [『奥尔科斯领的赤雪』](markdown/ch/chapter099/short05/07.md)
-		* [『隠れ里の鬼姉妹Ex　祝福の日』](markdown/ch/chapter099/short05/08.md)
+		* [『从零开始的前日谭　隐世村的鬼姐妹Ex-祝福之日』](markdown/ch/chapter099/short05/08.md)
 		* [『从零开始的王选生活　金狮子与剑圣』](markdown/ch/chapter099/short05/09.md)
 
 ----

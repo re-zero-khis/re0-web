@@ -1,0 +1,9 @@
+*.log
+
+# _book 下的内容为本地构建时生成的 Html 内容
+# 由于目录有下划线， Github Pages 是无法识别的
+gitbook/_book
+
+# node_modules 实时从 Github 下载，不存储在当前仓库
+# 避免因为仓库过大导致 Github Page 构建超时
+gitbook/node_modules

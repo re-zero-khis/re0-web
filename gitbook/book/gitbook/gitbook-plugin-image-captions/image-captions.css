@@ -23,6 +23,32 @@ figcaption {
 /* 令图片居中 */
 img {
     margin-left: auto; 
-    margin-right:auto; 
+    margin-right: auto; 
     display:block;
+}
+
+/* 下载样式 */
+a.download {
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 2px;
+    margin: 10px 5px 20px 25px;
+    box-shadow: 0 0 0 1px #EEE;
+    display: inline-block;
+    text-align: center;
+    padding: 8px 16px;
+    cursor: pointer;
+    vertical-align: text-bottom;
+    background: #5fbaac;
+    color: #fff;
+    text-indent: 0;
+}
+a.download i {
+    margin-right: 10px;
+    vertical-align: inherit;
+}
+a.download:hover {
+    text-decoration: none;
+    background: #f78585;
+    color: #fff;
 }

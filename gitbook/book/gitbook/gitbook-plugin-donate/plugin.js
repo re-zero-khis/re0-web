@@ -21,7 +21,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 			} else if (/^1\.\d+$/.test(pageLevel)) {	// 1.x 的页面都挂在根目录下，深度调整为 1
 				pageDepth = 1;
 			}
-
+			
 			var html = [
 				'<div class="gitbook-donate">',
 				'<div>' + titleText + '</div>',

@@ -1,4 +1,4 @@
-# RE0：从零开始的异世界生活 （WEB版）
+# Re0：从零开始的异世界生活 （WEB版）
 
 > [Github 在线阅读（中日对照）](https://lyy289065406.github.io/re0-web)
 

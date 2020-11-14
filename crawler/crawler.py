@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 # 从MF文库原版连载网站中爬取小说内容（需要翻墙）
+# usage: python3 ./crawler.py
+# --------------------------------------------
 
 import os
 import requests
@@ -22,6 +24,7 @@ HEADER = {
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
 }
+PROXY = 'http://127.0.0.1:8888'
 
 
 
@@ -44,7 +47,7 @@ def save_progress(progress) :
 
 def take_index() :
     response = requests.get(url=URL, headers=HEADER)
-    html = response.text.encode('utf-8')
+    html = response.text
 
     grps = re.findall(r'<a href="(/n2267be/\d+/)">([^<]+)</a>', html)
     for uri, title in grps :
@@ -91,13 +94,12 @@ def save_page(uri, title) :
         return
     PAGE_URL = '%s/%i' % (URL, urlidx)
     
-    
-    _dir = ('%s/%s' % (DOWNLOAD_DIR, chapter)).decode('utf-8').encode('gbk')    # windows 文件夹名称要转码为GBK
+    _dir = '%s/%s' % (DOWNLOAD_DIR, chapter)    # windows 文件夹名称要转码为GBK
     if not os.path.exists(_dir) :
         os.makedirs(_dir) 
 
     response = requests.get(url=PAGE_URL, headers=HEADER)
-    html = response.text.encode('utf-8')
+    html = response.text
 
     lines = [
         '# %s\n' % _title, 
@@ -115,10 +117,9 @@ def save_page(uri, title) :
                 lines.append('　\n\n')
                 cnt = 0
             lines.append('%s\n\n' % line)
-    lines.append('\n\n')
 
     _path = '%s/%s.md' % (_dir, segidx)
-    with open(_path, 'w') as file :
+    with open(_path, 'w', encoding='utf-8') as file :
         file.write(''.join(lines))
     save_progress(urlidx)
     print('%s : download finish' % uri)

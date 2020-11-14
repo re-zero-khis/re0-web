@@ -20,14 +20,14 @@ def main() :
 
             print(fileName)
             format_lines = []
-            with open(fileName, 'r') as file:
+            with open(fileName, 'r', encoding='utf-8') as file:
                 lines = file.readlines()
                 for line in lines:
                     line = line.strip()
                     if line :
                         format_lines.append('%s\n\n' % line)
 
-            with open(fileName, 'w') as file:
+            with open(fileName, 'w', encoding='utf-8') as file:
                 file.write(''.join(format_lines))
 
 

@@ -615,6 +615,9 @@
 		* [『从零开始的前日谭　隐世村的鬼姐妹Ex-祝福之日』](markdown/ch/chapter099/short05/08.md)
 		* [『从零开始的王选生活　金狮子与剑圣』](markdown/ch/chapter099/short05/09.md)
 
+
+<!--
+
 ----
 
 ## 日文版
@@ -1130,6 +1133,7 @@
 	* [11　『学園リゼロ！　1時間目！』](markdown/jp/chapter099/11.md)
 	* [12　『学園リゼロ！　2時間目！』](markdown/jp/chapter099/12.md)
 	* [13　『学園リゼロ！　3時間目！』](markdown/jp/chapter099/13.md)
+-->
 
 ----
 

@@ -56,7 +56,7 @@
         "-theme-api",
         "sitemap-general",
         "-favicon",
-        "canvas-nest",
+        "-canvas-nest",
         "-insert-logo",
         "hide-element",
 

@@ -86,11 +86,11 @@
 | EPUB<br/>第 19 卷 | <img width="120" src="gitbook/res/img/article/chapter050/00-g.jpg"> | [Github](https://raw.githubusercontent.com/lyy289065406/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-19.epub) | <ul><li><b>起</b>：【第五章】 49 『强欲攻略战开幕』</li><li><b>止</b>：【第五章】 59 『雷格鲁斯·柯尼亚斯』</li></ul> |
 | EPUB<br/>第 20 卷 | <img width="120" src="gitbook/res/img/article/chapter050/00-h.jpg"> | - | <ul><li><b>起</b>：【第五章】 60 『一波方平，一波又起』</li><li><b>止</b>：【第五章】 幕間 『温暖的名字』</li></ul> |
 | EPUB<br/>第 21 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-a.jpg"> | [Github](https://raw.githubusercontent.com/lyy289065406/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-21.epub) | <ul><li><b>起</b>：【第六章】 01 『龙车归途路』</li><li><b>止</b>：【第六章】 18 『砂塔的看守者』</li></ul> |
-| EPUB<br/>第 22 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-c.jpg"> | [Github](#) | <ul><li><b>起</b>：【第六章】 19 『贤者的行踪』</li><li><b>止</b>：【第六章】 33 『■■■・■■■』</li></ul> |
-| EPUB<br/>第 23 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-e.jpg"> | [Github](#) | <ul><li><b>起</b>：【第六章】 34 『出了便利店后，那是一个不可思议的世界』</li><li><b>止</b>：【第六章】 54 『Re：从零开始的异世界生活』</li></ul> |
-| EPUB<br/>第 24 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-g.jpg"> | [Github](#) | <ul><li><b>起</b>：【第六章】 55 『等待雪融的你』</li><li><b>止</b>：【第六章】 71 『Count・One』</li></ul> |
-| EPUB<br/>第 25 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-i.jpg"> | [Github](#) | <ul><li><b>起</b>：【第六章】 72 『■■・■』</li><li><b>止</b>：【第六章】 90 『英雄』</li></ul> |
-| EPUB<br/>第 26 卷 | <img width="120" src="gitbook/res/img/article/chapter070/00-a.jpg"> | [Github](#) | <ul><li><b>起</b>：【第七章】 01 『洗礼』</li><li><b>止</b>：【第七章】 12 『佛拉基亚帝国』</li></ul> |
+| EPUB<br/>第 22 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-c.jpg"> | - | <ul><li><b>起</b>：【第六章】 19 『贤者的行踪』</li><li><b>止</b>：【第六章】 33 『■■■・■■■』</li></ul> |
+| EPUB<br/>第 23 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-e.jpg"> | - | <ul><li><b>起</b>：【第六章】 34 『出了便利店后，那是一个不可思议的世界』</li><li><b>止</b>：【第六章】 54 『Re：从零开始的异世界生活』</li></ul> |
+| EPUB<br/>第 24 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-g.jpg"> | - | <ul><li><b>起</b>：【第六章】 55 『等待雪融的你』</li><li><b>止</b>：【第六章】 71 『Count・One』</li></ul> |
+| EPUB<br/>第 25 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-i.jpg"> | - | <ul><li><b>起</b>：【第六章】 72 『■■・■』</li><li><b>止</b>：【第六章】 90 『英雄』</li></ul> |
+| EPUB<br/>第 26 卷 | <img width="120" src="gitbook/res/img/article/chapter070/00-a.jpg"> | - | <ul><li><b>起</b>：【第七章】 01 『洗礼』</li><li><b>止</b>：【第七章】 12 『佛拉基亚帝国』</li></ul> |
 
 
 ------

@@ -514,6 +514,19 @@
 	* [89　『夏乌拉』](markdown/ch/chapter060/89.md)
 	* [90　『英雄』](markdown/ch/chapter060/90.md)
 	* [后记　『篇章插图』](markdown/ch/chapter060/99.md)
+* [第七章　『狼の国』](markdown/ch/chapter070/README.md)
+	* [01　『洗礼』](markdown/ch/chapter070/01.md)
+	* [02　『アニマルトラッキング』](markdown/ch/chapter070/02.md)
+	* [03　『ＶＳレム』](markdown/ch/chapter070/03.md)
+	* [04　『勇気ある選択』](markdown/ch/chapter070/04.md)
+	* [05　『男はつらいよ』](markdown/ch/chapter070/05.md)
+	* [06　『はるか南の地』](markdown/ch/chapter070/06.md)
+	* [07　『男はつらかったよ』](markdown/ch/chapter070/07.md)
+	* [08　『名前』](markdown/ch/chapter070/08.md)
+	* [09　『帝国の流儀』](markdown/ch/chapter070/09.md)
+	* [10　『シュドラクの民』](markdown/ch/chapter070/10.md)
+	* [11　『血命の儀』](markdown/ch/chapter070/11.md)
+	* [12　『ヴォラキア帝国』](markdown/ch/chapter070/12.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/01.md)
@@ -614,7 +627,6 @@
 		* [『奥尔科斯领的赤雪』](markdown/ch/chapter099/short05/07.md)
 		* [『从零开始的前日谭　隐世村的鬼姐妹Ex-祝福之日』](markdown/ch/chapter099/short05/08.md)
 		* [『从零开始的王选生活　金狮子与剑圣』](markdown/ch/chapter099/short05/09.md)
-
 
 <!--
 
@@ -1119,6 +1131,19 @@
 	* [88　『――志を問わん』](markdown/jp/chapter060/88.md)
 	* [89　『シャウラ』](markdown/jp/chapter060/89.md)
 	* [90　『英雄』](markdown/jp/chapter060/90.md)
+* [第七章　『狼の国』](markdown/jp/chapter070/README.md)
+	* [01　『洗礼』](markdown/jp/chapter070/01.md)
+	* [02　『アニマルトラッキング』](markdown/jp/chapter070/02.md)
+	* [03　『ＶＳレム』](markdown/jp/chapter070/03.md)
+	* [04　『勇気ある選択』](markdown/jp/chapter070/04.md)
+	* [05　『男はつらいよ』](markdown/jp/chapter070/05.md)
+	* [06　『はるか南の地』](markdown/jp/chapter070/06.md)
+	* [07　『男はつらかったよ』](markdown/jp/chapter070/07.md)
+	* [08　『名前』](markdown/jp/chapter070/08.md)
+	* [09　『帝国の流儀』](markdown/jp/chapter070/09.md)
+	* [10　『シュドラクの民』](markdown/jp/chapter070/10.md)
+	* [11　『血命の儀』](markdown/jp/chapter070/11.md)
+	* [12　『ヴォラキア帝国』](markdown/jp/chapter070/12.md)
 * [リゼロＥＸ](markdown/jp/chapter099/README.md)
 	* [01　『鬼的幸福』](markdown/jp/chapter099/01.md)
 	* [02　『胡蝶之夢』](markdown/jp/chapter099/02.md)
@@ -1133,6 +1158,7 @@
 	* [11　『学園リゼロ！　1時間目！』](markdown/jp/chapter099/11.md)
 	* [12　『学園リゼロ！　2時間目！』](markdown/jp/chapter099/12.md)
 	* [13　『学園リゼロ！　3時間目！』](markdown/jp/chapter099/13.md)
+
 -->
 
 ----

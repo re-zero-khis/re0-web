@@ -110,3 +110,12 @@
 
 </details>
 
+------
+
+## 赞助途径
+
+> 校对不易，谢予支持
+
+| 支付宝 | 微信 |
+|:---:|:---:|
+| ![](gitbook/res/img/donate/alipay.png) | ![](gitbook/res/img/donate/wechat.png) |

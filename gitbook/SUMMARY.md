@@ -527,6 +527,7 @@
 	* [10　『修德拉克之民』](markdown/ch/chapter070/10.md)
 	* [11　『血命之仪』](markdown/ch/chapter070/11.md)
 	* [12　『佛拉基亚帝国』](markdown/ch/chapter070/12.md)
+	* [13　『以非神之躯』](markdown/ch/chapter070/13.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/01.md)
@@ -552,6 +553,7 @@
 		* [12　『学院 Re：0！第一堂课！』](markdown/ch/chapter099/if/12.md)
 		* [13　『学院 Re：0！第二堂课！』](markdown/ch/chapter099/if/13.md)
 		* [14　『学院 Re：0！第三堂课！』](markdown/ch/chapter099/if/14.md)
+		* [15　『学院 Re：0！第四堂课！』](markdown/ch/chapter099/if/15.md)
 	* [特典合集](markdown/ch/chapter099/special/README.md)
 		* [『艾米莉娅的博客练习用日记』](markdown/ch/chapter099/special/01.md)
 		* [『祝福日 Ex：雷姆的生日派对』](markdown/ch/chapter099/special/02.md)
@@ -1158,6 +1160,7 @@
 	* [11　『学園リゼロ！　1時間目！』](markdown/jp/chapter099/11.md)
 	* [12　『学園リゼロ！　2時間目！』](markdown/jp/chapter099/12.md)
 	* [13　『学園リゼロ！　3時間目！』](markdown/jp/chapter099/13.md)
+	* [14　『学園リゼロ！　4時間目！』](markdown/jp/chapter099/14.md)
 
 -->
 

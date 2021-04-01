@@ -335,7 +335,7 @@
 	* [07　『月下，乱舞』](markdown/ch/chapter041/07.md)
 	* [08　『交错的宿愿』](markdown/ch/chapter041/08.md)
 	* [09　『王选前日谈』](markdown/ch/chapter041/09.md)
-* [第五章　『刻画历史的群星』（水门篇）](markdown/ch/chapter050/README.md)
+* [第五章　『刻画历史的群星』（水门都市篇）](markdown/ch/chapter050/README.md)
 	* [01　『事情的起头总是由到访者开始』](markdown/ch/chapter050/01.md)
 	* [02　『虚伪的血统』](markdown/ch/chapter050/02.md)
 	* [03　『各自的见解』](markdown/ch/chapter050/03.md)
@@ -421,7 +421,7 @@
 	* [幕間　『未完成的大器』](markdown/ch/chapter050/83.md)
 	* [幕間　『温暖的名字』](markdown/ch/chapter050/84.md)
 	* [后记　『篇章插图』](markdown/ch/chapter050/99.md)
-* [第六章　『记忆的回廊』（贤者篇）](markdown/ch/chapter060/README.md)
+* [第六章　『记忆的回廊』（贤者之塔篇）](markdown/ch/chapter060/README.md)
 	* [序章　『贤者监视塔』](markdown/ch/chapter060/00.md)
 	* [01　『龙车归途路』](markdown/ch/chapter060/01.md)
 	* [02　『他相应的款待』](markdown/ch/chapter060/02.md)
@@ -527,6 +527,7 @@
 	* [10　『修德拉克之民』](markdown/ch/chapter070/10.md)
 	* [11　『血命之仪』](markdown/ch/chapter070/11.md)
 	* [12　『佛拉基亚帝国』](markdown/ch/chapter070/12.md)
+	* [13　『以非神之躯』](markdown/ch/chapter070/13.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/01.md)
@@ -552,6 +553,7 @@
 		* [12　『学院 Re：0！第一堂课！』](markdown/ch/chapter099/if/12.md)
 		* [13　『学院 Re：0！第二堂课！』](markdown/ch/chapter099/if/13.md)
 		* [14　『学院 Re：0！第三堂课！』](markdown/ch/chapter099/if/14.md)
+		* [15　『学院 Re：0！第四堂课！』](markdown/ch/chapter099/if/15.md)
 	* [特典合集](markdown/ch/chapter099/special/README.md)
 		* [『艾米莉娅的博客练习用日记』](markdown/ch/chapter099/special/01.md)
 		* [『祝福日 Ex：雷姆的生日派对』](markdown/ch/chapter099/special/02.md)
@@ -1158,6 +1160,7 @@
 	* [11　『学園リゼロ！　1時間目！』](markdown/jp/chapter099/11.md)
 	* [12　『学園リゼロ！　2時間目！』](markdown/jp/chapter099/12.md)
 	* [13　『学園リゼロ！　3時間目！』](markdown/jp/chapter099/13.md)
+	* [14　『学園リゼロ！　4時間目！』](markdown/jp/chapter099/14.md)
 
 -->
 

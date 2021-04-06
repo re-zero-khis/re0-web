@@ -114,8 +114,14 @@
 
 ## 赞助途径
 
+<details>
+<summary>二维码</summary>
+<br/>
+
 | 支付宝 | 微信 |
 |:---:|:---:|
 | ![](gitbook/res/img/donate/alipay.png) | ![](gitbook/res/img/donate/wechat.png) |
+
+</details>
 
 > 校对不易，谢予支持

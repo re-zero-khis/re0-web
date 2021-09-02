@@ -539,7 +539,7 @@
 	* [22　『无血开城计划』](markdown/ch/chapter070/22.md)
 	* [23　『乐士夏美・施瓦茨』](markdown/ch/chapter070/23.md)
 	* [24　『傲岸不逊』](markdown/ch/chapter070/24.md)
-	* [25　『再会は燃える血潮の如く』](markdown/ch/chapter070/25.md)
+	* [25　『热血澎湃般的再会』](markdown/ch/chapter070/25.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/01.md)

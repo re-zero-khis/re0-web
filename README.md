@@ -111,12 +111,11 @@
 
 </details>
 
-------
 
 ## 赞助途径
 
 <details>
-<summary>二维码</summary>
+<summary>校对不易，谢予支持</summary>
 <br/>
 
 | 支付宝 | 微信 |
@@ -125,4 +124,4 @@
 
 </details>
 
-> 校对不易，谢予支持
+

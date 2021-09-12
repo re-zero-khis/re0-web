@@ -46,6 +46,7 @@
 
 - [文库版图源](https://rezero.fandom.com/wiki/Re:Zero_kara_Hajimeru_Isekai_Seikatsu)
 - [日文原版（需翻墙）](http://ncode.syosetu.com/n2267be/)
+- 资源整合网盘：[爱丽丝的记事本](https://noire.cc:8888/s/djDhA?path=%2F)
 - 汉化整合（百度贴吧）： [【1.0】](https://tieba.baidu.com/p/4974060711) [【2.0】](https://tieba.baidu.com/p/7063765027)
 - [汉化整合（石墨文档）](https://shimo.im/docs/QDDPYPg8Y63xDXHX/read)
 - 汉化整合（巴哈姆特）： [【三四章】](https://home.gamer.com.tw/creationDetail.php?sn=3279407) [【五章】](https://home.gamer.com.tw/creationDetail.php?sn=3686795)

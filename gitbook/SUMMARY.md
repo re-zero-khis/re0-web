@@ -543,7 +543,7 @@
 	* [26　『潮涌的圆桌会议』](markdown/ch/chapter070/26.md)
 	* [27　『英才与庸才』](markdown/ch/chapter070/27.md)
 	* [28　『胜利条件』](markdown/ch/chapter070/28.md)
-	* [29　『それぞれの立ち方』](markdown/ch/chapter070/29.md)
+	* [29　『每个人的立场』](markdown/ch/chapter070/29.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/01.md)

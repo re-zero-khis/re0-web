@@ -544,7 +544,7 @@
 	* [27　『英才与庸才』](markdown/ch/chapter070/27.md)
 	* [28　『胜利条件』](markdown/ch/chapter070/28.md)
 	* [29　『每个人的立场』](markdown/ch/chapter070/29.md)
-	* [30　『自称英雄的昴・夏美』](markdown/ch/chapter070/30.md)
+	* [30　『自称英雄的夏美・昴』](markdown/ch/chapter070/30.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/01.md)

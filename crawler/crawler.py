@@ -24,7 +24,8 @@ HEADER = {
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
 }
-PROXY = 'http://127.0.0.1:8888'
+_PROXY = 'http://127.0.0.1:8888'
+PROXY = { "http": _PROXY, "https": _PROXY } if _PROXY else {}
 
 
 
@@ -46,7 +47,7 @@ def save_progress(progress) :
 
 
 def take_index() :
-    response = requests.get(url=URL, headers=HEADER)
+    response = requests.get(url=URL, headers=HEADER, proxies=PROXY)
     html = response.text
 
     grps = re.findall(r'<a href="(/n2267be/\d+/)">([^<]+)</a>', html)
@@ -98,7 +99,7 @@ def save_page(uri, title) :
     if not os.path.exists(_dir) :
         os.makedirs(_dir) 
 
-    response = requests.get(url=PAGE_URL, headers=HEADER)
+    response = requests.get(url=PAGE_URL, headers=HEADER, proxies=PROXY)
     html = response.text
 
     lines = [

@@ -12,7 +12,7 @@ def main() :
     
     for dirPath, dirNames, fileNames in os.walk(DIR):   #迭代目录
         if DIR != dirPath :
-                continue
+            continue
 
         for fileName in fileNames :
             if ('.md' not in fileName) or ('README' in fileName) :

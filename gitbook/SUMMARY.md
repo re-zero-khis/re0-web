@@ -547,7 +547,7 @@
 	* [30　『自称英雄的夏美・昴』](markdown/ch/chapter070/30.md)
 	* [31　『同乡的对话』](markdown/ch/chapter070/31.md)
 	* [32　『前进的道路』](markdown/ch/chapter070/32.md)
-	* [33　『いざ、魔都への旅路へ』](markdown/ch/chapter070/33.md)
+	* [33　『向着魔都进发』](markdown/ch/chapter070/33.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/01.md)

@@ -544,7 +544,7 @@
 	* [27　『英才与庸才』](markdown/ch/chapter070/27.md)
 	* [28　『胜利条件』](markdown/ch/chapter070/28.md)
 	* [29　『每个人的立场』](markdown/ch/chapter070/29.md)
-	* [30　『自称英雄的夏美・昴』](markdown/ch/chapter070/30.md)
+	* [30　『自称英雄的菜月・昴』](markdown/ch/chapter070/30.md)
 	* [31　『同乡的对话』](markdown/ch/chapter070/31.md)
 	* [32　『前进的道路』](markdown/ch/chapter070/32.md)
 	* [33　『向着魔都进发』](markdown/ch/chapter070/33.md)

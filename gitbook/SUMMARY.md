@@ -2,7 +2,7 @@
 
 * [封面](README.md)
 * [登场人物](markdown/character.md)
-* [译名校对](markdown/translation.md)
+* [译名字典](markdown/translation.md)
 
 ----
 

@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/character.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/translation.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter010/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter010/00.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter010/01.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -546,6 +547,9 @@
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/34.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/35.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/36.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/37.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/38.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/39.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/if/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/if/01.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>

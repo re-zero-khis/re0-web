@@ -2,6 +2,7 @@
 
 * [封面](README.md)
 * [登场人物](markdown/character.md)
+* [译名校对](markdown/translation.md)
 
 ----
 
@@ -551,6 +552,9 @@
 	* [34　『馬車での一悶着』](markdown/ch/chapter070/34.md)
 	* [35　『語らう夜』](markdown/ch/chapter070/35.md)
 	* [36　『混沌たる魔都』](markdown/ch/chapter070/36.md)
+	* [37　『紅瑠璃城の主』](markdown/ch/chapter070/37.md)
+	* [38　『八年越しの褒美』](markdown/ch/chapter070/38.md)
+	* [39　『悪辣』](markdown/ch/chapter070/39.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/01.md)
@@ -1193,6 +1197,9 @@
 	* [34　『馬車での一悶着』](markdown/jp/chapter070/34.md)
 	* [35　『語らう夜』](markdown/jp/chapter070/35.md)
 	* [36　『混沌たる魔都』](markdown/jp/chapter070/36.md)
+	* [37　『紅瑠璃城の主』](markdown/jp/chapter070/37.md)
+	* [38　『八年越しの褒美』](markdown/jp/chapter070/38.md)
+	* [39　『悪辣』](markdown/jp/chapter070/39.md)
 * [リゼロＥＸ](markdown/jp/chapter099/README.md)
 	* [01　『鬼的幸福』](markdown/jp/chapter099/01.md)
 	* [02　『胡蝶之夢』](markdown/jp/chapter099/02.md)

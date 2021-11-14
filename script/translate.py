@@ -68,7 +68,7 @@ def translate(dict, filepath) :
 
 
 def sys_args(sys_args) :
-    dirpath = '.'
+    filepath = '.'
 
     idx = 1
     size = len(sys_args)
@@ -76,11 +76,11 @@ def sys_args(sys_args) :
         try :
             if sys_args[idx] == '-f' :
                 idx += 1
-                dirpath = sys_args[idx]
+                filepath = sys_args[idx]
         except :
             pass
         idx += 1
-    return dirpath
+    return filepath
 
 
 

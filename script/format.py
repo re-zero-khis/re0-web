@@ -50,7 +50,7 @@ def sys_args(sys_args) :
         except :
             pass
         idx += 1
-    return dirpath
+    return [ dirpath ]
 
 
 

@@ -125,11 +125,10 @@ class BaiduTranslation :
         for seg in segs :
             cnt += 1
             print("正在翻译第 [%i] 段 ..." % cnt)
-            # trans_seg = self._translate(seg)
-            trans_seg = seg
+            trans_seg = self._translate(seg)
             trans_result.append(trans_seg)
-            time.sleep(1)
-        return "\r\n".join(trans_result)
+            time.sleep(2)
+        return "\n".join(trans_result)
 
 
     def _cut(self, data) :
@@ -142,7 +141,7 @@ class BaiduTranslation :
             line = line.strip()
             line_len = len(line)
             if seg_len + line_len > BAIDU_LIMIT :
-                segs.append("\r\n".join(seg))
+                segs.append("\n".join(seg))
                 seg_len = 0
                 seg = []
 
@@ -172,7 +171,7 @@ class BaiduTranslation :
         if response.status_code == 200:
             rst = json.loads(response.text)
             for line in rst.get("trans_result") :
-                trans_result.append(line.get("dst"))
+                trans_result.append(line.get("dst").strip())
         return "\r\n".join(trans_result)
 
 

@@ -1,6 +1,6 @@
 table {
     width: 100%; /*表格宽度*/
-    max-width: 65em; /*表格最大宽度，避免表格过宽*/
+    max-width: 100%; /*控制表格的最大宽度，避免表格过宽*/
     border: 1px solid #dedede; /*表格外边框设置*/
     margin: 15px auto; /*外边距*/
     border-collapse: collapse; /*使用单一线条的边框*/

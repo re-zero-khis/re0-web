@@ -1,14 +1,19 @@
 # -*- coding: utf-8 -*-
 # 格式化目录下所有 *.md 文件
+# --------------------------------------------
+# env: python3
+# --------------------------------------------
 # usage: 
-#   1. 复制此脚本到需要格式化的 md 目录下
-#   2. python3 ./format.py
+#   python ./format.py -d {format dir path}
+# eg:
+#   python ./format.py -d "../gitbook/markdown/ch/chapter070/"
 # --------------------------------------------
 
 import os
+import sys
 
-def main() :
-    DIR = '.'
+def main(dirpath) :
+    DIR = dirpath
     
     for dirPath, dirNames, fileNames in os.walk(DIR):   #迭代目录
         if DIR != dirPath :
@@ -32,5 +37,22 @@ def main() :
 
 
 
-if __name__ == '__main__' :
-    main()
+def sys_args(sys_args) :
+    dirpath = '.'
+
+    idx = 1
+    size = len(sys_args)
+    while idx < size :
+        try :
+            if sys_args[idx] == '-d' :
+                idx += 1
+                dirpath = sys_args[idx]
+        except :
+            pass
+        idx += 1
+    return dirpath
+
+
+
+if __name__ == "__main__" :
+    main(*sys_args(sys.argv))

@@ -4,18 +4,22 @@
 # env: python3
 # --------------------------------------------
 # usage: 
-#   python ./translate.py -f {want to translate filepath}
+#   python ./translate.py -i {app_id} -p {app_pass} -f {want to translate filepath}
 # eg:
-#   python ./translate.py -f "../gitbook/markdown/ch/chapter070/34.md"
+#   python ./translate.py -i "app_id" -p "app_pass" -f "../gitbook/markdown/ch/chapter070/34.md"
 # --------------------------------------------
 
-
-import os
 import sys
+import time
+import hashlib
+import requests
+import json
+
 
 CHARSET = "utf-8"
 DICT_PATH = "../gitbook/markdown/translation.md"
 BAIDU_API = "https://fanyi-api.baidu.com/api/trans/vip/translate"
+# API Doc : https://api.fanyi.baidu.com/doc/21
 
 
 def main(filepath, app_id, app_pass) :
@@ -97,10 +101,39 @@ class BaiduTranslation :
         self.app_pass = app_pass
 
 
-    def translate(self, data) :
-        # TODO
-        return data
+    def to_sign(self, data) :
+        salt = int(time.time())
+        sign = hashlib.md5(
+            ("%s%s%i%s" % (
+                self.app_id, 
+                data,
+                salt, 
+                self.app_pass
+            )).encode(encoding=CHARSET)
+        ).hexdigest()
+        return salt, sign
 
+
+    def translate(self, data) :
+        salt, sign = self.to_sign(data)
+        headers = {
+            'Content-Type': 'application/x-www-form-urlencoded'
+        }
+        body = {
+            'q': data, 
+            'from': 'jp', 
+            'to': 'zh', 
+            'appid': self.app_id, 
+            'salt': salt, 
+            'sign': sign
+        }
+        response = requests.post(self.url, headers=headers, data=body)
+        trans_result = []
+        if response.status_code == 200:
+            rst = json.loads(response.text)
+            for line in rst.get("trans_result") :
+                trans_result.append(line.get("dst"))
+        return "\r\n".join(trans_result)
 
 
 

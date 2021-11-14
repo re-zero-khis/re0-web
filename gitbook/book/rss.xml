@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Nov 2021 04:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 06:39:34 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -54,7 +54,7 @@
 | エミリ | 爱蜜莉 | 艾米莉 | 第四章 | 安妮罗洁 对 爱蜜莉娅 的昵称 |
 | カドモン・リッシュ | 卡德蒙・里施 | - | 第一章 | 水果商人（露格尼卡王都存档 NPC） |
 | レム | 雷姆 | 蕾姆 | 第二章 | 『鬼族』，拉姆 的妹妹 |
-| ラム | 拉姆 | - | 第二章 | 『鬼族』，雷姆 的姐姐 |
+| ラム | 拉姆 | - | 第二章 | 『鬼族』，雷姆 的姐姐，『角离』（丢失角） |
 | ベアトリス | 碧翠丝 | 贝亚托莉丝 | 第二章 | 人形人工大精灵 |
 | ベア子 | 碧翠子 | 贝亚子 | 第二章 | 昴 对 碧翠丝 的昵称 |
 | ベティー | 贝蒂 | - | 第二章 | 碧翠丝 的自称 |
@@ -2277,7 +2277,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『艾利欧尔大森林的永久冻土』]]></title>
+            <title><![CDATA[『艾力欧尔大森林的永久冻土』]]></title>
             <description><![CDATA[——那个地方已经，变得让人想不起原来的样子了。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter040/120.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter040/120.html</guid>
@@ -4086,7 +4086,7 @@
         </item>
         <item>
             <title><![CDATA[『——两个月』]]></title>
-            <description><![CDATA[——卡拉拉奇城邦是西方的一个大国，与北部的古斯提科圣王国、南部的博拉奇亚帝国以及东部的露格尼卡王国并称为四大王国。但其建国历程同其他三国相比要来的独特得多。]]></description>
+            <description><![CDATA[——卡拉拉基城邦是西方的一个大国，与北部的古斯提科圣王国、南部的博拉奇亚帝国以及东部的露格尼卡王国并称为四大王国。但其建国历程同其他三国相比要来的独特得多。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/if/06/01.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/if/06/01.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4308,7 +4308,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『艾利欧尔大森林组，等待雪融的季节』]]></title>
+            <title><![CDATA[『艾力欧尔大森林组，等待雪融的季节』]]></title>
             <description><![CDATA[——年方七岁的爱蜜莉娅，现在正不得不处于人生最大的末路。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/15.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/15.html</guid>
@@ -4414,7 +4414,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[亲龙王国露格尼卡、艾利欧尔大森林——那里有的是拒绝人类干涉的『冰结之森』。]]></description>
+            <description><![CDATA[亲龙王国露格尼卡、艾力欧尔大森林——那里有的是拒绝人类干涉的『冰结之森』。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/bd/README.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/bd/README.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4435,7 +4435,7 @@
         </item>
         <item>
             <title><![CDATA[『我在这里』]]></title>
-            <description><![CDATA[亲龙王国露格尼卡东北部的艾利欧尔大森林通常被称为『冰结之森』。]]></description>
+            <description><![CDATA[亲龙王国露格尼卡东北部的艾力欧尔大森林通常被称为『冰结之森』。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/bd/02.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/bd/02.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

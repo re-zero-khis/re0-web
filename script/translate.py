@@ -15,82 +15,99 @@ import sys
 
 CHARSET = "utf-8"
 DICT_PATH = "../gitbook/markdown/translation.md"
+BAIDU_API = "https://fanyi-api.baidu.com/api/trans/vip/translate"
 
 
-def main(filepath) :
+def main(filepath, app_id, app_pass) :
     print("正在准备翻译 [%s]" % filepath)
-    order_dict = load_dict()        # 加载翻译字典
-    translate(order_dict, filepath) # 翻译指定文件
-    print("翻译完成，译文已存储到 [%s]" % filepath)
-    
-
-
-# 读取专有名词字典
-def load_dict() :
-    print("正在读取专有名词翻译字典 ...")
-    translations = {}
-    lines = []
-    with open(DICT_PATH, "r", encoding=CHARSET) as file :
-        lines = file.readlines()
-
-    for line in lines :
-        if line.startswith("|") :
-            args = line.split("|")
-            key = args[1].strip()
-            val = args[2].strip()
-            if invaild(key) or invaild(val) :
-                continue
-
-            translations[key] = val
-            if "・" in key and "・" in val :
-                ks = key.split("・")
-                vs = val.split("・")
-                for k, v in zip(ks, vs) :
-                    if len(k) <= 1 :
-                        continue
-                    translations[k.strip()] = v.strip()
-    
-    translations.pop(":---:")
-    translations.pop("日文")
-    print("共读取专有名词 [%i] 个。" % len(translations))
-    return translations
-            
-
-# 无效名词
-def invaild(arg) :
-    return not arg or "?" in arg or "？" in arg
-        
-
-# 翻译
-def translate(dict, filepath) :
     data = ""
     with open(filepath, "r", encoding=CHARSET) as file :
         data = file.read()
-    
-    data = translate_work(dict, data)
-    data = translate_baidu(data)
-        
+
+    print("正在翻译专有名词 ...")
+    wt = WordTranslation(DICT_PATH)
+    wt.load_dict()
+    data = wt.translate(data)
+
+    print("正在机翻内容 ...")
+    bt = BaiduTranslation(BAIDU_API, app_id, app_pass)
+    data = bt.translate(data)
+
     with open(filepath, "w", encoding=CHARSET) as file :
         file.write(data)
+    print("翻译完成，译文已存储到 [%s]" % filepath)
 
 
-# 专有名词翻译
-def translate_work(dict, data) :
-    print("正在翻译专有名词 ...")
-    for key in sorted(dict, key=len, reverse=True) :
-        data = data.replace(key, dict[key])
-    return data
+
+# 专有名词翻译器
+class WordTranslation :
+
+    def __init__(self, dict_path) :
+        self.dict_path = dict_path
+        self.words_dict = {}
+
+    # 读取专有名词字典
+    def load_dict(self) :
+        print("正在读取专有名词翻译字典 ...")
+        lines = []
+        with open(self.dict_path, "r", encoding=CHARSET) as file :
+            lines = file.readlines()
+
+        for line in lines :
+            if line.startswith("|") :
+                args = line.split("|")
+                key = args[1].strip()
+                val = args[2].strip()
+                if self.invaild(key) or self.invaild(val) :
+                    continue    # 判断无效名词
+
+                self.words_dict[key] = val
+                if "・" in key and "・" in val :
+                    ks = key.split("・")
+                    vs = val.split("・")
+                    for k, v in zip(ks, vs) :
+                        if len(k) <= 1 :
+                            continue    # 长度小于等于 1 的名词出错率太多，不独立翻译
+                        self.words_dict[k.strip()] = v.strip()
+        
+        self.words_dict.pop(":---:")
+        self.words_dict.pop("日文")
+        print("共读取专有名词 [%i] 个。" % len(self.words_dict))
+        return self.words_dict
 
 
-# 百度机翻接口（比谷歌准确）
-def translate_baidu(data) :
-    print("正在机翻内容 ...")
-    # TODO
-    return data
+    def invaild(self, word) :
+        return not word or "?" in word or "？" in word
+
+
+    def translate(self, data) :
+        print("正在翻译专有名词 ...")
+        for key in sorted(self.words_dict, key=len, reverse=True) :
+            data = data.replace(key, self.words_dict[key])
+        return data
+
+
+
+# 百度机翻器（比谷歌准确，且每个月有 200 万字的免费额度）
+class BaiduTranslation :
+
+    def __init__(self, url, app_id, app_pass) :
+        self.url = url
+        self.app_id = app_id
+        self.app_pass = app_pass
+
+
+    def translate(self, data) :
+        # TODO
+        return data
+
+
 
 
 def sys_args(sys_args) :
-    filepath = '.'
+    filepath = ""   # 待翻译文件路径
+    app_id = ""     # 百度翻译接口 APP_ID
+    app_pass = ""   # 百度翻译接口密码
 
     idx = 1
     size = len(sys_args)
@@ -99,10 +116,18 @@ def sys_args(sys_args) :
             if sys_args[idx] == '-f' :
                 idx += 1
                 filepath = sys_args[idx]
+
+            elif sys_args[idx] == '-i' :
+                idx += 1
+                app_id = sys_args[idx]
+
+            elif sys_args[idx] == '-p' :
+                idx += 1
+                app_pass = sys_args[idx]
         except :
             pass
         idx += 1
-    return [ filepath ]
+    return [ filepath, app_id, app_pass ]
 
 
 

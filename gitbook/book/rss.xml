@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Nov 2021 09:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 11:51:31 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -58,7 +58,7 @@
 | ベアトリス | 碧翠丝 | 贝亚托莉丝 | 第二章 | 人形人工大精灵 |
 | ベア子 | 碧翠子 | 贝亚子 | 第二章 | 昴 对 碧翠丝 的昵称 |
 | ベティー | 贝蒂 | - | 第二章 | 碧翠丝 的自称 |
-| ロズワール・L・メイザース | 罗兹瓦尔・L・梅札斯 | - | 第二章 | 王国最厉害的『宫廷魔法师』，爱蜜莉娅 的王选支持者 |
+| ロズワール・L・メイザース | 罗兹瓦尔・L・梅札斯 | - | 第二章 | 『贵族』『边境伯爵』，王国最厉害的『宫廷魔法师』，爱蜜莉娅 的王选支持者 |
 | ロズワール・J・メイザース | 罗兹瓦尔・J・梅札斯 | - | Ex 剑鬼恋歌 | 第 J 代的罗兹瓦尔（性别女） |
 | ？ | 卡萝・雷玫迪斯 | - | Ex 剑鬼恋歌 | 罗兹瓦尔・J 的护卫剑士 |
 | ペトラ・レイテ | 佩特拉・雷蒂 | - | 第二章 | 罗兹瓦尔宅邸女仆 |
@@ -76,9 +76,9 @@
 | リブレ・フエルミ | 利布雷・菲尔密 | - | 第五章 | 『蛇人族』，亚人联盟 —— 『毒蛇』 |
 | スピンクス | 史芬克丝 | - | 第五章 | 亚人联盟之 —— 『魔女』 |
 | ラインハルト・ヴァン・アストレア | 莱因哈鲁特・范・阿斯特雷亚 | - | 第一章 | 『剑圣』，露格尼卡王国的顶级战力 |
-| トン | 阿顿 | 桶 | 第一章 | 地痞三人组之一 |
-| チン | 阿珍 | 庆 | 第一章 | 地痞三人组之一 |
-| カン | 阿汉 | 康 | 第一章 | 地痞三人组之一 |
+| トン | 加斯顿 | 阿顿、阿桶 | 第一章 | 『顿珍汉』地痞三人组之『顿』 |
+| チン | 拉珍斯 | 阿珍、阿庆 | 第一章 | 『顿珍汉』地痞三人组之『珍』 |
+| カン | 汉巴里 | 阿汉、阿康 | 第一章 | 『顿珍汉』地痞三人组之『汉』 |
 | プリシラ・バーリエル | 普莉希拉・跋利耶尔 | 寡妇 | 第三章 | 『血色新娘』，王选候选人之一，手持『阳剑』 |
 | プリシラ・バーリエル | 普莉丝卡・贝尼迪克特 | - | 第七章 | 普莉希拉 的旧名 |
 | ライプ・バーリエル | 莱普・跋利耶尔 | - | 第四章 | 普莉希拉 的丈夫，已故 |
@@ -135,6 +135,7 @@
 | クリンド | 柯林特 | 库林特 | 第四章 | 米洛德分家管家 |
 | リーシア・ティンゼル | 莉莎・汀泽尔 | - | 第四章 | 法兰黛莉卡 和 加菲尔 姐弟的母亲 |
 | キリタカ・ミュース | 桐鹰・谬丝 | - | 第五章 | 普谬丝商会的会长，拥有『白龙之鳞』佣兵团 |
+| ダイナス | 戴纳斯 | - | 第五章 | 『白龙之鳞』佣兵团的指挥官 |
 | ダーツ | 达兹 | - | 第五章 | 水门都市的『复元术师』 |
 | ファルセイル・ルグニカ | 法赛鲁・露格尼卡 | - | 第六章 | 露格尼卡王国第三十五代国王，『最后的狮子王』，与『神龙』缔结盟约 |
 | フーリエ・ルグニ | 弗利艾・露格尼卡 | - | 第四章 | 兰德哈尔・露格尼卡 的第四王子，库珥修・卡尔斯腾 的未婚夫，已故 |
@@ -1641,7 +1642,7 @@
         </item>
         <item>
             <title><![CDATA[『妹抖・妹抖・妹抖』]]></title>
-            <description><![CDATA[—对昴来说，这已经是第二次离开【圣域】回到罗兹瓦尔宅邸了。]]></description>
+            <description><![CDATA[—对昴来说，这已经是第二次离开『圣域』回到罗兹瓦尔宅邸了。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter040/31.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter040/31.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -2236,7 +2237,7 @@
         </item>
         <item>
             <title><![CDATA[『将谎言化为祈愿』]]></title>
-            <description><![CDATA[地龙的嘶鸣响彻天际，仿佛是在向【圣域】的天空宣告战斗的结束。]]></description>
+            <description><![CDATA[地龙的嘶鸣响彻天际，仿佛是在向『圣域』的天空宣告战斗的结束。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter040/114.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter040/114.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -2250,7 +2251,7 @@
         </item>
         <item>
             <title><![CDATA[『祖母、母亲、姐姐、孙子、儿子、弟弟』]]></title>
-            <description><![CDATA[”虽然在爱蜜莉娅大人变得干劲满满的情况下（这么说）很抱歉，能让卡菲先进墓所么？“]]></description>
+            <description><![CDATA[”虽然在爱蜜莉娅大人变得干劲满满的情况下（这么说）很抱歉，能让加菲尔先进墓所么？“]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter040/116.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter040/116.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -2564,7 +2565,7 @@
         </item>
         <item>
             <title><![CDATA[『水之都市的归途』]]></title>
-            <description><![CDATA[爱蜜莉娅与齐力塔卡・缪兹之间的商谈的进展意外地平稳。]]></description>
+            <description><![CDATA[爱蜜莉娅与桐鹰・缪兹之间的商谈的进展意外地平稳。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter050/10.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter050/10.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

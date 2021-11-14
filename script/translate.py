@@ -61,7 +61,7 @@ def translate(dict, filepath) :
         data = file.read()
     
     for key in sorted(dict, key=len, reverse=True) :
-        data = data.replace(key, dict[key]))
+        data = data.replace(key, dict[key])
         
     with open(filepath, "w", encoding=CHARSET) as file :
         file.write(data)

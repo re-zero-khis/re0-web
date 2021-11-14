@@ -2,6 +2,7 @@
 # 自动机翻指定的 *.md 文件
 # --------------------------------------------
 # env: python3
+# Baidu API Doc : https://api.fanyi.baidu.com/doc/21
 # --------------------------------------------
 # usage: 
 #   python ./translate.py -i {app_id} -p {app_pass} -f {want to translate filepath}
@@ -19,7 +20,8 @@ import json
 CHARSET = "utf-8"
 DICT_PATH = "../gitbook/markdown/translation.md"
 BAIDU_API = "https://fanyi-api.baidu.com/api/trans/vip/translate"
-# API Doc : https://api.fanyi.baidu.com/doc/21
+BAIDU_LIMIT = 2000      # 百度限制一次只能翻译 2000 个字
+
 
 
 def main(filepath, app_id, app_pass) :
@@ -115,12 +117,50 @@ class BaiduTranslation :
 
 
     def translate(self, data) :
-        salt, sign = self.to_sign(data)
+        trans_result = []
+        segs = self._cut(data)
+        print("切割为 [%i] 段翻译 ..." % len(segs))
+
+        cnt = 0
+        for seg in segs :
+            cnt += 1
+            print("正在翻译第 [%i] 段 ..." % cnt)
+            # trans_seg = self._translate(seg)
+            trans_seg = seg
+            trans_result.append(trans_seg)
+            time.sleep(1)
+        return "\r\n".join(trans_result)
+
+
+    def _cut(self, data) :
+        segs = []
+        lines = data.split('\n')
+
+        seg_len = 0
+        seg = []
+        for line in lines :
+            line = line.strip()
+            line_len = len(line)
+            if seg_len + line_len > BAIDU_LIMIT :
+                segs.append("\r\n".join(seg))
+                seg_len = 0
+                seg = []
+
+            seg.append(line)
+            seg_len += line_len
+
+        segs.append("\r\n".join(seg))
+        return segs
+        
+
+
+    def _translate(self, data_seg) :
+        salt, sign = self.to_sign(data_seg)
         headers = {
             'Content-Type': 'application/x-www-form-urlencoded'
         }
         body = {
-            'q': data, 
+            'q': data_seg, 
             'from': 'jp', 
             'to': 'zh', 
             'appid': self.app_id, 

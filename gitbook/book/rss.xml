@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Nov 2021 11:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 16:51:20 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -135,7 +135,7 @@
 | クリンド | 柯林特 | 库林特 | 第四章 | 米洛德分家管家 |
 | リーシア・ティンゼル | 莉莎・汀泽尔 | - | 第四章 | 法兰黛莉卡 和 加菲尔 姐弟的母亲 |
 | キリタカ・ミュース | 桐鹰・谬丝 | - | 第五章 | 普谬丝商会的会长，拥有『白龙之鳞』佣兵团 |
-| ダイナス | 戴纳斯 | - | 第五章 | 『白龙之鳞』佣兵团的指挥官 |
+| ダイナス | 戴纳斯 | - | 第五章 | 『白龙之鳞』佣兵团团长 |
 | ダーツ | 达兹 | - | 第五章 | 水门都市的『复元术师』 |
 | ファルセイル・ルグニカ | 法赛鲁・露格尼卡 | - | 第六章 | 露格尼卡王国第三十五代国王，『最后的狮子王』，与『神龙』缔结盟约 |
 | フーリエ・ルグニ | 弗利艾・露格尼卡 | - | 第四章 | 兰德哈尔・露格尼卡 的第四王子，库珥修・卡尔斯腾 的未婚夫，已故 |
@@ -3986,39 +3986,43 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『馬車での一悶着』]]></title>
-            <description><![CDATA[ゆっくり、というほど牧歌的でもなく、馬車は街道を進んでゆく。]]></description>
+            <title><![CDATA[『马车上的纠纷』]]></title>
+            <description><![CDATA[慢慢地，也不是牧歌般的，马车在街道上前进。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/34.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/34.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『語らう夜』]]></title>
-            <description><![CDATA[「あたしとあんちゃんがいたとこは、そりゃもうひっどいとこだったんだよ」]]></description>
+            <title><![CDATA[『彻夜详谈』]]></title>
+            <description><![CDATA[“我和小安在一起的地方，当然是表兄弟了。”]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/35.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/35.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『混沌たる魔都』]]></title>
+            <title><![CDATA[『混沌的魔都』]]></title>
+            <description><![CDATA[“啊！呜！”]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/36.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/36.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『紅瑠璃城の主』]]></title>
+            <title><![CDATA[『红琉璃城之主』]]></title>
+            <description><![CDATA[——耸立在魔都混沌框架中央的红琉璃城。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/37.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/37.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『八年越しの褒美』]]></title>
+            <title><![CDATA[『八年后的奖励』]]></title>
+            <description><![CDATA[——《阿贝尔发火》。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/38.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/38.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『悪辣』]]></title>
+            <title><![CDATA[『恶毒』]]></title>
+            <description><![CDATA[从大厅的墙壁上开着的大洞向外望去，可憎的袖口歪斜着嘴唇。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/39.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/39.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Nov 2021 06:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 18:59:26 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -48,13 +48,13 @@
 | スー坊 | 斯小子 | - | 第四章 | 琉兹 对 昴 的雅称 |
 | スー | 阿斯 | - | 第七章 | 乌塔卡塔 对 昴 的昵称 |
 | ナツミ・シュバルツ | 夏美・施瓦茨 | - | 第七章 | 昴 女装时的假名 |
-| エミリア | 爱蜜莉娅 | 艾米莉娅 | 第一章 | 『精灵使』，王选候选人之一 |
+| エミリア | 爱蜜莉娅 | 艾米莉娅 | 第一章 | 『冰结魔女』『精灵使』，王选候选人之一 |
 | リア | 莉娅 | - | 第二章 | 帕克 对 爱蜜莉娅 的爱称 |
 | エミリアたん | 爱蜜莉娅碳 | - | 第二章 | 昴 对 爱蜜莉娅 的爱称 |
 | エミリ | 爱蜜莉 | 艾米莉 | 第四章 | 安妮罗洁 对 爱蜜莉娅 的昵称 |
 | カドモン・リッシュ | 卡德蒙・里施 | - | 第一章 | 水果商人（露格尼卡王都存档 NPC） |
 | レム | 雷姆 | 蕾姆 | 第二章 | 『鬼族』，拉姆 的妹妹 |
-| ラム | 拉姆 | - | 第二章 | 『鬼族』，雷姆 的姐姐，『角离』（丢失角） |
+| ラム | 拉姆 | - | 第二章 | 『鬼族』，雷姆 的姐姐，『角梨』（丢失角） |
 | ベアトリス | 碧翠丝 | 贝亚托莉丝 | 第二章 | 人形人工大精灵 |
 | ベア子 | 碧翠子 | 贝亚子 | 第二章 | 昴 对 碧翠丝 的昵称 |
 | ベティー | 贝蒂 | - | 第二章 | 碧翠丝 的自称 |
@@ -64,7 +64,7 @@
 | ペトラ・レイテ | 佩特拉・雷蒂 | - | 第二章 | 罗兹瓦尔宅邸女仆 |
 | オットー・スーウェン | 奥托・苏文 | - | 第三章 | 商人，“战神” |
 | フレデリカ・バウマン | 法兰黛莉卡・鲍曼 | - | 第四章 | 加菲尔 的姐姐 |
-| ガーフィール・ティンゼル | 加菲尔・汀泽尔 | 加菲 | 第二章 | 『黄金之虎』，法兰黛莉卡 的弟弟 |
+| ガーフィール・ティンゼル | 加菲尔・汀泽尔 | 加菲 | 第二章 | 『圣域之盾』『黄金之虎』『半兽人』，法兰黛莉卡 的弟弟 |
 | リューズ・メイエル | 琉兹・梅尔 | - | 第四章 | 琉兹・梅尔 的本体 |
 | リューズ・α | 琉兹・阿尔玛 | 琉兹・α | 第四章 | 琉兹・梅尔 的复制体 |
 | リューズ・β | 琉兹・毕尔玛 | 琉兹・β | 第四章 | 琉兹・梅尔 的复制体 |
@@ -120,7 +120,7 @@
 | カーミラ | 卡密拉 | - | 第四章 | 『色欲魔女』 |
 | パンドラ | 潘多拉 | 潘朵拉 | 第四章| 『虚饰魔女』 |
 | ヘクトール | 赫克特 | 赫克托尔 | 第四章 | 『忧郁魔人』 |
-| エルザ・グランヒルテ | 艾尔莎・葛兰西尔特 | - | 第一章 | 暗杀组织 —— 『猎肠者』 |
+| エルザ・グランヒルテ | 艾尔莎・葛兰西尔特 | - | 第一章 | 『吸血鬼』，暗杀组织 —— 『猎肠者』 |
 | メィリィ・ポートルート | 梅莉・波特鲁特 | - | 第四章 | 暗杀组织 —— 『魔兽使』 |
 | フリューゲル | 弗琉盖尔 | - | 第三章 | 三英杰 —— 『大贤人』，疑似也是从 昴 的世界被召唤过来的人 |
 | ボルカニカ | 波克肯尼卡 | - | 第三章 | 三英杰 —— 『神龙』 |
@@ -1095,7 +1095,7 @@
         </item>
         <item>
             <title><![CDATA[『再次从王都出发』]]></title>
-            <description><![CDATA[与普莉希拉．巴利埃尔的谈判也以决裂作为结束，这次昴所有能选择的道路都崩溃了。]]></description>
+            <description><![CDATA[与普莉希拉．跋利耶尔的谈判也以决裂作为结束，这次昴所有能选择的道路都崩溃了。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter030/44.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter030/44.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -3255,7 +3255,7 @@
         </item>
         <item>
             <title><![CDATA[『夏乌拉≠贤者=弗琉盖尔』]]></title>
-            <description><![CDATA[——伟大的“大贤人”弗琉盖尔]]></description>
+            <description><![CDATA[——伟大的『大贤人』弗琉盖尔]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/20.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/20.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

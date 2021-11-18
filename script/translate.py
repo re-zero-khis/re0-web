@@ -39,6 +39,9 @@ def main(filepath, app_id, app_pass) :
     print("正在机翻内容 ...")
     bt = BaiduTranslation(BAIDU_API, app_id, app_pass)
     data = bt.translate(data)
+    data = data.replace("《", "『").replace("》", "』")
+    data = data.replace("“", "「").replace("”", "」")
+    data = data.replace("△▼△▼△▼△", "※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※")
 
     with open(filepath, "w", encoding=CHARSET) as file :
         file.write(data)

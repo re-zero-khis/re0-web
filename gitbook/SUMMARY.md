@@ -24,7 +24,7 @@
 	* [12　『再会的魔女』](markdown/ch/chapter010/12.md)
 	* [13　『终结与开始』](markdown/ch/chapter010/13.md)
 	* [14　『事不过四』](markdown/ch/chapter010/14.md)
-	* [15　『被称为《剑圣》的男人』](markdown/ch/chapter010/15.md)
+	* [15　『被称为「剑圣」的男人』](markdown/ch/chapter010/15.md)
 	* [16　『贫民窟中的交涉』](markdown/ch/chapter010/16.md)
 	* [17　『赃物库中的交涉』](markdown/ch/chapter010/17.md)
 	* [18　『赃物库的攻防战』](markdown/ch/chapter010/18.md)

@@ -548,7 +548,7 @@
 	* [30　『自称英雄的菜月・昴』](markdown/ch/chapter070/30.md)
 	* [31　『与老乡的谈心』](markdown/ch/chapter070/31.md)
 	* [32　『前进的道路』](markdown/ch/chapter070/32.md)
-	* [33　『向着魔都进发』](markdown/ch/chapter070/33.md)
+	* [33　『出发，踏上魔都之路』](markdown/ch/chapter070/33.md)
 	* [34　『马车上的纠纷』](markdown/ch/chapter070/34.md)
 	* [35　『彻夜详谈』](markdown/ch/chapter070/35.md)
 	* [36　『混沌的魔都』](markdown/ch/chapter070/36.md)

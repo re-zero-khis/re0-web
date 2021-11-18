@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Nov 2021 11:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 18:50:45 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -47,13 +47,14 @@
 | 兄弟 | 兄弟 | - | 第三章 | 阿尔 对 昴 的昵称 |
 | スー坊 | 斯小子 | - | 第四章 | 琉兹 对 昴 的雅称 |
 | スー | 阿斯 | - | 第七章 | 乌塔卡塔 对 昴 的昵称 |
-| ナツミ・シュバルツ | 夏美・施瓦茨 | - | 第七章 | 昴 女装时的假名 |
+| ナツミ・シュバルツ | 夏美・施瓦茨 | - | 第七章 | 昴 女装时的假名，『女军师』 |
 | エミリア | 爱蜜莉娅 | 艾米莉娅 | 第一章 | 『冰结魔女』『精灵使』，王选候选人之一 |
 | リア | 莉娅 | - | 第二章 | 帕克 对 爱蜜莉娅 的爱称 |
 | エミリアたん | 爱蜜莉娅碳 | - | 第二章 | 昴 对 爱蜜莉娅 的爱称 |
 | エミリ | 爱蜜莉 | 艾米莉 | 第四章 | 安妮罗洁 对 爱蜜莉娅 的昵称 |
 | カドモン・リッシュ | 卡德蒙・里施 | - | 第一章 | 水果商人（露格尼卡王都存档 NPC） |
 | レム | 雷姆 | 蕾姆 | 第二章 | 『鬼族』，拉姆 的妹妹 |
+| レー | 阿雷 | 阿蕾 | 第七章 | 乌塔卡塔 对 雷姆 的昵称 |
 | ラム | 拉姆 | - | 第二章 | 『鬼族』，雷姆 的姐姐，『角梨』（丢失角） |
 | ベアトリス | 碧翠丝 | 贝亚托莉丝 | 第二章 | 人形人工大精灵 |
 | ベア子 | 碧翠子 | 贝亚子 | 第二章 | 昴 对 碧翠丝 的昵称 |
@@ -80,7 +81,7 @@
 | チン | 拉珍斯 | 阿珍、阿庆 | 第一章 | 『顿珍汉』地痞三人组之『珍』 |
 | カン | 汉巴里 | 阿汉、阿康 | 第一章 | 『顿珍汉』地痞三人组之『汉』 |
 | プリシラ・バーリエル | 普莉希拉・跋利耶尔 | 寡妇 | 第三章 | 『血色新娘』，王选候选人之一，手持『阳剑』 |
-| プリシラ・バーリエル | 普莉丝卡・贝尼迪克特 | - | 第七章 | 普莉希拉 的旧名 |
+| プリスカ・ベネディクト | 普莉丝卡・贝尼迪克特 | - | 第七章 | 普莉希拉 的旧名 |
 | ライプ・バーリエル | 莱普・跋利耶尔 | - | 第四章 | 普莉希拉 的丈夫，已故 |
 | アルデバラン | 阿尔德巴兰 | - | 第三章 | 18 年前和 昴 一样被召唤到异世界的头盔男 |
 | アル | 阿尔 | - | 第三章 | 阿尔德巴兰 的简称 |
@@ -166,7 +167,7 @@
 | アベル | 阿贝尔 | - | 第七章 | 文森特・阿贝尔克斯 的假名 |
 | ビアンカ | 毕安卡 | - | 第七章 | 文森特・阿贝尔克斯 女装时的假名 |
 | ヴィンセント・ヴォラキア | 文森特・佛拉基亚 | - | 第七章 | 佛拉基亚帝国第七十七代皇帝（现任） |
-| ズィクル・オスマン | 兹克尔・奥斯曼 | - | 第七章 | 『女奴』『胆小鬼』，佛拉基亚帝国二将 |
+| ズィクル・オスマン | 兹克尔・奥斯曼 | - | 第七章 | 『女奴』『胆小鬼』，佛拉基亚帝国二将，『爆炸头』 |
 | ジャマル・オーレリー | 贾马尔・奥雷利 | - | 第七章 | 佛拉基亚的帝国贵族和帝国军人，卡秋娅 的哥哥 |
 | たトッド | 托德 | - | 第七章 | 佛拉基亚的帝国军人，卡秋娅 的未婚夫，贾马尔 的妹夫 |
 | カチュア | 卡秋娅 | - | 第七章 | 贾马尔 的妹妹，托德 的未婚妻 |
@@ -192,10 +193,12 @@
 | ムスラン・カラード | 穆斯朗・卡拉多 | - | 第五章 | 鲁斯贝尔 的父亲 |
 | イーナ・カラード | 伊娜・卡拉多 | - | 第五章 | 鲁斯贝尔 的母亲 |
 | イゴール・ケナシュ | 伊戈尔・科纳修 | - | 短篇 |  |
-| ログレス・ハイアット | 罗古雷斯・海亚特 | - | 短篇 |  |
-|  | 阿库娅 | - | 短篇 |  |
-|  | 达克妮丝 | - | 短篇 |  |
-|  | 惠惠 | - | 短篇 |  |]]></description>
+| ログレス・ハイアット | 罗古雷斯・海亚特 | - | 短篇 | 『屠杀人』 |
+| ？ | 阿库娅 | - | 短篇 | - |
+| ？ | 达克妮丝 | - | 短篇 | - |
+| ？ | 惠惠 | - | 短篇 | - |
+| ロウアンと | 罗恩 | - | 第七章 | 瓜拉尔 酒馆的 雇佣兵 |
+| 大酒飲 | 酒馆老板 | - | 第七章 | 瓜拉尔 酒馆老板 |]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/translation.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/translation.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -312,7 +315,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『被称为《剑圣》的男人』]]></title>
+            <title><![CDATA[『被称为『剑圣』的男人』]]></title>
             <description><![CDATA[仔细想想，和假莎缇拉的接触大多是仰赖偶然。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter010/15.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter010/15.html</guid>
@@ -1318,7 +1321,7 @@
         </item>
         <item>
             <title><![CDATA[『幕后舞台×阴谋诡计×拉钩约定』]]></title>
-            <description><![CDATA[──将时间稍微回溯到前往梅扎斯领地途中的作战会议场面。]]></description>
+            <description><![CDATA[──将时间稍微回溯到前往梅札斯领地途中的作战会议场面。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter030/76.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter030/76.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -3129,7 +3132,7 @@
         </item>
         <item>
             <title><![CDATA[『他相应的款待』]]></title>
-            <description><![CDATA[说得略晚了点，如今爱蜜莉娅阵营的指挥部已经从以前罗兹瓦尔那个被烧毁的别邸转移到了梅扎斯领地内的本家。]]></description>
+            <description><![CDATA[说得略晚了点，如今爱蜜莉娅阵营的指挥部已经从以前罗兹瓦尔那个被烧毁的别邸转移到了梅札斯领地内的本家。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/02.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/02.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -3982,19 +3985,22 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『進むべき道筋』]]></title>
+            <title><![CDATA[『前进的道路』]]></title>
+            <description><![CDATA[「凡愚一人，带回来要花多少时间？你以为妾身和你的时间价值是一样的吗？」]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/32.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/32.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『いざ、魔都への旅路へ』]]></title>
+            <title><![CDATA[『出发，踏上魔都之路』]]></title>
+            <description><![CDATA[——使用能使用的东西，夺回佛拉基亚皇帝的宝座。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/33.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/33.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『馬車での一悶着』]]></title>
+            <title><![CDATA[『马车上的纠纷』]]></title>
+            <description><![CDATA[慢慢地，也不是牧歌般的，马车在街道上前进。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/34.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/34.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4289,14 +4295,14 @@
         </item>
         <item>
             <title><![CDATA[『法兰黛莉卡和佩特拉的、女仆小姐日子Ⅱ』]]></title>
-            <description><![CDATA[法兰黛莉卡・鲍曼自十一岁起，便在罗兹瓦尔・L・梅扎斯边境伯的名下作为女仆工作。]]></description>
+            <description><![CDATA[法兰黛莉卡・鲍曼自十一岁起，便在罗兹瓦尔・L・梅札斯边境伯的名下作为女仆工作。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/11.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/11.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『加菲尔和拉姆、乖僻别扭的恋爱』]]></title>
-            <description><![CDATA[拉姆毕生的主人罗兹瓦尔・L・梅扎斯边境伯的领地的最北方是被称作『克雷马尔蒂的迷之森林』的土地。]]></description>
+            <description><![CDATA[拉姆毕生的主人罗兹瓦尔・L・梅札斯边境伯的领地的最北方是被称作『克雷马尔蒂的迷之森林』的土地。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/12.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter099/special/12.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

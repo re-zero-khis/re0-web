@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Nov 2021 18:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:26:07 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -184,6 +184,7 @@
 | ベルステツ | 贝尔斯提兹 | - | 第七章 | 帝国宰相，『拉米亚的遗产』，是 拉米亚 的参谋 |
 | フロップ・オコーネル | 弗洛普・奥克尼尔 | - | 第七章 | 在佛拉基亚迅游的商人兄妹的哥哥，商人担当 |
 | フローラ | 芙洛拉 | - | 第七章 | 弗洛普 女装时的假名 |
+| あんちゃん | 阿哥 | - | 第七章 | 米迪娅姆 对 弗洛普 的昵称 |
 | ミディアム・オコーネル | 米迪娅姆・奥克尼尔 | - | 第七章 | 在佛拉基亚迅游的商人兄妹的妹妹，战力担当 |
 | 旦那くん | 昴先生 | 丈夫先生 | 第七章 | 弗洛普 对 昴 的敬称 |
 | 奥さん | 夫人 | 妻子小姐 | 第七章 | 弗洛普 对 雷姆 的敬称 |
@@ -4006,7 +4007,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『語らう夜』]]></title>
+            <title><![CDATA[『彻夜详谈』]]></title>
+            <description><![CDATA[「我和阿哥在一起长大的地方，那是一个可怕的地方。」]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/35.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/35.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

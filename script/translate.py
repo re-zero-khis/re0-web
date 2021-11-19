@@ -42,6 +42,7 @@ def main(filepath, app_id, app_pass) :
     data = data.replace("《", "『").replace("》", "』")
     data = data.replace("‘", "『").replace("’", "』")
     data = data.replace("“", "「").replace("”", "」")
+    data = data.replace("·", "・")
     data = data.replace("△▼△▼△▼△", "※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※")
 
     with open(filepath, "w", encoding=CHARSET) as file :

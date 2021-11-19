@@ -77,7 +77,7 @@
 
 ### 短篇集　02
 
-- [『对 E・M・T 献上情歌』](short02/01.html)
+- [『对 Ｅ・Ｍ・Ｔ 献上情歌』](short02/01.html)
 - [『RAM IS ORDER』](short02/02.html)
 - [『OPERATION・KOKKURI』](short02/03.html)
 - [『图书馆员碧翠丝不甘愿的约定』](short02/04.html)

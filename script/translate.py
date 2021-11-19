@@ -40,6 +40,7 @@ def main(filepath, app_id, app_pass) :
     bt = BaiduTranslation(BAIDU_API, app_id, app_pass)
     data = bt.translate(data)
     data = data.replace("《", "『").replace("》", "』")
+    data = data.replace("‘", "『").replace("’", "』")
     data = data.replace("“", "「").replace("”", "」")
     data = data.replace("△▼△▼△▼△", "※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※")
 

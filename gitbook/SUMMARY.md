@@ -556,7 +556,7 @@
 	* [38　『八年后的奖励』](markdown/ch/chapter070/38.md)
 	* [39　『恶毒』](markdown/ch/chapter070/39.md)
 	* [40　『奈琪・斯巴鲁』](markdown/ch/chapter070/40.md)
-	* [41　『茶飲み話』](markdown/ch/chapter070/41.md)
+	* [41　『茶歇谈话』](markdown/ch/chapter070/41.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter099/README.md)
 	* [IF 线合集](markdown/ch/chapter099/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter099/if/01.md)

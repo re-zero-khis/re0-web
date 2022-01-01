@@ -13,19 +13,16 @@
 import os
 import sys
 
-def main(dirpath) :
-    DIR = dirpath
-    
-    for dirPath, dirNames, fileNames in os.walk(DIR):   #迭代目录
-        if DIR != dirPath :
+def main(rootdir) :
+    for dirPath, dirNames, fileNames in os.walk(rootdir) :   # 迭代目录
+        if rootdir != dirPath :
             continue
         
-        print(dirPath)
         for fileName in fileNames :
             if ('.md' not in fileName) or ('README' in fileName) :
                 continue
             
-            filepath = dirpath + fileName
+            filepath = dirPath + fileName
             format_lines = []
             with open(filepath, 'r', encoding='utf-8') as file:
                 lines = file.readlines()

@@ -16,6 +16,13 @@
 <br/>　（6）点击【FILES】可打开仓库文件，在路径 `gitbook/markdown/ch` 下即为各个章节的内容
 
 
+## 关于【未润色】
+
+因本人工作繁忙，部分章节只做了人名校对和机翻，暂时没有做内容润色，这些章节会打上【未润色】的标记，但基本不影响理解情节。
+
+> 如果有小伙伴愿意合作润色的，[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/lyy289065406/re0-web/pulls)。
+
+
 ## 内容预览
 
 <details>
@@ -35,13 +42,6 @@
 ![](https://github.com/lyy289065406/re0-web/blob/master/img/14.png)
 
 </details>
-
-
-## 关于【未润色】
-
-因本人工作繁忙，部分章节只做了人名校对和机翻，暂时没有做内容润色，这些章节会打上【未润色】的标记，但基本不影响理解情节。
-
-如果有小伙伴愿意合作润色的，欢迎提 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/lyy289065406/re0-web/pulls)。
 
 
 ## 文库版对应内容

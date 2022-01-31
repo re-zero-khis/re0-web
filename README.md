@@ -16,6 +16,13 @@
 <br/>　（6）点击【FILES】可打开仓库文件，在路径 `gitbook/markdown/ch` 下即为各个章节的内容
 
 
+## 关于【未润色】
+
+因本人工作繁忙，部分章节只做了人名校对和机翻，暂时没有做内容润色，这些章节会打上【未润色】的标记，但基本不影响理解情节。
+
+> 如果有小伙伴愿意合作润色的，[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/lyy289065406/re0-web/pulls)。
+
+
 ## 内容预览
 
 <details>
@@ -36,28 +43,8 @@
 
 </details>
 
-------
 
-## 相关资源
-
-<details>
-<summary>展开查看</summary>
-<br/>
-
-- [文库版图源](https://rezero.fandom.com/wiki/Re:Zero_kara_Hajimeru_Isekai_Seikatsu)
-- [日文原版（需翻墙）](http://ncode.syosetu.com/n2267be/)
-- 资源整合网盘：[爱丽丝的记事本](https://noire.cc:8888/s/djDhA?path=%2F)
-- 汉化整合（百度贴吧）： [【1.0】](https://tieba.baidu.com/p/4974060711) [【2.0】](https://tieba.baidu.com/p/7063765027)
-- [汉化整合（石墨文档）](https://shimo.im/docs/QDDPYPg8Y63xDXHX/read)
-- 汉化整合（巴哈姆特）： [【第三四章】](https://home.gamer.com.tw/creationDetail.php?sn=3279407) [【第五章】](https://home.gamer.com.tw/creationDetail.php?sn=3686795)
-- 汉化搬运（有道云）： [【上】](https://note.youdao.com/ynoteshare1/index.html?id=8a308a38db5ff96ec6e69d5807a917ba) [【下】](https://note.youdao.com/ynoteshare1/index.html?id=c79c8f8e467ac554d292d62a43dc8bf6&type=note#/&sfc=qqfriend)
-- 汉化搬运（真白萌）：[【第六章】](https://masiro.moe/forum.php?mod=forumdisplay&fid=251)
-- 汉化搬运（中文 Wiki 论坛）：[【第七章】](https://rezero.fandom.com/zh/f?catId=4400000000000005617) `1 ~ 28`
-- 汉化搬运（Re0 小说站）：[【第七章】](https://ccxxxi.github.io/re0novel/#/) `29 ~ *`
-
-</details>
-
-------
+## 文库版对应内容
 
 **WEB版 与 文库版 的区别**：
 
@@ -96,8 +83,6 @@
 | EPUB<br/>第 26 卷 | <img width="120" src="gitbook/res/img/article/chapter070/00-a.jpg"> | - | <ul><li><b>起</b>：【第七章】 01 『洗礼』</li><li><b>止</b>：【第七章】 12 『佛拉基亚帝国』</li></ul> |
 
 
-------
-
 
 ## 致开发者
 
@@ -113,16 +98,24 @@
 </details>
 
 
-## 赞助途径
+## 相关资源
 
 <details>
-<summary>校对不易，谢予支持</summary>
+<summary>展开查看</summary>
 <br/>
 
-| 支付宝 | 微信 |
-|:---:|:---:|
-| ![](gitbook/res/img/donate/alipay.png) | ![](gitbook/res/img/donate/wechat.png) |
+- [文库版图源](https://rezero.fandom.com/wiki/Re:Zero_kara_Hajimeru_Isekai_Seikatsu)
+- [日文原版（需翻墙）](http://ncode.syosetu.com/n2267be/)
+- 资源整合网盘：[爱丽丝的记事本](https://noire.cc:8888/s/djDhA?path=%2F)
+- 汉化整合（百度贴吧）： [【1.0】](https://tieba.baidu.com/p/4974060711) [【2.0】](https://tieba.baidu.com/p/7063765027)
+- [汉化整合（石墨文档）](https://shimo.im/docs/QDDPYPg8Y63xDXHX/read)
+- 汉化整合（巴哈姆特）： [【第三四章】](https://home.gamer.com.tw/creationDetail.php?sn=3279407) [【第五章】](https://home.gamer.com.tw/creationDetail.php?sn=3686795)
+- 汉化搬运（有道云）： [【上】](https://note.youdao.com/ynoteshare1/index.html?id=8a308a38db5ff96ec6e69d5807a917ba) [【下】](https://note.youdao.com/ynoteshare1/index.html?id=c79c8f8e467ac554d292d62a43dc8bf6&type=note#/&sfc=qqfriend)
+- 汉化搬运（真白萌）：[【第六章】](https://masiro.moe/forum.php?mod=forumdisplay&fid=251)
+- 汉化搬运（中文 Wiki 论坛）：[【第七章】](https://rezero.fandom.com/zh/f?catId=4400000000000005617) `1 ~ 28`
+- 汉化搬运（Re0 小说站）：[【第七章】](https://ccxxxi.github.io/re0novel/#/) `29 ~ *`
 
 </details>
+
 
 

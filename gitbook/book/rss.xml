@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Feb 2022 02:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 03:34:14 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -163,7 +163,7 @@
 | ゴズ・ラルフォン | 哥兹・拉尔冯 | - | 第七章 | 『狮子骑士』，『九神将』之『伍』 |
 | グルービー・ガムレット | 格鲁比・加姆雷特 | - | 第七章 | 『咒具师』，『九神将』之『陆』 |
 | ヨルナ・ミシグレ | 尤尔娜・米西格蕾 | - | 第七章 | 『极彩色』，『九神将』之『漆』 |
-| 狐娘 | 狐娘 | - | - | 第七章 |  尤尔娜・米西格蕾 的 别称 |
+| 狐娘 | 狐狸姑娘 | - | 第七章 |  指代 尤尔娜・米西格蕾，『恶毒翁』奥尔巴特 对『极彩色』米西格蕾的戏称（这老头喜欢用别人的特征叫人） |
 | モグロ・ハガネ | 莫古洛・哈加涅 | - | 第七章 | 『钢人』，『九神将』之『捌』 |
 | マデリン・エッシャルト | 马德林・艾沙尔 | - |第七章  | 『飞龙将』，『九神将』之『玖』 |
 | ヴィンセント・アベルクス | 文森特・阿贝尔克斯 | - | 第七章 | 佛拉基亚帝国第七十七代皇帝（被篡位） |
@@ -4140,7 +4140,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『十一秒のその先』]]></title>
+            <title><![CDATA[『十一秒的前方』（未润色）]]></title>
+            <description><![CDATA[「我听你说，你和这条街上的人都很健壮……那是比我们村里的人还健壮吗？」]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/53.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/53.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

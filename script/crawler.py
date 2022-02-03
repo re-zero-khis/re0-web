@@ -88,7 +88,10 @@ def save_page(uri, title) :
     segidx = segidx if segidx else ('%i' % time.time())    # 若无分节编号，则使用时间戳代替
     _title = grps[0][2]
 
-    print('* [%s](markdown/jp/chapter/%s.md)' % (title, segidx))
+    try :
+        print('* [%s](markdown/jp/chapter/%s.md)' % (title, segidx))
+    except :
+        pass # 可能有编码异常
 
     mth = re.search(r'/(\d+)/', uri)
     if mth :

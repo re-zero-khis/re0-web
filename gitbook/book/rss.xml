@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Feb 2022 01:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 03:36:58 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -48,7 +48,7 @@
 | スー坊 | 斯小子 | - | 第四章 | 琉兹 对 昴 的雅称 |
 | スー | 阿斯 | - | 第七章 | 乌塔卡塔 对 昴 的昵称 |
 | ナツミ・シュバルツ | 夏美・施瓦茨 | - | 第七章 | 昴 女装时的假名，『女军师』 |
-| ナチュキ・シュバル | 奈琪・斯巴鲁 | - | 第七章 | 昴 缩小到年幼时期的名字 |
+| ナチュキ・シュバル | 纳奇基・斯巴鲁 | - | 第七章 | 昴 缩小到年幼时期的名字。纳奇基 应该指代 小尤纳奇基，乌克兰的只有 1.32 平方公里的小国（老贼奇怪的知识都用在起名上了） |
 | エミリア | 爱蜜莉娅 | 艾米莉娅 | 第一章 | 『冰结魔女』『精灵使』『银发的半精灵』，王选候选人之一 |
 | リア | 莉娅 | - | 第二章 | 帕克 对 爱蜜莉娅 的爱称 |
 | エミリアたん | 爱蜜莉娅碳 | - | 第二章 | 昴 对 爱蜜莉娅 的爱称 |
@@ -170,8 +170,9 @@
 | アベル | 阿贝尔 | - | 第七章 | 文森特・阿贝尔克斯 的假名 |
 | ビアンカ | 毕安卡 | - | 第七章 | 文森特・阿贝尔克斯 女装时的假名 |
 | ヴィンセント・ヴォラキア | 文森特・佛拉基亚 | - | 第七章 | 佛拉基亚帝国第七十七代皇帝（现任） |
-| カフマ・イルルクスだ | 卡夫马・伊鲁克斯 | - | 第七章 | 文森特・佛拉基亚 的护卫之一，脾气火爆 |
-| タンザ | 坦萨 | - | 第七章 | 尤尔娜 的随从，鹿人少女 |
+| カフマ・イルルクスだ | 卡夫马・伊鲁克斯 | - | 第七章 | 『斗虫将』，文森特・佛拉基亚 的护卫之一，脾气火爆 |
+| タンザ | 坦萨 | - | 第七章 | 尤尔娜 的随从，鹿人少女，有佛拉基亚皇族的血脉，被有角亚人追随 |
+| 鹿娘 | 鹿人姑娘 | - | 第七章 |  指代 坦萨，『恶毒翁』奥尔巴特 对『极彩色』米西格蕾的戏称（这老头喜欢用别人的特征叫人） |
 | ズィクル・オスマン | 兹克尔・奥斯曼 | - | 第七章 | 『女奴』『胆小鬼』，佛拉基亚帝国二将，『爆炸头』 |
 | ジャマル・オーレリー | 贾马尔・奥雷利 | - | 第七章 | 佛拉基亚的帝国贵族和帝国军人，卡秋娅 的哥哥 |
 | たトッド | 托德 | - | 第七章 | 佛拉基亚的帝国军人，卡秋娅 的未婚夫，贾马尔 的妹夫 |
@@ -4049,7 +4050,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『奈琪・斯巴鲁』（未润色）]]></title>
+            <title><![CDATA[『纳奇基・斯巴鲁』（未润色）]]></title>
             <description><![CDATA[「――――」]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/40.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/40.html</guid>
@@ -4147,7 +4148,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『理想郷カオスフレーム』]]></title>
+            <title><![CDATA[『理想乡与混沌世界』]]></title>
+            <description><![CDATA[「嗯，唔，啊……」]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/54.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/54.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

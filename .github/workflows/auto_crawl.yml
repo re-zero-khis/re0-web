@@ -1,9 +1,9 @@
 # 自动构建（避免编译异常，仅在 staging 分支构建，需手动合并）
-name: Automatically Build GitBook
+name: Automatically Crawl Novel
 on:
-  push:
-    branches:
-      - staging
+  schedule:
+    - cron: '0 1 * * *'
+
 
 jobs:
   build:
@@ -13,9 +13,26 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
 
-      - name: Compile
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Configure pip caching
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install requests
+
+      - name: Crawl
         run: |-
-          ./build.sh
+          cd ./script
+          python crawler.py
 
       # 如果不希望污染 commit 记录，user.email 和 user.name 随便填即可
       # Github Runner 是有权限提交到仓库的，只要 user 不是 owner ，当次 commit 不会被记录

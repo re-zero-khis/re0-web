@@ -10,10 +10,8 @@
 
 import os
 import requests
-import json
 import re
 import time
-import traceback
 
 PROGRESS_FILE = './progress.bar'
 DOWNLOAD_DIR = './downloads'
@@ -29,6 +27,8 @@ HEADER = {
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
 }
+
+IS_USE_PROXY = False
 _PROXY = 'http://127.0.0.1:8888'
 PROXY = { "http": _PROXY, "https": _PROXY } if _PROXY else {}
 
@@ -52,7 +52,10 @@ def save_progress(progress) :
 
 
 def take_index() :
-    response = requests.get(url=URL, headers=HEADER, proxies=PROXY)
+    if IS_USE_PROXY :
+        response = requests.get(url=URL, headers=HEADER, proxies=PROXY)
+    else :
+        response = requests.get(url=URL, headers=HEADER)
     html = response.text
 
     grps = re.findall(r'<a href="(/n2267be/\d+/)">([^<]+)</a>', html)
@@ -107,7 +110,10 @@ def save_page(uri, title) :
     if not os.path.exists(_dir) :
         os.makedirs(_dir) 
 
-    response = requests.get(url=PAGE_URL, headers=HEADER, proxies=PROXY)
+    if IS_USE_PROXY :
+        response = requests.get(url=PAGE_URL, headers=HEADER, proxies=PROXY)
+    else :
+        response = requests.get(url=PAGE_URL, headers=HEADER)
     html = response.text
 
     lines = [

@@ -6,7 +6,7 @@ on:
 
 
 jobs:
-  build:
+  crawl:
     runs-on: ubuntu-latest
     
     steps:

@@ -29,7 +29,7 @@ HEADER = {
 }
 
 IS_USE_PROXY = False
-_PROXY = 'http://127.0.0.1:8888'
+_PROXY = 'http://127.0.0.1:18888'
 PROXY = { "http": _PROXY, "https": _PROXY } if _PROXY else {}
 
 

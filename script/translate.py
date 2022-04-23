@@ -8,7 +8,7 @@
 # usage: 
 #   python ./translate.py -i {app_id} -p {app_pass} -f {want to translate filepath}
 # eg:
-#   python ./translate.py -i "app_id" -p "app_pass" -f "../gitbook/markdown/ch/chapter070/34.md"
+#   python ./translate.py -i "app_id" -p "app_pass" -f "../gitbook/markdown/ch/chapter070/55.md"
 # --------------------------------------------
 
 import sys
@@ -16,6 +16,7 @@ import time
 import hashlib
 import requests
 import json
+from color_log.clog import log
 
 
 CHARSET = "utf-8"
@@ -26,17 +27,17 @@ BAIDU_LIMIT = 2000      # 百度限制一次只能翻译 2000 个字
 
 
 def main(filepath, app_id, app_pass) :
-    print("正在准备翻译 [%s]" % filepath)
+    log.info("正在准备翻译 [%s]" % filepath)
     data = ""
     with open(filepath, "r", encoding=CHARSET) as file :
         data = file.read()
 
-    print("正在翻译专有名词 ...")
+    log.info("正在翻译专有名词 ...")
     wt = WordTranslation(DICT_PATH)
     wt.load_dict()
     data = wt.translate(data)
 
-    print("正在机翻内容 ...")
+    log.info("正在机翻内容 ...")
     bt = BaiduTranslation(BAIDU_API, app_id, app_pass)
     data = bt.translate(data)
     data = data.replace("《", "『").replace("》", "』")
@@ -47,7 +48,7 @@ def main(filepath, app_id, app_pass) :
 
     with open(filepath, "w", encoding=CHARSET) as file :
         file.write(data)
-    print("翻译完成，译文已存储到 [%s]" % filepath)
+    log.info("翻译完成，译文已存储到 [%s]" % filepath)
 
 
 
@@ -60,7 +61,7 @@ class WordTranslation :
 
     # 读取专有名词字典
     def load_dict(self) :
-        print("正在读取专有名词翻译字典 ...")
+        log.info("正在读取专有名词翻译字典 ...")
         lines = []
         with open(self.dict_path, "r", encoding=CHARSET) as file :
             lines = file.readlines()
@@ -84,7 +85,7 @@ class WordTranslation :
         
         self.words_dict.pop(":---:")
         self.words_dict.pop("日文")
-        print("共读取专有名词 [%i] 个。" % len(self.words_dict))
+        log.info("共读取专有名词 [%i] 个。" % len(self.words_dict))
         return self.words_dict
 
 
@@ -93,7 +94,7 @@ class WordTranslation :
 
 
     def translate(self, data) :
-        print("正在翻译专有名词 ...")
+        log.info("正在翻译专有名词 ...")
         for key in sorted(self.words_dict, key=len, reverse=True) :
             data = data.replace(key, self.words_dict[key])
         return data
@@ -125,12 +126,12 @@ class BaiduTranslation :
     def translate(self, data) :
         trans_result = []
         segs = self._cut(data)
-        print("切割为 [%i] 段翻译 ..." % len(segs))
+        log.info("切割为 [%i] 段翻译 ..." % len(segs))
 
         cnt = 0
         for seg in segs :
             cnt += 1
-            print("正在翻译第 [%i] 段 ..." % cnt)
+            log.info("正在翻译第 [%i] 段 ..." % cnt)
             trans_seg = self._translate(seg)
             trans_result.append(trans_seg)
             time.sleep(1)
@@ -183,9 +184,9 @@ class BaiduTranslation :
                 for line in rst.get("trans_result") :
                     trans_result.append(line.get("dst").strip())
             else :
-                print("翻译段落失败")
+                log.info("翻译段落失败")
         except :
-            print("翻译段落失败")
+            log.error("翻译段落失败: %s" % response.text)
         return "\n\n".join(trans_result)
 
 

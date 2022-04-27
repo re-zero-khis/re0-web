@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 Apr 2022 14:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 15:50:39 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -179,7 +179,7 @@
 | カチュア | 卡秋娅 | - | 第七章 | 贾马尔 的妹妹，托德 的未婚妻 |
 | ミゼルダ | 米泽尔妲 | - | 第七章 | 修德拉克族长（断腿后退位），塔莉塔 的姐姐 |
 | ミー | 阿米 | - | 第七章 | 乌塔卡塔 对 米泽尔妲 的昵称 |
-| タリッタ | 塔莉塔 | - | 第七章 | 米泽尔妲 断腿后继任修德拉克族长，米泽尔妲 的妹妹 |
+| タリッタ | 塔莉塔 | - | 第七章 | 米泽尔妲 断腿后继任修德拉克族长，米泽尔妲 的妹妹，『巴德海姆密林的猎人』，被『星都』师称为『修德拉克之污秽』，继承了『星都』的宿命 |
 | ター | 阿塔 | - | 第七章 | 乌塔卡塔 对 塔莉塔 的昵称 |
 | ウタカタ | 乌塔卡塔 | - | 第七章 | 修德拉克之民，幼女，擅用毒箭 |
 | ウー | 小乌 | - | 第七章 | 乌塔卡塔 的自称 |
@@ -207,7 +207,7 @@
 | ロウアンと | 罗恩 | - | 第七章 | 瓜拉尔 酒馆的 雇佣兵 |
 | 大酒飲 | 酒馆老板 | - | 第七章 | 瓜拉尔 酒馆老板 |
 | ネイジ・ロックハート | 涅吉・罗克哈特 | - | 第六章 | 『拳王』，在剑奴孤岛没有任何人可以与之匹敌的强者 |
-| ウビルク | 乌比尔克 | - | 第七章 | 『星读』师 |]]></description>
+| ウビルク | 乌比尔克 | - | 第七章 | 『星读』师，肩负着从星际中预知未来、引导他人的角色 |]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/translation.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/translation.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4155,25 +4155,29 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『魔都狂騒曲』]]></title>
+            <title><![CDATA[『魔都狂骚曲』（未润色）]]></title>
+            <description><![CDATA[——魔都『卡欧斯弗雷姆』的中心红琉璃城倒塌和影子泛滥。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/55.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/55.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『大災』]]></title>
+            <title><![CDATA[『大灾』（未润色）]]></title>
+            <description><![CDATA[——放弃城市，转移到撤退战。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/56.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/56.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『賢くは生きられない』]]></title>
+            <title><![CDATA[「聪明是活不下去的」（未润色）]]></title>
+            <description><![CDATA[——在黑暗、黑暗的空间里。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/57.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/57.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『寄る辺なきモノたち』]]></title>
+            <title><![CDATA[『无家可归的人们』（未润色）]]></title>
+            <description><![CDATA[——塔莉塔开始被『天命』中的噩梦所折磨是在三年前。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/58.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/58.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

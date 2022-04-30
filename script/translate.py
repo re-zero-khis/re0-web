@@ -8,7 +8,7 @@
 # usage: 
 #   python ./translate.py -i {app_id} -p {app_pass} -f {want to translate filepath}
 # eg:
-#   python ./translate.py -i "app_id" -p "app_pass" -f "../gitbook/markdown/ch/chapter070/55.md"
+#   python ./translate.py -i "app_id" -p "app_pass" -f "../gitbook/markdown/ch/chapter070/61.md"
 # --------------------------------------------
 
 import sys

@@ -28,7 +28,7 @@ HEADER = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
 }
 
-IS_USE_PROXY = False
+IS_USE_PROXY = True
 _PROXY = 'http://127.0.0.1:18888'
 PROXY = { "http": _PROXY, "https": _PROXY } if _PROXY else {}
 

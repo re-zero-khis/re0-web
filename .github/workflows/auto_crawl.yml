@@ -1,8 +1,8 @@
 # 自动构建（避免编译异常，仅在 staging 分支构建，需手动合并）
 name: Automatically Crawl Novel
-on:
-  schedule:
-    - cron: '0 0 1 * *'
+# on:
+#   schedule:
+#     - cron: '0 0 1 * *'
 
 
 jobs:

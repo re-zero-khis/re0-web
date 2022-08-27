@@ -6,53 +6,65 @@
 # --------------------------------------------
 # usage: 
 #   python ./format.py -d {format dir path}
+#   python ./format.py -f {format file path}
 # eg:
 #   python ./format.py -d "../gitbook/markdown/ch/chapter070/"
+#   python ./format.py -f "../gitbook/markdown/ch/chapter070/01.md"
 # --------------------------------------------
 
 import os
-import sys
+import argparse
+from common.settings import *
+from color_log.clog import log
 
 
-def main(rootdir) :
-    for dirPath, dirNames, fileNames in os.walk(rootdir) :   # 迭代目录
-        if rootdir != dirPath :
+def args() :
+    parser = argparse.ArgumentParser(
+        prog='', # 会被 usage 覆盖
+        usage='格式化指定目录或文件',  
+        description='一键爬取最新的 re0 章节',  
+        epilog='更多参数可用 python ./py/format.py -h 查看'
+    )
+    parser.add_argument('-d', '--dir_path', dest='dir_path', type=str, default="", help='待格式化的目录')
+    parser.add_argument('-f', '--filepath', dest='filepath', type=str, default="", help='待格式化的文件')
+    return parser.parse_args()
+
+
+def main(args) :
+    if args.dir_path :
+        format_dir(args.dir_path)
+
+    if args.filepath :
+        format_file(args.filepath)
+
+
+def format_dir(rootdir) :
+    for dir_path, dir_names, filenames in os.walk(rootdir) :   # 迭代目录
+        if rootdir != dir_path :
             continue
         
-        for fileName in fileNames :
-            if ('.md' not in fileName) or ('README' in fileName) :
+        for filename in filenames :
+            if ('.md' not in filename) or ('README' in filename) :
                 continue
             
-            filepath = dirPath + fileName
-            format_lines = []
-            with open(filepath, 'r', encoding='utf-8') as file:
-                lines = file.readlines()
-                for line in lines:
-                    line = line.strip()
-                    if line :
-                        format_lines.append('%s\n\n' % line)
-
-            with open(filepath, 'w', encoding='utf-8') as file:
-                file.write(''.join(format_lines))
+            filepath = dir_path + filename
+            format_file(filepath)
 
 
 
-def sys_args(sys_args) :
-    dirpath = '.'
+def format_file(filepath) :
+    format_lines = []
+    with open(filepath, 'r', encoding=CHARSET) as file:
+        lines = file.readlines()
+        for line in lines:
+            line = line.strip()
+            if line :
+                format_lines.append('%s\n\n' % line)
 
-    idx = 1
-    size = len(sys_args)
-    while idx < size :
-        try :
-            if sys_args[idx] == '-d' :
-                idx += 1
-                dirpath = sys_args[idx]
-        except :
-            pass
-        idx += 1
-    return [ dirpath ]
+    with open(filepath, 'w', encoding=CHARSET) as file:
+        file.write(''.join(format_lines))
 
 
 
 if __name__ == "__main__" :
-    main(*sys_args(sys.argv))
+    main(args())

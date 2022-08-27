@@ -12,6 +12,9 @@ import os
 import shutil
 import argparse
 from crawler import crawler
+from translate import trans
+from format import *
+from common.trans import *
 from color_log.clog import log
 
 
@@ -42,9 +45,21 @@ def args() :
         description='一键爬取最新的 re0 章节',  
         epilog='更多参数可用 python ./py/onekey.py -h 查看'
     )
+
+    # 爬虫参数
     parser.add_argument('-c', '--proxy', dest='proxy', action='store_true', default=False, help='是否启用 HTTP 爬虫代理')
     parser.add_argument('-s', '--host', dest='host', type=str, default="127.0.0.1", help='HTTP 代理 IP')
     parser.add_argument('-p', '--port', dest='port', type=int, default=18888, help='HTTP 代理端口')
+
+    # 翻译参数
+    parser.add_argument('-a', '--trans_api', dest='trans_api', type=str, default=TENCENT, help='翻译 API 的服务提供商，可选： baidu, tencent （默认）')
+    parser.add_argument('-i', '--api_id', dest='api_id', type=str, default="", help='翻译 API ID')
+    parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='翻译 API KEY')
+    parser.add_argument('-t', '--filepath', dest='filepath', type=str, default="", help='待翻译的文件路径')
+
+    # 格式化参数
+    parser.add_argument('-d', '--dir_path', dest='dir_path', type=str, default="", help='待格式化的目录')
+    parser.add_argument('-f', '--filepath', dest='filepath', type=str, default="", help='待格式化的文件')
     return parser.parse_args()
 
 
@@ -69,13 +84,15 @@ def update_chapter(src_path) :
     log.info('正在复制文件: %s' % src_path)
     copy(src_path, jp_path)
     copy(src_path, ch_path)
-
     
     log.info('正在机翻: %s' % ch_path)
+    trans(args, ch_path)
+
+    log.info('正在格式化: %s' % ch_path)
+    format_file(ch_path)
+
     
 
-    # 3. 中文目录机翻
-    # 4. 格式化
     # 5. 修改索引（两处）
 
 
@@ -114,13 +131,13 @@ def copy(srcpath, snkpath) :
 
 
 # 替换文件内容
-def replace(filepath, ip) :
+def replace(filepath, placeholder, value) :
     with open(filepath, 'r', encoding=CHARSET) as file :
         data = file.read()
 
-    # data = data.replace(DEFAULT_SERVER_IP, ip)
-    # with open(filepath, 'w', encoding=CHARSET) as file :
-    #     file.write(data)
+    data = data.replace(placeholder, value)
+    with open(filepath, 'w', encoding=CHARSET) as file :
+        file.write(data)
 
 
 if __name__ == '__main__' :

@@ -3,7 +3,7 @@
 # ----------------------------------------------------
 
 
-from common.settings import CHARSET
+from common.settings import *
 from color_log.clog import log
 import time
 import hashlib
@@ -14,14 +14,18 @@ from tencentcloud.tmt.v20180321.tmt_client import TmtClient
 from tencentcloud.tmt.v20180321.models import TextTranslateRequest
 from tencentcloud.tmt.v20180321.models import TextTranslateResponse
 
+# 翻译提供商
+BAIDU = "baidu"
+TENCENT = "tencent"
 
  # 百度限制一次只能翻译 2000 个字
  # 按这个标准对被翻译的内容进行分段切割
 EACH_LIMIT = 2000
 
 
+
 def machine_translate(args, data) :
-    if args.trans_api == 'baidu' :
+    if args.trans_api == BAIDU :
         client = BaiduTranslation(args.api_id, args.api_key)
     else :
         client = TencentTranslation(args.api_id, args.api_key)
@@ -37,7 +41,8 @@ def machine_translate(args, data) :
         trans_seg = client.translate(seg)
         trans_result.append(trans_seg)
         time.sleep(1)
-    trans_data = "\n\n".join(trans_result)
+
+    trans_data = DOUBLE_CRLF.join(trans_result)
     return trans_data
 
 
@@ -140,7 +145,6 @@ class BaiduTranslation :
         return salt, sign
 
 
-
     def translate(self, data_seg) :
         salt, sign = self.to_sign(data_seg)
         headers = {
@@ -184,6 +188,6 @@ class TencentTranslation :
         req.Source = 'jp'
         req.Target = 'zh'
         req.ProjectId = 0
-        req.UntranslatedText = '####'
+        req.UntranslatedText = SEGMENT_SPLIT
         rsp = self.client.TextTranslate(req)
         return rsp.TargetText

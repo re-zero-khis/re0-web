@@ -15,7 +15,7 @@ jobs:
 
       - name: Compile
         run: |-
-          ./build.sh
+          ./bin/build.sh
 
       # 如果不希望污染 commit 记录，user.email 和 user.name 随便填即可
       # Github Runner 是有权限提交到仓库的，只要 user 不是 owner ，当次 commit 不会被记录

@@ -86,6 +86,8 @@ def conver_full_char(string) :
     string = string.replace('７', '7')
     string = string.replace('８', '8')
     string = string.replace('９', '9')
+    string = string.replace('Ａ', 'a')
+    string = string.replace('Ｂ', 'b')
     return string
 
 
@@ -94,11 +96,13 @@ def conver_full_char(string) :
 def save_page(args, uri, html_title) :
 
     # 解析 html 标题获取必要参数
-    grps = re.findall(r'(\D+?)(\d*)　(.+)', html_title)
+    grps = re.findall(r'(\D+?)(\d+)([A-Z]?)　(.+)', html_title)
     chapter = grps[0][0]
-    segidx = grps[0][1]
+    idx1 = grps[0][1]
+    idx2 = grps[0][2]
+    segidx = "%s%s" % (idx1, "" if not idx2 else ("-" + idx2))
     segidx = segidx if segidx else ('%i' % time.time())    # 若无分节编号，则使用时间戳代替
-    chapter_title = grps[0][2]
+    chapter_title = grps[0][3]
     chapter_dir = create_chapter_dir(chapter)
 
     # 检查爬虫进度
@@ -127,16 +131,16 @@ def save_page(args, uri, html_title) :
 
 # 检查当前页面是否已经下载过
 # 若已下载过则返回 -1
-def get_chapter_index(url) :
+def get_chapter_index(uri) :
     urlidx = -1
-    mth = re.search(r'/(\d+)/', url)
+    mth = re.search(r'/(\d+)/', uri)
     if mth :
         urlidx = int(mth.group(1))
         last_urlidx = load_progress()
-        if last_urlidx >= 0 and urlidx <= last_urlidx :
+        if 0 <= last_urlidx and last_urlidx <= urlidx  :
             urlidx = -1
     else :
-        log.debug("[跳过] 这不是章节的链接: %s" % url)
+        log.debug("[跳过] 这不是章节的链接: %s" % uri)
     return urlidx
 
 

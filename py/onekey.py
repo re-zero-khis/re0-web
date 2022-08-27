@@ -64,11 +64,11 @@ def main(args) :
     log.info('正在爬取网页内容 ...')
     tmp_paths = crawler(args)
     for tmp_path in tmp_paths :
-        update_chapter(tmp_path)
+        update_chapter(args, tmp_path)
     
 
 
-def update_chapter(src_path) :
+def update_chapter(args, src_path) :
     log.info('正在处理: %s' % src_path)
     jp_path = find_snk_path(src_path, JP_NAME)
     ch_path = find_snk_path(src_path, CH_NAME)

@@ -13,6 +13,7 @@
 import os
 import sys
 
+
 def main(rootdir) :
     for dirPath, dirNames, fileNames in os.walk(rootdir) :   # 迭代目录
         if rootdir != dirPath :

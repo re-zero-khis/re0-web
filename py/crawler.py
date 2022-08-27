@@ -8,12 +8,14 @@
 #   python ./py/crawler.py -c -s "127.0.0.1" -p 18888
 # --------------------------------------------
 
+from mimetypes import common_types
 import platform
 import os
 import requests
 import re
 import time
 import argparse
+from common.settings import *
 from color_log.clog import log
 
 

@@ -5,7 +5,7 @@
 # --------------------------------------------
 # 从MF文库原版连载网站中爬取小说内容（需要翻墙）
 # usage: 
-#   python ./script/crawler.py
+#   python ./bin/crawler.py
 # --------------------------------------------
 
 import os
@@ -13,8 +13,8 @@ import requests
 import re
 import time
 
-PROGRESS_FILE = './script/progress.bar'
-DOWNLOAD_DIR = './script/downloads'
+PROGRESS_FILE = './bin/progress.bar'
+DOWNLOAD_DIR = './bin/downloads'
 URL = 'http://ncode.syosetu.com/n2267be'
 HEADER = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',

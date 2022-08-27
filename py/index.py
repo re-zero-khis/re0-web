@@ -37,7 +37,7 @@ def main(args) :
 
 
 def update_index(filepath) :
-    tmps = re.findall(r'.*?markdown/(\w+)/(\w+)/(\w+)\.md', filepath)[0]
+    tmps = re.findall(r'.*?markdown/(\w+)/(\w+)/([\w-]+)\.md', filepath)[0]
     lang = tmps[0]
     chapter = tmps[1]
     id = tmps[2]

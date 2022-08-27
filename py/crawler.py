@@ -94,19 +94,19 @@ def conver_full_char(string) :
 
 # 保存页面内容到本地
 def save_page(args, uri, html_title) :
-
+    
     # 解析 html 标题获取必要参数
-    grps = re.findall(r'(\D+?)(\d+)([A-Z]?)　(.+)', html_title)
-    chapter = grps[0][0]
-    idx1 = grps[0][1]
-    idx2 = grps[0][2]
-    segidx = "%s%s" % (idx1, "" if not idx2 else ("-" + idx2))
-    segidx = segidx if segidx else ('%i' % time.time())    # 若无分节编号，则使用时间戳代替
-    chapter_title = grps[0][3]
+    grps = re.findall(r'(\D+?)(\d*)([a-z]?)　(.+)', html_title)[0]
+    chapter = grps[0]
+    idx1 = grps[1]
+    idx2 = grps[2]
+    chapter_idx = "%s%s" % (idx1, "" if not idx2 else ("-" + idx2))
+    chapter_idx = chapter_idx if chapter_idx else ('%i' % time.time())    # 若无分节编号，则使用时间戳代替
+    chapter_title = grps[3]
     chapter_dir = create_chapter_dir(chapter)
 
     # 检查爬虫进度
-    log.info('* [%s](markdown/jp/chapter/%s.md)' % (html_title, segidx))
+    log.info('* [%s](chapter/%s.md)' % (html_title, chapter_idx))
     urlidx = get_chapter_index(uri)
     if urlidx < 0 :
         log.info('%s : Skip Download' % uri)
@@ -118,7 +118,7 @@ def save_page(args, uri, html_title) :
     content = parse_html(chapter_title, html)
 
     # 保存章节内容
-    save_path = '%s/%s.md' % (chapter_dir, segidx)
+    save_path = '%s/%s.md' % (chapter_dir, chapter_idx)
     with open(save_path, 'w+', encoding='utf-8') as file :
         file.write(content)
 
@@ -137,7 +137,7 @@ def get_chapter_index(uri) :
     if mth :
         urlidx = int(mth.group(1))
         last_urlidx = load_progress()
-        if 0 <= last_urlidx and last_urlidx <= urlidx  :
+        if 0 <= urlidx and urlidx <= last_urlidx  :
             urlidx = -1
     else :
         log.debug("[跳过] 这不是章节的链接: %s" % uri)

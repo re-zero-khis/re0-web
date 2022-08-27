@@ -8,13 +8,13 @@
 #   python ./script/onekey.py
 # --------------------------------------------
 
-import os
-import shutil
 import argparse
-from crawler import crawler
-from translate import trans
-from format import *
+from common.utils import *
 from common.trans import *
+from translate import trans
+from crawler import crawler
+from format import *
+from index import update_index
 from color_log.clog import log
 
 
@@ -55,11 +55,6 @@ def args() :
     parser.add_argument('-a', '--trans_api', dest='trans_api', type=str, default=TENCENT, help='翻译 API 的服务提供商，可选： baidu, tencent （默认）')
     parser.add_argument('-i', '--api_id', dest='api_id', type=str, default="", help='翻译 API ID')
     parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='翻译 API KEY')
-    parser.add_argument('-t', '--filepath', dest='filepath', type=str, default="", help='待翻译的文件路径')
-
-    # 格式化参数
-    parser.add_argument('-d', '--dir_path', dest='dir_path', type=str, default="", help='待格式化的目录')
-    parser.add_argument('-f', '--filepath', dest='filepath', type=str, default="", help='待格式化的文件')
     return parser.parse_args()
 
 
@@ -91,9 +86,10 @@ def update_chapter(src_path) :
     log.info('正在格式化: %s' % ch_path)
     format_file(ch_path)
 
-    
+    log.info('正在更新目录索引 ...')
+    update_index(jp_path)
+    update_index(ch_path)
 
-    # 5. 修改索引（两处）
 
 
 def find_snk_path(src_path, lang) :
@@ -110,34 +106,6 @@ def find_snk_path(src_path, lang) :
     return md_path
 
 
-
-# 删除文件/目录
-def remove(filepath) :
-    if os.path.exists(filepath) :
-        if os.path.isfile(filepath) :
-            os.remove(filepath)
-        else :
-            shutil.rmtree(filepath)
-
-
-
-# 复制文件/目录
-def copy(srcpath, snkpath) :
-    if os.path.isfile(srcpath) :
-        shutil.copyfile(srcpath, snkpath)
-    else :
-        shutil.copytree(srcpath, snkpath)
-
-
-
-# 替换文件内容
-def replace(filepath, placeholder, value) :
-    with open(filepath, 'r', encoding=CHARSET) as file :
-        data = file.read()
-
-    data = data.replace(placeholder, value)
-    with open(filepath, 'w', encoding=CHARSET) as file :
-        file.write(data)
 
 
 if __name__ == '__main__' :

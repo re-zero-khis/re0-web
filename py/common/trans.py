@@ -185,7 +185,7 @@ class TencentTranslation :
     def translate(self, data_seg) :
         req = TextTranslateRequest()
         req.SourceText = data_seg
-        req.Source = 'jp'
+        req.Source = 'ja'
         req.Target = 'zh'
         req.ProjectId = 0
         req.UntranslatedText = SEGMENT_SPLIT

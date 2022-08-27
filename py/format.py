@@ -21,8 +21,8 @@ from color_log.clog import log
 def args() :
     parser = argparse.ArgumentParser(
         prog='', # 会被 usage 覆盖
-        usage='格式化指定目录或文件',  
-        description='一键爬取最新的 re0 章节',  
+        usage='python ./py/format.py -d {format dir path} -f {format file path}',  
+        description='格式化指定目录或文件',  
         epilog='更多参数可用 python ./py/format.py -h 查看'
     )
     parser.add_argument('-d', '--dir_path', dest='dir_path', type=str, default="", help='待格式化的目录')
@@ -36,6 +36,7 @@ def main(args) :
 
     if args.filepath :
         format_file(args.filepath)
+
 
 
 def format_dir(rootdir) :

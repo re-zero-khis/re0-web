@@ -11,8 +11,8 @@
 #   python ./py/translate.py -a "tencent" -i "api_id" -k "api_key" -t "./gitbook/markdown/ch/chapter070/01.md"
 # --------------------------------------------
 
-import re
 import argparse
+from common.utils import *
 from common.trans import *
 from common.settings import *
 from color_log.clog import log
@@ -21,8 +21,8 @@ from color_log.clog import log
 def args() :
     parser = argparse.ArgumentParser(
         prog='', # 会被 usage 覆盖
-        usage='对某个日语文件进行机翻',  
-        description='一键爬取最新的 re0 章节',  
+        usage='python ./py/translate.py -a {api_type} -i {api_id} -k {api_pass} -t {want to translate filepath}',  
+        description='对某个日语文件进行机翻',  
         epilog='更多参数可用 python ./py/onekey.py -h 查看'
     )
     parser.add_argument('-a', '--trans_api', dest='trans_api', type=str, default=TENCENT, help='翻译 API 的服务提供商，可选： baidu, tencent （默认）')
@@ -42,8 +42,7 @@ def trans(args, filepath) :
     data = ""
     with open(filepath, "r", encoding=CHARSET) as file :
         data = file.read()
-
-    title, content = split_data(data)
+    title, content = split_article(data)
     
     log.info("正在翻译专有名词 ...")
     wt = WordTranslation()
@@ -55,26 +54,7 @@ def trans(args, filepath) :
     title = machine_translate(args, title)
     content = machine_translate(args, content)
     content = "%s%s%s" % (DOUBLE_CRLF, content, DOUBLE_CRLF)
-
-    # 通用字符转换
-    content = content.replace(" ", "")
-    content = content.replace("《", "『").replace("》", "』")
-    content = content.replace("‘", "『").replace("’", "』")
-    content = content.replace("“", "「").replace("”", "」")
-    content = content.replace("·", "・")
-
-    # 特殊翻译器的字符转换
-    if args.trans_api == TENCENT :
-        content = content.replace("\n」「", "\n「")
-        content = content.replace("」「\n", "」\n")
-        content = content.replace("\n「」", "\n「")
-        content = content.replace("「」\n", "」\n")
-        content = content.replace("\n」", "\n「")
-        content = content.replace("「\n", "」\n")
-        content = content.replace("「「", "「")
-        content = content.replace("」」", "」")
-
-    content = content.replace(SEGMENT_SPLIT, "※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※")
+    content = convert(content)
 
     with open(filepath, "w+", encoding=CHARSET) as file :
         file.write("# 『%s』\n" % title)
@@ -84,12 +64,28 @@ def trans(args, filepath) :
 
 
 
+def convert(data) :
 
-def split_data(data) :
-    tmps = data.split(DATA_SPLIT)
-    title = re.findall(r'# 『(.+)?』', tmps[0])[0]
-    content = tmps[1]
-    return title, content
+    # 通用字符转换
+    data = data.replace(" ", "")
+    data = data.replace("《", "『").replace("》", "』")
+    data = data.replace("‘", "『").replace("’", "』")
+    data = data.replace("“", "「").replace("”", "」")
+    data = data.replace("·", "・")
+    data = data.replace(SEGMENT_SPLIT, "※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※")
+
+    # 特殊翻译器的字符转换
+    if args.trans_api == TENCENT :
+        data = data.replace("\n」「", "\n「")
+        data = data.replace("」「\n", "」\n")
+        data = data.replace("\n「」", "\n「")
+        data = data.replace("「」\n", "」\n")
+        data = data.replace("\n」", "\n「")
+        data = data.replace("「\n", "」\n")
+        data = data.replace("「「", "「")
+        data = data.replace("」」", "」")
+    
+    return data
 
 
 

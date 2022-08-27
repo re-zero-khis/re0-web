@@ -7,7 +7,7 @@
 # usage: 
 #   python ./script/onekey.py -c -s "{proxy_ip}" -p proxy_port -a "{trans_api}" -i "{api_id}" -k "{api_key}"
 # eg:
-#   python ./py/onekey.py -c -s "127.0.0.1" -p 18888 -a "tencent" -i "AKIDlKdhbFdngJgBQN3TcXDcldDYS5SYP0KO" -k "sTosg2A5mFSjvsa2EBrMdePt7XqthGZl"
+#   python ./py/onekey.py -c -s "127.0.0.1" -p 18888 -a "tencent" -i "api_id" -k "api_key"
 # --------------------------------------------
 
 
@@ -62,7 +62,10 @@ def args() :
 
 def main(args) :
     log.info('正在爬取网页内容 ...')
-    tmp_paths = crawler(args)
+    # tmp_paths = crawler(args)
+    tmp_paths = [
+        './py/downloads/第七章/61.md'
+    ]
     for tmp_path in tmp_paths :
         update_chapter(args, tmp_path)
     

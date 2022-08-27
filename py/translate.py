@@ -54,7 +54,7 @@ def trans(args, filepath) :
     title = machine_translate(args, title)
     content = machine_translate(args, content)
     content = "%s%s%s" % (DOUBLE_CRLF, content, DOUBLE_CRLF)
-    content = convert(content)
+    content = convert(args, content)
 
     with open(filepath, "w+", encoding=CHARSET) as file :
         file.write("# 『%s』\n" % title)
@@ -64,7 +64,7 @@ def trans(args, filepath) :
 
 
 
-def convert(data) :
+def convert(args, data) :
 
     # 通用字符转换
     data = data.replace(" ", "")

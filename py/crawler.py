@@ -25,11 +25,7 @@ HEADER = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
     'Accept-Encoding': 'gzip, deflate',
     'Accept-Language': 'zh-CN,zh;q=0.9',
-    'Cache-Control': 'max-age=0',
-    'Connection': 'keep-alive',
-    'Cookie': 'ks2=3s2cgquxgpqa; sasieno=0; lineheight=0; fontsize=0; novellayout=0; fix_menu_bar=1; _ga=GA1.2.1684055411.1576383558; _gid=GA1.2.843358413.1576383558; OX_plg=pm; nlist1=6h7h.a5',
     'Host': 'ncode.syosetu.com',
-    'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
 }
 
@@ -47,17 +43,22 @@ def args() :
     return parser.parse_args()
     
 
+
 def main(args) :
     crawler(args)
 
 
 
 def crawler(args) :
+    save_paths = []
     html = http_request(args, HOME_URL)
     grps = re.findall(r'<a href="(/n2267be/\d+/)">([^<]+)</a>', html)
     for uri, title in grps :
         title = conver_full_char(title)
-        save_page(args, uri, title)
+        save_path = save_page(args, uri, title)
+        if save_path is not None :
+            save_paths.append(save_path)
+    return save_paths
 
 
 
@@ -103,7 +104,7 @@ def save_page(args, uri, html_title) :
     urlidx = get_chapter_index(uri)
     if urlidx < 0 :
         log.info('%s : Skip Download' % uri)
-        return
+        return None
     
     # 爬取章节内容
     page_url = '%s/%i' % (HOME_URL, urlidx)
@@ -118,6 +119,7 @@ def save_page(args, uri, html_title) :
     # 保存爬虫进度
     save_progress(urlidx)
     log.info('%s : Finish Download' % uri)
+    return save_path
 
 
 

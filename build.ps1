@@ -10,7 +10,7 @@ Remove-Item gitbook/book -recurse
 Start-Sleep 1
 
 If(!(Test-Path 'gitbook/node_modules')) {
-    echo "Download nodejs module ..."
+    Write-Output "Download nodejs module ..."
     git clone https://github.com/lyy289065406/node_modules gitbook/node_modules
     Start-Sleep 2
 }

@@ -82,15 +82,13 @@ def update_summary(filepath, dataline, lang) :
     with open(filepath, 'r', encoding=CHARSET) as file :
         flag = False
         for line in file.readlines() :
-            line = line.strip()
-
             if not flag and line.startswith(features) :
-                lines.append(dataline)
+                lines.append(dataline + "\n")
                 flag = True
 
             lines.append(line)
 
-    content = "\n".join(lines)
+    content = "".join(lines)
     with open(filepath, 'w', encoding=CHARSET) as file :
         file.write(content)
 

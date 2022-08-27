@@ -5,11 +5,11 @@
 # env: python3
 # --------------------------------------------
 # usage: 
-#   python ./format.py -d {format dir path}
-#   python ./format.py -f {format file path}
+#   python ./py/format.py -d {format dir path}
+#   python ./py/format.py -f {format file path}
 # eg:
-#   python ./format.py -d "../gitbook/markdown/ch/chapter070/"
-#   python ./format.py -f "../gitbook/markdown/ch/chapter070/01.md"
+#   python ./py/format.py -d "./gitbook/markdown/ch/chapter070/"
+#   python ./py/format.py -f "./gitbook/markdown/ch/chapter070/01.md"
 # --------------------------------------------
 
 import os
@@ -63,6 +63,8 @@ def format_file(filepath) :
 
     with open(filepath, 'w', encoding=CHARSET) as file:
         file.write(''.join(format_lines))
+
+    log.info("格式化完成: %s" % filepath)
 
 
 

@@ -32,6 +32,11 @@ def args() :
     
 
 def main(args) :
+    trans(args)
+
+
+
+def trans(args) :
     log.info("正在准备翻译 [%s]" % args.filepath)
     data = ""
     with open(args.filepath, "r", encoding=CHARSET) as file :

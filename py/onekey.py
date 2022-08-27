@@ -67,7 +67,7 @@ def args() :
 
 def main(args) :
     if args.git != "Local" and args.git != "3uJtWFf4Vx1S2dSQXJCK" :
-        # 验证 Github Action 的 secrets.CRAWL_PASS 失败，保护目标站点不被 DDos
+        # 验证 Github Action 的 secrets.CRAWL_PWD 失败，保护目标站点不被 DDos
         return
 
 

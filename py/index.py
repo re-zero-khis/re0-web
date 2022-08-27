@@ -13,10 +13,11 @@
 import re
 import argparse
 from common.settings import *
+from common.utils import *
 from color_log.clog import log
 
 SUMMARY_PATH = "./gitbook/SUMMARY.md"
-README_PATH = "./gitbook/markdown/%s/%s/README.md"
+_README_PATH = "./gitbook/markdown/%s/%s/README.md"
 
 
 def args() :
@@ -35,29 +36,64 @@ def main(args) :
 
 
 
-# ./gitbook/markdown/ch/chapter070/68.md
 def update_index(filepath) :
     tmps = re.findall(r'.*?markdown/(\w+)/(\w+)/(\w+)\.md', filepath)[0]
     lang = tmps[0]
     chapter = tmps[1]
     id = tmps[2]
 
+    with open(filepath, 'r', encoding=CHARSET) as file :
+        data = file.read()
+    title, content = split_article(data)
+
+    readme_path = _README_PATH % (lang, chapter)
+    readme_idx = "- [%s　『%s』（未润色）](%s.html)" % (id, title, id)
+    update_readme(readme_path, readme_idx)
+
+    summary_idx = "	* [%s　『%s』](markdown/%s/%s/%s.md)" % (id, title, lang, chapter, id)
+    update_summary(SUMMARY_PATH, summary_idx, lang)
     
-    print(lang)
-    print(chapter)
-    print(id)
 
 
-# '''
+def update_readme(filepath, dataline) :
+    lines = []
+    with open(filepath, 'r', encoding=CHARSET) as file :
+        flag = -1
+        for line in file.readlines() :
+            line = line.strip()
+            if flag < 1 :
+                if line.startswith("- [") :
+                    flag = 0
+                
+                if flag == 0 and not line :
+                    lines.append(dataline)
+                    flag = 1
+            lines.append(line)
 
-# 	* [60　『乱世的私生子』](markdown/ch/chapter070/60.md)
-# 	* [60　『波乱の胤蒔き』](markdown/jp/chapter070/60.md)
-# '''
-# '''
+    content = "\n".join(lines)
+    with open(filepath, 'w', encoding=CHARSET) as file :
+        file.write(content)
 
-# - [60　『波乱の胤蒔き』](60.html)
-# - [60　『波乱の胤蒔き』](60.html)
-# '''
+
+
+def update_summary(filepath, dataline, lang) :
+    features = "* [ReZeroEX" if lang == CH_NAME else "* [リゼロＥＸ"
+    lines = []
+    with open(filepath, 'r', encoding=CHARSET) as file :
+        flag = False
+        for line in file.readlines() :
+            line = line.strip()
+
+            if not flag and line.startswith(features) :
+                lines.append(dataline)
+                flag = True
+
+            lines.append(line)
+
+    content = "\n".join(lines)
+    with open(filepath, 'w', encoding=CHARSET) as file :
+        file.write(content)
+
 
 
 if __name__ == "__main__" :

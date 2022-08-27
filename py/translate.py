@@ -32,6 +32,7 @@ def args() :
     return parser.parse_args()
     
 
+
 def main(args) :
     trans(args, args.trans_path)
 
@@ -39,7 +40,6 @@ def main(args) :
 
 def trans(args, filepath) :
     log.info("正在准备翻译 [%s]" % filepath)
-    data = ""
     with open(filepath, "r", encoding=CHARSET) as file :
         data = file.read()
     title, content = split_article(data)

@@ -9,6 +9,7 @@
 # --------------------------------------------
 
 import argparse
+from common.settings import *
 from common.utils import *
 from common.trans import *
 from translate import trans
@@ -18,10 +19,7 @@ from index import update_index
 from color_log.clog import log
 
 
-CHARSET = "utf-8"
 MD_DIR = "./gitbook/markdown"
-JP_NAME = "jp"
-CH_NAME = "ch"
 DIR_MAP = {
     "第一章": "chapter010", 
     "第二章": "chapter020", 

@@ -5,9 +5,11 @@
 # --------------------------------------------
 # 从MF文库原版连载网站中爬取小说内容（需要翻墙）
 # usage: 
-#   python ./script/onekey.py -c -s "{proxy_ip}" -p proxy_port -a "{trans_api}" -i "{api_id}" -k "{api_key}"
+#   python ./script/onekey.py -c -s "{proxy_ip}" -p {proxy_port} -a "{trans_api}" -i "{api_id}" -k "{api_key}"
+#   python ./script/onekey.py -r -a "{trans_api}" -i "{api_id}" -k "{api_key}"
 # eg:
 #   python ./py/onekey.py -c -s "127.0.0.1" -p 18888 -a "tencent" -i "api_id" -k "api_key"
+#   python ./py/onekey.py -r -a "tencent" -i "api_id" -k "api_key"
 # --------------------------------------------
 
 

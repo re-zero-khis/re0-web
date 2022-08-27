@@ -22,7 +22,7 @@ from index import update_index
 from color_log.clog import log
 
 
-MD_DIR = "./gitbook/markdown"
+CRAWLER_PATH = "./py/crawler.paths"
 DIR_MAP = {
     "第一章": "chapter010", 
     "第二章": "chapter020", 
@@ -48,6 +48,7 @@ def args() :
     )
 
     # 爬虫参数
+    parser.add_argument('-r', '--read', dest='read', action='store_true', default=False, help='是否读取 crawler.paths 中的文件路径代替爬虫（一般用于测试或已爬取文件）')
     parser.add_argument('-c', '--proxy', dest='proxy', action='store_true', default=False, help='是否启用 HTTP 爬虫代理')
     parser.add_argument('-s', '--host', dest='host', type=str, default="127.0.0.1", help='HTTP 代理 IP')
     parser.add_argument('-p', '--port', dest='port', type=int, default=18888, help='HTTP 代理端口')
@@ -62,12 +63,19 @@ def args() :
 
 def main(args) :
     log.info('正在爬取网页内容 ...')
-    # tmp_paths = crawler(args)
-    tmp_paths = [
-        './py/downloads/第七章/61.md'
-    ]
+    if args.read :
+        tmp_paths = []
+        with open(CRAWLER_PATH, 'r', encoding=CHARSET) as file :
+            lines = file.readlines()
+            for line in lines :
+                tmp_paths.append(line.strip())
+    else :
+        tmp_paths = crawler(args)
+    
     for tmp_path in tmp_paths :
         update_chapter(args, tmp_path)
+
+    log.info('全部章节已处理完成.')
     
 
 
@@ -93,6 +101,7 @@ def update_chapter(args, src_path) :
     log.info('正在更新目录索引 ...')
     update_index(jp_path)
     update_index(ch_path)
+
 
 
 

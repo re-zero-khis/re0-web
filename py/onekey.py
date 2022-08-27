@@ -49,6 +49,8 @@ def args() :
         epilog='更多参数可用 python ./py/onekey.py -h 查看'
     )
 
+    parser.add_argument('-g', '--git', dest='git', type=str, default="Local", help='Github Action 的启动密码（避免被 Fork 时别人可以直接运行，导致目标站点被 DDos）')
+
     # 爬虫参数
     parser.add_argument('-r', '--read', dest='read', action='store_true', default=False, help='是否读取 crawler.paths 中的文件路径代替爬虫（一般用于测试或已爬取文件）')
     parser.add_argument('-c', '--proxy', dest='proxy', action='store_true', default=False, help='是否启用 HTTP 爬虫代理')
@@ -64,6 +66,11 @@ def args() :
 
 
 def main(args) :
+    if args.git != "Local" and args.git != "3uJtWFf4Vx1S2dSQXJCK" :
+        # 验证 Github Action 的 secrets.CRAWL_PASS 失败，保护目标站点不被 DDos
+        return
+
+
     log.info('正在爬取网页内容 ...')
     if args.read :
         tmp_paths = []

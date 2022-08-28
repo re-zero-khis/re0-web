@@ -2,12 +2,16 @@
 # 此脚本的目的是把 GitBook 生成的 _book 目录复制到 book
 
 Write-Output "Remove gitbook/_book ..."
-Remove-Item gitbook/_book -recurse
-Start-Sleep 1
+If(Test-Path 'gitbook/_book') {
+    Remove-Item gitbook/_book -recurse
+    Start-Sleep 1
+}
 
 Write-Output "Remove gitbook/book ..."
-Remove-Item gitbook/book -recurse
-Start-Sleep 1
+If(Test-Path 'gitbook/book') {
+    Remove-Item gitbook/book -recurse
+    Start-Sleep 1
+}
 
 If(!(Test-Path 'gitbook/node_modules')) {
     Write-Output "Download nodejs module ..."

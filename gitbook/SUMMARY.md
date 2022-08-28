@@ -586,7 +586,7 @@
 	* [62　『孤岛的秩序』](markdown/ch/chapter070/62.md)
 	* [63　『斯巴卡』](markdown/ch/chapter070/63.md)
 	* [64　『魔法的语言』](markdown/ch/chapter070/64.md)
-	* [65　『学园Fudfy阿塔』](markdown/ch/chapter070/65.md)
+	* [65　『学园美食斗士』](markdown/ch/chapter070/65.md)
 	* [66　『海因・伊特』](markdown/ch/chapter070/66.md)
 	* [67　『深牙的背面』](markdown/ch/chapter070/67.md)
 	* [68　『剑狼的指引』](markdown/ch/chapter070/68.md)

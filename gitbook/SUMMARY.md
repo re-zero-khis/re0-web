@@ -580,7 +580,7 @@
 	* [55-B　『城郭都市狂躁曲』](markdown/ch/chapter070/55-B.md)
 	* [56-B　『飞龙灾害』](markdown/ch/chapter070/56-B.md)
 	* [57-B　『你可以称我为大傻瓜』](markdown/ch/chapter070/57-B.md)
-	* [58-B　『没有邻里的东西』](markdown/ch/chapter070/58-B.md)
+	* [58-B　『无依无靠的人们』](markdown/ch/chapter070/58-B.md)
 	* [59-B　『弗洛普·奥克尼尔』](markdown/ch/chapter070/59-B.md)
 	* [61　『欢迎来到剑奴孤岛！』](markdown/ch/chapter070/61.md)
 	* [62　『孤岛的秩序』](markdown/ch/chapter070/62.md)

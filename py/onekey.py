@@ -24,6 +24,7 @@ from index import update_index
 from color_log.clog import log
 
 
+GIT_CRAWL_PWD = "3uJtWFf4Vx1S2dSQXJCK"
 CRAWLER_PATH = "./py/crawler.paths"
 DIR_MAP = {
     "第一章": "chapter010", 
@@ -49,7 +50,7 @@ def args() :
         epilog='更多参数可用 python ./py/onekey.py -h 查看'
     )
 
-    parser.add_argument('-g', '--git', dest='git', type=str, default="Local", help='Github Action 的启动密码（避免被 Fork 时别人可以直接运行，导致目标站点被 DDos）')
+    parser.add_argument('-g', '--git', dest='git', type=str, default=GIT_CRAWL_PWD, help='Github Action 的启动密码（避免被 Fork 时别人可以直接运行，导致目标站点被 DDos）')
 
     # 爬虫参数
     parser.add_argument('-r', '--read', dest='read', action='store_true', default=False, help='是否读取 crawler.paths 中的文件路径代替爬虫（一般用于测试或已爬取文件）')
@@ -66,9 +67,11 @@ def args() :
 
 
 def main(args) :
-    if args.git != "Local" and args.git != "3uJtWFf4Vx1S2dSQXJCK" :
-        # 验证 Github Action 的 secrets.CRAWL_PWD 失败，保护目标站点不被 DDos
-        return
+    if args.git != GIT_CRAWL_PWD :
+        # Github Action 调用了 -g 参数，若仓库没有设置 secrets.CRAWL_PWD 会赋予为空值
+        # 导致验证 Github Action 的 secrets.CRAWL_PWD 失败，爬虫进程终止执行
+        # 目的是在仓库被 Fork 时，可以保护目标站点不被 DDos
+        exit(0)
 
 
     log.info('正在爬取网页内容 ...')

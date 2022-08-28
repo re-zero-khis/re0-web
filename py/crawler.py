@@ -86,15 +86,15 @@ def conver_full_char(string) :
     string = string.replace('７', '7')
     string = string.replace('８', '8')
     string = string.replace('９', '9')
-    string = string.replace('Ａ', 'a')
-    string = string.replace('Ｂ', 'b')
+    string = string.replace('Ａ', 'A')
+    string = string.replace('Ｂ', 'B')
     return string
 
 
 
 # 保存页面内容到本地
 def save_page(args, uri, html_title) :
-    
+
     # 解析 html 标题获取必要参数
     grps = re.findall(r'(\D+?)(\d*)([a-z]?)　(.+)', html_title)[0]
     chapter = grps[0]

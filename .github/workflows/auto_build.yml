@@ -3,7 +3,7 @@ name: Automatically Build GitBook
 on:
   push:
     branches:
-      - dev
+      - master
 
 jobs:
   build:

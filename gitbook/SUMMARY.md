@@ -570,7 +570,7 @@
 	* [52　『恋慕之心绝不让步』](markdown/ch/chapter070/52.md)
 	* [53　『在那十一秒的前方』](markdown/ch/chapter070/53.md)
 	* [54-A　『理想乡卡欧斯弗雷姆』](markdown/ch/chapter070/54-A.md)
-	* [55-A　『魔都狂骚曲』](markdown/ch/chapter070/55-A.md)
+	* [55-A　『魔都狂躁曲』](markdown/ch/chapter070/55-A.md)
 	* [56-A　『大灾难』](markdown/ch/chapter070/56-A.md)
 	* [57-A　『聪明是活不下去的』](markdown/ch/chapter070/57-A.md)
 	* [58-A　『无家可归的人们』](markdown/ch/chapter070/58-A.md)

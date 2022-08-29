@@ -1,3 +1,4 @@
 argparse>=1.4.0
-requests==2.22.0
+requests>=2.22.0
 py-color-log>=1.0.3
+tencentcloud-sdk-python>=3.0.681

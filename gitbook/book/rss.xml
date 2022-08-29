@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Aug 2022 11:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 18:00:34 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -43,6 +43,7 @@
 |:---:|:---:|:---:|:---:|:---|
 | ナツキ・スバル | 菜月・昴 | 斯巴鲁、486 | 第一章 | 『精灵使』『幼女使』『傲慢』 |
 | バルス | 巴鲁斯 | - | 第二章 | 拉姆 对 昴 的戏称 |
+| バッスー | 巴苏斯 | - | 第二章 | 塞西尔斯 对 昴 的昵称（恶作剧） |
 | 凡愚 | 凡愚 | - | 第五章 | 普莉希拉 对 昴 的蔑称 |
 | 凡夫 | 凡夫 | 第五章 | 普莉希拉 对一般人的蔑称 |
 | 兄弟 | 兄弟 | - | 第三章 | 阿尔 对 昴 的昵称 |
@@ -50,6 +51,7 @@
 | スー | 阿斯 | - | 第七章 | 乌塔卡塔 对 昴 的昵称 |
 | ナツミ・シュバルツ | 夏美・施瓦茨 | - | 第七章 | 昴 女装时的假名，『女军师』 |
 | ナチュキ・シュバル | 纳奇基・斯巴鲁 | - | 第七章 | 昴 缩小到年幼时期的名字。纳奇基 应该指代 小尤纳奇基，乌克兰的只有 1.32 平方公里的小国（老贼奇怪的知识都用在起名上了） |
+| ナツキ・シュバルツ | 菜月・施瓦茨 | - | 第七章 | 昴 在剑奴孤岛用的假名 |
 | エミリア | 爱蜜莉娅 | 艾米莉娅 | 第一章 | 『冰结魔女』『精灵使』『银发的半精灵』，王选候选人之一 |
 | リア | 莉娅 | - | 第二章 | 帕克 对 爱蜜莉娅 的爱称 |
 | エミリアたん | 爱蜜莉娅碳 | - | 第二章 | 昴 对 爱蜜莉娅 的爱称 |
@@ -158,7 +160,8 @@
 | ？ | 吉欧尼斯・露格尼卡 | - | Ex 剑鬼恋歌 | 露格尼卡前任国王 |
 | ？ | 克拉格雷尔 | - | Ex 剑鬼恋歌 | 亚人联军代表 |
 | ハリベル | 赫鲁贝尔 | - | 第六章 | 『礼赞者』，卡拉拉基王国的顶级战力 |
-| セシルス・セグムント | 塞西尔斯・赛格蒙特 | - | 第六章 | 『青色雷光』，『九神将』之『壹』，佛拉基亚帝国的顶级战力 |
+| セシルス・セグムント | 塞西尔斯・赛格蒙特 | - | 第六章 | 『青色雷光』，『九神将』之『壹』，佛拉基亚帝国的顶级战力，一个外表看上去只有 10 岁的女孩子 |
+| セッシー | 塞西 | - | 第七章 | 昴 在不确定 塞西尔斯 的身份前，对她的疑称 |
 | アラキア | 亚拉基亚 | - | 第七章 | 『噬灵者』，『九神将』之『弐』，『鬼族』，『犬人族』 |
 | アラキ | 亚拉基 | - | 第七章 | 奥尔巴特 对 亚拉基亚 的昵称 |
 | オルバルト・ダンクルケン | 奥尔巴特・邓克尔肯 | - | 第七章 | 『恶毒翁』，『九神将』之『弎』，忍者 |
@@ -214,7 +217,11 @@
 | ウビルク | 乌比尔克 | - | 第七章 | 『星读』师，肩负着从星际中预知未来、引导他人的角色 |
 | マイルズ | 迈尔斯 | - | 第七章 | 奥克尼尔 兄妹在孤儿院被大人欺负时，迈尔斯 是骑着飞龙来拯救他们出地狱的恩人 |
 | セリーナ・ドラクロイ | 塞琳娜・德拉克洛伊 | - | 第七章 | 帝国贵族，高级伯爵，奉行实力主义、铁血法则，是 迈尔斯 的主人 |
-| バルロイ・テメグリフ | 巴罗伊・特梅格里夫 | - | 第七章 | 奥克尼尔 兄妹的结义兄弟，其爱龙为 卡里昂 |]]></description>
+| バルロイ・テメグリフ | 巴罗伊・特梅格里夫 | - | 第七章 | 奥克尼尔 兄妹的结义兄弟，其爱龙为 卡里昂 |
+| グスタフ・モレロだ | 古斯塔夫・莫雷罗 | - | 第七章 | 剑奴孤岛的岛主，自称为总督，多臂族 |
+| ヴァイツ・ログン | 维兹・罗根 | - | 第七章 | 昴在挑战剑奴孤岛的『斯巴卡』试炼时临时组队的同伴，赤裸上半身、秃头、全身是刺青的懦夫男人 |
+| ヒアイン・ヤッツ | 海因・伊特 | - | 第七章 | 昴在挑战剑奴孤岛的『斯巴卡』试炼时临时组队的同伴，有着灰色鳞片、胆小的蜥蜴人 |
+| イドラ・ミサンガ | 伊德拉・米桑加 | - | 第七章 | 昴在挑战剑奴孤岛的『斯巴卡』试炼时临时组队的同伴，有着锈色头发、欠了一屁股债被迫流落到剑奴孤岛的骗子男人 |]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/translation.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/translation.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4260,28 +4267,28 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『斯巴卡(斯巴卡)』]]></title>
+            <title><![CDATA[『斯巴卡』]]></title>
             <description><![CDATA[--时间，稍微回溯。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/63.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/63.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『魔法的话.』]]></title>
+            <title><![CDATA[『魔法的语言』]]></title>
             <description><![CDATA[「恶毒翁」奥尔巴特・邓克尔肯留下的令人厌恶的法理。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/64.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/64.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『学园Fudfy阿塔』]]></title>
+            <title><![CDATA[『学园美食斗士』]]></title>
             <description><![CDATA[「卡欧斯弗雷姆被一场巨大的祸害毁灭了。居民们的避难，尤尔娜大人应该已经解决了，不过，更多的事。」]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/65.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/65.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『希亚伊茵·雅茨』]]></title>
+            <title><![CDATA[『海因・伊特』]]></title>
             <description><![CDATA[剑奴孤岛基奴海布的生活，对昂来说并不是那么糟糕。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/66.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/66.html</guid>
@@ -4303,7 +4310,7 @@
         </item>
         <item>
             <title><![CDATA[『从帝都来的』]]></title>
-            <description><![CDATA[--第二次的「斯巴卡」和之后的大宴会，哪一个是主要活动呢？迷茫的地方，不过，这两个都有的日子已经过了三天了。]]></description>
+            <description><![CDATA[--第二次的『斯巴卡』和之后的大宴会，哪一个是主要活动呢？迷茫的地方，不过，这两个都有的日子已经过了三天了。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/69.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/69.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4330,14 +4337,14 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『魏茨·罗登(Vitz Lunn)』]]></title>
-            <description><![CDATA[--魏茨・罗登并不认为自己能得到正经的生死攸关。]]></description>
+            <title><![CDATA[『维兹・罗根』]]></title>
+            <description><![CDATA[--维兹・罗根并不认为自己能得到正经的生死攸关。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/73.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/73.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『伊德拉·米桑加』]]></title>
+            <title><![CDATA[『伊德拉・米桑加』]]></title>
             <description><![CDATA[脚步声，一心一意地走过来的脚步声，耸立着昂的心。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/74.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/74.html</guid>

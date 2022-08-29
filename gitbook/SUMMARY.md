@@ -584,7 +584,7 @@
 	* [59-B　『弗洛普·奥克尼尔』](markdown/ch/chapter070/59-B.md)
 	* [61　『欢迎来到剑奴孤岛！』](markdown/ch/chapter070/61.md)
 	* [62　『孤岛的秩序』](markdown/ch/chapter070/62.md)
-	* [63　『斯巴卡』](markdown/ch/chapter070/63.md)
+	* [63　『斯帕鲁卡』](markdown/ch/chapter070/63.md)
 	* [64　『魔法的语言』](markdown/ch/chapter070/64.md)
 	* [65　『学园美食斗士』](markdown/ch/chapter070/65.md)
 	* [66　『海因・伊特』](markdown/ch/chapter070/66.md)

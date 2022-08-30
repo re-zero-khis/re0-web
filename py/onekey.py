@@ -24,7 +24,6 @@ from index import update_index
 from color_log.clog import log
 
 
-GIT_CRAWL_PWD = "3uJtWFf4Vx1S2dSQXJCK"
 CRAWLER_PATH = "./py/crawler.paths"
 DIR_MAP = {
     "第一章": "chapter010", 

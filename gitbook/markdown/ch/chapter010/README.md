@@ -26,4 +26,4 @@
 - [幕間　『月亮高挂夜空』](23.html)
 - [后记　『篇章插图』](99.html)
 
-![](/res/img/article/chapter010/00-b.jpg)
+![](/res/imgs/article/chapter010/00-b.jpg)

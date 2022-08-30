@@ -93,4 +93,4 @@
 - [90　『英雄』](90.html)
 - [后记　『篇章插图』](99.html)
 
-![](/res/img/article/chapter060/00-b.png)
+![](/res/imgs/article/chapter060/00-b.png)

@@ -83,4 +83,4 @@
 - [75　『I know』](75.html)
 
 
-![](/res/img/article/chapter070/00-B.jpg)
+![](/res/imgs/article/chapter070/00-B.jpg)

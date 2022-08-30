@@ -17,4 +17,4 @@
 - [15　『学院 Re：0！第四堂课！』（待翻译）](15.html)
 
 
-![](/res/img/article/chapter999/00-b.jpg)
+![](/res/imgs/article/chapter999/00-b.jpg)

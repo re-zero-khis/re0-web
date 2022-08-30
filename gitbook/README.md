@@ -22,4 +22,4 @@
 
 但即使跨越无数血液、尸体和绝望，也要从死亡的命运中拯救少女！
 
-![](/res/img/article/index.jpg)
+![](/res/imgs/article/index.jpg)

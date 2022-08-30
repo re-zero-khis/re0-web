@@ -31,4 +31,4 @@
 - [『冰结之绊 前日谈冰结的日常』](29.html)
 - [BD特典-『Re：从零开始的前日传 冰结的羁绊』](bd/)
 
-![](/res/img/article/chapter999/special/00.jpg)
+![](/res/imgs/article/chapter999/special/00.jpg)

@@ -83,4 +83,4 @@
 - [75　『I know』（未润色）](75.html)
 
 
-![](/res/img/article/chapter070/00-b.jpg)
+![](/res/imgs/article/chapter070/00-b.jpg)

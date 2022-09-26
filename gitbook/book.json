@@ -182,9 +182,9 @@
         "donate": {
             "title": "校对不易 (^_^) 谢予支持",
             "button": "打赏",
-            "alipay": "res/img/donate/alipay.png",
+            "alipay": "res/imgs/donate/alipay.png",
             "alipayText": "支付宝",
-            "wechat": "res/img/donate/wechat.png",
+            "wechat": "res/imgs/donate/wechat.png",
             "wechatText": "微信"
         },
         "rss": {

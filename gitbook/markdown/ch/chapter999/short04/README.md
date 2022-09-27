@@ -10,11 +10,11 @@
 - [『剑鬼恋歌　幕间』](08.html)
 - [『剑鬼恋歌　落幕』](09.html)
 
-| <img width="500" src="/res/img/article/chapter999/short04/00-a.jpg" /> | <img width="500" src="/res/img/article/chapter999/short04/00-b.jpg" /> | <img width="500" src="/res/img/article/chapter999/short04/11.jpg" /> |
+| <img width="500" src="/res/imgs/article/chapter999/short04/00-a.jpg" /> | <img width="500" src="/res/imgs/article/chapter999/short04/00-b.jpg" /> | <img width="500" src="/res/imgs/article/chapter999/short04/11.jpg" /> |
 |:------:|:------:|:------:|
 | 　 | 　 | 　 |
 
 
-| <img width="500" src="/res/img/article/chapter999/short04/12.jpg" /> | <img width="500" src="/res/img/article/chapter999/short04/13.jpg" /> |
+| <img width="500" src="/res/imgs/article/chapter999/short04/12.jpg" /> | <img width="500" src="/res/imgs/article/chapter999/short04/13.jpg" /> |
 |:------:|:------:|
-| <img width="500" src="/res/img/article/chapter999/short04/14.jpg" /> | <img width="500" src="/res/img/article/chapter999/short04/15.jpg" /> |
+| <img width="500" src="/res/imgs/article/chapter999/short04/14.jpg" /> | <img width="500" src="/res/imgs/article/chapter999/short04/15.jpg" /> |

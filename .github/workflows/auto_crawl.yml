@@ -1,6 +1,10 @@
 # 自动构建（避免编译异常，仅在 staging 分支构建，需手动合并）
 name: Automatically Crawl Novel
 on:
+  # 手动触发
+  workflow_dispatch:
+
+  # 定时触发
   schedule:
     - cron: '0 1 * * *'
 

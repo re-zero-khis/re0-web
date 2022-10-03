@@ -598,7 +598,7 @@
 	* [74　『伊德拉・米桑加』](markdown/ch/chapter070/74.md)
 	* [75　『I know』](markdown/ch/chapter070/75.md)
 	* [76　『帝都的邂逅』](markdown/ch/chapter070/76.md)
-	* [77　『命运的恶作剧.』](markdown/ch/chapter070/77.md)
+	* [77　『命运的恶作剧』](markdown/ch/chapter070/77.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

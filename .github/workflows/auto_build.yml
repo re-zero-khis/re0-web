@@ -4,10 +4,15 @@ on:
   # 手动触发构建
   workflow_dispatch:
 
-  # 提交触发
-  push:
+  # 合并触发
+  pull_request:
     branches:
       - master
+
+  # 提交触发
+  # push:
+  #   branches:
+  #     - master
 
 jobs:
   build:

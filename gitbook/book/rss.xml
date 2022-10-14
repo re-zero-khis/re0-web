@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Oct 2022 04:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 04:44:54 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -85,7 +85,7 @@
 | トン | 加斯顿 | 阿顿、阿桶 | 第一章 | 『顿珍汉』地痞三人组之『顿』，有愚不可及的讽刺之意 |
 | チン | 拉珍斯 | 阿珍、阿庆 | 第一章 | 『顿珍汉』地痞三人组之『珍』，有愚不可及的讽刺之意 |
 | カン | 汉巴里 | 阿汉、阿康 | 第一章 | 『顿珍汉』地痞三人组之『汉』，有愚不可及的讽刺之意 |
-| プリシラ・バーリエル | 普莉希拉・跋利耶尔 | 寡妇 | 第三章 | 『血色新娘』，王选候选人之一，手持『阳剑』 |
+| プリシラ・バーリエル | 普莉希拉・跋利耶尔 | 寡妇 | 第三章 | 『血色新娘』，王选候选人之一，手持『阳剑』，『九神将』 尤尔娜・米西格蕾 的女儿 |
 | プリスカ・ベネディクト | 普莉丝卡・贝尼迪克特 | - | 第七章 | 普莉希拉 的旧名 |
 | ライプ・バーリエル | 莱普・跋利耶尔 | - | 第四章 | 普莉希拉 的丈夫，已故 |
 | アルデバラン | 阿尔德巴兰 | - | 第三章 | 18 年前和 昴 一样被召唤到异世界的头盔男 |
@@ -169,6 +169,7 @@
 | ゴズ・ラルフォン | 哥兹・拉尔冯 | - | 第七章 | 『狮子骑士』，『九神将』之『伍』 |
 | グルービー・ガムレット | 格鲁比・加姆雷特 | - | 第七章 | 『咒具师』，『九神将』之『陆』 |
 | ヨルナ・ミシグレ | 尤尔娜・米西格蕾 | - | 第七章 | 『极彩色』，『九神将』之『漆』 |
+| サンドラ・ベネディクト | 桑德拉・贝尼迪克特 | - | 第七章 | 『九神将』尤尔娜・米西格蕾 的旧名 |
 | 狐娘 | 狐狸姑娘 | - | 第七章 |  指代 尤尔娜・米西格蕾，『恶毒翁』奥尔巴特 对『极彩色』米西格蕾的戏称（这老头喜欢用别人的特征叫人） |
 | モグロ・ハガネ | 莫古洛・哈加涅 | - | 第七章 | 『钢人』，『九神将』之『捌』 |
 | マデリン・エッシャルト | 马德林・艾沙尔 | - | 第七章  | 『飞龙将』，『九神将』之『玖』，『龙人族』 |
@@ -4239,7 +4240,7 @@
         </item>
         <item>
             <title><![CDATA[『你可以称我为大傻瓜』]]></title>
-            <description><![CDATA[菜月・昂的去向变得无影无踪，是爱蜜莉娅是人生中最慌张的事情。]]></description>
+            <description><![CDATA[菜月・昴的去向变得无影无踪，是爱蜜莉娅是人生中最慌张的事情。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/57-B.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/57-B.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4386,9 +4387,16 @@
         </item>
         <item>
             <title><![CDATA[『绯色的大笑』]]></title>
-            <description><![CDATA[--突然出现的普莉希拉，掀起了言灵的大旋风。]]></description>
+            <description><![CDATA[--突然出现的普莉希拉，掀起了舆论风暴。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/79.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/79.html</guid>
+            <dc:creator><![CDATA[EXP]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[『伊丽丝和荆棘之王』]]></title>
+            <description><![CDATA[引起纠纷的大厅的商谈，也进入了最后一段时间。]]></description>
+            <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/80.html</link>
+            <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/80.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>

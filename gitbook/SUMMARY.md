@@ -602,7 +602,7 @@
 	* [78　『一触即发的重逢』](markdown/ch/chapter070/78.md)
 	* [79　『绯色的大笑』](markdown/ch/chapter070/79.md)
 	* [80　『伊丽丝和荆棘之王』](markdown/ch/chapter070/80.md)
-	* [81　『和女杰小丑』](markdown/ch/chapter070/81.md)
+	* [81　『女豪杰和小丑』](markdown/ch/chapter070/81.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

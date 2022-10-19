@@ -5,14 +5,14 @@ on:
   workflow_dispatch:
 
   # 合并触发
-  pull_request:
-    branches:
-      - master
-
-  # 提交触发
-  # push:
+  # pull_request:
   #   branches:
   #     - master
+
+  # 提交触发
+  push:
+    branches:
+      - master
 
 jobs:
   build:

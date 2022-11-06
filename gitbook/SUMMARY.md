@@ -603,7 +603,7 @@
 	* [79　『绯色的大笑』](markdown/ch/chapter070/79.md)
 	* [80　『伊丽丝和荆棘之王』](markdown/ch/chapter070/80.md)
 	* [81　『女豪杰和小丑』](markdown/ch/chapter070/81.md)
-	* [82　『反叛方面的打算』](markdown/ch/chapter070/82.md)
+	* [82　『对叛乱者的猜测』](markdown/ch/chapter070/82.md)
 	* [83　『战乱与战场』](markdown/ch/chapter070/83.md)
 	* [84　『茶室(茶室)』](markdown/ch/chapter070/84.md)
 	* [85　『尤金(尤金)』](markdown/ch/chapter070/85.md)

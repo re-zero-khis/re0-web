@@ -606,7 +606,7 @@
 	* [82　『对叛乱者的猜测』](markdown/ch/chapter070/82.md)
 	* [83　『战乱与战场』](markdown/ch/chapter070/83.md)
 	* [84　『茶室』](markdown/ch/chapter070/84.md)
-	* [85　『尤金(尤金)』](markdown/ch/chapter070/85.md)
+	* [85　『尤金』](markdown/ch/chapter070/85.md)
 	* [86　『五个顶点』](markdown/ch/chapter070/86.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)

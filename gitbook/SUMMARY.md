@@ -608,7 +608,7 @@
 	* [84　『茶室』](markdown/ch/chapter070/84.md)
 	* [85　『尤金』](markdown/ch/chapter070/85.md)
 	* [86　『五个顶点』](markdown/ch/chapter070/86.md)
-	* [87　『顶点决战.』](markdown/ch/chapter070/87.md)
+	* [87　『巅峰之战』](markdown/ch/chapter070/87.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

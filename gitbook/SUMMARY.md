@@ -609,7 +609,7 @@
 	* [85　『尤金』](markdown/ch/chapter070/85.md)
 	* [86　『五个顶点』](markdown/ch/chapter070/86.md)
 	* [87　『巅峰之战』](markdown/ch/chapter070/87.md)
-	* [88　『风洞(儿)』](markdown/ch/chapter070/88.md)
+	* [88　『风洞』](markdown/ch/chapter070/88.md)
 	* [89　『卡夫马·伊鲁克斯』](markdown/ch/chapter070/89.md)
 	* [90　『地狱的摇篮』](markdown/ch/chapter070/90.md)
 	* [91　『在战场上奔走』](markdown/ch/chapter070/91.md)

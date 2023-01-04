@@ -14,7 +14,7 @@
 <br/>　（4）使用刚才注册的 Github 账号登录【[OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)】
 <br/>　（5）打开【My repos】，找到 [re0-web](https://github.com/lyy289065406/re0-web) 并点击进入项目
 <br/>　（6）点击【FILES】可打开仓库文件，在路径 `gitbook/markdown/ch` 下即为各个章节的内容
-
+- 【镜像】用户均可从 [https://re0.z0z0r4.top](https://re0.z0z0r4.top) 阅读。每半小时 [镜像仓库](https://github.com/z0z0r4/re0-web) 同步一次
 
 ## 公告【润色活动】
 

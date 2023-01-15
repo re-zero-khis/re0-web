@@ -48,7 +48,7 @@ def format_dir(rootdir) :
             if ('.md' not in filename) or ('README' in filename) :
                 continue
             
-            filepath = dir_path + filename
+            filepath = dir_path + "/" + filename
             format_file(filepath)
 
 

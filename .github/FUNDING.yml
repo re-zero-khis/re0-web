@@ -10,6 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: 
-  - https://github.com/lyy289065406/re0-web/blob/master/imgs/sponsor.jpg
-
+custom: [ 'https://lyy289065406.github.io/sponsor/' ]

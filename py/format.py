@@ -40,16 +40,22 @@ def main(args) :
 
 
 def format_dir(rootdir) :
-    for dir_path, dir_names, filenames in os.walk(rootdir) :   # 迭代目录
-        if rootdir != dir_path :
-            continue
+    for name in os.listdir(rootdir):
+        filepath = os.path.join(rootdir, name)
+        if os.path.isfile(filepath):
+            if os.path.splitext(filepath)[1] == '.md' and 'README' not in filepath :
+                format_file(filepath)
+
+    # for dir_path, dir_names, filenames in os.walk(rootdir) :   # 迭代目录 
+    #     if rootdir != dir_path : # os.walk() 应该在需要遍历子目录的时候更好吧...
+    #         continue
         
-        for filename in filenames :
-            if ('.md' not in filename) or ('README' in filename) :
-                continue
+    #     for filename in filenames :
+    #         if ('.md' not in filename) or ('README' in filename) :
+    #             continue
             
-            filepath = dir_path + "/" + filename
-            format_file(filepath)
+    #         filepath = os.path.join(dir_path, filename)
+    #         format_file(filepath)
 
 
 

@@ -533,7 +533,7 @@
 	* [15　『想要守护之物』](markdown/ch/chapter070/15.md)
 	* [16　『帝国事况』](markdown/ch/chapter070/16.md)
 	* [17　『悄然接近的凶气』](markdown/ch/chapter070/17.md)
-	* [18　『城塞都市古拉鲁攻防战』](markdown/ch/chapter070/18.md)
+	* [18　『城塞都市格瓦拉尔攻防战』](markdown/ch/chapter070/18.md)
 	* [19　『恼人的重逢』](markdown/ch/chapter070/19.md)
 	* [20　『皇帝／商人／菜月・昴』](markdown/ch/chapter070/20.md)
 	* [21　『兹克尔・奥斯曼』](markdown/ch/chapter070/21.md)

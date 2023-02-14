@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://lyy289065406.github.io/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Feb 2023 03:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 17:30:24 GMT</lastBuildDate>
         <atom:link href="https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -172,7 +172,7 @@
 | サンドラ・ベネディクト | 桑德拉・贝尼迪克特 | - | 第七章 | 『九神将』尤尔娜・米西格蕾 的灵魂（爱丽丝）在前一世转生的名字，为普莉丝卡・贝尼迪克特（普莉希拉・跋利耶尔）的母亲 |
 | 狐娘 | 狐狸姑娘 | - | 第七章 |  指代 尤尔娜・米西格蕾，『恶毒翁』奥尔巴特 对『极彩色』米西格蕾的戏称（这老头喜欢用别人的特征叫人） |
 | モグロ・ハガネ | 莫古洛・哈加涅 | - | 第七章 | 『钢人』，『九神将』之『捌』 |
-| マデリン・エッシャルト | 马德林・艾沙尔 | - | 第七章  | 『飞龙将』，『九神将』之『玖』，『龙人族』 |
+| マデリン・エッシャルト | 玛德琳・艾沙尔 | - | 第七章  | 『飞龙将』，『九神将』之『玖』，『龙人族』 |
 | ヴィンセント・アベルクス | 文森特・阿贝尔克斯 | - | 第七章 | 佛拉基亚帝国第七十七代皇帝（被篡位） |
 | アベル | 阿贝尔 | - | 第七章 | 文森特・阿贝尔克斯 的假名 |
 | ビアンカ | 毕安卡 | - | 第七章 | 文森特・阿贝尔克斯 女装时的假名 |
@@ -3908,7 +3908,7 @@
         </item>
         <item>
             <title><![CDATA[『帝国事况』]]></title>
-            <description><![CDATA[——城塞都市『瓜拉尔』。]]></description>
+            <description><![CDATA[——城塞都市『格瓦拉尔』。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/16.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/16.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -3921,7 +3921,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『城塞都市瓜拉尔攻防战』]]></title>
+            <title><![CDATA[『城塞都市格瓦拉尔攻防战』]]></title>
             <description><![CDATA[——闭上眼，昴的脑中回想起当时的画面。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/18.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/18.html</guid>
@@ -3936,7 +3936,7 @@
         </item>
         <item>
             <title><![CDATA[『皇帝／商人／菜月・昴』]]></title>
-            <description><![CDATA[――攻陷城塞都市瓜拉尔，这就是阿贝尔的下一个目标。]]></description>
+            <description><![CDATA[――攻陷城塞都市格瓦拉尔，这就是阿贝尔的下一个目标。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/20.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/20.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -3950,7 +3950,7 @@
         </item>
         <item>
             <title><![CDATA[『无血开城计划』]]></title>
-            <description><![CDATA[—时间，自舞姬在瓜拉尔都市厅演舞之际稍往前回溯些。]]></description>
+            <description><![CDATA[—时间，自舞姬在格瓦拉尔都市厅演舞之际稍往前回溯些。]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/22.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/22.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4468,7 +4468,7 @@
         </item>
         <item>
             <title><![CDATA[『地狱的摇篮』]]></title>
-            <description><![CDATA[「--没错！正面，第一顶点「亚拉基亚！！」]]></description>
+            <description><![CDATA[「——毫无疑问！正面，第一点『贰』的亚拉基亚！！」]]></description>
             <link>https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/90.html</link>
             <guid isPermaLink="true">https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/90.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

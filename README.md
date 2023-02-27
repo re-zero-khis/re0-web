@@ -6,7 +6,7 @@
 
 ## 如何阅读
 
-- 【PC/手机】用户均可从这个链接直接阅读：[https://lyy289065406.github.io/re0-web](https://lyy289065406.github.io/re0-web)
+- 【PC/手机】用户均可从这个链接直接阅读：[https://rezero.buzz/](https://rezero.buzz/)
 - 【手机】用户若加载时间过长，也可以安装 APP 【[OpenHub for Github](https://github.com/ThirtyDegreesRay/OpenHub)】 阅读纯文字版：
 <br/>　（1）[注册](https://github.com/join?source=header-home) 一个 Github 账号
 <br/>　（2）点击此项目仓库([re0-web](https://github.com/lyy289065406/re0-web))右上角的【Star】和【Fork】按钮

@@ -34,6 +34,7 @@
         "page-copyright": "添加页脚版权信息（含二维码，相对复杂）",
         "tbfed-pagefooter": "添加页脚版权信息（精简版）", 
         "donate": "添加打赏系统", 
+        "google-adsense": "谷歌广告", 
         "pageview-count": "添加阅读量计数系统（借用第三方接口 https://hitcounter.pythonanywhere.com/）",
         "tags": "添加文章标签：标签固定在文章页面顶部（一级标题下）",
         "rss": "RSS 插件",
@@ -48,7 +49,7 @@
         "flexible-alerts": "比 alerts 功能更丰富的警示引用框",
         "code": "为代码块添加复制按钮和行号（行号会影响代码样式）",
         "copy-code-button": "为代码块添加复制按钮",
-        "prism": "代码高亮（样式可选，内置在插件内）"
+        "prism": "代码高亮（样式可选，内置在插件内）",
     },
 
     "plugins": [
@@ -74,6 +75,7 @@
         "-page-copyright",
         "tbfed-pagefooter",
         "donate",
+        "adsense",
         "pageview-count",
         "tags",
         "rss", 
@@ -98,7 +100,7 @@
         },
         "sitemap-general": {
             "//": "所生成的站点地图路径前缀",
-            "prefix": "https://lyy289065406.github.io/re0-web/gitbook/book/"
+            "prefix": "https://rezero.buzz/gitbook/book/"
         },
         "simple-page-toc": {
             "//": "所生成的章节目录最大深度",
@@ -175,7 +177,7 @@
           "noPowered": false
         },
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy EXP 2022",
+            "copyright":"Copyright &copy EXP 2023",
             "modify_label": "最后修改时间 ： ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -187,12 +189,21 @@
             "wechat": "res/imgs/donate/wechat.png",
             "wechatText": "微信"
         },
+        "ads": [
+            {
+                "client": "ca-pub-4642672915857408",
+                "slot": "XXXXXXXXXX",
+                "format": "auto",
+                "location": ".page-inner section",
+                "style": "width: 100px;"
+            }
+        ],
         "rss": {
             "title": "RE0 WEB",
             "description": "RE0：从零开始的异世界生活",
             "author": "EXP",
-            "site_url": "https://lyy289065406.github.io/re0-web/gitbook/book/",
-            "feed_url": "https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml",
+            "site_url": "https://rezero.buzz/gitbook/book/",
+            "feed_url": "https://rezero.buzz/gitbook/book/rss.xml",
             "copyright": "EXP",
             "categories": [
                 "gitbook"

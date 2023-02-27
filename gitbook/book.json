@@ -49,7 +49,7 @@
         "flexible-alerts": "比 alerts 功能更丰富的警示引用框",
         "code": "为代码块添加复制按钮和行号（行号会影响代码样式）",
         "copy-code-button": "为代码块添加复制按钮",
-        "prism": "代码高亮（样式可选，内置在插件内）",
+        "prism": "代码高亮（样式可选，内置在插件内）"
     },
 
     "plugins": [
@@ -75,7 +75,7 @@
         "-page-copyright",
         "tbfed-pagefooter",
         "donate",
-        "adsense",
+        "google-adsense",
         "pageview-count",
         "tags",
         "rss", 
@@ -189,15 +189,18 @@
             "wechat": "res/imgs/donate/wechat.png",
             "wechatText": "微信"
         },
-        "ads": [
-            {
-                "client": "ca-pub-4642672915857408",
-                "slot": "XXXXXXXXXX",
-                "format": "auto",
-                "location": ".page-inner section",
-                "style": "width: 100px;"
-            }
-        ],
+        "google-adsense": {
+            "client": "ca-pub-4642672915857408",
+            "ads": [
+                {
+                    "client": "ca-pub-4642672915857408",
+                    "slot": "6078301498",
+                    "format": "auto",
+                    "location": ".page-inner section",
+                    "style": "width: 100%;"
+                }
+            ]
+        },
         "rss": {
             "title": "RE0 WEB",
             "description": "RE0：从零开始的异世界生活",

@@ -29,6 +29,12 @@ def remove(filepath) :
 
 # 复制文件/目录
 def copy(srcpath, snkpath) :
+    snk_dir = os.path.dirname(snkpath)
+    try :
+        os.makedirs(snk_dir)
+    except :
+        pass
+
     if os.path.isfile(srcpath) :
         shutil.copyfile(srcpath, snkpath)
     else :

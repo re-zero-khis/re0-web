@@ -151,8 +151,11 @@ def create_chapter_dir(chapter) :
 
         # windows 文件夹名称要转码为GBK
         if platform.system().lower() == 'windows' :
-            unicode_chapter_dir = chapter_dir.decode('utf-8')
-            chapter_dir = unicode_chapter_dir.encode('gbk')
+            try :
+                unicode_chapter_dir = chapter_dir.decode('utf-8')
+                chapter_dir = unicode_chapter_dir.encode('gbk')
+            except :
+                log.error("[%s] 转码失败" % chapter_dir)
 
         os.makedirs(chapter_dir)
     return chapter_dir

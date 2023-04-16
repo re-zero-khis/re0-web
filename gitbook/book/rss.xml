@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Apr 2023 03:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 19:27:26 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -178,7 +178,7 @@
 | ビアンカ | 毕安卡 | - | 第七章 | 文森特・埃布尔克斯 女装时的假名 |
 | ヴィンセント・ヴォラキア | 文森特・佛拉基亚 | - | 第七章 | 佛拉基亚帝国第七十七代皇帝（现任），有『和平主义』的称号 |
 | カフマ・イルルクス | 卡夫马・伊鲁克斯 | - | 第七章 | 『斗虫将』，文森特・佛拉基亚 的护卫之一，脾气火爆 |
-| タンザ | 坦萨 | - | 第七章 | 尤尔娜 的随从，鹿人少女，有佛拉基亚皇族的血脉，被有角亚人追随 |
+| タンザ | 坦萨 | 貚纱 | 第七章 | 尤尔娜 的随从，鹿人少女，有佛拉基亚皇族的血脉，被有角亚人追随 |
 | 鹿娘 | 鹿人姑娘 | - | 第七章 |  指代 坦萨，『恶毒翁』奥尔巴特 对『极彩色』米西格蕾的戏称（这老头喜欢用别人的特征叫人） |
 | ズィクル・オスマン | 兹克尔・奥斯曼 | - | 第七章 | 『女奴』『胆小鬼』，佛拉基亚帝国二将，『爆炸头』 |
 | ジャマル・オーレリー | 贾马尔・奥雷利 | - | 第七章 | 佛拉基亚的帝国贵族和帝国军人，卡秋娅 的哥哥 |
@@ -200,8 +200,8 @@
 | フローラ | 芙洛拉 | - | 第七章 | 弗洛普 女装时的假名 |
 | あんちゃん | 阿哥 | - | 第七章 | 米迪娅姆 对 弗洛普 的昵称 |
 | ミディアム・オコーネル | 米迪娅姆・奥克尼尔 | - | 第七章 | 在佛拉基亚迅游的商人兄妹的妹妹，战力担当 |
-| 旦那くん | 昴先生 | 丈夫先生 | 第七章 | 弗洛普 对 昴 的敬称 |
-| 奥さん | 夫人 | 妻子小姐 | 第七章 | 弗洛普 对 雷姆 的敬称 |
+| 旦那くん | 老板 | - | 第七章 | 弗洛普 对 昴 的别称 |
+| 奥さん | 夫人 | - | 第七章 | 弗洛普 对 雷姆 的别称 |
 | ドルケル | 多尔克尔 | - | 第六章 | 『跳跃者』 |
 | ルスベル・カラード | 鲁斯贝尔・卡拉多 | - | 第五章 | 在水门都市被『愤怒』大罪司教挟持的小男孩 |
 | ティーナ | 缇娜 | - | 第五章 | 鲁斯贝尔 的青梅竹马 |
@@ -212,8 +212,8 @@
 | ？ | 阿库娅 | - | 短篇 | - |
 | ？ | 达克妮丝 | - | 短篇 | - |
 | ？ | 惠惠 | - | 短篇 | - |
-| ロウアンと | 罗恩 | - | 第七章 | 瓜拉尔 酒馆的 雇佣兵 |
-| 大酒飲 | 酒馆老板 | - | 第七章 | 瓜拉尔 酒馆老板 |
+| ロウアンと | 罗恩 | - | 第七章 | 古拉尔 酒馆的 雇佣兵 |
+| 大酒飲 | 酒馆老板 | - | 第七章 | 古拉尔 酒馆老板 |
 | ネイジ・ロックハート | 涅吉・罗克哈特 | - | 第六章 | 『拳王』，在剑奴孤岛没有任何人可以与之匹敌的强者 |
 | ウビルク | 乌比尔克 | - | 第七章 | 『星读』师，肩负着从星际中预知未来、引导他人的角色 |
 | マイルズ | 迈尔斯 | - | 第七章 | 奥克尼尔 兄妹在孤儿院被大人欺负时，迈尔斯 是骑着飞龙来拯救他们出地狱的恩人 |
@@ -3908,7 +3908,7 @@
         </item>
         <item>
             <title><![CDATA[『帝国事况』]]></title>
-            <description><![CDATA[——城塞都市『格瓦拉尔』。]]></description>
+            <description><![CDATA[——城塞都市『古拉尔』。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/16.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/16.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -3921,7 +3921,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『城塞都市格瓦拉尔攻防战』]]></title>
+            <title><![CDATA[『城塞都市古拉尔攻防战』]]></title>
             <description><![CDATA[——闭上眼，昴的脑中回想起当时的画面。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/18.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/18.html</guid>
@@ -3936,7 +3936,7 @@
         </item>
         <item>
             <title><![CDATA[『皇帝／商人／菜月・昴』]]></title>
-            <description><![CDATA[――攻陷城塞都市格瓦拉尔，这就是埃布尔的下一个目标。]]></description>
+            <description><![CDATA[――攻陷城塞都市古拉尔，这就是埃布尔的下一个目标。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/20.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/20.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -3950,7 +3950,7 @@
         </item>
         <item>
             <title><![CDATA[『无血开城计划』]]></title>
-            <description><![CDATA[—时间，自舞姬在格瓦拉尔都市厅演舞之际稍往前回溯些。]]></description>
+            <description><![CDATA[—时间，自舞姬在古拉尔都市厅演舞之际稍往前回溯些。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/22.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/22.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4075,7 +4075,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『纳奇基・斯巴鲁』（未润色）]]></title>
+            <title><![CDATA[『纳奇基・昴』（未润色）]]></title>
             <description><![CDATA[「――――」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/40.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/40.html</guid>
@@ -4187,7 +4187,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『大灾害』（未润色）]]></title>
+            <title><![CDATA[『大灾』（未润色）]]></title>
             <description><![CDATA[——放弃城市，转移到撤退战。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/56-A.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/56-A.html</guid>
@@ -4215,8 +4215,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『乱世的私生子』（未润色）]]></title>
-            <description><![CDATA[「——尤尔娜・米西格蕾放弃了魔都，打算消灭那场『大灾害』。如果是那个『魂婚术』的话，我可以去做，但是没有确凿的证据。」]]></description>
+            <title><![CDATA[『乱世的私生子』]]></title>
+            <description><![CDATA[「——尤尔娜・米西格蕾准备放弃魔都，去消灭那个『大灾』。她可能会用那个『灵魂婚术』来办到，但不能确定」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/60.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/60.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4370,98 +4370,98 @@
         </item>
         <item>
             <title><![CDATA[『帝都的邂逅』]]></title>
-            <description><![CDATA[雷姆看到这名女子，是在被软禁的宅邸里散步的时候。]]></description>
+            <description><![CDATA[当雷姆看到那名女子时，正是她在软禁的庄园里漫步的时候。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/76.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/76.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『命运的恶作剧』]]></title>
-            <description><![CDATA[「--以上就是飞龙来袭造成损害的报告。」]]></description>
+            <description><![CDATA[「——以上是关于飞龙袭击造成的损失的报告。」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/77.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/77.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『一触即发的重逢』]]></title>
-            <description><![CDATA[爱蜜莉娅喘着气，一边不摇晃抱在怀里的少女的头，一边飞快地奔跑着。]]></description>
+            <description><![CDATA[喘着气，小心翼翼地不让怀里的小女孩的头晃动，像飞一样跑着。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/78.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/78.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『绯色的大笑』]]></title>
-            <description><![CDATA[--突然出现的普莉希拉，掀起了舆论风暴。]]></description>
+            <description><![CDATA[--普莉希拉突然出现，掀起了一股言灵旋风。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/79.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/79.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『爱丽丝与荆棘之王』]]></title>
-            <description><![CDATA[引起纠纷的大厅的商谈，也进入了最后一段时间。]]></description>
+            <description><![CDATA[――在混乱不堪的大厅内，讨论也已进入最后阶段。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/80.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/80.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『女豪杰和小丑』]]></title>
-            <description><![CDATA[由于神圣佛拉基亚帝国、当代皇帝文森特・佛拉基亚的统治，帝国迎来了建国以来史无前例的安宁时代。]]></description>
+            <description><![CDATA[――在神圣佛拉基亚帝国，由文森特・佛拉基亚皇帝统治下，帝国迎来了自建国以来空前的安宁时代。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/81.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/81.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『对叛乱者的猜测』]]></title>
-            <description><![CDATA[「最终，如果你把我关押起来，你能阻止德拉克洛伊领地的行动吗？毕竟，你不是有个好妻子吗，罗兹瓦尔？」]]></description>
+            <description><![CDATA[「──最终，抓住我是为了封锁德拉克洛伊领地的行动吗。果然，罗兹瓦尔，你找了个好助手啊」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/82.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/82.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『战乱与战场』]]></title>
-            <description><![CDATA[起义的火势逐渐蔓延到佛拉基亚帝国。]]></description>
+            <description><![CDATA[――随着时间的流逝，佛拉基亚帝国正在被反叛之火侵蚀。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/83.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/83.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『茶室』]]></title>
-            <description><![CDATA[佛拉基亚帝国各地的叛乱之火不断蔓延，不安的气息日益增加。]]></description>
+            <description><![CDATA[――反抗的火焰在佛拉基亚帝国各地蔓延，日益不安的气氛逐渐增加。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/84.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/84.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『尤金』]]></title>
-            <description><![CDATA[「这几天，豪宅里也传开了一些令人生畏的空气。」]]></description>
+            <description><![CDATA[「这几天，庄园里的气氛也变得紧张起来了。」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/85.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/85.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『五个顶点』]]></title>
-            <description><![CDATA[--「巨眼」伊斯梅尔是单眼族勇士，是一族的希望。]]></description>
+            <description><![CDATA[――“巨眼”伊兹梅尔是单眼族的勇士，是一族的希望。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/86.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/86.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『巅峰之战』]]></title>
-            <description><![CDATA[叛军围攻帝都鲁普加纳，它是由来自各地的叛徒协调，为了讨伐皇帝文森特・佛拉基亚而团结起来的--并不是这样的。]]></description>
+            <description><![CDATA[「……但这不是说叛军们团结一致地围攻帝都。」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/87.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/87.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『风洞』]]></title>
-            <description><![CDATA[--帝都鲁普加纳的围攻，它始于双方毫不吝惜的激战。]]></description>
+            <title><![CDATA[『突破口』]]></title>
+            <description><![CDATA[——帝都鲁普加纳的包围战，从双方毫不保留的激战开始。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/88.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/88.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『卡夫马・伊鲁克斯』]]></title>
-            <description><![CDATA[--即使是多种多样的亚人族生存的帝国大地，也有被视为异端的存在。]]></description>
+            <description><![CDATA[――在帝国这片充满各式亚人的土地上，仍有一类被视为异端的存在。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/89.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/89.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4475,139 +4475,140 @@
         </item>
         <item>
             <title><![CDATA[『在战场上奔走』]]></title>
-            <description><![CDATA[他脱下衣服，尽情地伸出平时留心淑美的手脚。]]></description>
+            <description><![CDATA[她脱下缠绕着的衣服，尽情地伸展了一下平日里总是保持端庄的手脚。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/91.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/91.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『因缘的再燃』]]></title>
-            <description><![CDATA[--空气发出惨叫声，世界逐渐变得缓慢。]]></description>
+            <description><![CDATA[――空气发出了惨叫，世界渐渐变得缓慢。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/92.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/92.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『石块的军队』]]></title>
+            <title><![CDATA[『石头军团』]]></title>
+            <description><![CDATA[箭头穿透了没有眼睛、鼻子或耳朵的石制人偶的头部，它们的身体大力抽搐。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/93.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/93.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『谁来的决心』]]></title>
-            <description><![CDATA[--远雷般的轰鸣声，摇晃着闭上眼睑的碧翠丝的意识。]]></description>
+            <title><![CDATA[『为谁而下的决心』]]></title>
+            <description><![CDATA[――如同远雷般的轰鸣声震动着闭上眼睛的碧翠丝的意识。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/94.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/94.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『顶点楚歌.』]]></title>
-            <description><![CDATA[在那一瞬间，战场上的每个人都捕捉到了身披白云降临地面的存在。]]></description>
+            <title><![CDATA[『顶点楚歌』]]></title>
+            <description><![CDATA[那一刻，身披白云，降临到地上的存在，被战场上的每个人都看到了。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/95.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/95.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『用深爱描绘』]]></title>
-            <description><![CDATA[--「九神将」之一--「钢人」莫古洛・哈加涅.]]></description>
+            <description><![CDATA[——作为『九神将』之一的『钢人』莫古洛・哈加涅。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/96.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/96.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『从西边的彼方来』]]></title>
-            <description><![CDATA[--以帝都鲁普加纳为舞台展开的攻防战，随处可见佳境。]]></description>
+            <title><![CDATA[『从西边的彼方而来』]]></title>
+            <description><![CDATA[――在帝都鲁普加纳上演的攻防战，已经到了处处都是高潮的时候。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/97.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/97.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『普雷阿迪斯战团』]]></title>
-            <description><![CDATA[--露格尼卡王国、佛拉基亚帝国、古斯提科圣王国、卡拉拉吉都市国家。]]></description>
+            <description><![CDATA[――在露格尼卡王国、佛拉基亚帝国、古斯提科圣王国和卡拉拉基城市国家这四个被称为“四大国”的国家中，每个国家都发展出了适应其国土的独特文化。露格尼卡王国的亲龙精神和古斯提科圣王国的精灵信仰是其中最典型的例子，但四大国走的路却完全不同，不仅仅体现在国风和文化上，就连“战士”的素质也是如此。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/98.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/98.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『能统治天空的东西』]]></title>
-            <description><![CDATA[--有一个词--「步莱伊」。]]></description>
+            <title><![CDATA[『天空的统治者』]]></title>
+            <description><![CDATA[――有一个叫做『战吼』的词。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/99.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/99.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『顶点万化；顶点万化』]]></title>
-            <description><![CDATA[--「云龙」梅佐雷伊娅的怒碌。]]></description>
+            <title><![CDATA[『頂点万化』]]></title>
+            <description><![CDATA[在『雲龍』梅佐蕾亚的失智症下，揭示出的惊人事实已经将爱蜜莉娅推入了极其困难的境地。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/100.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/100.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『爱就是火焰』]]></title>
-            <description><![CDATA[在装点帝都攻防战的战场中，化为一派异彩的光景的有两处。]]></description>
+            <title><![CDATA[『爱之炎』]]></title>
+            <description><![CDATA[――在帝都攻防战的战场上，两个地方显得特别耀眼。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/101.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/101.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『觉悟之墙』]]></title>
-            <description><![CDATA[托德・法库既不认为自己特别谨慎，也不考虑周全。]]></description>
+            <title><![CDATA[『觉悟之壁』]]></title>
+            <description><![CDATA[——托德・法库并不认为自己是个特别谨慎或者周到的人。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/102.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/102.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『星星的秒读』]]></title>
-            <description><![CDATA[地面震动着世界，天空分成白色和红色两部分，生命的碰撞引起了天翻地覆的现象，雷姆做出了决断。]]></description>
+            <title><![CDATA[『星星的倒计时』]]></title>
+            <description><![CDATA[――地面颤抖，天空分裂为白色和红色两部分，生命的碰撞引发了类似天灾地变的事件，雷姆做出了决定。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/103.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/103.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『顶点乱麻(上篇)』]]></title>
-            <description><![CDATA[「大灾」，听到这声音，埃布尔使鬼面深处的黑眼眸变细。]]></description>
+            <title><![CDATA[『顶点乱麻（上）』]]></title>
+            <description><![CDATA[――在提及『大灾』的名字时，埃布尔紧缩着充满魔性的黑瞳。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/104.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/104.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『顶点乱麻(中篇)』]]></title>
-            <description><![CDATA[将拳头压在地上，过度使用颤抖的膝盖站了起来。]]></description>
+            <title><![CDATA[『顶点乱麻（中）』]]></title>
+            <description><![CDATA[地面上撑着拳头，双膝颤抖着艰难地站了起来。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/105.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/105.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『顶点乱麻(后篇)』]]></title>
-            <description><![CDATA[察觉到异变的贝尔斯提兹・冯达尔福回到王座之间的时候，那个水晶宫里最尊贵的一室门紧闭着。]]></description>
+            <title><![CDATA[『顶点乱麻（下）』]]></title>
+            <description><![CDATA[当贝尔斯提兹・冯达尔冯发现异变后返回水晶宫的玉座之间时，被最尊敬的房间紧紧关闭着。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/106.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/106.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『奇夏·戈尔德』]]></title>
-            <description><![CDATA[透过鬼脸可以看出，他的脸颊被推开，微微变硬了。]]></description>
+            <title><![CDATA[『奇夏・戈尔德』]]></title>
+            <description><![CDATA[在被突飞时，他的鬼面微微紧了一下，这意味着他表情的真意很可能会被误解。作为一位过于聪明而省略掉不必要言语的皇帝，他甚至连表情都不怎么说话。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/107.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/107.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『即将到来的大灾难』]]></title>
-            <description><![CDATA[--装扮成假皇帝的奇夏・戈尔德的最后一次行动，是在理解之外。]]></description>
+            <title><![CDATA[『即将降临的大灾』]]></title>
+            <description><![CDATA[――在假皇帝的身份下，チシャ・ゴールド最后的行动超出了人们的理解。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/108.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/108.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『帝国之剑狼』]]></title>
-            <description><![CDATA[想起了令人讨厌的话。]]></description>
+            <description><![CDATA[这让他想起了一个讨厌的事情。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/109.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/109.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『表示祝贺(祝贺)』]]></title>
-            <description><![CDATA[用兽爪用力咬住地面，以拔出大地的气势将身体向前飞。]]></description>
+            <title><![CDATA[『祝贺』]]></title>
+            <description><![CDATA[用兽爪紧紧地咬住地面，身体以猛烈的速度向前飞去，就像拔出大地一样。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/110.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/110.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4620,15 +4621,9 @@
         </item>
         <item>
             <title><![CDATA[『胜利条件变更』]]></title>
+            <description><![CDATA[――佛拉基亚帝国的首都，鲁普加纳成为战场，帝国军与反叛军的攻防战在各地散播着混乱之种，进入了最后阶段。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/01.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/01.html</guid>
-            <dc:creator><![CDATA[EXP]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[『遗恨；遗恨』]]></title>
-            <description><![CDATA[--碧翠丝不知道该怎么处理被称为路伊的少女。]]></description>
-            <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/02.html</link>
-            <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/02.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>

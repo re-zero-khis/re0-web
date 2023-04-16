@@ -1,10 +1,13 @@
 require(['gitbook', 'jQuery'], function(gitbook, $) {
-	var wechatURL;
-	var alipayURL;
 	var titleText;
 	var buttonText;
+
+	var wechatURL;
 	var wechatText;
+	var alipayURL;
 	var alipayText;
+	var kofiURL;
+	var kofiText;
 
 
 	// console.log("gitbook object: ",gitbook)
@@ -62,6 +65,21 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 				]);
 			}
 
+			var _kofiURL = kofiURL;
+			if (_kofiURL !== '') {
+				for(pd = 0; pd < pageDepth; pd++) {
+					_kofiURL = "../" + _kofiURL;
+				}
+
+				html = html.concat([
+					'<div id="kofi" style="display: inline-block">',
+					'<a href="' + _kofiURL+ '" class="fancybox" rel="group">',
+					'<img id="kofi_qr" src="' + _kofiURL + '" alt="KO-FI"/>',
+					'</a>',
+					'<p>' + kofiText + '</p>', '</div>'
+				]);
+			}
+
 			html = html.concat(['</div>', '</div>']);
 			$('.page-inner section.normal:last').after(html.join(''));
 		}
@@ -74,6 +92,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 		wechatText = config.donate.wechatText || '微信捐赠';
 		alipayURL = config.donate.alipay || '';
 		alipayText = config.donate.alipayText || '支付宝捐赠';
+		kofiURL = config.donate.kofi || '';
+		kofiText = config.donate.kofiText || 'KO-FI 捐赠';
 		
 		insertDonateLink();
 	});

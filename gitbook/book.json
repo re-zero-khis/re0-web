@@ -187,7 +187,9 @@
             "alipay": "res/imgs/donate/alipay.png",
             "alipayText": "支付宝",
             "wechat": "res/imgs/donate/wechat.png",
-            "wechatText": "微信"
+            "wechatText": "微信",
+            "kofi": "res/imgs/donate/kofi.png",
+            "kofiText": "KO-FI"
         },
         "google-adsense": {
             "client": "ca-pub-4642672915857408",

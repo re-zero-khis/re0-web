@@ -4,28 +4,20 @@
 
 ------
 
-## 如何阅读
+## 0x00 如何阅读
 
 - 【PC/手机】用户均可从这个链接直接阅读：[https://rezero.buzz/](https://rezero.buzz/)
-- 【手机】用户若加载时间过长，也可以安装 APP 【[OpenHub for Github](https://github.com/ThirtyDegreesRay/OpenHub)】 阅读纯文字版：
+- 【手机】用户若加载时间过长，也可以阅读纯文字版：
 <br/>　（1）[注册](https://github.com/join?source=header-home) 一个 Github 账号
-<br/>　（2）点击此项目仓库([re0-web](https://github.com/lyy289065406/re0-web))右上角的【Star】和【Fork】按钮
-<br/>　（3）从 手机应用商城 或 Github 安装【[OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)】
-<br/>　（4）使用刚才注册的 Github 账号登录【[OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)】
-<br/>　（5）打开【My repos】，找到 [re0-web](https://github.com/lyy289065406/re0-web) 并点击进入项目
-<br/>　（6）点击【FILES】可打开仓库文件，在路径 `gitbook/markdown/ch` 下即为各个章节的内容
+<br/>　（2）点击此项目仓库([re0-web](https://github.com/lyy289065406/re0-web))右上角的 ![star](https://img.shields.io/github/stars/lyy289065406/re0-web?style=social) 和 ![fork](https://img.shields.io/github/forks/lyy289065406/re0-web?style=social) 按钮
+<br/>　（3）从 Google/App Store 搜索并安装 APP 【Github】 ，登录之
+<br/>　（4）在【仓库】中找到 [re0-web](https://github.com/lyy289065406/re0-web)，点击打开
+<br/>　（5）点击【浏览代码】可打开仓库文件，在路径 `gitbook/markdown/ch` 下即为各个章节的内容
 
 
-## 公告【润色活动】
-
-因本人工作繁忙，部分章节只做了初步的必要人名和专有名词翻译校对，暂时没有做内容润色，这些章节会打上【未润色】的标记，但基本不影响理解情节。
-
-如果有小伙伴希望合作润色的，[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/lyy289065406/re0-web/pulls)，提 PR 润色的同学可以把你的二维收款码提供给我，你的二维码将出现在友情赞助列表。
-
-> 因为是非强制性赞助，收入是随缘的，所以不要对其有过高期望，并不建议你以赚钱为目的参与到这个过程（一般也赚不了多少，几分钱是常事，毕竟是读者自愿的）
 
 
-## 内容预览
+## 0x10 内容预览
 
 <details>
 <summary>展开查看</summary>
@@ -46,7 +38,7 @@
 </details>
 
 
-## 文库版对应内容
+## 0x20 文库版对应内容
 
 **WEB版 与 文库版 的区别**：
 
@@ -88,7 +80,7 @@
 
 
 
-## 致开发者
+## 0xE0 致开发者
 
 <details>
 <summary>展开查看</summary>
@@ -102,7 +94,7 @@
 </details>
 
 
-## 相关资源
+## 0xF0 相关资源
 
 <details>
 <summary>展开查看</summary>

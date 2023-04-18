@@ -1,6 +1,6 @@
 # Re0：从零开始的异世界生活 （WEB版）
 
-> [Github 在线阅读（中日对照）](https://lyy289065406.github.io/re0-web)
+> [Github 在线阅读（中日对照）](https://re-zero-khis.github.io/re0-web)
 
 ------
 
@@ -9,9 +9,9 @@
 - 【PC/手机】用户均可从这个链接直接阅读：[https://rezero.buzz/](https://rezero.buzz/)
 - 【手机】用户若加载时间过长，也可以阅读纯文字版：
 <br/>　（1）[注册](https://github.com/join?source=header-home) 一个 Github 账号
-<br/>　（2）点击此项目仓库([re0-web](https://github.com/lyy289065406/re0-web))右上角的 ![star](https://img.shields.io/github/stars/lyy289065406/re0-web?style=social) 和 ![fork](https://img.shields.io/github/forks/lyy289065406/re0-web?style=social) 按钮
+<br/>　（2）点击此项目仓库([re0-web](https://github.com/re-zero-khis/re0-web))右上角的 ![star](https://img.shields.io/github/stars/re-zero-khis/re0-web?style=social) 和 ![fork](https://img.shields.io/github/forks/re-zero-khis/re0-web?style=social) 按钮
 <br/>　（3）从 Google/App Store 搜索并安装 APP 【Github】 ，登录之
-<br/>　（4）在【仓库】中找到 [re0-web](https://github.com/lyy289065406/re0-web)，点击打开
+<br/>　（4）在【仓库】中找到 [re0-web](https://github.com/re-zero-khis/re0-web)，点击打开
 <br/>　（5）点击【浏览代码】可打开仓库文件，在路径 `gitbook/markdown/ch` 下即为各个章节的内容
 
 
@@ -23,17 +23,17 @@
 <summary>展开查看</summary>
 <br/>
 
-![](./imgs/00.png)
+![](./imgs/00.jpg)
 
-![](./imgs/15.png)
+![](./imgs/15.jpg)
 
-![](./imgs/01.png)
+![](./imgs/01.jpg)
 
-![](./imgs/09.png)
+![](./imgs/09.jpg)
 
-![](./imgs/11.png)
+![](./imgs/11.jpg)
 
-![](./imgs/14.png)
+![](./imgs/14.jpg)
 
 </details>
 
@@ -86,9 +86,9 @@
 <summary>展开查看</summary>
 <br/>
 
-此书籍是利用 [GitBook](https://docs.gitbook.com/) 搭建的，同时兼容在 [Github Pages](https://lyy289065406.github.io/re0-web) 和 [本地（线下）](http://127.0.0.1:4000/) 运行。
+此书籍是利用 [GitBook](https://docs.gitbook.com/) 搭建的，同时兼容在 [Github Pages](https://re-zero-khis.github.io/re0-web) 和 [本地（线下）](http://127.0.0.1:4000/) 运行。
 
-> 关于 **本地** 环境的搭建可见 [gitbook-server-docker](https://github.com/lyy289065406/gitbook-server-docker) 的说明
+> 关于 **本地** 环境的搭建可见 [gitbook-server-docker](https://github.com/re-zero-khis/gitbook-server-docker) 的说明
 <br/> 另由于 [`SUMMARY.md`](./gitbook/SUMMARY.md) 索引量较大，[`build.sh`](./bin/build.sh)  或 [`build.ps1`](./bin/build.ps1) 编译一次约需 1 小时，因此要谨慎发布变更
 
 </details>

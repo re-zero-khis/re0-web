@@ -5,7 +5,7 @@
     "language" : "en",
     "links" : {
         "sidebar" : {
-            "EXP's Github" : "https://github.com/lyy289065406/re0-web"
+            "EXP's Github" : "https://github.com/re-zero-khis/re0-web"
         }
     },
 
@@ -161,7 +161,7 @@
             ]
         },
         "edit-link": {
-            "base": "https://github.com/lyy289065406/re0-web/edit/master/gitbook",
+            "base": "https://github.com/re-zero-khis/re0-web/edit/master/gitbook",
             "label": "EDIT THIS PAGE"
         },
         "page-copyright": {

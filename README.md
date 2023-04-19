@@ -1,10 +1,28 @@
-# Re0：从零开始的异世界生活 （WEB版）
+# Re0：从零开始的异世界生活 （WEB 版）
 
-> [Github 在线阅读（中日对照）](https://re-zero-khis.github.io/re0-web)
+> [Github 在线阅读](https://re-zero-khis.github.io/re0-web)
 
 ------
 
-## 0x00 如何阅读
+## 0x00 介绍
+
+这是《Re:从零开始的异世界生活》web 版的汉化项目，目前每个章节的完整汉化流程包括：
+
+1. 翻译（日 -> 中）
+2. 润色（使得上下文表达语句意思更贴近中文环境）
+3. 校对（人名、地名、技能名等专有名词修正、所有章节一致化）
+4. 编排（文档格式）
+
+鉴于整个流程超级耗时间（平均一章需要花 3~4 小时），而目前是我独力运营（ 为爱发电 ），但我又需要优先兼顾固定工作，所以只能在闲暇时间隔三更四。
+
+为了让我更有动力去做这件事，也为了部分回收我投入的人力物力成本，所以我设立了 [Open Collective](https://opencollective.com/re0-web) 赞助基金。
+
+当然这个基金不是强迫赞助的，捐多捐少全凭自愿，你不捐也可以继续享受我的服务（只是可能会囤着章节在闲暇时一起更新）。
+
+> 也欢迎有志趣的同学加入这个组织，根据贡献度可以从基金中享有一定的分成。
+
+
+## 0x10 如何阅读
 
 - 【PC/手机】用户均可从这个链接直接阅读：[https://rezero.buzz/](https://rezero.buzz/)
 - 【手机】用户若加载时间过长，也可以阅读纯文字版：
@@ -15,9 +33,7 @@
 <br/>　（5）点击【浏览代码】可打开仓库文件，在路径 `gitbook/markdown/ch` 下即为各个章节的内容
 
 
-
-
-## 0x10 内容预览
+## 0x20 内容预览
 
 <details>
 <summary>展开查看</summary>
@@ -38,7 +54,7 @@
 </details>
 
 
-## 0x20 文库版对应内容
+## 0x30 文库版对应内容
 
 **WEB版 与 文库版 的区别**：
 
@@ -46,6 +62,9 @@
 - 文库版无论剧情精彩度、人物刻画深度、还是逻辑严谨度都比WEB版要好
 - 推荐先看文库版，WEB版建议用于了解最新剧情
 
+<details>
+<summary>展开查看</summary>
+<br/>
 
 | MJ 文库版 | 封面 | 下载 | 对应 WEB 版范围 |
 |:-----:|:-----:|:-----:|:-----|
@@ -78,6 +97,7 @@
 | EPUB<br/>第 27 卷 | <img width="120" src="gitbook/res/imgs/article/chapter070/00-c.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-27.epub)<br/>[腾讯微云](https://share.weiyun.com/9twNDC1V)<br/>（32m34c） | <ul><li><b>起</b>：【第七章】 13　『以非神之躯』</li><li><b>止</b>：【第七章】 24　『傲岸不逊』</li></ul> |
 | EPUB<br/>第 28 卷 | <img width="120" src="gitbook/res/imgs/article/chapter070/00-d.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-28.epub)<br/>[腾讯微云](https://share.weiyun.com/eX39banf)<br/>（f479pi） | <ul><li><b>起</b>：【第七章】 25　『热血澎湃般的再会』</li><li><b>止</b>：【第七章】 39　『恶毒』</li></ul> |
 
+</details>
 
 
 ## 0xE0 致开发者

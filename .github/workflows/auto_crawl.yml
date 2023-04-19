@@ -17,6 +17,19 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
 
+      - name: Setup Git Infomation
+        run: |-
+          git config --global user.name "${{ vars._GIT_USER }}"
+          git config --global user.email "${{ vars._GIT_MAIL }}"
+      - name: Setup Deploy Private Key
+        env:
+          DEPLOY_PRIVATE_KEY: ${{ secrets.DEPLOY_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa 
+          chmod 400 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
@@ -44,12 +57,8 @@ jobs:
             ./bin/build.sh
           fi
 
-      # 如果不希望污染 commit 记录，user.email 和 user.name 随便填即可
-      # Github Runner 是有权限提交到仓库的，只要 user 不是 owner ，当次 commit 不会被记录
       - name: Commit and push Github page (if changed)
         run: |-
-          git config --global user.email "github-bot@example.com"
-          git config --global user.name "Github-Bot"
           git add -A
           git commit -m "Updated by Github Bot" || exit 0
           git push origin master

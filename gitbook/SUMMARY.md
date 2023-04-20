@@ -594,7 +594,7 @@
 	* [70　『一个』](markdown/ch/chapter070/70.md)
 	* [71　『水』](markdown/ch/chapter070/71.md)
 	* [72　『荒谬的传闻』](markdown/ch/chapter070/72.md)
-	* [73　『威茨・罗古』](markdown/ch/chapter070/73.md)
+	* [73　『维茨・罗根』](markdown/ch/chapter070/73.md)
 	* [74　『伊德拉・米桑加』](markdown/ch/chapter070/74.md)
 	* [75　『I know』](markdown/ch/chapter070/75.md)
 	* [76　『帝都的邂逅』](markdown/ch/chapter070/76.md)

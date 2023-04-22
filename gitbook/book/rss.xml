@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Apr 2023 18:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 03:10:44 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -4624,6 +4624,13 @@
             <title><![CDATA[『三个原因』]]></title>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/03.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/03.html</guid>
+            <dc:creator><![CDATA[EXP]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[『战士的本能』]]></title>
+            <description><![CDATA[--「巨眼」伊斯梅尔是单眼族勇士，是一族的希望。]]></description>
+            <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/04.html</link>
+            <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/04.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>

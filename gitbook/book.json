@@ -189,7 +189,9 @@
             "wechat": "res/imgs/donate/wechat.png",
             "wechatText": "微信",
             "kofi": "res/imgs/donate/kofi.png",
-            "kofiText": "KO-FI"
+            "kofiText": "KO-FI",
+            "opencollective": "res/imgs/donate/opencollective.png",
+            "opencollectiveText": "OpenCollective"
         },
         "google-adsense": {
             "client": "ca-pub-4642672915857408",

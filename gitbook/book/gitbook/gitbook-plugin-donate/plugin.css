@@ -59,6 +59,11 @@
   -webkit-animation: roll 0.1s infinite linear;
   -moz-animation: roll 0.1s infinite linear;
 }
+#openCollective:hover p {
+  animation: roll 0.1s infinite linear;
+  -webkit-animation: roll 0.1s infinite linear;
+  -moz-animation: roll 0.1s infinite linear;
+}
 @-moz-keyframes roll {
   from {
     -webkit-transform: rotateZ(30deg);

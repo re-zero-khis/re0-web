@@ -8,6 +8,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 	var alipayText;
 	var kofiURL;
 	var kofiText;
+	var openCollectiveURL;
+	var openCollectiveText;
 
 
 	// console.log("gitbook object: ",gitbook)
@@ -80,6 +82,21 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 				]);
 			}
 
+			var _openCollectiveURL = openCollectiveURL;
+			if (_openCollectiveURL !== '') {
+				for(pd = 0; pd < pageDepth; pd++) {
+					_openCollectiveURL = "../" + _openCollectiveURL;
+				}
+
+				html = html.concat([
+					'<div id="kofi" style="display: inline-block">',
+					'<a href="' + _openCollectiveURL+ '" class="fancybox" rel="group">',
+					'<img id="kofi_qr" src="' + _openCollectiveURL + '" alt="KO-FI"/>',
+					'</a>',
+					'<p>' + openCollectiveText + '</p>', '</div>'
+				]);
+			}
+
 			html = html.concat(['</div>', '</div>']);
 			$('.page-inner section.normal:last').after(html.join(''));
 		}
@@ -94,6 +111,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 		alipayText = config.donate.alipayText || '支付宝捐赠';
 		kofiURL = config.donate.kofi || '';
 		kofiText = config.donate.kofiText || 'KO-FI 捐赠';
+		openCollectiveURL = config.donate.openCollective || '';
+		openCollectiveText = config.donate.openCollectiveText || 'OpenCollective 捐赠';
 		
 		insertDonateLink();
 	});

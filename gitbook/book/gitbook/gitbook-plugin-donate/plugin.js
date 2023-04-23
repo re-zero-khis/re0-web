@@ -89,9 +89,9 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 				}
 
 				html = html.concat([
-					'<div id="kofi" style="display: inline-block">',
+					'<div id="openCollective" style="display: inline-block">',
 					'<a href="' + _openCollectiveURL+ '" class="fancybox" rel="group">',
-					'<img id="kofi_qr" src="' + _openCollectiveURL + '" alt="KO-FI"/>',
+					'<img id="openCollective_qr" src="' + _openCollectiveURL + '" alt="OpenCollective"/>',
 					'</a>',
 					'<p>' + openCollectiveText + '</p>', '</div>'
 				]);

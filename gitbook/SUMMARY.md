@@ -635,7 +635,7 @@
 * [第八章　『文森特・佛拉基亚』（帝皇篇）](markdown/ch/chapter080/README.md)
 	* [01　『勝利条件変更』](markdown/ch/chapter080/01.md)
 	* [02　『遗恨』](markdown/ch/chapter080/02.md)
-	* [03　『三个原因』](markdown/ch/chapter080/03.md)
+	* [03　『三个理由』](markdown/ch/chapter080/03.md)
 	* [04　『战士的本能』](markdown/ch/chapter080/04.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)

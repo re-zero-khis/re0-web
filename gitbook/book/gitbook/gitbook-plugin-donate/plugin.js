@@ -17,7 +17,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 	
 
 	function insertDonateLink() {
-		if ($('.gitbook-donate').length === 0 && wechatURL !== undefined && (wechatURL !== '' || alipayURL !== '')) {
+		if ($('.gitbook-donate').length === 0 && wechatURL !== undefined && (wechatURL !== '' || alipayURL !== '' || kofiURL !== '' || openCollectiveURL !== '')) {
 			var pageDepth = gitbook.state.page.depth + 2;
 			var pageLevel = gitbook.state.page.level;
 			if (pageLevel == '1.1') {				// 1.1 即根目录，深度调整为 0

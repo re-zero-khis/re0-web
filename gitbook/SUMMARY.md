@@ -1,6 +1,6 @@
 # 目录索引
 
-* [封面](README.md)
+* [导读](README.md)
 * [登场人物](markdown/character.md)
 * [译名字典](markdown/translation.md)
 

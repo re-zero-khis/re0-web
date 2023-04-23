@@ -12,7 +12,7 @@ sleep 1
 
 if [ ! -d 'gitbook/node_modules' ] ; then
     echo "Download nodejs module ..."
-    git clone https://github.com/lyy289065406/node_modules gitbook/node_modules
+    git clone https://github.com/re-zero-khis/node_modules gitbook/node_modules
     sleep 2
 fi
 

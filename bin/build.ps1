@@ -15,7 +15,7 @@ If(Test-Path 'gitbook/book') {
 
 If(!(Test-Path 'gitbook/node_modules')) {
     Write-Output "Download nodejs module ..."
-    git clone https://github.com/lyy289065406/node_modules gitbook/node_modules
+    git clone https://github.com/re-zero-khis/node_modules gitbook/node_modules
     Start-Sleep 2
 }
 

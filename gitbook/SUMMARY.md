@@ -631,7 +631,7 @@
 	* [107　『奇夏・戈尔德』](markdown/ch/chapter070/107.md)
 	* [108　『即将降临的大灾』](markdown/ch/chapter070/108.md)
 	* [109　『帝国之剑狼』](markdown/ch/chapter070/109.md)
-	* [110　『祝贺』](markdown/ch/chapter070/110.md)
+	* [110　『庆典』](markdown/ch/chapter070/110.md)
 * [第八章　『文森特・佛拉基亚』（帝皇篇）](markdown/ch/chapter080/README.md)
 	* [01　『勝利条件変更』](markdown/ch/chapter080/01.md)
 	* [02　『遗恨』](markdown/ch/chapter080/02.md)
@@ -1379,6 +1379,8 @@
 	* [12　『学園リゼロ！　2時間目！』](markdown/jp/chapter999/12.md)
 	* [13　『学園リゼロ！　3時間目！』](markdown/jp/chapter999/13.md)
 	* [14　『学園リゼロ！　4時間目！』](markdown/jp/chapter999/14.md)
+	* [15　『ゼロカラミマガウイセカイセイカツ』](markdown/jp/chapter999/15.md)
+	* [16　『ゼロカラミマガウイセカイセイカツⅡ』](markdown/jp/chapter999/16.md)
 
 -->
 

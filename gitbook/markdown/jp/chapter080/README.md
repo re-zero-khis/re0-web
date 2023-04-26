@@ -4,6 +4,7 @@
 - [02　『遺恨』](02.html)
 - [03　『三つの理由』](03.html)
 - [04　『戦士の本能』](04.html)
+- [05　『赦し』](05.html)
 
 
 ![](/res/imgs/article/chapter080/00-b.jpg)

@@ -30,7 +30,7 @@
 | [第四章・圣域篇](./markdown/ch/chapter040/) | 全部 | 全部 | 全部 |
 | [第五章・水门篇](./markdown/ch/chapter050/) | 全部 | 全部 | 全部 |
 | [第六章・贤者篇](./markdown/ch/chapter060/) | 全部 | 全部 | 全部 |
-| [第七章・帝国篇](./markdown/ch/chapter070/) | 全部 | <ul><li>40-59 润色中</li><li>其余章节已润色</li></ul> | <ul><li>40-59 未精校</li><li>60-74 精校中</li><li>其余章节已精校</li></ul> |
+| [第七章・帝国篇](./markdown/ch/chapter070/) | 全部 | <ul><li>40-49 润色中</li><li>其余章节已润色</li></ul> | <ul><li>40-49 未精校</li><li>50-74 精校中</li><li>其余章节已精校</li></ul> |
 | [第八章・帝皇篇](./markdown/ch/chapter080/) | 全部 | 全部 | 全部 |
 
 ![](/res/imgs/index/01.png)

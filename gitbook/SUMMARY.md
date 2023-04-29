@@ -555,7 +555,7 @@
 	* [37　『红琉璃城之主』](markdown/ch/chapter070/37.md)
 	* [38　『八年后的奖励』](markdown/ch/chapter070/38.md)
 	* [39　『恶毒』](markdown/ch/chapter070/39.md)
-	* [40　『纳奇基・斯巴鲁』](markdown/ch/chapter070/40.md)
+	* [40　『纳奇基・施瓦茨』](markdown/ch/chapter070/40.md)
 	* [41　『茶歇谈话』](markdown/ch/chapter070/41.md)
 	* [42　『野心之兽』](markdown/ch/chapter070/42.md)
 	* [43　『眼睑的背面』](markdown/ch/chapter070/43.md)

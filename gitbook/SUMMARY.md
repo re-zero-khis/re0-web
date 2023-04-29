@@ -565,7 +565,7 @@
 	* [47　『不会消失的■■』](markdown/ch/chapter070/47.md)
 	* [48　『盘踞的魔都』](markdown/ch/chapter070/48.md)
 	* [49　『星之邂逅』](markdown/ch/chapter070/49.md)
-	* [50　『风景优美的「洞穴」』](markdown/ch/chapter070/50.md)
+	* [50　『视野绝佳的「深渊」』](markdown/ch/chapter070/50.md)
 	* [51　『魔都的女主人』](markdown/ch/chapter070/51.md)
 	* [52　『恋慕之心绝不让步』](markdown/ch/chapter070/52.md)
 	* [53　『在那十一秒的前方』](markdown/ch/chapter070/53.md)

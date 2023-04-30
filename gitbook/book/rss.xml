@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Apr 2023 17:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 16:58:05 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -50,7 +50,7 @@
 | スー坊 | 斯小子 | - | 第四章 | 琉兹 对 昴 的雅称 |
 | スー | 阿斯 | - | 第七章 | 乌塔卡塔 对 昴 的昵称 |
 | ナツミ・シュバルツ | 夏美・施瓦茨 | - | 第七章 | 昴 女装时的假名，『女军师』 |
-| ナチュキ・シュバル | 纳奇基・斯巴鲁 | - | 第七章 | 昴 缩小到年幼时期的名字。纳奇基 应该指代 小尤纳奇基，乌克兰的只有 1.32 平方公里的小国（老贼奇怪的知识都用在起名上了） |
+| ナチュキ・シュバル | 纳奇基・施瓦茨 | - | 第七章 | 昴 缩小到年幼时期的名字。纳奇基 应该指代 小尤纳奇基，乌克兰的只有 1.32 平方公里的小国（老贼奇怪的知识都用在起名上了） |
 | ナツキ・シュバルツ | 菜月・施瓦茨 | - | 第七章 | 昴 在剑奴孤岛用的假名 |
 | エミリア | 爱蜜莉娅 | 艾米莉娅 | 第一章 | 『冰结魔女』『精灵使』『银发的半精灵』，王选候选人之一 |
 | リア | 莉娅 | - | 第二章 | 帕克 对 爱蜜莉娅 的爱称 |
@@ -85,14 +85,14 @@
 | トン | 加斯顿 | 阿顿、阿桶 | 第一章 | 『顿珍汉』地痞三人组之『顿』，有愚不可及的讽刺之意 |
 | チン | 拉珍斯 | 阿珍、阿庆 | 第一章 | 『顿珍汉』地痞三人组之『珍』，有愚不可及的讽刺之意 |
 | カン | 汉巴里 | 阿汉、阿康 | 第一章 | 『顿珍汉』地痞三人组之『汉』，有愚不可及的讽刺之意 |
-| プリシラ・バーリエル | 普莉希拉・跋利耶尔 | 寡妇 | 第三章 | 『血色新娘』，王选候选人之一，手持『阳剑』，『九神将』 尤尔娜・米西格蕾 的女儿 |
+| プリシラ・バーリエル | 普莉希拉・跋利耶尔 | 寡妇 | 第三章 | 『血色新娘』，王选候选人之一，手持『阳剑』，『九神将』 尤尔娜・米希格蕾 的女儿 |
 | プリスカ・ベネディクト | 普莉丝卡・贝尼迪克特 | - | 第七章 | 普莉希拉 的旧名 |
 | ライプ・バーリエル | 莱普・跋利耶尔 | - | 第四章 | 普莉希拉 的丈夫，已故 |
 | アルデバラン | 阿尔德巴兰 | - | 第三章 | 18 年前和 昴 一样被召唤到异世界的头盔男 |
 | アル | 阿尔 | - | 第三章 | 阿尔德巴兰 的简称 |
 | リリアナ・マスカレード | 莉莉安娜・马斯可芮德 | - | 第五章 | 『歌姫』 |
 | ハインケル・アストレア | 亨克尔・阿斯特雷亚 | - | 第五章 | 莱因哈鲁特 的流氓父亲 |
-| シュルト | 修尔特 | - | 第五章 | 普莉希拉的仆人，似乎是 『极彩色』尤尔娜・米西格蕾 的亲人（儿子？） |
+| シュルト | 修尔特 | - | 第五章 | 普莉希拉的仆人，似乎是 『极彩色』尤尔娜・米希格蕾 的亲人（儿子？） |
 | ヤエ・テンゼン | 雅耶・天泽 | - | 第七章 | 普莉希拉的曾经的女仆，因家人遭遇不幸已辞去工作 |
 | クルシュ・カルステン | 库珥修・卡尔斯腾 | - | 第三章 | 『百一太刀』，王选候选人之一 |
 | フェリックス・アーガイル | 菲利克斯・阿盖尔 | - | 第三章 | 『青』 |
@@ -169,9 +169,9 @@
 | チェシャ・トリム | 切沙・特里姆 | - | 第七章 | 奇夏・戈尔德 的旧名，文森特・埃布尔克斯 的家臣 |
 | ゴズ・ラルフォン | 哥兹・拉尔冯 | - | 第七章 | 『狮子骑士』，『九神将』之『伍』 |
 | グルービー・ガムレット | 格鲁比・加姆雷特 | - | 第七章 | 『咒具师』，『九神将』之『陆』 |
-| ヨルナ・ミシグレ | 尤尔娜・米西格蕾 | 夜鸣・魅时雨 | 第七章 | 『极彩色』，『九神将』之『漆』 |
-| サンドラ・ベネディクト | 桑德拉・贝尼迪克特 | - | 第七章 | 『九神将』尤尔娜・米西格蕾 的灵魂（爱丽丝）在前一世转生的名字，为普莉丝卡・贝尼迪克特（普莉希拉・跋利耶尔）的母亲 |
-| 狐娘 | 狐狸女人 | - | 第七章 |  指代 尤尔娜・米西格蕾，『恶毒翁』奥尔巴特 对『极彩色』米西格蕾的戏称（这老头喜欢用别人的特征叫人） |
+| ヨルナ・ミシグレ | 尤尔娜・米希格蕾 | 夜鸣・魅时雨 | 第七章 | 『极彩色』，『九神将』之『漆』 |
+| サンドラ・ベネディクト | 桑德拉・贝尼迪克特 | - | 第七章 | 『九神将』尤尔娜・米希格蕾 的灵魂（爱丽丝）在前一世转生的名字，为普莉丝卡・贝尼迪克特（普莉希拉・跋利耶尔）的母亲 |
+| 狐娘 | 狐狸女人 | - | 第七章 |  指代 尤尔娜・米希格蕾，『恶毒翁』奥尔巴特 对『极彩色』米希格蕾的戏称（这老头喜欢用别人的特征叫人） |
 | モグロ・ハガネ | 莫古洛・哈加涅 | - | 第七章 | 『钢人』，『九神将』之『捌』 |
 | マデリン・エッシャルト | 玛德琳・艾沙尔 | - | 第七章  | 『飞龙将』，『九神将』之『玖』，『龙人族』 |
 | ヴィンセント・アベルクス | 文森特・埃布尔克斯 | - | 第七章 | 佛拉基亚帝国第七十七代皇帝（被篡位），有『和平主义』『贤帝』的称号 |
@@ -180,7 +180,7 @@
 | ヴィンセント・ヴォラキア | 文森特・佛拉基亚 | - | 第七章 | 佛拉基亚帝国第七十七代皇帝（现任），真身是戴着『鬼面』模仿声音的 奇夏・戈尔德 |
 | カフマ・イルルクス | 卡夫马・伊鲁克斯 | - | 第七章 | 『斗虫将』，文森特・佛拉基亚 的护卫之一，脾气火爆 |
 | タンザ | 坦萨 | 貚纱 | 第七章 | 尤尔娜 的随从，鹿人少女，有佛拉基亚皇族的血脉，被有角亚人追随 |
-| 鹿娘 | 鹿人姑娘 | - | 第七章 |  指代 坦萨，『恶毒翁』奥尔巴特 对『极彩色』米西格蕾的戏称（这老头喜欢用别人的特征叫人） |
+| 鹿娘 | 鹿人姑娘 | - | 第七章 |  指代 坦萨，『恶毒翁』奥尔巴特 对『极彩色』米希格蕾的戏称（这老头喜欢用别人的特征叫人） |
 | ズィクル・オスマン | 兹克尔・奥斯曼 | - | 第七章 | 『女奴』『胆小鬼』，佛拉基亚帝国二将，『爆炸头』 |
 | グッダ・ディアルモ | 古达・迪亚尔莫 | - | 第七章 | 『虎狩』，佛拉基亚帝国二将，称号源于武器是两根金棒 |
 | ジャマル・オーレリー | 贾马尔・奥雷利 | - | 第七章 | 佛拉基亚的帝国贵族和帝国军人，卡秋娅 的哥哥 |
@@ -188,10 +188,10 @@
 | トッド・ファング | 托德・法库 | - | 第七章 | 佛拉基亚的帝国军人，卡秋娅 的未婚夫，贾马尔 的妹夫 |
 | ミゼルダ | 米泽尔妲 | - | 第七章 | 修德拉克族长（断腿后退位），塔莉塔 的姐姐 |
 | ミー | 阿米 | - | 第七章 | 乌塔卡塔 对 米泽尔妲 的昵称 |
-| タリッタ・シュドラク | 塔莉塔・修德拉克 | - | 第七章 | 米泽尔妲 断腿后继任修德拉克族长，米泽尔妲 的妹妹，『巴德海姆密林的猎人』。与 玛里乌里 是彼此的『灵魂姐妹』，但因被人误会杀了 玛里乌里 而称为『修德拉克之污秽』 |
+| タリッタ・シュドラク | 塔莉塔・修德拉克 | - | 第七章 | 米泽尔妲 断腿后继任修德拉克族长，米泽尔妲 的妹妹，『巴德海姆密林的猎人』。与 玛丽乌莉 是彼此的『灵魂姐妹』，但因被人误会杀了 玛丽乌莉 而称为『修德拉克之污秽』 |
 | ター | 阿塔 | - | 第七章 | 乌塔卡塔 对 塔莉塔 的昵称 |
-| マリウリ | 玛里乌里 | - | 第七章 | 与 塔莉塔 同一天出生的、特别亲密的『灵魂姐妹』。继承了『星都』的宿命，但因害怕天命而自杀身亡 |
-| ウタカタ | 乌塔卡塔 | - | 第七章 | 修德拉克之民，幼女，擅用毒箭 |
+| マリウリ | 玛丽乌莉 | - | 第七章 | 与 塔莉塔 同一天出生的、特别亲密的『灵魂姐妹』。继承了『星都』的宿命，但因害怕天命而自杀身亡 |
+| ウタカタ | 乌塔卡塔 | 泡沫 | 第七章 | 修德拉克之民，幼女，擅用毒箭（名字与日文「泡沫」同音，机翻很容易翻错） |
 | ウー | 小乌 | - | 第七章 | 乌塔卡塔 的自称 |
 | クーナ | 库娜 | - | 第七章 | 修德拉克之民，强弓手，身材苗条，绿头发，性格沉默。与 荷莉 是彼此的『灵魂姐妹』 |
 | ホーリィ | 荷莉 | - | 第七章 | 修德拉克之民，强弓手，黄头发，性格开朗，是村花。与 库娜 是彼此的『灵魂姐妹』 |
@@ -240,7 +240,7 @@
 | コドロー | 科德罗 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | フェンメル | 芬梅尔 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | ジョズロ | 乔瑟 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
-| アイリス | 爱丽丝 | - | 第七章 | 『爱丽丝与荆棘之王』故事的女主角，被荆棘之王施以血咒，因灵魂被诅咒无法『记忆的回廊』轮回，导致不断在现世寻找新的躯壳转生。今世转生为『极彩色』尤尔娜・米西格蕾；前一世则附身到桑德拉・贝尼迪克特，其为普莉丝卡・贝尼迪克特（普莉希拉・跋利耶尔）的母亲 |
+| アイリス | 爱丽丝 | - | 第七章 | 『爱丽丝与荆棘之王』故事的女主角，被荆棘之王施以血咒，因灵魂被诅咒无法『记忆的回廊』轮回，导致不断在现世寻找新的躯壳转生。今世转生为『极彩色』尤尔娜・米希格蕾；前一世则附身到桑德拉・贝尼迪克特，其为普莉丝卡・贝尼迪克特（普莉希拉・跋利耶尔）的母亲 |
 | 茨の王 | 荆棘之王 | - | 第七章 | 『爱丽丝与荆棘之王』故事的男主角，对爱丽丝施以血咒 |
 | ドライゼン・ヴォラキア | 德赖森・佛拉基亚 | - | 第七章 | 佛拉基亚帝国历史上的皇帝，有二十多个子女，在主线中出现的主要有 文森特・埃布尔克斯、 拉米娅・戈德温，还有一个女儿则作为『噬灵者』亚拉基亚的“柱”。从 亚拉基亚 对 普莉希拉 的态度分析，普莉希拉 的前世 普莉丝卡 就是其女儿，故推断德赖森・佛拉基亚就是『荆棘之王』 |
 | イズメイル | 伊斯梅尔 | - | 第七章 | 单眼族的勇士，有『巨眼』的称号 |
@@ -4094,77 +4094,77 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『纳奇基・昴』（未润色）]]></title>
+            <title><![CDATA[『纳奇基・施瓦茨』]]></title>
             <description><![CDATA[「――――」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/40.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/40.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『茶歇谈话』（未润色）]]></title>
+            <title><![CDATA[『茶歇谈话』]]></title>
             <description><![CDATA[「——作战会议！」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/41.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/41.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『野心之兽』（未润色）]]></title>
-            <description><![CDATA[「我擅自倒茶喝，还有其他想喝的吗？」]]></description>
+            <title><![CDATA[『野心之兽』]]></title>
+            <description><![CDATA[「我随便泡了些茶，有没有别的什么想喝的？」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/42.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/42.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『眼睑的背面』（未润色）]]></title>
-            <description><![CDATA[——沙哑的声音编织出的提案，让昴他们非常困惑。]]></description>
+            <title><![CDATA[『眼皮子底下』]]></title>
+            <description><![CDATA[――沙哑的声音提出的建议让昴他们陷入了极度困惑。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/43.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/43.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『收缩的视野』（未润色）]]></title>
-            <description><![CDATA[——无法理解的状况蹂躏了菜月・昴变小的大脑。]]></description>
+            <title><![CDATA[『收缩的视野』]]></title>
+            <description><![CDATA[——难以理解的情况，正在蹂躙着变小了的菜月・昴的大脑。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/44.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/44.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『狐娘』（未润色）]]></title>
-            <description><![CDATA[——前门之虎、后门之狼。]]></description>
+            <title><![CDATA[『狐娘』]]></title>
+            <description><![CDATA[——前门有虎，后门有狼。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/45.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/45.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『幼稚的匹夫之勇』（未润色）]]></title>
-            <description><![CDATA[「街上的人和尤尔娜有着同样的力量……！？」]]></description>
+            <title><![CDATA[『幼稚的匹夫之勇』]]></title>
+            <description><![CDATA[「城市的人们，拥有与尤尔娜相同的力量……！？」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/46.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/46.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『不会消失的■■』（未润色）]]></title>
-            <description><![CDATA[「——」]]></description>
+            <title><![CDATA[『不会消失的■■』]]></title>
+            <description><![CDATA[「――っ」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/47.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/47.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『盘踞的魔都』（未润色）]]></title>
-            <description><![CDATA[昴看着羊人的少年，对投来毫不留情的质问的埃布尔瞠目结舌。]]></description>
+            <title><![CDATA[『思绪交错的魔都』]]></title>
+            <description><![CDATA[昴惊讶地看着决不会手软的埃布尔，埃布尔正直视着那个羊人的少年，向他投掷无情的问题。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/48.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/48.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『星之邂逅』（未润色）]]></title>
-            <description><![CDATA[「可恶！已经看不见了……！」]]></description>
+            <title><![CDATA[『星之邂逅』]]></title>
+            <description><![CDATA["该死！已经看不见他们了……！"]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/49.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/49.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『风景优美的「洞穴」』]]></title>
+            <title><![CDATA[『视野绝佳的「深渊」』]]></title>
             <description><![CDATA[与散发着可疑气息的乌比尔克分别后，走过几条小巷，停下了脚步。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/50.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/50.html</guid>
@@ -4179,7 +4179,7 @@
         </item>
         <item>
             <title><![CDATA[『恋慕之心绝不让步』]]></title>
-            <description><![CDATA[在城市里，她运用「魂婚术」，使无机物也能流动奥德。]]></description>
+            <description><![CDATA[在城市里，她运用『魂婚术』，使无机物也能流动欧德。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/52.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/52.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4200,7 +4200,7 @@
         </item>
         <item>
             <title><![CDATA[『魔都狂躁曲』]]></title>
-            <description><![CDATA[——魔都「混沌之框」的中心，红琉璃城的倒塌和影子的泛滥。]]></description>
+            <description><![CDATA[——魔都「卡欧斯弗莱姆」的中心，红琉璃城的倒塌和影子的泛滥。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/55-A.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/55-A.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4214,26 +4214,28 @@
         </item>
         <item>
             <title><![CDATA[『聪明是活不下去的』]]></title>
+            <description><![CDATA[——身处黑暗，黑暗的空间。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/57-A.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/57-A.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『无家可归的人们』]]></title>
+            <description><![CDATA[──塔莉塔三年前开始被与「天命」有关的噩梦折磨。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/58-A.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/58-A.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『塔莉塔・修德拉克』（未润色）]]></title>
-            <description><![CDATA[「——呐，塔莉塔。我被选为『星读』，并被授予了天命。」]]></description>
+            <title><![CDATA[『塔莉塔・修德拉克』]]></title>
+            <description><![CDATA[「——嘿，塔莉塔。我被选为「星诵者」，并被赋予了天命。」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/59-A.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/59-A.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『乱世的私生子』]]></title>
-            <description><![CDATA[「——尤尔娜・米西格蕾准备放弃魔都，去消灭那个『大灾』。她可能会用那个『魂婚术』来办到，但不能确定」]]></description>
+            <description><![CDATA[「——尤尔娜・米希格蕾准备放弃魔都，去消灭那个『大灾』。她可能会用那个『魂婚术』来办到，但不能确定」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/60.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/60.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4254,25 +4256,28 @@
         </item>
         <item>
             <title><![CDATA[『飞龙灾害』]]></title>
+            <description><![CDATA[――瞬间看到站在烟雾中的少女身影，警钟在弗洛普的脑海中响起。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/56-B.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/56-B.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『你可以称我为大傻瓜』]]></title>
+            <description><![CDATA[――菜月・昴的下落不明，爱蜜莉娅在她的一生中第一次感到如此慌乱。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/57-B.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/57-B.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『无依无靠的人们』]]></title>
+            <description><![CDATA[――这是屈辱。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/58-B.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/58-B.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『弗洛普・奥克尼尔』]]></title>
-            <description><![CDATA[「--保重自己的性命吧，弗洛普。自我牺牲是个大傻瓜。」]]></description>
+            <description><![CDATA[「――珍爱自己的生命，弗洛普。自我牺牲这种事只有大傻瓜才会去做。」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/59-B.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/59-B.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

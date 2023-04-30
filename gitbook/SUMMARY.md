@@ -563,7 +563,7 @@
 	* [45　『狐娘』](markdown/ch/chapter070/45.md)
 	* [46　『幼稚的匹夫之勇』](markdown/ch/chapter070/46.md)
 	* [47　『不会消失的■■』](markdown/ch/chapter070/47.md)
-	* [48　『盘踞的魔都』](markdown/ch/chapter070/48.md)
+	* [48　『思绪交错的魔都』](markdown/ch/chapter070/48.md)
 	* [49　『星之邂逅』](markdown/ch/chapter070/49.md)
 	* [50　『视野绝佳的「深渊」』](markdown/ch/chapter070/50.md)
 	* [51　『魔都的女主人』](markdown/ch/chapter070/51.md)

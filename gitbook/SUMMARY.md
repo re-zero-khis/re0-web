@@ -638,7 +638,7 @@
 	* [03　『三个理由』](markdown/ch/chapter080/03.md)
 	* [04　『战士的本能』](markdown/ch/chapter080/04.md)
 	* [05　『宽恕』](markdown/ch/chapter080/05.md)
-	* [06　『我不要求宽恕』](markdown/ch/chapter080/06.md)
+	* [06　『我不乞求宽恕』](markdown/ch/chapter080/06.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

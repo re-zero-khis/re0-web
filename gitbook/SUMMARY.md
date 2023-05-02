@@ -688,7 +688,7 @@
 		* [『爱蜜莉娅的星空教室』](markdown/ch/chapter999/special/20.md)
 		* [『爱蜜莉娅的初次约会』](markdown/ch/chapter999/special/21.md)
 		* [『雷姆人生最美好的日子』](markdown/ch/chapter999/special/22.md)
-		* [『安娜塔西亚的卡拉拉基商人道』](markdown/ch/chapter999/special/23.md)
+		* [『安娜塔西娅的卡拉拉基商人道』](markdown/ch/chapter999/special/23.md)
 		* [『爱蜜莉娅和拉姆的主从凸凹』](markdown/ch/chapter999/special/24.md)
 		* [『爱蜜莉娅和拉姆的主从凸凸凹凹』](markdown/ch/chapter999/special/25.md)
 		* [『碧翠丝和雷姆的侍奉很头疼』](markdown/ch/chapter999/special/26.md)

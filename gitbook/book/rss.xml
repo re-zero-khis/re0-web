@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 May 2023 09:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 05:47:04 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -51,7 +51,7 @@
 | スー | 阿斯 | - | 第七章 | 乌塔卡塔 对 昴 的昵称 |
 | ナツミ・シュバルツ | 夏美・施瓦茨 | - | 第七章 | 昴 女装时的假名，『女军师』 |
 | ナチュキ・シュバル | 纳奇基・施瓦茨 | - | 第七章 | 昴 缩小到年幼时期的名字。纳奇基 应该指代 小尤纳奇基，乌克兰的只有 1.32 平方公里的小国（老贼奇怪的知识都用在起名上了） |
-| ナツキ・シュバルツ | 菜月・施瓦茨 | - | 第七章 | 昴 在剑奴孤岛用的假名 |
+| ナツキ・シュバルツ | 菜月・施瓦茨 | - | 第七章 | 昴 在剑奴孤岛用的化名，因为『幼儿化』的影响越来越迟钝，不经意报上了真假混合的名字（但估计也是老贼快被自己搞混了，昴的花名越来越多，第七章有时都在乱用名字） |
 | エミリア | 爱蜜莉娅 | 艾米莉娅 | 第一章 | 『冰结魔女』『精灵使』『银发的半精灵』，王选候选人之一，被不喜欢她的人称为 半魔 |
 | リア | 莉娅 | - | 第二章 | 帕克 对 爱蜜莉娅 的爱称 |
 | エミリアたん | 爱蜜莉娅碳 | - | 第二章 | 昴 对 爱蜜莉娅 的爱称 |
@@ -225,23 +225,21 @@
 | マイルズ | 迈尔斯 | - | 第七章 | 奥克尼尔 兄妹在孤儿院被大人欺负时，迈尔斯 是骑着飞龙来拯救他们出地狱的恩人 |
 | セリーナ・ドラクロイ | 塞琳娜・德拉克洛伊 | - | 第七章 | 虽然有『灼热公』的称号但事实是女性，帝国贵族，高级伯爵，掌管帝国的飞龙部队（并非『飞龙将』操纵的野生飞龙部队），奉行实力主义、铁血法则，是 迈尔斯 的主人 |
 | バルロイ・テメグリフ | 巴罗伊・特梅格里夫 | - | 第七章 | 『魔弹射手』，原『九神将』中的『飞龙将』，飞龙骑手的顶尖人物，『灼热公』的手下，暗杀皇帝未遂；奥克尼尔 兄妹的结义兄弟，其爱龙为 卡里昂；被 尤里乌斯 所杀 |
-| グスタフ・モレロだ | 古斯塔夫・莫雷罗 | - | 第七章 | 剑奴孤岛的岛主，自称为总督，多臂族，与 『八腕斗神』库鲁刚 有血缘关系，『普雷阿迪斯战团』团员之一 |
+| グスタフ・モレロだ | 古斯塔夫・莫雷罗 | - | 第七章 | 剑奴孤岛的岛主，自称为总督，多臂族，有四条手臂，与 『八腕斗神』库鲁刚 有血缘关系，『普雷阿迪斯战团』团员之一 |
 | ヴァイツ・ログン | 维茨・罗根 | - | 第七章 | 昴在挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的同伴，赤裸上半身、秃头、全身是刺青的懦夫男人，『普雷阿迪斯战团』团员之一 |
-| ヒアイン・ヤッツ | 赫莱茵・伊特 | - | 第七章 | 昴在挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的同伴，有着灰色鳞片、胆小的蜥蜴人，『普雷阿迪斯战团』团员之一 |
+| ヒアイン・ヤッツ | 赫莱茵・伊特 | - | 第七章 | 昴在挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的同伴，有着灰色鳞片、皮肤像岩石、胆小的蜥蜴人，『普雷阿迪斯战团』团员之一 |
 | イドラ・ミサンガ | 伊德拉・米桑加 | - | 第七章 | 昴在挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的同伴，有着锈色头发、欠了一屁股债被迫流落到剑奴孤岛的骗子男人，『普雷阿迪斯战团』团员之一 |
 | ヌル爺さん | 努尔爷爷 | - | 第七章 | 剑奴孤岛的治愈师，『普雷阿迪斯战团』团员之一 |
-| オーソン | 奥索 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的同伴，『普雷阿迪斯战团』团员之一 |
-| ヒッツ | 希茨 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的同伴，『普雷阿迪斯战团』团员之一 |
-| ナドレイ | 纳德雷 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的同伴，『普雷阿迪斯战团』团员之一 |
-| クオンソン | 喀什 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的同伴，『普雷阿迪斯战团』团员之一 |
-| コドリー | 科德罗 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的同伴，『普雷阿迪斯战团』团员之一 |
+| オーソン | 奥索 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的蜥蜴人同伴，『普雷阿迪斯战团』团员之一 |
+| ヒッツ | 希茨 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的蜥蜴人同伴，『普雷阿迪斯战团』团员之一 |
+| ナドレイ | 纳德雷 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的蜥蜴人同伴，『普雷阿迪斯战团』团员之一 |
+| クオンソン | 喀什 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的蜥蜴人同伴，『普雷阿迪斯战团』团员之一 |
+| コドリー | 科德罗 | - | 第七章 | 昴在第二次挑战剑奴孤岛的『斯帕鲁卡』试炼时临时组队的蜥蜴人同伴，『普雷阿迪斯战团』团员之一 |
 | レックス | 雷克斯 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | ミルザック | 米尔扎克 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
-| カシュー | 喀什 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | モイゾ | 莫伊佐 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | ディロイ | 迪罗伊 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | クリグキン | 克里格金 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
-| コドロー | 科德罗 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | フェンメル | 芬梅尔 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | ジョズロ | 乔瑟 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | アイリス | 爱丽丝 | - | 第七章 | 『爱丽丝与荆棘之王』故事的女主角，被荆棘之王施以血咒，因灵魂被诅咒无法『记忆的回廊』轮回，导致不断在现世寻找新的躯壳转生。今世转生为『极彩色』尤尔娜・米希格蕾；前一世则附身到桑德拉・贝尼迪克特，其为普莉丝卡・贝尼迪克特（普莉希拉・跋利耶尔）的母亲 |
@@ -564,14 +562,14 @@
         </item>
         <item>
             <title><![CDATA[『在二次轮回的困惑』]]></title>
-            <description><![CDATA[不管多少次都要声明，菜月昴表示自己对爱蜜莉娅是一心一意的。]]></description>
+            <description><![CDATA[不管多少次都要声明，菜月・昴表示自己对爱蜜莉娅是一心一意的。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter020/16.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter020/16.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『锁链的声音』]]></title>
-            <description><![CDATA[菜月昴在第二回罗兹瓦尔宅邸的一周中，迎来了目前最大的危机。]]></description>
+            <description><![CDATA[菜月・昴在第二回罗兹瓦尔宅邸的一周中，迎来了目前最大的危机。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter020/17.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter020/17.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -652,14 +650,14 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『菜月昴的重生』]]></title>
+            <title><![CDATA[『菜月・昴的重生』]]></title>
             <description><![CDATA[——在那里，只有「虚无」。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter020/29.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter020/29.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『菜月昴的丑态』]]></title>
+            <title><![CDATA[『菜月・昴的丑态』]]></title>
             <description><![CDATA[昴要在「罗兹瓦尔宅邸一周」有所突破，必需通过的关卡大致有两个。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter020/30.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter020/30.html</guid>
@@ -879,7 +877,7 @@
         </item>
         <item>
             <title><![CDATA[『当约定实现时』]]></title>
-            <description><![CDATA[——菜月昴心脏的鼓动，现在几乎就要到达危险领域。]]></description>
+            <description><![CDATA[——菜月・昴心脏的鼓动，现在几乎就要到达危险领域。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter030/05.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter030/05.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -981,7 +979,7 @@
         </item>
         <item>
             <title><![CDATA[『自称骑士的菜月・昴』]]></title>
-            <description><![CDATA[撇开制止的爱蜜莉娅，菜月昴自报为『骑士』。]]></description>
+            <description><![CDATA[撇开制止的爱蜜莉娅，菜月・昴自报为『骑士』。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter030/20.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter030/20.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -1009,7 +1007,7 @@
         </item>
         <item>
             <title><![CDATA[『决斗的始末』]]></title>
-            <description><![CDATA[「报告。现在，在练兵场骑士尤里乌斯和……爱蜜莉娅的从者，菜月昴阁下在用木剑进行模拟战的比试」]]></description>
+            <description><![CDATA[「报告。现在，在练兵场骑士尤里乌斯和……爱蜜莉娅的从者，菜月・昴阁下在用木剑进行模拟战的比试」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter030/24.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter030/24.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -1664,7 +1662,7 @@
         </item>
         <item>
             <title><![CDATA[『等待』]]></title>
-            <description><![CDATA[首先，最初撕裂了菜月昴的意识的是不快感。]]></description>
+            <description><![CDATA[首先，最初撕裂了菜月・昴的意识的是不快感。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter040/24.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter040/24.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -3183,7 +3181,7 @@
         </item>
         <item>
             <title><![CDATA[『龙车归途路』]]></title>
-            <description><![CDATA[从水门都市弗利斯特拉离开，菜月昴一行人继续一路向东方进发。]]></description>
+            <description><![CDATA[从水门都市弗利斯特拉离开，菜月・昴一行人继续一路向东方进发。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter060/01.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter060/01.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -3323,7 +3321,7 @@
         </item>
         <item>
             <title><![CDATA[『巨石板的挑战书』]]></title>
-            <description><![CDATA[虽然知道这是夏乌拉的欢迎之词，但菜月昴最终还是答应了，并没有予以否认。也有贝蒂的忠言。]]></description>
+            <description><![CDATA[虽然知道这是夏乌拉的欢迎之词，但菜月・昴最终还是答应了，并没有予以否认。也有贝蒂的忠言。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter060/21.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter060/21.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4205,7 +4203,7 @@
         </item>
         <item>
             <title><![CDATA[『魔都狂躁曲』]]></title>
-            <description><![CDATA[——魔都「卡欧斯弗莱姆」的中心，红琉璃城的倒塌和影子的暴走。]]></description>
+            <description><![CDATA[——魔都『卡欧斯弗莱姆』的中心，红琉璃城的倒塌和影子的暴走。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/55-A.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/55-A.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4310,7 +4308,7 @@
         </item>
         <item>
             <title><![CDATA[『魔法的语言』]]></title>
-            <description><![CDATA[──「邪恶翁」奥尔巴特・邓克尔肯留下的可憎術理。]]></description>
+            <description><![CDATA[──『恶毒翁』奥尔巴特・邓克尔肯留下的可憎术理。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/64.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/64.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4324,7 +4322,7 @@
         </item>
         <item>
             <title><![CDATA[『赫莱茵・伊特』]]></title>
-            <description><![CDATA[在剑奴孤岛吉农赫布的生活对于昴来说并不算糟糕。]]></description>
+            <description><![CDATA[在剑奴孤岛基奴海布的生活对于昴来说并不算糟糕。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/66.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/66.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4338,14 +4336,14 @@
         </item>
         <item>
             <title><![CDATA[『剑狼的指引』]]></title>
-            <description><![CDATA[「――稍等一下，昴。我正好在看一份文件，等我看完这一页。」]]></description>
+            <description><![CDATA[「――稍等一下，施瓦茨。我正好在看一份信件，等我看完这一页。」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/68.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/68.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『帝都来的使者』]]></title>
-            <description><![CDATA[―― 第二次的『斯巴尔卡』比赛及随后的盛大宴会，究竟哪个应当成为主要事件令人纠结，然而自那日起已过去了三天。]]></description>
+            <description><![CDATA[―― 第二次的『斯帕鲁卡』比赛及随后的盛大宴会，究竟哪个应当成为主要事件令人纠结，然而自那日起已过去了三天。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/69.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/69.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4359,7 +4357,7 @@
         </item>
         <item>
             <title><![CDATA[『水』]]></title>
-            <description><![CDATA[――不该存在的，由『诅咒法则』引发的剑奴孤岛大屠杀。]]></description>
+            <description><![CDATA[――不该存在的，由『咒则』引发的剑奴孤岛大屠杀。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/71.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/71.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

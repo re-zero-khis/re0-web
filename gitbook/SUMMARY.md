@@ -614,7 +614,7 @@
 	* [90　『地狱的摇篮』](markdown/ch/chapter070/90.md)
 	* [91　『在战场上奔走』](markdown/ch/chapter070/91.md)
 	* [92　『因缘的再燃』](markdown/ch/chapter070/92.md)
-	* [93　『石头军团』](markdown/ch/chapter070/93.md)
+	* [93　『石偶军团』](markdown/ch/chapter070/93.md)
 	* [94　『为谁而下的决心』](markdown/ch/chapter070/94.md)
 	* [95　『顶点楚歌』](markdown/ch/chapter070/95.md)
 	* [96　『用深爱描绘』](markdown/ch/chapter070/96.md)

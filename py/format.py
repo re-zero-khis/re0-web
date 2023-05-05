@@ -8,8 +8,8 @@
 #   python ./py/format.py -d {format dir path}
 #   python ./py/format.py -f {format file path}
 # eg:
-#   python ./py/format.py -d "./gitbook/markdown/ch/chapter070/"
-#   python ./py/format.py -f "./gitbook/markdown/ch/chapter070/01.md"
+#   python ./py/format.py -d "./gitbook/markdown/ch/chapter080/"
+#   python ./py/format.py -f "./gitbook/markdown/ch/chapter080/01.md"
 # --------------------------------------------
 
 import os

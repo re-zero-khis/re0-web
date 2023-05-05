@@ -639,7 +639,7 @@
 	* [04　『战士的本能』](markdown/ch/chapter080/04.md)
 	* [05　『宽恕』](markdown/ch/chapter080/05.md)
 	* [06　『我不乞求宽恕』](markdown/ch/chapter080/06.md)
-	* [07　『托德·法库』](markdown/ch/chapter080/07.md)
+	* [07　『托德・法库』](markdown/ch/chapter080/07.md)
 	* [08　『对未来的展望』](markdown/ch/chapter080/08.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)

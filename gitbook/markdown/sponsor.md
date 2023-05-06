@@ -35,3 +35,5 @@
 - [Open Collective](https://opencollective.com/re0-web)
 - [KO-FI](https://ko-fi.com/exppoc)
 
+
+> tips: 点击页面下方【打赏】按钮可直接扫码哦 ~ 

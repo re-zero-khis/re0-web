@@ -31,6 +31,6 @@
 | [第五章・水门篇](./markdown/ch/chapter050/) | 全部 | 全部 | 全部 |
 | [第六章・贤者篇](./markdown/ch/chapter060/) | 全部 | 全部 | 全部 |
 | [第七章・帝国篇](./markdown/ch/chapter070/) | 全部 | 全部 | 全部 |
-| [第八章・帝皇篇](./markdown/ch/chapter080/) | 最新章节 | 最新章节 | 最新章节 |
+| [第八章・帝皇篇](./markdown/ch/chapter080/) | 全部 | 08 章 | 08 章 |
 
 ![](/res/imgs/index/01.png)

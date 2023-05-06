@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 May 2023 14:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 05:34:52 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -5406,6 +5406,20 @@
             <description><![CDATA[——发出碾轧陆地的声音，龙车一边摇晃着一边奔走着。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter999/short05/09.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter999/short05/09.html</guid>
+            <dc:creator><![CDATA[EXP]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[文库版]]></title>
+            <description><![CDATA[WEB 版 与 文库版 的区别：]]></description>
+            <link>https://rezero.buzz/gitbook/book/markdown/epub.html</link>
+            <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/epub.html</guid>
+            <dc:creator><![CDATA[EXP]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[这是《Re:从零开始的异世界生活》 WEB 版的汉化项目，目前每个章节的完整汉化流程包括：]]></description>
+            <link>https://rezero.buzz/gitbook/book/markdown/sponsor.html</link>
+            <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/sponsor.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
     </channel>

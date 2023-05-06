@@ -1406,13 +1406,13 @@
 * [Copyright @ 鼠色猫/長月達平](https://mypage.syosetu.com/235132/)
 
 
-## 汉化赞助
+## 赞助
 
 * [关于赞助](markdown/sponsor.md)
-* 国内通道（支付宝/微信/QQ）
+* [国内通道](https://exppoc.gitee.io/sponsor/)
 	* [主链](https://exppoc.gitee.io/sponsor/)
 	* [备链](https://lyy289065406.github.io/sponsor/)
-* 海外通道
+* [海外通道](https://opencollective.com/re0-web)
 	* [Open Collective](https://opencollective.com/re0-web)
 	* [KO-FI](https://ko-fi.com/exppoc)
 

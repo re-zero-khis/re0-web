@@ -4,7 +4,7 @@
 
 ------
 
-## 0x00 前言
+## 前言
 
 WEB 版 与 文库版 的区别：
 
@@ -13,7 +13,7 @@ WEB 版 与 文库版 的区别：
 - 推荐先看文库版，WEB 版建议用于了解最新剧情
 
 
-## 0x10 主线
+## 主线
 
 | MJ 文库版 | 封面 | 下载 | 对应 WEB 版范围 |
 |:-----:|:-----:|:-----:|:-----|
@@ -46,13 +46,7 @@ WEB 版 与 文库版 的区别：
 | EPUB<br/>第 27 卷 | <img width="120" src="/res/imgs/article/chapter070/00-c.jpg"> | [Github](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-27.epub)<br/>[腾讯微云](https://share.weiyun.com/9twNDC1V)<br/>（32m34c） | <ul><li><b>起</b>：【第七章】 13　『以非神之躯』</li><li><b>止</b>：【第七章】 24　『傲岸不逊』</li></ul> |
 | EPUB<br/>第 28 卷 | <img width="120" src="/res/imgs/article/chapter070/00-d.jpg"> | [Github](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-28.epub)<br/>[腾讯微云](https://share.weiyun.com/eX39banf)<br/>（f479pi） | <ul><li><b>起</b>：【第七章】 25　『热血澎湃般的再会』</li><li><b>止</b>：【第七章】 39　『恶毒』</li></ul> |
 
-
-## 0x20 IF 线
-
-- 《[Re：从零开始的异世界生活 - IF 线合集](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-IF%E7%BA%BF%E5%90%88%E9%9B%86.epub)》
-
-
-## 0x30 Ex
+## Ex
 
 - 《[Re：从零开始的异世界生活 - Ex1 狮子王所見之梦](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-Ex1%E7%8B%AE%E5%AD%90%E7%8E%8B%E6%89%80%E8%A6%8B%E4%B9%8B%E6%A2%A6.epub)》
 - 《[Re：从零开始的异世界生活 - Ex2 剑鬼恋歌](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-Ex2%E5%89%91%E9%AC%BC%E6%81%8B%E6%AD%8C.epub)》
@@ -60,7 +54,8 @@ WEB 版 与 文库版 的区别：
 - 《[Re：从零开始的异世界生活 - Ex4 最优纪行](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-Ex4%E6%9C%80%E4%BC%98%E7%BA%AA%E8%A1%8C.epub)》
 - 《[Re：从零开始的异世界生活 - Ex5 緋色姬谭](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-Ex5%E7%B7%8B%E8%89%B2%E5%A7%AC%E8%B0%AD.epub)》
 
-## 0x40 短篇集
+
+## 短篇集
 
 - 《[Re：从零开始的异世界生活 - 短篇集 01](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-%E7%9F%AD%E7%AF%87%E9%9B%8601.epub)》
 - 《[Re：从零开始的异世界生活 - 短篇集 02](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-%E7%9F%AD%E7%AF%87%E9%9B%8602.epub)》
@@ -70,7 +65,12 @@ WEB 版 与 文库版 的区别：
 - 《[Re：从零开始的异世界生活 - 短篇集 06](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-%E7%9F%AD%E7%AF%87%E9%9B%8606.epub)》
 
 
-## 0xFF 其他
+## IF 线
+
+- 《[Re：从零开始的异世界生活 - IF 线合集](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-IF%E7%BA%BF%E5%90%88%E9%9B%86.epub)》
+
+
+## 其他
 
 - 《[Re：从零开始的异世界生活 - 公式书 ReZeropedia](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-%E5%85%AC%E5%BC%8F%E4%B9%A6ReZeropedia.epub)》
 

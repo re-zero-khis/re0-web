@@ -1394,7 +1394,25 @@
 
 ----
 
+
+## 文库版
+
+* [Epub 资源](markdown/epub.md)
+
+
 ## MF文库J - 原版连载
 
 * [Ｒｅ：ゼロから始める異世界生活](http://ncode.syosetu.com/n2267be/)
 * [Copyright @ 鼠色猫/長月達平](https://mypage.syosetu.com/235132/)
+
+
+## 汉化赞助
+
+* [关于赞助](markdown/sponsor.md)
+* 国内通道（支付宝/微信/QQ）
+	* [主链](https://exppoc.gitee.io/sponsor/)
+	* [备链](https://lyy289065406.github.io/sponsor/)
+* 海外通道
+	* [Open Collective](https://opencollective.com/re0-web)
+	* [KO-FI](https://ko-fi.com/exppoc)
+

@@ -18,13 +18,36 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
 	function insertDonateLink() {
 		if ($('.gitbook-donate').length === 0 && wechatURL !== undefined && (wechatURL !== '' || alipayURL !== '' || kofiURL !== '' || openCollectiveURL !== '')) {
-			var pageDepth = gitbook.state.page.depth + 2;
 			var pageLevel = gitbook.state.page.level;
-			if (pageLevel == '1.1') {				// 1.1 即根目录，深度调整为 0
-				pageDepth = 0;
+			var pageDepth = gitbook.state.page.depth + 2;
 
-			} else if (/^1\.\d+$/.test(pageLevel)) {	// 1.x 的页面都挂在根目录下，深度调整为 1
+/*
+           level      depth  .. 个数
+特殊规律：
+			1.1         1       0	
+			1.2         1       1
+			1.3         1       1
+			3.1		    1       2
+			5.1         1       2
+一般规律：
+			2.1         1       3
+			2.1.1       2       4 
+			2.11.1      2       4
+			2.11.1.6    3       5
+			2.11.1.6.1  4       6
+*/
+
+			// 1.1 -> 0
+			if (pageLevel == '1.1') {
+				pageDepth = 0;
+			
+			// 1.x -> 1
+			} else if (/^1\.\d+$/.test(pageLevel)) {
 				pageDepth = 1;
+
+			// 3.1 或 5.1
+			} else if (pageLevel == '3.1' || pageLevel == '5.1') {
+				pageDepth = 2
 			}
 			
 			var html = [

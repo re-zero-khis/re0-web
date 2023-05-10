@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 May 2023 03:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 17:46:08 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -193,7 +193,7 @@
 | ミー | 阿米 | - | 第七章 | 乌塔卡塔 对 米泽尔妲 的昵称 |
 | タリッタ・シュドラク | 塔莉塔・修德拉克 | - | 第七章 | 米泽尔妲 断腿后继任修德拉克族长，米泽尔妲 的妹妹，『巴德海姆密林的猎人』。与 玛丽乌莉 是彼此的『灵魂姐妹』，但因误杀了 玛丽乌莉 而称为『修德拉克之污秽』 |
 | ター | 阿塔 | - | 第七章 | 乌塔卡塔 对 塔莉塔 的昵称 |
-| マリウリ | 玛丽乌莉 | - | 第七章 | 与 塔莉塔 同一天出生的、特别亲密的『灵魂姐妹』，是 乌塔卡塔 的母亲。继承了『星读师』的宿命，被 塔莉塔 误杀。 |
+| マリウリ | 玛丽乌莉 | - | 第七章 | 与 塔莉塔 同一天出生的、特别亲密的『灵魂姐妹』，是 乌塔卡塔 的母亲。继承了『星诵者』的宿命，被 塔莉塔 误杀。 |
 | ウタカタ | 乌塔卡塔 | 泡沫 | 第七章 | （名字与日文「泡沫」同音，机翻很容易翻错）修德拉克之民，幼女，擅用毒箭。母亲为 玛丽乌莉 |
 | ウー | 小乌 | - | 第七章 | 乌塔卡塔 的自称 |
 | クーナ | 库娜 | - | 第七章 | 修德拉克之民，强弓手，身材苗条，绿头发，性格沉默。与 荷莉 是彼此的『灵魂姐妹』 |
@@ -221,7 +221,7 @@
 | ロウアンと | 罗恩 | - | 第七章 | 古拉尔 酒馆的 雇佣兵 |
 | 大酒飲 | 酒馆老板 | - | 第七章 | 古拉尔 酒馆老板 |
 | ネイジ・ロックハート | 涅吉・罗克哈特 | - | 第六章 | 『拳王』『剑奴王』，在剑奴孤岛没有任何人可以与之匹敌的强者 |
-| ウビルク | 乌比尔克 | - | 第七章 | 『星读师』，肩负着从星际中预知未来、引导他人的角色 |
+| ウビルク | 乌比尔克 | - | 第七章 | 『星诵者』，肩负着从星际中预知未来、引导他人的角色 |
 | マイルズ | 迈尔斯 | - | 第七章 | 奥克尼尔 兄妹在孤儿院被大人欺负时，迈尔斯 是骑着飞龙来拯救他们出地狱的恩人 |
 | セリーナ・ドラクロイ | 塞琳娜・德拉克洛伊 | - | 第七章 | 虽然有『灼热公』的称号但事实是女性，帝国贵族，高级伯爵，掌管帝国的飞龙部队（并非『飞龙将』操纵的野生飞龙部队），奉行实力主义、铁血法则，是 迈尔斯 的主人 |
 | バルロイ・テメグリフ | 巴罗伊・特梅格里夫 | - | 第七章 | 『魔弹射手』，原『九神将』中的『飞龙将』，飞龙骑手的顶尖人物，『灼热公』的手下，暗杀皇帝未遂；奥克尼尔 兄妹的结义兄弟，其爱龙为 卡里昂；被 尤里乌斯 所杀 |
@@ -4232,7 +4232,7 @@
         </item>
         <item>
             <title><![CDATA[『塔莉塔・修德拉克』]]></title>
-            <description><![CDATA[「——嘿，塔莉塔。我被选为『星读者』，并被赋予了天命。」]]></description>
+            <description><![CDATA[「——嘿，塔莉塔。我被选为『星诵者』，并被赋予了天命。」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter070/59-A.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter070/59-A.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4713,8 +4713,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『吵死了！』]]></title>
-            <description><![CDATA[「你要去找那个人吗，埃布尔先生。」]]></description>
+            <title><![CDATA[『闭嘴』]]></title>
+            <description><![CDATA[「——埃布尔先生，您要去那个人那里吗？」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/11.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/11.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

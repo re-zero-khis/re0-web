@@ -639,7 +639,7 @@
 	* [04　『战士的本能』](markdown/ch/chapter080/04.md)
 	* [05　『宽恕』](markdown/ch/chapter080/05.md)
 	* [06　『我不乞求宽恕』](markdown/ch/chapter080/06.md)
-	* [07　『托德・法库』](markdown/ch/chapter080/07.md)
+	* [07　『托德・芬格』](markdown/ch/chapter080/07.md)
 	* [08　『未来的展望』](markdown/ch/chapter080/08.md)
 	* [09　『我决定爱你』](markdown/ch/chapter080/09.md)
 	* [10　『没有谁能独自一人』](markdown/ch/chapter080/10.md)

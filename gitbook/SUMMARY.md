@@ -645,7 +645,7 @@
 	* [10　『没有谁能独自一人』](markdown/ch/chapter080/10.md)
 	* [11　『闭嘴』](markdown/ch/chapter080/11.md)
 	* [12　『菜月·昂和文森特·埃布尔克斯』](markdown/ch/chapter080/12.md)
-	* [13　『每个伤口的伤口』](markdown/ch/chapter080/13.md)
+	* [13　『各自的伤痕』](markdown/ch/chapter080/13.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

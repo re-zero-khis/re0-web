@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 May 2023 12:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 04:53:51 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -92,7 +92,7 @@
 | アルデバラン | 阿尔德巴兰 | - | 第三章 | 18 年前和 昴 一样被召唤到异世界的头盔男，武器为青龙刀，头盔是『剑奴王』的复制品，在《短篇集: 放弃尾随的日子》有提及阿尔的能力名为『星回轮转』 |
 | アル | 阿尔 | - | 第三章 | 阿尔德巴兰 的简称 |
 | リリアナ・マスカレード | 莉莉安娜・马斯可芮德 | - | 第五章 | 『歌姫』 |
-| ハインケル・アストレア | 亨克尔・阿斯特雷亚 | - | 第五章 | 莱因哈鲁特 的流氓父亲 |
+| ハインケル・アストレア | 亨克尔・阿斯特雷亚 | 海因克尔・阿斯特雷亚 | 第五章 | 莱因哈鲁特 的流氓父亲 |
 | 赤毛さん | 红发先生 | - | 第七章 | 弗洛普 对 亨克尔 的称呼 |
 | シュルト | 修尔特 | - | 第五章 | 普莉希拉的仆人，身上寄宿着 普莉希拉 的灵魂力量（魂婚术）使其免于致命伤害 |
 | 執事くん | 管家小子| - | 第七章 | 弗洛普 对 修尔特 的昵称 |
@@ -4731,6 +4731,13 @@
             <description><![CDATA[「――原来雷姆也来了呢」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/13.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/13.html</guid>
+            <dc:creator><![CDATA[EXP]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[『王国和帝国』]]></title>
+            <description><![CDATA[――普莉希拉和尤尔娜的未归。]]></description>
+            <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/14.html</link>
+            <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/14.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>

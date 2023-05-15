@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 May 2023 04:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 20:21:08 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -219,7 +219,7 @@
 | ？ | 阿库娅 | - | 短篇 | - |
 | ？ | 达克妮丝 | - | 短篇 | - |
 | ？ | 惠惠 | - | 短篇 | - |
-| ロウアンと | 罗恩 | - | 第七章 | 古拉尔 酒馆的 雇佣兵 |
+| ロウアン | 罗恩 | - | 第七章 | 古拉尔 酒馆的 雇佣兵，性格贪婪，是一个浪人； 第八章与 亨克尔 有一段际遇  |
 | 大酒飲 | 酒馆老板 | - | 第七章 | 古拉尔 酒馆老板 |
 | ネイジ・ロックハート | 涅吉・罗克哈特 | - | 第六章 | 『拳王』『剑奴王』，在剑奴孤岛没有任何人可以与之匹敌的强者 |
 | ウビルク | 乌比尔克 | - | 第七章 | 『星诵者』，肩负着从星际中预知未来、引导他人的角色 |
@@ -4713,7 +4713,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『闭嘴』]]></title>
+            <title><![CDATA[『吵死了』]]></title>
             <description><![CDATA[「——埃布尔先生，您要去那个人那里吗？」]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/11.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/11.html</guid>
@@ -4738,6 +4738,13 @@
             <description><![CDATA[――普莉希拉和尤尔娜的未归。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/14.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/14.html</guid>
+            <dc:creator><![CDATA[EXP]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[『礼赞』]]></title>
+            <description><![CDATA[金色烟斗在口中，一只兽人用悠闲的口吻笑着。]]></description>
+            <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/15.html</link>
+            <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/15.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>

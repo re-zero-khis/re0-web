@@ -104,7 +104,7 @@ def update_chapter(args, src_path) :
     copy(src_path, ch_path)
     
     log.info('正在机翻: %s' % ch_path)
-    trans(args, ch_path)
+    # trans(args, ch_path)
 
     log.info('正在格式化: %s' % ch_path)
     format_file(ch_path)

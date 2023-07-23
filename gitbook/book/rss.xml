@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Jul 2023 03:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 10:00:06 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -78,10 +78,10 @@
 | リューズ・Σ | 琉兹・席玛 | 琉兹・Σ | 第四章 | 琉兹・梅尔 的复制体 |
 | リューズ・θ | 琉兹・戴尔玛 | 琉兹・θ | 第四章 | 琉兹・梅尔 的复制体 |
 | フェルト | 菲鲁特 | - | 第一章 | 王选候选人之一 |
-| バルガ・クロムウェル | 巴尔加・克罗姆威尔 | - | 第一章 | 亚人联盟之一 —— 『巨人』 |
 | ロム爺 | 罗姆爷 | - | 第一章 | 克罗姆威尔 的自称 |
-| リブレ・フエルミ | 利布雷・菲尔密 | - | 第五章 | 『蛇人族』，亚人联盟之一 —— 『毒蛇』 |
-| スピンクス | 史芬克丝 | - | 第五章 | 亚人联盟之一 —— 『魔女』 |
+| バルガ・クロムウェル | 巴尔加・克罗姆威尔 | - | 第一章 | 亚人联盟三大将之一 —— 『巨人』 |
+| リブレ・フエルミ | 利布雷・菲尔密 | - | 第五章 | 『蛇人族』，亚人联盟三大将之一 —— 『毒蛇』 |
+| スピンクス | 斯芬克斯 | - | 第五章 | 亚人联盟三大将之一 —— 『魔女』。外貌与 加菲尔 的祖母 琉兹・梅尔 一模一样、会使用操纵尸体的咒术，嗜杀成性，在大战中不分敌我都能面不改色地杀戮，造成双方大量死伤的最恶存在，也因此成为王国史上除了莎缇拉之外、唯一以『魔女』之名遗世的人，最后是被前两代的罗兹瓦尔与『前代剑圣』特蕾西亚等人联手诛杀。第八章通过『不死王的秘术』以尸人的姿态“复活”。 |
 | ラインハルト・ヴァン・アストレア | 莱因哈鲁特・范・阿斯特雷亚 | - | 第一章 | 『剑圣』，露格尼卡王国的顶级战力 |
 | トン | 加斯顿 | 阿顿、阿桶 | 第一章 | 『顿珍汉』地痞三人组之『顿』，有愚不可及的讽刺之意 |
 | チン | 拉珍斯 | 阿珍、阿庆 | 第一章 | 『顿珍汉』地痞三人组之『珍』，有愚不可及的讽刺之意 |
@@ -4755,8 +4755,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『魔法的アプローチ』]]></title>
-            <description><![CDATA[必要とされればされるほどに、これが未曾有の事態であるという確信が深まる。]]></description>
+            <title><![CDATA[『魔法的接触』]]></title>
+            <description><![CDATA[越是被认为是必需的，就越能深深地确信，这是前所未有的情况。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/17.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/17.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

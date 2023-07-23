@@ -649,7 +649,7 @@
 	* [14　『王国和帝国』](markdown/ch/chapter080/14.md)
 	* [15　『礼赞』](markdown/ch/chapter080/15.md)
 	* [16　『尸人灾害』](markdown/ch/chapter080/16.md)
-	* [17　『魔法的アプローチ』](markdown/ch/chapter080/17.md)
+	* [17　『魔法的接触』](markdown/ch/chapter080/17.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

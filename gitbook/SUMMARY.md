@@ -650,7 +650,7 @@
 	* [15　『礼赞』](markdown/ch/chapter080/15.md)
 	* [16　『尸人灾害』](markdown/ch/chapter080/16.md)
 	* [17　『魔法的接触』](markdown/ch/chapter080/17.md)
-	* [18　『再会も束の間』](markdown/ch/chapter080/18.md)
+	* [18　『短暂的重逢』](markdown/ch/chapter080/18.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

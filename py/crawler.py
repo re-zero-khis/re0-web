@@ -5,7 +5,7 @@
 # --------------------------------------------
 # 从MF文库原版连载网站中爬取小说内容（需要翻墙）
 # usage: 
-#   python ./py/crawler.py -c -s "127.0.0.1" -p 18888
+#   python ./py/crawler.py -c -s "127.0.0.1" -p 8888
 # --------------------------------------------
 
 from mimetypes import common_types

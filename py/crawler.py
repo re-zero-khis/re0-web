@@ -41,7 +41,7 @@ def args() :
     )
     parser.add_argument('-c', '--proxy', dest='proxy', action='store_true', default=False, help='是否启用 HTTP 爬虫代理')
     parser.add_argument('-s', '--host', dest='host', type=str, default="127.0.0.1", help='HTTP 代理 IP')
-    parser.add_argument('-p', '--port', dest='port', type=int, default=8888, help='HTTP 代理端口')
+    parser.add_argument('-p', '--port', dest='port', type=int, default=0, help='HTTP 代理端口')
     return parser.parse_args()
     
 
@@ -166,7 +166,7 @@ def create_chapter_dir(chapter) :
 def http_request(args, url) :
     if args.proxy :
         proxy_svc = 'http://%s:%d' % (args.host, args.port)
-        proxy = { "http": proxy_svc, "https": proxy_svc } if proxy_svc else {}
+        proxy = { "http": proxy_svc, "https": proxy_svc } if args.port > 0 else {}
         response = requests.get(url=url, headers=HEADER, proxies=proxy)
     else :
         response = requests.get(url=url, headers=HEADER)

@@ -31,7 +31,7 @@ def args() :
     parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='翻译 API KEY')
     parser.add_argument('-t', '--trans_path', dest='trans_path', type=str, default="", help='待翻译的文件路径')
     parser.add_argument('-s', '--host', dest='host', type=str, default="127.0.0.1", help='HTTP 代理 IP')
-    parser.add_argument('-p', '--port', dest='port', type=int, default=8888, help='HTTP 代理端口')
+    parser.add_argument('-p', '--port', dest='port', type=int, default=0, help='HTTP 代理端口')
     return parser.parse_args()
     
 

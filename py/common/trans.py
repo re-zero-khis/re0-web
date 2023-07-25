@@ -213,7 +213,7 @@ class ChatgptTranslation :
         openai.api_key = openai_key
         self.model = "gpt-3.5-turbo"
         self.role_setting = {"role": "system", "content": "基于《从零开始的异世界生活》小说的背景，把日文内容翻译成中文，并润色。禁止回复与翻译文本无关的内容。"}
-        self.proxy = f"http://{proxy_ip}:{proxy_port}" if proxy_ip else ""
+        self.proxy = f"http://{proxy_ip}:{proxy_port}" if proxy_port > 0 else ""
         
     
     def translate(self, data_seg) :

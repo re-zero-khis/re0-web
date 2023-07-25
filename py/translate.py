@@ -9,6 +9,7 @@
 #   python ./py/translate.py -a {api_type} -i {api_id} -k {api_pass} -t {want to translate filepath}
 # eg:
 #   python ./py/translate.py -a "tencent" -i "api_id" -k "api_key" -t "./gitbook/markdown/ch/chapter070/01.md"
+#   python ./py/translate.py -a "chatgpt" -k "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" -t "./gitbook/markdown/jp/chapter080/19.md"
 # --------------------------------------------
 
 import argparse
@@ -25,10 +26,12 @@ def args() :
         description='对某个日语文件进行机翻',  
         epilog='更多参数可用 python ./py/onekey.py -h 查看'
     )
-    parser.add_argument('-a', '--trans_api', dest='trans_api', type=str, default=TENCENT, help='翻译 API 的服务提供商，可选： baidu, tencent （默认）')
+    parser.add_argument('-a', '--trans_api', dest='trans_api', type=str, default=TENCENT, help='翻译 API 的服务提供商，可选： chatgpt, baidu, tencent（默认）')
     parser.add_argument('-i', '--api_id', dest='api_id', type=str, default="", help='翻译 API ID')
     parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='翻译 API KEY')
     parser.add_argument('-t', '--trans_path', dest='trans_path', type=str, default="", help='待翻译的文件路径')
+    parser.add_argument('-s', '--host', dest='host', type=str, default="127.0.0.1", help='HTTP 代理 IP')
+    parser.add_argument('-p', '--port', dest='port', type=int, default=8888, help='HTTP 代理端口')
     return parser.parse_args()
     
 
@@ -51,7 +54,7 @@ def trans(args, filepath) :
     content = wt.translate(content)
 
     log.info("正在机翻内容 ...")
-    title = machine_translate(args, title)
+    title = machine_translate(args, title, True)
     content = machine_translate(args, content)
     content = "%s%s%s" % (DOUBLE_CRLF, content, DOUBLE_CRLF)
     content = convert(args, content)

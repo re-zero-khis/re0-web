@@ -8,7 +8,7 @@
 #   python ./script/onekey.py -c -s "{proxy_ip}" -p {proxy_port} -a "{trans_api}" -i "{api_id}" -k "{api_key}"
 #   python ./script/onekey.py -r -a "{trans_api}" -i "{api_id}" -k "{api_key}"
 # eg:
-#   python ./py/onekey.py -c -s "127.0.0.1" -p 18888 -a "tencent" -i "api_id" -k "api_key"
+#   python ./py/onekey.py -c -s "127.0.0.1" -p 8888 -a "tencent" -i "api_id" -k "api_key"
 #   python ./py/onekey.py -r -a "tencent" -i "api_id" -k "api_key"
 # --------------------------------------------
 
@@ -55,7 +55,7 @@ def args() :
     parser.add_argument('-r', '--read', dest='read', action='store_true', default=False, help='是否读取 crawler.paths 中的文件路径代替爬虫（一般用于测试或已爬取文件）')
     parser.add_argument('-c', '--proxy', dest='proxy', action='store_true', default=False, help='是否启用 HTTP 爬虫代理')
     parser.add_argument('-s', '--host', dest='host', type=str, default="127.0.0.1", help='HTTP 代理 IP')
-    parser.add_argument('-p', '--port', dest='port', type=int, default=18888, help='HTTP 代理端口')
+    parser.add_argument('-p', '--port', dest='port', type=int, default=8888, help='HTTP 代理端口')
 
     # 翻译参数
     parser.add_argument('-a', '--trans_api', dest='trans_api', type=str, default=TENCENT, help='翻译 API 的服务提供商，可选： baidu, tencent （默认）')

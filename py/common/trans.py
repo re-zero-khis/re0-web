@@ -5,6 +5,7 @@
 
 from common.settings import *
 from color_log.clog import log
+import os
 import time
 import hashlib
 import requests
@@ -13,10 +14,13 @@ from tencentcloud.common.credential import Credential
 from tencentcloud.tmt.v20180321.tmt_client import TmtClient
 from tencentcloud.tmt.v20180321.models import TextTranslateRequest
 from tencentcloud.tmt.v20180321.models import TextTranslateResponse
+import openai
+
 
 # 翻译提供商
 BAIDU = "baidu"
 TENCENT = "tencent"
+CHATGPT = "chatgpt"
 
  # 百度限制一次只能翻译 2000 个字
  # 按这个标准对被翻译的内容进行分段切割
@@ -24,12 +28,21 @@ EACH_LIMIT = 2000
 
 
 
-def machine_translate(args, data) :
+def machine_translate(args, data, is_title=False) :
     if args.trans_api == BAIDU :
         client = BaiduTranslation(args.api_id, args.api_key)
+
+    elif  args.trans_api == CHATGPT :
+        if is_title :   # 不翻译标题，只有一点内容时 chatgpt 特别多无关的废话
+            return data
+        client = ChatgptTranslation(args.api_key, args.host, args.port)
+    
     else :
         client = TencentTranslation(args.api_id, args.api_key)
+    return _machine_translate(client, data)
 
+
+def _machine_translate(client, data) :
     trans_result = []
     segs = _cut(data)
     log.info("切割为 [%i] 段翻译 ..." % len(segs))
@@ -173,7 +186,7 @@ class BaiduTranslation :
 
 
 
-# 百度机翻器（比谷歌准确，且每个月有 200 万字的免费额度）
+# 腾讯机翻器（比谷歌准确，且每个月有 500 万字的免费额度）
 TX_REGION = "ap-guangzhou"
 class TencentTranslation :
 
@@ -191,3 +204,44 @@ class TencentTranslation :
         req.UntranslatedText = SEGMENT_SPLIT
         rsp = self.client.TextTranslate(req)
         return rsp.TargetText
+
+
+
+class ChatgptTranslation :
+
+    def __init__(self, openai_key, proxy_ip, proxy_port) :
+        openai.api_key = openai_key
+        self.model = "gpt-3.5-turbo"
+        self.role_setting = {"role": "system", "content": "基于《从零开始的异世界生活》小说的背景，把日文内容翻译成中文，并润色。禁止回复与翻译文本无关的内容。"}
+        self.proxy = f"http://{proxy_ip}:{proxy_port}" if proxy_ip else ""
+        
+    
+    def translate(self, data_seg) :
+        return self.ask_gpt(data_seg)
+
+    
+    def ask_gpt(self, ask) :
+        self.enable_proxy()
+        msg = [
+            self.role_setting, 
+            {"role": "user", "content": ask}
+        ]
+        rsp = openai.ChatCompletion.create(
+          model=self.model,
+          messages=msg
+        )
+        rst = rsp.get("choices")[0]["message"]["content"]
+        self.disable_proxy()
+        return rst
+
+
+    def enable_proxy(self) :
+        os.environ["HTTP_PROXY"] = self.proxy
+        os.environ["HTTPS_PROXY"] = self.proxy
+
+
+    def disable_proxy(self) :
+        os.environ["HTTP_PROXY"] = ""
+        os.environ["HTTPS_PROXY"] = ""
+
+    

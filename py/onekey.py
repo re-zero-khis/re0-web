@@ -106,7 +106,8 @@ def update_chapter(args, src_path) :
     log.info('正在机翻: %s' % ch_path)
     trans(args, ch_path)
 
-    log.info('正在格式化: %s' % ch_path)
+    log.info('正在格式化 ...')
+    format_file(jp_path)
     format_file(ch_path)
 
     log.info('正在更新目录索引 ...')

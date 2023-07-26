@@ -35,7 +35,7 @@ def machine_translate(args, data, is_title=False) :
     elif  args.trans_api == CHATGPT :
         if is_title :   # 不翻译标题，只有一点内容时 chatgpt 特别多无关的废话
             return data
-        client = ChatgptTranslation(args.api_key, args.host, args.port)
+        client = ChatgptTranslation(args.api_id, args.api_key, args.host, args.port)
     
     else :
         client = TencentTranslation(args.api_id, args.api_key)
@@ -209,9 +209,9 @@ class TencentTranslation :
 
 class ChatgptTranslation :
 
-    def __init__(self, openai_key, proxy_ip, proxy_port) :
+    def __init__(self, openai_model, openai_key, proxy_ip, proxy_port) :
         openai.api_key = openai_key
-        self.model = "gpt-3.5-turbo"
+        self.model = openai_model or "gpt-3.5-turbo"
         self.role_setting = {"role": "system", "content": "基于《从零开始的异世界生活》小说的背景，把日文内容翻译成中文，并润色。禁止回复与翻译文本无关的内容。"}
         self.proxy = f"http://{proxy_ip}:{proxy_port}" if proxy_port > 0 else ""
         

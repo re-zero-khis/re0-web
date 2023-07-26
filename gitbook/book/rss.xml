@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Jul 2023 19:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 12:33:09 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -190,7 +190,7 @@
 | ジャマル・オーレリー | 贾马尔・奥雷利 | - | 第七章 | 佛拉基亚的帝国贵族和帝国军人，卡秋娅 的哥哥 |
 | カチュア・オーレリー | 卡秋娅・奥雷利 | - | 第七章 | 贾马尔 的妹妹，托德 的未婚妻 |
 | トッド・ファング | 托德・芬格 | - | 第七章 | 佛拉基亚的帝国军人，卡秋娅 的未婚夫，贾马尔 的妹夫；外观看上去是人类，实际上是继承了狼人血脉的半兽人『人狼』 |
-| ミゼルダ | 米泽尔妲 | - | 第七章 | 修德拉克族长（断腿后退位），塔莉塔 的姐姐 |
+| ミゼルダ | 米泽尔妲 | 米泽尔达 | 第七章 | 修德拉克族长（断腿后退位），塔莉塔 的姐姐 |
 | ミー | 阿米 | - | 第七章 | 乌塔卡塔 对 米泽尔妲 的昵称 |
 | タリッタ・シュドラク | 塔莉塔・修德拉克 | - | 第七章 | 米泽尔妲 断腿后继任修德拉克族长，米泽尔妲 的妹妹，『巴德海姆密林的猎人』。与 玛丽乌莉 是彼此的『灵魂姐妹』，但因误杀了 玛丽乌莉 而称为『修德拉克之污秽』 |
 | ター | 阿塔 | - | 第七章 | 乌塔卡塔 对 塔莉塔 的昵称 |
@@ -904,7 +904,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『加護x再会x约定』]]></title>
+            <title><![CDATA[『加护x再会x约定』]]></title>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter030/09.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter030/09.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -4769,8 +4769,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『巴尔加・克罗姆威尔の策』]]></title>
-            <description><![CDATA[罗兹瓦尔无法忍受的一击，战斗不情愿地开始了。]]></description>
+            <title><![CDATA[『巴尔加・克罗姆威尔的计策』]]></title>
+            <description><![CDATA[比任何人都快，罗兹瓦尔释放的魔法火焰宣告了战斗的开始。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/19.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/19.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

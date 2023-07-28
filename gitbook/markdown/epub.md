@@ -45,6 +45,8 @@ WEB 版 与 文库版 的区别：
 | EPUB<br/>第 26 卷 | <img width="120" src="/res/imgs/article/chapter070/00-a.jpg"> | [Github](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-26.epub)<br/>[腾讯微云](https://share.weiyun.com/iSPvXDrq)<br/>（kwzicn） | <ul><li><b>起</b>：【第七章】 01 『洗礼』</li><li><b>止</b>：【第七章】 12 『佛拉基亚帝国』</li></ul> |
 | EPUB<br/>第 27 卷 | <img width="120" src="/res/imgs/article/chapter070/00-c.jpg"> | [Github](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-27.epub)<br/>[腾讯微云](https://share.weiyun.com/9twNDC1V)<br/>（32m34c） | <ul><li><b>起</b>：【第七章】 13　『以非神之躯』</li><li><b>止</b>：【第七章】 24　『傲岸不逊』</li></ul> |
 | EPUB<br/>第 28 卷 | <img width="120" src="/res/imgs/article/chapter070/00-d.jpg"> | [Github](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-28.epub)<br/>[腾讯微云](https://share.weiyun.com/eX39banf)<br/>（f479pi） | <ul><li><b>起</b>：【第七章】 25　『热血澎湃般的再会』</li><li><b>止</b>：【第七章】 39　『恶毒』</li></ul> |
+| EPUB<br/>第 29 卷 | <img width="120" src="/res/imgs/article/chapter070/00-e.jpg"> | [Github](https://raw.githubusercontent.com/re-zero-khis/re0-web/master/epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-29.epub)<br/>[腾讯微云](https://share.weiyun.com/XHAQTQ0U)<br/>（retnqf） | <ul><li><b>起</b>：【第七章】 40　『纳奇基・施瓦茨』</li><li><b>止</b>：【第七章】 55-A　『理想乡卡欧斯弗莱姆』</li></ul> |
+
 
 ## Ex
 

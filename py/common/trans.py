@@ -22,9 +22,10 @@ BAIDU = "baidu"
 TENCENT = "tencent"
 CHATGPT = "chatgpt"
 
- # 百度限制一次只能翻译 2000 个字
- # 按这个标准对被翻译的内容进行分段切割
-EACH_LIMIT = 2000
+ # 百度限制一次只能翻译 2000 个字符
+ # chatgpt 一次只能返回 500 个单词
+ # 按这个标准对被翻译的内容进行分段切割（取最小值）
+EACH_LIMIT = 500
 
 
 

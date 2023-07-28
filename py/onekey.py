@@ -9,6 +9,7 @@
 #   python ./script/onekey.py -r -a "{trans_api}" -i "{api_id}" -k "{api_key}"
 # eg:
 #   python ./py/onekey.py -c -s "127.0.0.1" -p 8888 -a "tencent" -i "api_id" -k "api_key"
+#   python ./py/onekey.py -c -s "127.0.0.1" -p 8888 -a "chatgpt" -i "gpt-3.5-turbo" -k "api_key"
 #   python ./py/onekey.py -r -a "tencent" -i "api_id" -k "api_key"
 # --------------------------------------------
 

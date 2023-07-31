@@ -653,7 +653,7 @@
 	* [18　『短暂的重逢』](markdown/ch/chapter080/18.md)
 	* [19　『巴尔加・克罗姆威尔的计策』](markdown/ch/chapter080/19.md)
 	* [20　『两束光』](markdown/ch/chapter080/20.md)
-	* [21　『避けては通れぬ宿命』](markdown/ch/chapter080/21.md)
+	* [21　『无可避免的天命』](markdown/ch/chapter080/21.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

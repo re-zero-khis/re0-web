@@ -54,7 +54,7 @@ jobs:
 
       - name: Crawl
         run: |-
-          python ./py/onekey.py -g "${{ secrets.CRAWL_PWD }}" -a "${{ vars.API_NAME }}" -i "${{ secrets.API_ID }}" -k "${{ secrets.API_KEY }}"
+          python ./py/onekey.py -g "${{ secrets.CRAWL_PWD }}" -i "${{ secrets.API_ID }}" -k "${{ secrets.API_KEY }}" -g "${{ secrets.GPT_KEY }}"
 
       - name: Build
         run: |-

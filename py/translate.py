@@ -15,6 +15,7 @@
 import argparse
 from common.utils import *
 from common.trans import *
+from transgpt.translate import *
 from common.settings import *
 from color_log.clog import log
 
@@ -26,9 +27,9 @@ def args() :
         description='对某个日语文件进行机翻',  
         epilog='更多参数可用 python ./py/onekey.py -h 查看'
     )
-    parser.add_argument('-a', '--trans_api', dest='trans_api', type=str, default=TENCENT, help='翻译 API 的服务提供商，可选： chatgpt, baidu, tencent（默认）')
-    parser.add_argument('-i', '--api_id', dest='api_id', type=str, default="", help='翻译 API ID')
-    parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='翻译 API KEY')
+    parser.add_argument('-i', '--api_id', dest='api_id', type=str, default="", help='腾讯翻译 API ID')
+    parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='腾讯翻译 API KEY')
+    parser.add_argument('-g', '--gpt_key', dest='gpt_key', type=str, default="", help='ChatGPT KEY')
     parser.add_argument('-t', '--trans_path', dest='trans_path', type=str, default="", help='待翻译的文件路径')
     parser.add_argument('-s', '--host', dest='host', type=str, default="127.0.0.1", help='HTTP 代理 IP')
     parser.add_argument('-p', '--port', dest='port', type=int, default=0, help='HTTP 代理端口')
@@ -37,11 +38,11 @@ def args() :
 
 
 def main(args) :
-    trans(args, args.trans_path)
+    translate(args, args.trans_path)
 
 
 
-def trans(args, filepath) :
+def translate(args, filepath) :
     log.info("正在准备翻译 [%s]" % filepath)
     with open(filepath, "r", encoding=CHARSET) as file :
         data = file.read()
@@ -54,8 +55,15 @@ def trans(args, filepath) :
     content = wt.translate(content)
 
     log.info("正在机翻内容 ...")
-    title = machine_translate(args, title, True)
-    content = machine_translate(args, content)
+    title = trans(content, 'ja', 'zh', 
+                  platform=TENCENT, api_id=args.api_id, api_key=args.api_key)
+    content = trans(content, 
+                    platform=CHATGPT, api_id='', api_key=args.gpt_key, 
+                    args={ 
+                        ARG_OPENAI_MODEL: CHATGPT_35_TURBO, 
+                        ARG_ROLE: "基于《从零开始的异世界生活》小说的背景，把日文内容翻译成中文，并润色。禁止回复与翻译文本无关的内容。"
+                    }
+    )
     content = "%s%s%s" % (DOUBLE_CRLF, content, DOUBLE_CRLF)
     content = convert(args, content)
 

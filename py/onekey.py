@@ -18,7 +18,7 @@ import argparse
 from common.settings import *
 from common.utils import *
 from common.trans import *
-from translate import trans
+from translate import translate
 from crawler import crawler
 from format import *
 from index import update_index
@@ -59,9 +59,9 @@ def args() :
     parser.add_argument('-p', '--port', dest='port', type=int, default=0, help='HTTP 代理端口')
 
     # 翻译参数
-    parser.add_argument('-a', '--trans_api', dest='trans_api', type=str, default=TENCENT, help='翻译 API 的服务提供商，可选： baidu, tencent （默认）')
-    parser.add_argument('-i', '--api_id', dest='api_id', type=str, default="", help='翻译 API ID')
-    parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='翻译 API KEY')
+    parser.add_argument('-i', '--api_id', dest='api_id', type=str, default="", help='腾讯翻译 API ID')
+    parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='腾讯翻译 API KEY')
+    parser.add_argument('-g', '--gpt_key', dest='gpt_key', type=str, default="", help='ChatGPT KEY')
     return parser.parse_args()
 
 
@@ -105,7 +105,7 @@ def update_chapter(args, src_path) :
     copy(src_path, ch_path)
     
     log.info('正在机翻: %s' % ch_path)
-    trans(args, ch_path)
+    translate(args, ch_path)
 
     log.info('正在格式化 ...')
     format_file(jp_path)

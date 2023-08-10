@@ -47,7 +47,7 @@ def translate(args, filepath) :
     content = wt.translate(content)
 
     log.info("正在机翻内容 ...")
-    title = trans(content, 'ja', 'zh', 
+    title = trans(title, from_lang='ja', to_lang='zh', 
                   platform=TENCENT, api_id=args.api_id, api_key=args.api_key)
     content = trans(content, 
                     platform=CHATGPT, api_id='', api_key=args.gpt_key, 
@@ -77,17 +77,14 @@ def convert(args, data) :
     data = data.replace("·", "・")
     data = data.replace(SEGMENT_SPLIT, "※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※")
 
-    # 特殊翻译器的字符转换
-    if args.trans_api == TENCENT :
-        data = data.replace("\n」「", "\n「")
-        data = data.replace("」「\n", "」\n")
-        data = data.replace("\n「」", "\n「")
-        data = data.replace("「」\n", "」\n")
-        data = data.replace("\n」", "\n「")
-        data = data.replace("「\n", "」\n")
-        data = data.replace("「「", "「")
-        data = data.replace("」」", "」")
-    
+    data = data.replace("\n」「", "\n「")
+    data = data.replace("」「\n", "」\n")
+    data = data.replace("\n「」", "\n「")
+    data = data.replace("「」\n", "」\n")
+    data = data.replace("\n」", "\n「")
+    data = data.replace("「\n", "」\n")
+    data = data.replace("「「", "「")
+    data = data.replace("」」", "」")
     return data
 
 

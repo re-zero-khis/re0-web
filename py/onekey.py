@@ -4,13 +4,6 @@
 # env: python3
 # --------------------------------------------
 # 从MF文库原版连载网站中爬取小说内容（需要翻墙）
-# usage: 
-#   python ./script/onekey.py -c -s "{proxy_ip}" -p {proxy_port} -a "{trans_api}" -i "{api_id}" -k "{api_key}"
-#   python ./script/onekey.py -r -a "{trans_api}" -i "{api_id}" -k "{api_key}"
-# eg:
-#   python ./py/onekey.py -c -s "127.0.0.1" -p 8888 -a "tencent" -i "api_id" -k "api_key"
-#   python ./py/onekey.py -c -s "127.0.0.1" -p 8888 -a "chatgpt" -i "gpt-3.5-turbo" -k "api_key"
-#   python ./py/onekey.py -r -a "tencent" -i "api_id" -k "api_key"
 # --------------------------------------------
 
 
@@ -61,7 +54,7 @@ def args() :
     # 翻译参数
     parser.add_argument('-i', '--api_id', dest='api_id', type=str, default="", help='腾讯翻译 API ID')
     parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='腾讯翻译 API KEY')
-    parser.add_argument('-g', '--gpt_key', dest='gpt_key', type=str, default="", help='ChatGPT KEY')
+    parser.add_argument('-a', '--gpt_key', dest='gpt_key', type=str, default="", help='ChatGPT KEY')
     return parser.parse_args()
 
 

@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# 格式化目录下所有 *.md 文件
 # --------------------------------------------
-# env: python3
+# 格式化目录下所有 *.md 文件
 # --------------------------------------------
 # usage: 
 #   python ./py/format.py -d {format dir path}

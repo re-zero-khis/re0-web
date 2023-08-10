@@ -1,15 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# --------------------------------------------
 # 自动机翻指定的 *.md 文件
-# --------------------------------------------
-# env: python3
-# Baidu API Doc : https://api.fanyi.baidu.com/doc/21
-# --------------------------------------------
-# usage: 
-#   python ./py/translate.py -a {api_type} -i {api_id} -k {api_pass} -t {want to translate filepath}
-# eg:
-#   python ./py/translate.py -a "tencent" -i "api_id" -k "api_key" -t "./gitbook/markdown/ch/chapter070/01.md"
-#   python ./py/translate.py -a "chatgpt" -k "api_key" -t "./gitbook/markdown/jp/chapter080/19.md"
 # --------------------------------------------
 
 import argparse

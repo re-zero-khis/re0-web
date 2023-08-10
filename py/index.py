@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# 更新章节的索引目录
 # --------------------------------------------
-# env: python3
+# 更新章节的索引目录
 # --------------------------------------------
 # usage: 
 #   python ./py/index.py -f {update index file path}

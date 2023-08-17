@@ -658,7 +658,7 @@
 	* [23　『路伊』](markdown/ch/chapter080/23.md)
 	* [24　『光的行动准则』](markdown/ch/chapter080/24.md)
 	* [25　『将死之人的愿望』](markdown/ch/chapter080/25.md)
-	* [26　『毒公主.』](markdown/ch/chapter080/26.md)
+	* [26　『毒姫』](markdown/ch/chapter080/26.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

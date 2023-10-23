@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Oct 2023 19:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 17:41:52 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -248,8 +248,9 @@
 | フェンメル | 芬梅尔 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | ジョズロ | 乔瑟 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | アイリス | 爱丽丝 | - | 第七章 | 『爱丽丝与荆棘之王』故事的女主角，被荆棘之王施以血咒，因灵魂被诅咒无法『记忆的回廊』轮回，导致不断在现世寻找新的躯壳转生。今世转生为『极彩色』尤尔娜・米希格蕾；前一世则附身到桑德拉・贝尼迪克特，其为普莉丝卡・贝尼迪克特（普莉希拉・跋利耶尔）的母亲 |
-| 茨の王 | 荆棘之王 | - | 第七章 | 『爱丽丝与荆棘之王』故事的男主角，对爱丽丝施以血咒 |
-| ドライゼン・ヴォラキア | 德赖森・佛拉基亚 | - | 第七章 | 佛拉基亚帝国历史上的皇帝，有二十多个子女，在主线中出现的主要有 文森特・埃布尔克斯、 拉米娅・戈德温，还有一个女儿则作为『噬灵者』亚拉基亚的『柱』。从 亚拉基亚 对 普莉希拉 的态度分析，普莉希拉 的前世 普莉丝卡 就是其女儿，故推断德赖森・佛拉基亚就是『荆棘之王』 |
+| 茨の王 | 荆棘之王 | - | 第七章 | 『爱丽丝与荆棘之王』故事的男主角，本名 尤加尔多・佛拉基亚，对爱丽丝施以血咒，让爱丽丝的灵魂绑缚在帝国大地上无法轮回（地缚灵？） |
+| ユーガルド・ヴォラキア | 尤加尔多・佛拉基亚 | - | 第八章 | 『荆棘之王』『荆棘帝』，喜欢用荆棘的痛苦束缚并驯服他人 |
+| ドライゼン・ヴォラキア | 德赖森・佛拉基亚 | - | 第七章 | 佛拉基亚帝国历史上的皇帝，有二十多个子女，在主线中出现的主要有 文森特・埃布尔克斯、 拉米娅・戈德温，还有一个女儿则作为『噬灵者』亚拉基亚的『柱』。从 亚拉基亚 对 普莉希拉 的态度分析，普莉希拉 的前世 普莉丝卡 就是其女儿 |
 | イズメイル | 伊斯梅尔 | - | 第七章 | 单眼族的勇士，有『巨眼』的称号 |
 | バルトロイ | 巴尔托罗 | - | 第七章 | 文森特・佛拉基亚 的兄长 |
 | ルアンナ | 卢安娜 | - | 第七章 | 未知角色，与 兹克尔 有关系 |
@@ -4845,14 +4846,14 @@
         </item>
         <item>
             <title><![CDATA[『我不想爱你』]]></title>
-            <description><![CDATA[——站在小山之上，那个男人望着远方的地平线。]]></description>
+            <description><![CDATA[—— 站在小山之上，那个男人望着远方的地平线。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/29.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/29.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『凶报：凶报』]]></title>
-            <description><![CDATA[——被誉为「城塞都市」的葛克拉，在弗拉基亚帝国中可以排入五大都市之列。葛克拉实际上位于两个邻国——鲁格尼卡王国和卡拉拉吉市国的分界线上，这座城市背靠大山，防御壁内拥有多个坚固的要塞，被誉为一项重要的防卫工程。然而，这个以坚固著名的城市，十数年前却被魔女教的"强欲"大罪主教单独攻陷，使这座传说中的城市瞬间崩塌。这次袭击造成了重大的损失，城塞都市的数千名常备兵和被誉为弗拉基亚帝国最强武士的"八臂"库鲁刚遇难，多个要塞遭到了毁灭，这被记录为帝国历史上一次空前的灾难。从那时起，深深的伤疤刻印在城塞都市上，直到现在，都市的恢复和功能的恢复都还不尽完满，而且国家间的紧张关系一直处于高位维持。]]></description>
+            <title><![CDATA[『凶报』]]></title>
+            <description><![CDATA[——被誉为『要塞都市』的葛克拉，在佛拉基亚帝国中可以排入五大都市之列。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/30.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/30.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

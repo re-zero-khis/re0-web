@@ -663,7 +663,7 @@
 	* [28　『帝国的兄妹』](markdown/ch/chapter080/28.md)
 	* [29　『我不想爱你』](markdown/ch/chapter080/29.md)
 	* [30　『凶报』](markdown/ch/chapter080/30.md)
-	* [31　『石块』](markdown/ch/chapter080/31.md)
+	* [31　『石塊』](markdown/ch/chapter080/31.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

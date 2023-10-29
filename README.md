@@ -53,22 +53,12 @@
 
 > 也欢迎有志趣的同学加入这个项目，根据贡献度可以从赞助中享有一定的分成。
 
-<details>
-<summary><b>赞助我们 ...</b></summary>
-<br/>
 
-国内通道（支付宝/微信/QQ）：
+| ❤️赞助我们 | 国内通道 | 海外通道 |
+|:---:|:---:|:---:|
+| 主链 | [支付宝/微信/QQ](https://exppoc.gitee.io/sponsor/) | [Open Collective](https://opencollective.com/re0-web) |
+| 备链 | [支付宝/微信/QQ](https://lyy289065406.github.io/sponsor/) | [KO-FI](https://ko-fi.com/exppoc) |
 
-- [主链](https://exppoc.gitee.io/sponsor/)
-- [备链](https://lyy289065406.github.io/sponsor/)
-
-
-海外通道：
-
-- [Open Collective](https://opencollective.com/re0-web)
-- [KO-FI](https://ko-fi.com/exppoc)
-
-</details>
 
 
 ## 0x30 相关资源

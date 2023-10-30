@@ -32,6 +32,7 @@
 - [30　『凶報』](30.html)
 - [31　『石塊』](31.html)
 - [32　『選抜メンバー』](32.html)
+- [33　『愛を裁く』](33.html)
 
 
 ![](/res/imgs/article/chapter080/00-b.jpg)

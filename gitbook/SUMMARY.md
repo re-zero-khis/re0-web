@@ -665,7 +665,7 @@
 	* [30　『凶报』](markdown/ch/chapter080/30.md)
 	* [31　『石塊』](markdown/ch/chapter080/31.md)
 	* [32　『选拔成员』](markdown/ch/chapter080/32.md)
-	* [33　『制裁爱.』](markdown/ch/chapter080/33.md)
+	* [33　『爱情裁决』](markdown/ch/chapter080/33.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

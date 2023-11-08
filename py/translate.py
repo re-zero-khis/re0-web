@@ -15,7 +15,7 @@ from color_log.clog import log
 def args() :
     parser = argparse.ArgumentParser(
         prog='', # 会被 usage 覆盖
-        usage='python ./py/translate.py -a {api_type} -i {api_id} -k {api_pass} -t {want to translate filepath}',  
+        usage='python ./py/translate.py -i {api_id} -k {api_pass} -g {gpt_key} -t {want to translate filepath}',  
         description='对某个日语文件进行机翻',  
         epilog='更多参数可用 python ./py/onekey.py -h 查看'
     )

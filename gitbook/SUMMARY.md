@@ -669,7 +669,7 @@
 	* [34　『在你告诉我答案之前、我是不会放过你的』](markdown/ch/chapter080/34.md)
 	* [35　『命悬一线的工作』](markdown/ch/chapter080/35.md)
 	* [36　『尸都鲁普加纳』](markdown/ch/chapter080/36.md)
-	* [37　『伏笔的时间』](markdown/ch/chapter080/37.md)
+	* [37　『伏笔时间』](markdown/ch/chapter080/37.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

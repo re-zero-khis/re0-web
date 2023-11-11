@@ -52,7 +52,7 @@ def translate(args, filepath) :
     content = trans(content, 
                     platform=CHATGPT, api_id='', api_key=args.gpt_key, 
                     args={ 
-                        ARG_OPENAI_MODEL: CHATGPT_4, 
+                        ARG_OPENAI_MODEL: CHATGPT_4_TRUBO, 
                         ARG_ROLE: "基于《从零开始的异世界生活》小说的背景，把日文内容翻译成中文，并润色。禁止回复与翻译文本无关的内容。"
                     }
     )

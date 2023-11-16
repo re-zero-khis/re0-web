@@ -56,6 +56,8 @@ def translate(args, filepath) :
                         ARG_ROLE: "基于《从零开始的异世界生活》小说的背景，把日文内容翻译成中文，并润色。禁止回复与翻译文本无关的内容。"
                     }
     )
+    content = re.sub(r'^"', '「', content)
+    content = re.sub(r'"$', '」', content)
     content = "%s%s%s" % (DOUBLE_CRLF, content, DOUBLE_CRLF)
     content = convert(args, content)
 

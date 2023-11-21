@@ -675,7 +675,7 @@
 	* [40　『微不足道的威胁』](markdown/ch/chapter080/40.md)
 	* [41　『地狱之所在』](markdown/ch/chapter080/41.md)
 	* [42　『伟大存在的奴隶』](markdown/ch/chapter080/42.md)
-	* [43　『各自的本怀.』](markdown/ch/chapter080/43.md)
+	* [43　『各自的体验』](markdown/ch/chapter080/43.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

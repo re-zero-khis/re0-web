@@ -679,7 +679,7 @@
 	* [幕間　『乌比尔克』](markdown/ch/chapter080/43_5.md)
 	* [44　『信任的回应方式』](markdown/ch/chapter080/44.md)
 	* [45　『星星的坠落方式』](markdown/ch/chapter080/45.md)
-	* [46　『风的味道.』](markdown/ch/chapter080/46.md)
+	* [46　『风的味道』](markdown/ch/chapter080/46.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

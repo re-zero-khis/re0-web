@@ -21,7 +21,7 @@ from color_log.clog import log
 PY_DIR = './py'
 PROGRESS_FILE = '%s/progress.bar' % PY_DIR
 DOWNLOAD_DIR = '%s/downloads' % PY_DIR
-HOME_URL = 'http://ncode.syosetu.com/n2267be'
+HOME_URL = 'https://ncode.syosetu.com/n2267be/'
 HEADER = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
     'Accept-Encoding': 'gzip, deflate',
@@ -51,15 +51,28 @@ def main(args) :
 
 
 def crawler(args) :
+    all_save_paths = []
+    page = 1
+    while page > 0 :
+        page, save_paths = crawler_page(args, page)
+        all_save_paths.extend(save_paths)
+        time.sleep(2)
+    return all_save_paths
+
+
+def crawler_page(args, page) :
     save_paths = []
-    html = http_request(args, HOME_URL)
+    html = http_request(args, HOME_URL, page)
+    grps = re.findall(r'a href="/n2267be/\?p=(\d+)" class="novelview_pager-next"', html)
+    page = int(grps[1]) if grps else 0
+    
     grps = re.findall(r'<a href="(/n2267be/\d+/)">([^<]+)</a>', html)
     for uri, title in grps :
         title = conver_full_char(title)
         save_path = save_page(args, uri, title)
         if save_path is not None :
             save_paths.append(save_path)
-    return save_paths
+    return (page, save_paths)
 
 
 
@@ -162,13 +175,14 @@ def create_chapter_dir(chapter) :
 
 
 # 发起 http 请求（支持代理）
-def http_request(args, url) :
+def http_request(args, url, page=0) :
+    params = { 'p': page } if page > 0 else {}
     if args.proxy :
         proxy_svc = 'http://%s:%d' % (args.host, args.port)
         proxy = { "http": proxy_svc, "https": proxy_svc } if args.port > 0 else {}
-        response = requests.get(url=url, headers=HEADER, proxies=proxy)
+        response = requests.get(url=url, params=params, headers=HEADER, proxies=proxy)
     else :
-        response = requests.get(url=url, headers=HEADER)
+        response = requests.get(url=url, params=params, headers=HEADER)
     return response.text
 
 

@@ -21,7 +21,7 @@ from color_log.clog import log
 PY_DIR = './py'
 PROGRESS_FILE = '%s/progress.bar' % PY_DIR
 DOWNLOAD_DIR = '%s/downloads' % PY_DIR
-HOME_URL = 'https://ncode.syosetu.com/n2267be/'
+HOME_URL = 'https://ncode.syosetu.com/n2267be'
 HEADER = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
     'Accept-Encoding': 'gzip, deflate',

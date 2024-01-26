@@ -52,7 +52,7 @@ def main(args) :
 
 def crawler(args) :
     all_save_paths = []
-    page = 1
+    page = 7    # 已知当下最后一页是第 7 页，加速爬取 —— 20240126
     while page > 0 :
         page, save_paths = crawler_page(args, page)
         all_save_paths.extend(save_paths)

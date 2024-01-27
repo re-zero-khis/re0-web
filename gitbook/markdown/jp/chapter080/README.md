@@ -49,6 +49,7 @@
 - [46　『風の味』](46.html)
 - [47　『タンザ』](47.html)
 - [48　『茨の呪い』](48.html)
+- [49　『茨の王』](49.html)
 
 
 ![](/res/imgs/article/chapter080/00-b.jpg)

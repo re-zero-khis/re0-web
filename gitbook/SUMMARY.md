@@ -683,7 +683,7 @@
 	* [47　『坦萨』](markdown/ch/chapter080/47.md)
 	* [48　『荆棘的血咒』](markdown/ch/chapter080/48.md)
 	* [49　『荆棘之王』](markdown/ch/chapter080/49.md)
-	* [50　『尤加尔多·佛拉基亚』](markdown/ch/chapter080/50.md)
+	* [50　『尤加尔多・佛拉基亚』](markdown/ch/chapter080/50.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

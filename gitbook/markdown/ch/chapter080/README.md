@@ -51,6 +51,7 @@
 - [48　『荆棘的血咒』](48.html)
 - [49　『荆棘之王』](49.html)
 - [50　『尤加尔多・佛拉基亚』](50.html)
+- [51　『腾诺山(Tennosan)』（未润色）](51.html)
 
 
 ![](/res/imgs/article/chapter080/00-b.jpg)

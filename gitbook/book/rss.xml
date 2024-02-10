@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://rezero.buzz/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Feb 2024 18:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 11:41:46 GMT</lastBuildDate>
         <atom:link href="https://rezero.buzz/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -72,6 +72,7 @@
 | オットー・スーウェン | 奥托・苏文 | - | 第三章 | 商人，“战神” |
 | フレデリカ・バウマン | 法兰黛莉卡・鲍曼 | - | 第四章 | 加菲尔 的姐姐 |
 | ガーフィール・ティンゼル | 加菲尔・汀泽尔 | 加菲 | 第二章 | 『圣域之盾』『黄金之虎』『半兽人』，法兰黛莉卡 的弟弟 |
+| ガー坊 | 加小子 | 加菲 | 第二章 | 琉兹 对 加菲尔 的昵称 |
 | リューズ・メイエル | 琉兹・梅尔 | - | 第四章 | 琉兹・梅尔 的本体 |
 | リューズ・α | 琉兹・阿尔玛 | 琉兹・α | 第四章 | 琉兹・梅尔 的复制体 |
 | リューズ・β | 琉兹・毕尔玛 | 琉兹・β | 第四章 | 琉兹・梅尔 的复制体 |
@@ -5036,8 +5037,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『苏门答腊(苏门答腊)』]]></title>
-            <description><![CDATA[——当加菲尔・廷泽尔意识到时，他已经坐在一个黑暗的地方了。]]></description>
+            <title><![CDATA[『走马灯』]]></title>
+            <description><![CDATA[——当加菲尔・汀泽尔意识到时，他已经坐在一个黑暗的地方了。]]></description>
             <link>https://rezero.buzz/gitbook/book/markdown/ch/chapter080/54.html</link>
             <guid isPermaLink="true">https://rezero.buzz/gitbook/book/markdown/ch/chapter080/54.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

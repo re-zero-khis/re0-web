@@ -687,7 +687,7 @@
 	* [51　『王者之坎』](markdown/ch/chapter080/51.md)
 	* [52　『米迪亚姆·奥克尼尔』](markdown/ch/chapter080/52.md)
 	* [53　『魔弹射手』](markdown/ch/chapter080/53.md)
-	* [54　『苏门答腊(苏门答腊)』](markdown/ch/chapter080/54.md)
+	* [54　『走马灯』](markdown/ch/chapter080/54.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

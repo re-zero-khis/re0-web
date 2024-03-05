@@ -100,7 +100,7 @@
         },
         "sitemap-general": {
             "//": "所生成的站点地图路径前缀",
-            "prefix": "https://rezero.buzz/gitbook/book/"
+            "prefix": "https://re0zero.top/gitbook/book/"
         },
         "simple-page-toc": {
             "//": "所生成的章节目录最大深度",
@@ -209,8 +209,8 @@
             "title": "RE0 WEB",
             "description": "RE0：从零开始的异世界生活",
             "author": "EXP",
-            "site_url": "https://rezero.buzz/gitbook/book/",
-            "feed_url": "https://rezero.buzz/gitbook/book/rss.xml",
+            "site_url": "https://re0zero.top/gitbook/book/",
+            "feed_url": "https://re0zero.top/gitbook/book/rss.xml",
             "copyright": "EXP",
             "categories": [
                 "gitbook"

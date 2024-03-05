@@ -1,12 +1,12 @@
 # Re0：从零开始的异世界生活 （WEB 版）
 
-> 在线阅读：【[WEB 版](https://re-zero-khis.github.io/re0-web)】【[文库版](https://rezero.buzz/gitbook/book/markdown/epub.html)】
+> 在线阅读：【[WEB 版](https://re-zero-khis.github.io/re0-web)】【[文库版](https://re0zero.top/gitbook/book/markdown/epub.html)】
 
 ------
 
 ## 0x00 如何阅读
 
-- 【PC/手机】用户均可从这个链接直接阅读：[https://rezero.buzz/](https://rezero.buzz/)
+- 【PC/手机】用户均可从这个链接直接阅读：[https://re0zero.top/](https://re0zero.top/)
 - 【手机】用户若加载时间过长，也可以阅读纯文字版：
 <br/>　（1）[注册](https://github.com/join?source=header-home) 一个 Github 账号
 <br/>　（2）点击此项目仓库([re0-web](https://github.com/re-zero-khis/re0-web))右上角的 ![star](https://img.shields.io/github/stars/re-zero-khis/re0-web?style=social) 和 ![fork](https://img.shields.io/github/forks/re-zero-khis/re0-web?style=social) 按钮

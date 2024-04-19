@@ -648,7 +648,7 @@
 	* [13　『各自的伤痕』](markdown/ch/chapter080/13.md)
 	* [14　『王国和帝国』](markdown/ch/chapter080/14.md)
 	* [15　『礼赞』](markdown/ch/chapter080/15.md)
-	* [16　『尸人灾害』](markdown/ch/chapter080/16.md)
+	* [16　『殭尸灾害』](markdown/ch/chapter080/16.md)
 	* [17　『魔法的接触』](markdown/ch/chapter080/17.md)
 	* [18　『短暂的重逢』](markdown/ch/chapter080/18.md)
 	* [19　『巴尔加・克罗姆威尔的计策』](markdown/ch/chapter080/19.md)

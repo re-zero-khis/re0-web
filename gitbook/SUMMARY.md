@@ -696,7 +696,7 @@
 	* [60　『魔女』](markdown/ch/chapter080/60.md)
 	* [61　『帕拉迪奥・马内斯克』](markdown/ch/chapter080/61.md)
 	* [62　『爱的力量』](markdown/ch/chapter080/62.md)
-	* [63　『你嘴唇上有奇迹。』](markdown/ch/chapter080/63.md)
+	* [63　『唇上奇迹』](markdown/ch/chapter080/63.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

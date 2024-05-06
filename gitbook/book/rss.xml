@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://re0zero.top/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 May 2024 06:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 12:04:16 GMT</lastBuildDate>
         <atom:link href="https://re0zero.top/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -269,7 +269,7 @@
 | パラディオ・マネスク | 帕拉迪奥・马内斯克 | - | 第七章 | 曾参加七十七代『选帝之仪』，是 拉米娅 的哥哥，魔眼族 |
 | マグリッツァ | 马克利泽雅 | - | 第七章 | 碧翠丝在第二章读的书《马克利泽雅的断头台》中的人物，被 埃布尔 在利用 昴 发动帝国全面战争时所引用 |
 | ？ | 基利安・恩狄米翁 | - | 短篇集 | 恩狄米翁家的三男，骑士身份，莱普 安插在 普莉希拉 身边的眼线 |
-| ヴィヴァ | 维瓦 | - | 第八章 | 被称为『内脏分解者』的黑衣人，生前杀人时喜欢瞄准内脏攻击并观察对手流血的样子，和『猎肠者』倒是臭味相投 |
+| ヴィヴァ | 维瓦 | - | 第八章 | 被称为『内脏分解者』的黑衣人，生前杀人时喜欢瞄准内脏攻击并观察对手流血的样子，和『猎肠者』倒是臭味相投。作为殭屍重新复活出现，被 埃布尔 用『阳剑』杀死。 |
 | ガオラン・ペイシット | 奥兰・佩希特 | - | 第八章 | 『白云公』，已故。作为殭屍重新复活出现，又被 丝碧卡 的星食杀死。 |
 | アトレム・ネヴィ | 阿特雷姆・纳维 | - | 第八章 | 早已身亡的人物，作为殭屍重新复活出现，又被 丝碧卡 的星食杀死 |
 | ディフォン・トレヴォラ | 迪丰・特雷沃拉 | - | 第八章 | 早已身亡的人物，作为殭屍重新复活出现，又被 丝碧卡 的星食杀死 |
@@ -277,7 +277,8 @@
 | レスカー・ブレイン | 莱斯克・布雷因 | - | 第八章 | 早已身亡的人物，作为殭屍重新复活出现，又被 丝碧卡 的星食杀死 |
 | ニオルフ・トラッド | 尼奥尔夫・特拉德 | - | 第八章 | 早已身亡的人物，作为殭屍重新复活出现，又被 丝碧卡 的星食杀死 |
 | ヤレン・スウォーカー | 亚伦・斯沃克 | - | 第八章 | 早已身亡的人物，作为殭屍重新复活出现，又被 丝碧卡 的星食杀死 |
-| ベラム・ジョイト | 贝拉姆・乔伊特 | - | 第八章 | 早已身亡的人物，作为殭屍重新复活出现，又被 丝碧卡 的星食杀死 |]]></description>
+| ベラム・ジョイト | 贝拉姆・乔伊特 | - | 第八章 | 早已身亡的人物，作为殭屍重新复活出现，又被 丝碧卡 的星食杀死 |
+| ロンダンド | 罗恩丹多 | - | 第八章 | 『怪腕』，早已身亡的人物，作为殭屍重新复活出现，又被 丝碧卡 的星食杀死 |]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/translation.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/translation.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -5135,7 +5136,7 @@
         </item>
         <item>
             <title><![CDATA[『持有的手牌』]]></title>
-            <description><![CDATA[将『石塊』穆斯佩尔纳入己中，并且将其生死置于与佛拉基亚帝国存亡相同的天平上，这是亚拉基亚所作出的决定。正如普莉希拉所说，"魂婚术"与"梦剑"正梦的组合，确实可能会引发大幅偏离斯芬克斯计划的情况。斯芬克斯成为了"大灾"的承载者，并且成功地让佛拉基亚帝国充斥着死者，达成了其两大目的之一——复制"强欲魔女"的灵魂。只剩下让这个灵魂与身体彻底融合，并且促使创造主涂抹掉斯芬克斯自身存在的工作。在斯芬克斯消逝之前，剩下的目的——直截了当地说，便是复仇。完成对普莉希拉・跋利耶尔的复仇。为此，他本认为已经出了最佳的手牌。]]></description>
+            <description><![CDATA[将『石塊』穆斯佩尔纳入己中，并且将其生死置于与佛拉基亚帝国存亡相同的天平上，这是亚拉基亚所作出的决定。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter080/67.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter080/67.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>

@@ -702,7 +702,7 @@
 	* [66　『魔晶炮』](markdown/ch/chapter080/66.md)
 	* [67　『持有的手牌』](markdown/ch/chapter080/67.md)
 	* [68　『恋爱中的男人』](markdown/ch/chapter080/68.md)
-	* [69　『允许（允许）』](markdown/ch/chapter080/69.md)
+	* [69　『我原谅你了』](markdown/ch/chapter080/69.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

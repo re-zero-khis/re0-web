@@ -72,6 +72,7 @@
 - [69　『許そう』](69.html)
 - [70　『最後の策』](70.html)
 - [71　『英雄幻想』](71.html)
+- [72　『太陽姫』](72.html)
 
 
 ![](/res/imgs/article/chapter080/00-b.jpg)

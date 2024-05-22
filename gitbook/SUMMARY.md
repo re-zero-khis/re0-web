@@ -706,7 +706,7 @@
 	* [70　『最后的策略』](markdown/ch/chapter080/70.md)
 	* [71　『英雄幻想』](markdown/ch/chapter080/71.md)
 	* [72　『太阳公主』](markdown/ch/chapter080/72.md)
-	* [73　『宿敌（宿敌）』](markdown/ch/chapter080/73.md)
+	* [73　『宿敌』](markdown/ch/chapter080/73.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

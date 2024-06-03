@@ -707,7 +707,7 @@
 	* [71　『英雄幻想』](markdown/ch/chapter080/71.md)
 	* [72　『太阳公主』](markdown/ch/chapter080/72.md)
 	* [73　『宿敌』](markdown/ch/chapter080/73.md)
-	* [74　『爱（Love）』](markdown/ch/chapter080/74.md)
+	* [74　『爱』](markdown/ch/chapter080/74.md)
 	* [1717348667　『普莉希拉·亚利耶尔』](markdown/ch/chapter080/1717348667.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)

@@ -56,7 +56,7 @@
 
 | ❤️赞助我们 | 国内通道 | 海外通道 |
 |:---:|:---:|:---:|
-| 主链 | [支付宝/微信/QQ](https://exppoc.gitee.io/sponsor/) | [Open Collective](https://opencollective.com/re0-web) |
+| 主链 | [支付宝/微信/QQ](https://lyy289065406.github.io/sponsor/) | [Open Collective](https://opencollective.com/re0-web) |
 | 备链 | [支付宝/微信/QQ](https://lyy289065406.github.io/sponsor/) | [KO-FI](https://ko-fi.com/exppoc) |
 
 

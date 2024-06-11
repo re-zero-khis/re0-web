@@ -1550,8 +1550,8 @@
 ## 赞助
 
 * [关于赞助](markdown/sponsor.md)
-* [国内通道](https://exppoc.gitee.io/sponsor/)
-	* [主链](https://exppoc.gitee.io/sponsor/)
+* [国内通道](https://lyy289065406.github.io/sponsor/)
+	* [主链](https://lyy289065406.github.io/sponsor/)
 	* [备链](https://lyy289065406.github.io/sponsor/)
 * [海外通道](https://opencollective.com/re0-web)
 	* [Open Collective](https://opencollective.com/re0-web)

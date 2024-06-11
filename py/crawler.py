@@ -109,9 +109,9 @@ def save_page(args, uri, html_title) :
 
     # 解析 html 标题获取必要参数
     grps = re.findall(r'(\D+?)(\d*)([a-z]?)　(.+)', html_title)[0]
-    chapter = grps[0]
-    idx1 = grps[1]
-    idx2 = grps[2]
+    chapter = grps[0].strip()
+    idx1 = grps[1].strip()
+    idx2 = grps[2].strip()
     chapter_idx = "%s%s" % (idx1, "" if not idx2 else ("-" + idx2))
     chapter_idx = chapter_idx if chapter_idx else ('%i' % time.time())    # 若无分节编号，则使用时间戳代替
     chapter_title = grps[3]

@@ -709,7 +709,7 @@
 	* [73　『宿敌』](markdown/ch/chapter080/73.md)
 	* [74　『爱』](markdown/ch/chapter080/74.md)
 	* [终幕　『普莉希拉・跋利耶尔』](markdown/ch/chapter080/75.md)
-* [第九章　『无名的星光』](markdown/ch/chapter090/README.md)
+* [第九章　『无名的星光』（星辰篇）](markdown/ch/chapter090/README.md)
 	* [01　『像云一样祈祷吧』](markdown/ch/chapter090/01.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)

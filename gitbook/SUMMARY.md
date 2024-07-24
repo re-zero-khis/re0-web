@@ -711,7 +711,7 @@
 	* [终幕　『普莉希拉・跋利耶尔』](markdown/ch/chapter080/75.md)
 * [第九章　『无名的星光』（星辰篇）](markdown/ch/chapter090/README.md)
 	* [01　『像云一样祈祷吧』](markdown/ch/chapter090/01.md)
-	* [02　『村民们并不吝啬。』](markdown/ch/chapter090/02.md)
+	* [02　『反派却毫不张扬』](markdown/ch/chapter090/02.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

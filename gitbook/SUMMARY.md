@@ -715,7 +715,7 @@
 	* [03　『每个人都为你哀悼』](markdown/ch/chapter090/03.md)
 	* [04　『笨蛋』](markdown/ch/chapter090/04.md)
 	* [05　『九百三十一发』](markdown/ch/chapter090/05.md)
-	* [06　『门出』](markdown/ch/chapter090/06.md)
+	* [06　『新的开始』](markdown/ch/chapter090/06.md)
 	* [幕间　『卡秋娅・奥雷利』](markdown/ch/chapter090/06_5.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)

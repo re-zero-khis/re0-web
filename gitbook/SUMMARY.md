@@ -718,7 +718,7 @@
 	* [06　『新的开始』](markdown/ch/chapter090/06.md)
 	* [幕间　『卡秋娅・奥雷利』](markdown/ch/chapter090/06_5.md)
 	* [07　『沙风的再会』](markdown/ch/chapter090/07.md)
-	* [07　『后悔的方式。』](markdown/ch/chapter090/07.md)
+	* [08　『后悔的方式。』](markdown/ch/chapter090/08.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

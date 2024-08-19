@@ -47,8 +47,15 @@ def translate(args, filepath) :
     content = wt.translate(content)
 
     log.info("正在机翻内容 ...")
-    title = trans(title, from_lang='ja', to_lang='zh', 
-                  platform=TENCENT, api_id=args.api_id, api_key=args.api_key)
+    # title = trans(title, from_lang='ja', to_lang='zh', 
+    #               platform=TENCENT, api_id=args.api_id, api_key=args.api_key)
+    title = trans(content, 
+                    platform=CHATGPT, api_id='', api_key=args.gpt_key, 
+                    args={ 
+                        ARG_OPENAI_MODEL: CHATGPT_4o, 
+                        ARG_ROLE: "基于《从零开始的异世界生活》小说的背景，把日文章节标题翻译成中文，并润色。禁止回复与翻译文本无关的内容。"
+                    }
+    )
     content = trans(content, 
                     platform=CHATGPT, api_id='', api_key=args.gpt_key, 
                     args={ 

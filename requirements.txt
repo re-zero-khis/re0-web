@@ -3,4 +3,4 @@ requests>=2.22.0
 py-color-log>=1.0.3
 tencentcloud-sdk-python>=3.0.681
 openai>=0.27.2
-py-transgpt>=1.6
+py-transgpt>=1.7

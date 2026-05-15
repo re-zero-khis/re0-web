@@ -1,4 +1,7 @@
 {
+    "styles": {
+      "website": "website.css"
+    },
     "title" : "RE0",
     "author" : "EXP",
     "description" : "RE0：从零开始的异世界生活 （WEB版）",

@@ -13,6 +13,8 @@ site-url = "/mdbook/book/"
 git-repository-url = "https://github.com/re-zero-khis/re0-web"
 edit-url-template = "https://github.com/re-zero-khis/re0-web/edit/master/gitbook/{path}"
 cname = "re0zero.top"
+no-section-label = true
+additional-css = ["theme/custom.css"]
 
 [output.html.search]
 enable = true
@@ -27,4 +29,4 @@ copy-js = true
 
 [output.html.fold]
 enable = true
-level = 1
+level = 0

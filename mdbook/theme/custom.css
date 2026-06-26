@@ -1,0 +1,13 @@
+/* ── 1. 宽屏布局 ──────────────────────────────────────────────────────
+   覆盖 mdBook 默认的 750px 窄屏居中布局
+   --content-max-width 同时控制 general.css 和 chrome.css 里的三处 max-width
+─────────────────────────────────────────────────────────────────────── */
+:root {
+    --content-max-width: 92%;
+}
+
+/* 宽屏时给正文增加一点内边距，防止贴着侧栏 */
+.content main {
+    padding-left: 24px;
+    padding-right: 24px;
+}

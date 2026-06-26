@@ -65,3 +65,15 @@ cd mdbook && ../$MDBOOK_BIN build
 END=$(date +%s)
 echo "==> Build finished in $((END - START)) seconds."
 echo "    Output: mdbook/book/"
+
+# ── 7. 生成 sitemap.xml ──────────────────────────────────────
+cd ..
+SITE_URL="https://re0zero.top/mdbook/book"
+echo "==> Generating sitemap.xml..."
+python3 bin/gen-sitemap.py mdbook/book "$SITE_URL" mdbook/book/sitemap.xml
+
+# ── 8. 生成 rss.xml ──────────────────────────────────────────
+echo "==> Generating rss.xml..."
+python3 bin/gen-rss.py mdbook/src/SUMMARY.md "$SITE_URL" mdbook/book/rss.xml
+
+echo "==> All done."

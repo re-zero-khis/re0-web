@@ -1,0 +1,55 @@
+# 自动构建 mdBook（mdbook-migration 分支）
+name: Build mdBook
+
+on:
+  workflow_dispatch:
+
+  push:
+    branches:
+      - mdbook-migration
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+        with:
+          ref: mdbook-migration
+          fetch-depth: 2
+
+      - name: Setup Git Information
+        run: |-
+          git config --global user.name "${{ vars._GIT_USER }}"
+          git config --global user.email "${{ vars._GIT_MAIL }}"
+
+      - name: Setup Deploy Private Key
+        env:
+          DEPLOY_PRIVATE_KEY: ${{ secrets.DEPLOY_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 400 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+      - name: Record build start time
+        id: timer
+        run: echo "start=$(date +%s)" >> $GITHUB_OUTPUT
+
+      - name: Build mdBook
+        run: ./bin/build-mdbook.sh
+
+      - name: Report build time
+        run: |
+          END=$(date +%s)
+          START=${{ steps.timer.outputs.start }}
+          echo "Total build time: $((END - START)) seconds"
+
+      - name: Commit and push mdBook output (if changed)
+        run: |-
+          git add -A
+          git commit -m "mdBook build by Github Bot" || exit 0
+          git push origin mdbook-migration

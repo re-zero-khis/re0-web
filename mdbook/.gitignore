@@ -1,0 +1,12 @@
+# 构建时由 build-mdbook.sh 生成，不纳入版本控制
+/src/markdown/
+/src/res/
+/src/SUMMARY.md
+/src/README.md
+/src/ads.txt
+
+# mdBook 二进制文件
+/bin/
+
+# 构建输出（CI 会在提交前生成）
+/book/

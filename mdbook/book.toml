@@ -1,0 +1,30 @@
+[book]
+title = "Re：从零开始的异世界生活"
+authors = ["EXP"]
+description = "RE0：从零开始的异世界生活 （WEB版）"
+language = "zh"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+site-url = "/mdbook/book/"
+git-repository-url = "https://github.com/re-zero-khis/re0-web"
+edit-url-template = "https://github.com/re-zero-khis/re0-web/edit/master/gitbook/{path}"
+cname = "re0zero.top"
+
+[output.html.search]
+enable = true
+limit-results = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
+copy-js = true
+
+[output.html.fold]
+enable = true
+level = 1

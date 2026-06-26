@@ -1,11 +1,11 @@
-# mdBook 预览镜像
-# 基于 Python 官方镜像 + mdBook 二进制
-FROM python:3.11-slim
+# mdBook 预览镜像（使用本地已有的 debian:bookworm-slim 基础镜像）
+FROM debian:bookworm-slim
 
 ARG MDBOOK_VERSION=0.4.40
 
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends curl ca-certificates && \
+    apt-get install -y --no-install-recommends \
+        curl ca-certificates python3 && \
     curl -sSL \
         "https://github.com/rust-lang/mdBook/releases/download/v${MDBOOK_VERSION}/mdbook-v${MDBOOK_VERSION}-x86_64-unknown-linux-gnu.tar.gz" \
         | tar -xz -C /usr/local/bin/ && \

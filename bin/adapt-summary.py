@@ -20,6 +20,16 @@ def adapt_summary(input_path: str, output_path: str) -> None:
     # 移除 HTML 注释块（日文版被注释掉的部分）
     content = re.sub(r"<!--.*?-->", "", content, flags=re.DOTALL)
 
+    # 移除指向外部 URL 的条目
+    # mdBook 会把 SUMMARY.md 里的每个链接都尝试作为本地文件处理，
+    # 外部 http/https 链接会报 "Unable to create missing file" 错误
+    content = re.sub(
+        r"^\t*[*\-]\s+\[.*?\]\(https?://[^\)]+\)\s*\n",
+        "",
+        content,
+        flags=re.MULTILINE,
+    )
+
     # 替换第一行标题为 mdBook 要求的 # Summary
     content = re.sub(r"^# .+$", "# Summary", content, count=1, flags=re.MULTILINE)
 

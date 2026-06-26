@@ -25,7 +25,6 @@ Write-Host ""
 
 docker run --rm `
     -v "${ROOT}:/workspace" `
-    -p 3000:3000 `
-    -p 3001:3001 `
+    -p 4000:3000 `
     $IMAGE `
     sh bin/serve-mdbook-docker.sh

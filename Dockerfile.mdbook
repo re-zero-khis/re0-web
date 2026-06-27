@@ -13,4 +13,4 @@ RUN apt-get update && \
 
 WORKDIR /workspace
 
-EXPOSE 3000 3001
+EXPOSE 4000

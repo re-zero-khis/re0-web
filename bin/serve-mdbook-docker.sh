@@ -31,7 +31,7 @@ python3 bin/adapt-summary.py gitbook/SUMMARY.md "$SRC/SUMMARY.md"
 
 echo ""
 echo "==> Starting mdbook serve ..."
-echo "    Open browser: http://localhost:3000"
+echo "    Open browser: http://localhost:4000"
 echo ""
 
-cd mdbook && mdbook serve --hostname 0.0.0.0
+cd mdbook && mdbook serve --hostname 0.0.0.0 --port 4000

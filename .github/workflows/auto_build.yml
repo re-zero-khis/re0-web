@@ -56,7 +56,7 @@ jobs:
 
       - name: Build mdBook
         if: steps.check_rebuild.outputs.needs_rebuild == 'true'
-        run: ./bin/build-mdbook.sh
+        run: bash bin/build-mdbook.sh
 
       - name: Commit and push (if changed)
         if: steps.check_rebuild.outputs.needs_rebuild == 'true'

@@ -66,7 +66,7 @@ jobs:
         run: |-
           has_update=`git diff | wc -w | awk '{print $1}'`
           if [ "${has_update}" != "0" ]; then
-            bash bin/build-mdbook.sh
+            ./bin/build-mdbook.sh
           fi
 
       - name: Commit and push (if changed)

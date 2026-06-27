@@ -10,9 +10,8 @@ log/*
 # 由于目录有下划线， Github Pages 是无法识别的
 gitbook/_book
 
-# mdBook 本地构建生成的中间源文件和 HTML 输出
+# mdBook 构建时生成的中间源文件（由 build-mdbook.sh 从 gitbook/ 复制后处理）
 mdbook/src
-mdbook/book
 
 # node_modules 实时从 Github 下载，不存储在当前仓库
 # 避免因为仓库过大导致 Github Page 构建超时

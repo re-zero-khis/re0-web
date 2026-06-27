@@ -40,6 +40,12 @@ PowerShell：
 http://localhost:4000
 ```
 
+serve 启动后约 60 秒会自动生成 RSS 和 sitemap，可通过以下地址验证：
+
+- 首页：`http://localhost:4000/`
+- RSS：`http://localhost:4000/rss.xml`
+- Sitemap：`http://localhost:4000/sitemap.xml`
+
 ## 停止本地预览
 
 `run-mdbook.ps1` 默认以前台方式运行，停止方式是：
@@ -75,14 +81,13 @@ docker run --rm -v "${PWD}:/workspace" re0-mdbook sh bin/build-mdbook.sh
 
 ## 清理构建产物
 
-PowerShell：
+使用传统 cmd 方式（Docker 挂载卷下最可靠）：
 
 ```powershell
-Remove-Item mdbook/src -Recurse -Force -ErrorAction SilentlyContinue
-Remove-Item mdbook/book -Recurse -Force -ErrorAction SilentlyContinue
+cmd /c "rmdir /s /q mdbook\src & rmdir /s /q mdbook\book"
 ```
 
-注意：在 Windows 挂载卷中，容器内执行 `rm -rf mdbook/src` 可能因为文件系统权限失败。优先在 PowerShell 侧清理。
+PowerShell 的 `Remove-Item -Recurse -Force` 在 Docker 挂载卷上可能因"目录非空"而失败；容器内 `rm -rf` 同样会因为 Windows 文件系统权限失败。`cmd /c rmdir /s /q` 是目前验证最可靠的清理方式。
 
 ## 常见问题
 

@@ -1,6 +1,7 @@
 #!/bin/sh
 # mdBook 构建脚本
 # 从 gitbook/ 源文件生成 mdBook 格式并构建输出到 mdbook/book/
+# GitHub Actions 要求可执行位 (+x)，本地提交时通过 git add --chmod=+x 设置
 
 set -e
 

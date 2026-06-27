@@ -81,8 +81,6 @@
 ## 0xF0 致开发者
 
 
-此项目是利用 [GitBook](https://docs.gitbook.com/) 搭建的，同时兼容在 [Github Pages](https://re-zero-khis.github.io/re0-web) 和 [本地（线下）](http://127.0.0.1:4000/) 运行。
+此项目当前使用 [mdBook](https://rust-lang.github.io/mdBook/) 将 markdown 编译为 HTML，并兼容在 [Github Pages](https://re-zero-khis.github.io/re0-web) 和 [本地（线下）](http://127.0.0.1:4000/) 运行。
 
-> 关于 **本地** 环境的搭建可见 [gitbook-server-docker](https://github.com/re-zero-khis/gitbook-server-docker) 的说明
-<br/> 另由于 [`SUMMARY.md`](./gitbook/SUMMARY.md) 索引量较大，[`build.sh|ps1`](./bin/build.sh) 编译一次约需 1 小时，因此要谨慎发布变更
-
+> 本地 Docker 部署、启动、停止和静态构建流程见 [mdBook 本地部署 SOP](./docs/mdbook-local-sop.md)。

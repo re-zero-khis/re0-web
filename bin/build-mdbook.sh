@@ -5,12 +5,13 @@
 set -e
 
 MDBOOK_VERSION="0.4.40"
+ROOT_DIR=$(pwd)
 
 # 优先使用系统 PATH 里的 mdbook（如 Docker 镜像内），否则使用本地下载版
 if command -v mdbook >/dev/null 2>&1; then
-    MDBOOK_BIN="mdbook"
+    MDBOOK_BIN=$(command -v mdbook)
 else
-    MDBOOK_BIN="mdbook/bin/mdbook"
+    MDBOOK_BIN="$ROOT_DIR/mdbook/bin/mdbook"
 fi
 SRC_DIR="mdbook/src"
 
@@ -46,7 +47,7 @@ echo "==> Adapting SUMMARY.md..."
 python3 bin/adapt-summary.py gitbook/SUMMARY.md "$SRC_DIR/SUMMARY.md"
 
 # ── 5. 下载 mdBook 二进制（仅在 PATH 中不存在且本地也没有时）────────
-if [ "$MDBOOK_BIN" = "mdbook/bin/mdbook" ] && [ ! -f "$MDBOOK_BIN" ]; then
+if [ ! -f "$MDBOOK_BIN" ]; then
     echo "==> Downloading mdBook v${MDBOOK_VERSION}..."
     mkdir -p mdbook/bin
     curl -sSL \
@@ -58,7 +59,7 @@ fi
 echo "==> Building with mdBook v${MDBOOK_VERSION} (bin: ${MDBOOK_BIN})..."
 START=$(date +%s)
 
-cd mdbook && ../$MDBOOK_BIN build
+cd mdbook && "$MDBOOK_BIN" build
 
 END=$(date +%s)
 echo "==> Build finished in $((END - START)) seconds."

@@ -11,11 +11,9 @@ echo "==> Preparing mdBook source..."
 mkdir -p "$SRC"
 
 echo "    Copying markdown..."
-rm -rf "$SRC/markdown"
 cp -r gitbook/markdown "$SRC/markdown"
 
 echo "    Copying resources..."
-rm -rf "$SRC/res"
 cp -r gitbook/res "$SRC/res"
 
 cp gitbook/README.md "$SRC/README.md"

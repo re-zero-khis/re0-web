@@ -20,12 +20,10 @@ mkdir -p "$SRC_DIR"
 
 # 复制正文 markdown
 echo "    Copying markdown..."
-rm -rf "$SRC_DIR/markdown"
 cp -r gitbook/markdown "$SRC_DIR/markdown"
 
 # 复制资源（图片、打赏二维码等）
 echo "    Copying resources..."
-rm -rf "$SRC_DIR/res"
 cp -r gitbook/res "$SRC_DIR/res"
 
 # 复制首页和广告声明

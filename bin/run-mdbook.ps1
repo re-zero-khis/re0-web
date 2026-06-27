@@ -17,10 +17,16 @@ if (-not $imageExists) {
     Write-Host "==> Using existing Docker image '$IMAGE'" -ForegroundColor Green
 }
 
-# ── 2. 启动预览服务 ────────────────────────────────────────────────────
+# ── 2. 清理上次生成的 src 目录（Windows 侧权限足够删，容器内 rm -rf 挂载卷会失败）
+if (Test-Path "$ROOT/mdbook/src") {
+    Write-Host "==> Cleaning previous src..." -ForegroundColor DarkGray
+    Remove-Item "$ROOT/mdbook/src" -Recurse -Force
+}
+
+# ── 3. 启动预览服务 ────────────────────────────────────────────────────
 Write-Host ""
 Write-Host "==> Starting mdBook preview (Ctrl+C to stop) ..." -ForegroundColor Cyan
-Write-Host "    Once ready, open: http://localhost:3000" -ForegroundColor Yellow
+Write-Host "    Once ready, open: http://localhost:4000" -ForegroundColor Yellow
 Write-Host ""
 
 docker run --rm `

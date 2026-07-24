@@ -798,6 +798,7 @@
 	* [22　『布局与抗拒』](markdown/ch/chapter100/22.md)
 	* [23　『追寻最优解』](markdown/ch/chapter100/23.md)
 	* [24　『一个好家伙』](markdown/ch/chapter100/24.md)
+	* [25　『想与微笑的你相爱』](markdown/ch/chapter100/25.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

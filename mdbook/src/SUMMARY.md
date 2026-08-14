@@ -804,6 +804,7 @@
 	* [28　『事到如今了』](markdown/ch/chapter100/28.md)
 	* [1786125015　『兄弟姐妹』](markdown/ch/chapter100/1786125015.md)
 	* [29　『格雷斯塔任务』](markdown/ch/chapter100/29.md)
+	* [30　『圆珠笔』](markdown/ch/chapter100/30.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

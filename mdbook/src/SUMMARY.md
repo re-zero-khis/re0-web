@@ -809,6 +809,7 @@
 	* [32　『――啊啊啊啊啊』](markdown/ch/chapter100/32.md)
 	* [33　『以左右往返的三周半跳，全自动洗衣机的漂洗停不下来』](markdown/ch/chapter100/33.md)
 	* [34　『关键时刻』](markdown/ch/chapter100/34.md)
+	* [35　『白羊座』](markdown/ch/chapter100/35.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

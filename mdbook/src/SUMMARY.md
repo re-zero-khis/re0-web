@@ -811,6 +811,7 @@
 	* [34　『关键时刻』](markdown/ch/chapter100/34.md)
 	* [35　『白羊座』](markdown/ch/chapter100/35.md)
 	* [36　『大蠢货』](markdown/ch/chapter100/36.md)
+	* [37　『执行者』](markdown/ch/chapter100/37.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)

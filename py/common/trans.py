@@ -6,6 +6,8 @@
 from common.settings import *
 from color_log.clog import log
 
+TRANS_MODEL = "gpt-6.1-sol"
+
 
 # 专有名词翻译器
 DICT_PATH = "./mdbook/src/markdown/translation.md"

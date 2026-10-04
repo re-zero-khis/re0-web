@@ -742,7 +742,7 @@
 	* [29　『最终席位』](markdown/ch/chapter090/29.md)
 	* [30　『Plan B』](markdown/ch/chapter090/30.md)
 	* [31　『百分百的工作』](markdown/ch/chapter090/31.md)
-	* [32　『名为克林特的男人』](markdown/ch/chapter090/32.md)
+	* [32　『名为柯林特的男人』](markdown/ch/chapter090/32.md)
 	* [33　『名为佩特拉・雷蒂的少女』](markdown/ch/chapter090/33.md)
 	* [34　『引力』](markdown/ch/chapter090/34.md)
 	* [35　『觉醒之星』](markdown/ch/chapter090/35.md)

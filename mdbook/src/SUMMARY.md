@@ -809,7 +809,7 @@
 	* [32　『――啊啊啊啊啊』](markdown/ch/chapter100/32.md)
 	* [33　『左冲右突的三周半跳，全自动洗衣机漂洗个不停』](markdown/ch/chapter100/33.md)
 	* [34　『关键时刻』](markdown/ch/chapter100/34.md)
-	* [35　『白羊座』](markdown/ch/chapter100/35.md)
+	* [35　『白羊』](markdown/ch/chapter100/35.md)
 	* [36　『大蠢货』](markdown/ch/chapter100/36.md)
 	* [37　『执行者』](markdown/ch/chapter100/37.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)

@@ -772,7 +772,7 @@
 	* [59　『——不是』](markdown/ch/chapter090/59.md)
 	* [幕间　『声援』](markdown/ch/chapter090/59_5.md)
 	* [终幕　『重织』](markdown/ch/chapter090/60.md)
-* [第十章　『獅子王之国』](markdown/ch/chapter100/README.md)
+* [第十章　『獅子王之国』（王都动乱篇）](markdown/ch/chapter100/README.md)
 	* [01　『朋友』](markdown/ch/chapter100/01.md)
 	* [02　『教会的秘迹』](markdown/ch/chapter100/02.md)
 	* [03　『光之萌芽』](markdown/ch/chapter100/03.md)

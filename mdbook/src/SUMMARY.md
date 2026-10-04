@@ -802,7 +802,7 @@
 	* [26　『祝词』](markdown/ch/chapter100/26.md)
 	* [27　『不从西方升起的太阳』](markdown/ch/chapter100/27.md)
 	* [28　『事到如今了』](markdown/ch/chapter100/28.md)
-	* [1786125015　『兄弟姐妹』](markdown/ch/chapter100/1786125015.md)
+	* [1786125015　『兄弟姐妹』](markdown/ch/chapter100/28_5.md)
 	* [29　『格雷斯塔任务』](markdown/ch/chapter100/29.md)
 	* [30　『圆珠笔』](markdown/ch/chapter100/30.md)
 	* [31　『我回来了，欢迎回家』](markdown/ch/chapter100/31.md)

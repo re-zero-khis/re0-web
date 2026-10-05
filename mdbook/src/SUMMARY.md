@@ -575,7 +575,7 @@
 	* [57-A　『聪明是活不下去的』](markdown/ch/chapter070/57-A.md)
 	* [58-A　『无家可归的人们』](markdown/ch/chapter070/58-A.md)
 	* [59-A　『塔莉塔・修德拉克』](markdown/ch/chapter070/59-A.md)
-	* [60　『乱世的私生子』](markdown/ch/chapter070/60.md)
+	* [60　『播下纷乱之种』](markdown/ch/chapter070/60.md)
 	* [54-B　『遮天蔽日』](markdown/ch/chapter070/54-B.md)
 	* [55-B　『城郭都市狂躁曲』](markdown/ch/chapter070/55-B.md)
 	* [56-B　『飞龙灾害』](markdown/ch/chapter070/56-B.md)

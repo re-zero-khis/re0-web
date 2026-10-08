@@ -109,51 +109,51 @@
 <details>
 <summary>第22卷彩页与设定图</summary>
 
-![第22卷彩页与设定图](../../../res/imgs/article/chapter060/22-002.jpg)
+![](../../../res/imgs/article/chapter060/22-002.jpg)
 
-![第22卷彩页与设定图](../../../res/imgs/article/chapter060/22-003.jpg)
+![](../../../res/imgs/article/chapter060/22-003.jpg)
 
-![第22卷彩页与设定图](../../../res/imgs/article/chapter060/22-004.jpg)
+![](../../../res/imgs/article/chapter060/22-004.jpg)
 
-![第22卷彩页与设定图](../../../res/imgs/article/chapter060/22-015.jpg)
+![](../../../res/imgs/article/chapter060/22-015.jpg)
 
 </details>
 
 <details>
 <summary>第23卷彩页与设定图</summary>
 
-![第23卷彩页与设定图](../../../res/imgs/article/chapter060/23-002.jpg)
+![](../../../res/imgs/article/chapter060/23-002.jpg)
 
-![第23卷彩页与设定图](../../../res/imgs/article/chapter060/23-003.jpg)
+![](../../../res/imgs/article/chapter060/23-003.jpg)
 
-![第23卷彩页与设定图](../../../res/imgs/article/chapter060/23-004.jpg)
+![](../../../res/imgs/article/chapter060/23-004.jpg)
 
-![第23卷彩页与设定图](../../../res/imgs/article/chapter060/23-015.jpg)
+![](../../../res/imgs/article/chapter060/23-015.jpg)
 
 </details>
 
 <details>
 <summary>第24卷彩页与设定图</summary>
 
-![第24卷彩页与设定图](../../../res/imgs/article/chapter060/24-002.jpg)
+![](../../../res/imgs/article/chapter060/24-002.jpg)
 
-![第24卷彩页与设定图](../../../res/imgs/article/chapter060/24-003.jpg)
+![](../../../res/imgs/article/chapter060/24-003.jpg)
 
-![第24卷彩页与设定图](../../../res/imgs/article/chapter060/24-004.jpg)
+![](../../../res/imgs/article/chapter060/24-004.jpg)
 
-![第24卷彩页与设定图](../../../res/imgs/article/chapter060/24-013.jpg)
+![](../../../res/imgs/article/chapter060/24-013.jpg)
 
 </details>
 
 <details>
 <summary>第25卷彩页与设定图</summary>
 
-![第25卷彩页与设定图](../../../res/imgs/article/chapter060/25-002.jpg)
+![](../../../res/imgs/article/chapter060/25-002.jpg)
 
-![第25卷彩页与设定图](../../../res/imgs/article/chapter060/25-003.jpg)
+![](../../../res/imgs/article/chapter060/25-003.jpg)
 
-![第25卷彩页与设定图](../../../res/imgs/article/chapter060/25-004.jpg)
+![](../../../res/imgs/article/chapter060/25-004.jpg)
 
-![第25卷彩页与设定图](../../../res/imgs/article/chapter060/25-015.jpg)
+![](../../../res/imgs/article/chapter060/25-015.jpg)
 
 </details>

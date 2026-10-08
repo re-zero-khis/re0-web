@@ -138,90 +138,90 @@
 <details>
 <summary>第26卷彩页与设定图</summary>
 
-![第26卷彩页与设定图](../../../res/imgs/article/chapter070/01.png)
+![](../../../res/imgs/article/chapter070/01.png)
 
-![第26卷彩页与设定图](../../../res/imgs/article/chapter070/02.jpg)
+![](../../../res/imgs/article/chapter070/02.jpg)
 
-![第26卷彩页与设定图](../../../res/imgs/article/chapter070/03.jpg)
+![](../../../res/imgs/article/chapter070/03.jpg)
 
-![第26卷彩页与设定图](../../../res/imgs/article/chapter070/26-015.jpg)
+![](../../../res/imgs/article/chapter070/26-015.jpg)
 
 </details>
 
 <details>
 <summary>第27卷彩页与设定图</summary>
 
-![第27卷彩页与设定图](../../../res/imgs/article/chapter070/27-002.jpg)
+![](../../../res/imgs/article/chapter070/27-002.jpg)
 
-![第27卷彩页与设定图](../../../res/imgs/article/chapter070/27-003.jpg)
+![](../../../res/imgs/article/chapter070/27-003.jpg)
 
-![第27卷彩页与设定图](../../../res/imgs/article/chapter070/27-004.jpg)
+![](../../../res/imgs/article/chapter070/27-004.jpg)
 
-![第27卷彩页与设定图](../../../res/imgs/article/chapter070/27-015.jpg)
+![](../../../res/imgs/article/chapter070/27-015.jpg)
 
 </details>
 
 <details>
 <summary>第28卷彩页与设定图</summary>
 
-![第28卷彩页与设定图](../../../res/imgs/article/chapter070/002.jpg)
+![](../../../res/imgs/article/chapter070/002.jpg)
 
-![第28卷彩页与设定图](../../../res/imgs/article/chapter070/003.jpg)
+![](../../../res/imgs/article/chapter070/003.jpg)
 
-![第28卷彩页与设定图](../../../res/imgs/article/chapter070/004.jpg)
+![](../../../res/imgs/article/chapter070/004.jpg)
 
-![第28卷彩页与设定图](../../../res/imgs/article/chapter070/28-015.jpg)
+![](../../../res/imgs/article/chapter070/28-015.jpg)
 
 </details>
 
 <details>
 <summary>第29卷彩页与设定图</summary>
 
-![第29卷彩页与设定图](../../../res/imgs/article/chapter070/29-002.jpg)
+![](../../../res/imgs/article/chapter070/29-002.jpg)
 
-![第29卷彩页与设定图](../../../res/imgs/article/chapter070/29-003.jpg)
+![](../../../res/imgs/article/chapter070/29-003.jpg)
 
-![第29卷彩页与设定图](../../../res/imgs/article/chapter070/29-004.jpg)
+![](../../../res/imgs/article/chapter070/29-004.jpg)
 
-![第29卷彩页与设定图](../../../res/imgs/article/chapter070/29-015.jpg)
+![](../../../res/imgs/article/chapter070/29-015.jpg)
 
 </details>
 
 <details>
 <summary>第30卷彩页与设定图</summary>
 
-![第30卷彩页与设定图](../../../res/imgs/article/chapter070/30-002.jpg)
+![](../../../res/imgs/article/chapter070/30-002.jpg)
 
-![第30卷彩页与设定图](../../../res/imgs/article/chapter070/30-003.jpg)
+![](../../../res/imgs/article/chapter070/30-003.jpg)
 
-![第30卷彩页与设定图](../../../res/imgs/article/chapter070/30-004.jpg)
+![](../../../res/imgs/article/chapter070/30-004.jpg)
 
-![第30卷彩页与设定图](../../../res/imgs/article/chapter070/30-015.jpg)
+![](../../../res/imgs/article/chapter070/30-015.jpg)
 
 </details>
 
 <details>
 <summary>第31卷彩页与设定图</summary>
 
-![第31卷彩页与设定图](../../../res/imgs/article/chapter070/31-002.jpg)
+![](../../../res/imgs/article/chapter070/31-002.jpg)
 
-![第31卷彩页与设定图](../../../res/imgs/article/chapter070/31-003.jpg)
+![](../../../res/imgs/article/chapter070/31-003.jpg)
 
-![第31卷彩页与设定图](../../../res/imgs/article/chapter070/31-004.jpg)
+![](../../../res/imgs/article/chapter070/31-004.jpg)
 
-![第31卷彩页与设定图](../../../res/imgs/article/chapter070/31-015.jpg)
+![](../../../res/imgs/article/chapter070/31-015.jpg)
 
 </details>
 
 <details>
 <summary>第32卷彩页与设定图</summary>
 
-![第32卷彩页与设定图](../../../res/imgs/article/chapter070/32-kuchie-002.jpg)
+![](../../../res/imgs/article/chapter070/32-kuchie-002.jpg)
 
-![第32卷彩页与设定图](../../../res/imgs/article/chapter070/32-kuchie-003.jpg)
+![](../../../res/imgs/article/chapter070/32-kuchie-003.jpg)
 
-![第32卷彩页与设定图](../../../res/imgs/article/chapter070/32-kuchie-004.jpg)
+![](../../../res/imgs/article/chapter070/32-kuchie-004.jpg)
 
-![第32卷彩页与设定图](../../../res/imgs/article/chapter070/32-lest.jpg)
+![](../../../res/imgs/article/chapter070/32-lest.jpg)
 
 </details>

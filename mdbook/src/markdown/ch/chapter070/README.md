@@ -44,7 +44,7 @@
 - [42　『野心之兽』](42.md)
 - [43　『眼皮子底下』](43.md)
 - [44　『收缩的视野』](44.md)
-- [45　『狐娘』](45.md)
+- [45　『魂婚』](45.md)
 - [46　『幼稚的匹夫之勇』](46.md)
 - [47　『不会消失的■■』](47.md)
 - [48　『思绪交错的魔都』](48.md)
@@ -69,10 +69,10 @@
 - [61　『欢迎来到剑奴孤岛！』](61.md)
 - [62　『孤岛的秩序』](62.md)
 - [63　『斯帕鲁卡』](63.md)
-- [64　『魔法的语言』](64.md)
+- [64　『魔法般的话语』](64.md)
 - [65　『学园美食斗士』](65.md)
 - [66　『赫莱茵・伊特』](66.md)
-- [67　『深牙的背面』](67.md)
+- [67　『后槽牙的内侧』](67.md)
 - [68　『剑狼的指引』](68.md)
 - [69　『帝都来的使者』](69.md)
 - [70　『一个』](70.md)
@@ -87,10 +87,10 @@
 - [79　『绯色的大笑』](79.md)
 - [80　『爱丽丝与荆棘之王』](80.md)
 - [81　『女豪杰和小丑』](81.md)
-- [82　『对叛乱者的猜测』](82.md)
+- [82　『反乱者的谋算』](82.md)
 - [83　『战乱与战场』](83.md)
 - [84　『茶室』](84.md)
-- [85　『尤金』](85.md)
+- [85　『友人』](85.md)
 - [86　『五个顶点』](86.md)
 - [87　『巅峰之战』](87.md)
 - [88　『突破口』](88.md)
@@ -119,3 +119,109 @@
 
 
 ![](../../../res/imgs/article/chapter070/00-b.jpg)
+
+## 文库版封面与插图
+
+<p>
+<a href="../../../res/imgs/article/chapter070/00-a.jpg"><img src="../../../res/imgs/article/chapter070/00-a.jpg" alt="第26卷封面" width="120" loading="lazy" /></a>
+<a href="../../../res/imgs/article/chapter070/00-c.jpg"><img src="../../../res/imgs/article/chapter070/00-c.jpg" alt="第27卷封面" width="120" loading="lazy" /></a>
+<a href="../../../res/imgs/article/chapter070/00-d.jpg"><img src="../../../res/imgs/article/chapter070/00-d.jpg" alt="第28卷封面" width="120" loading="lazy" /></a>
+<a href="../../../res/imgs/article/chapter070/00-e.jpg"><img src="../../../res/imgs/article/chapter070/00-e.jpg" alt="第29卷封面" width="120" loading="lazy" /></a>
+<a href="../../../res/imgs/article/chapter070/00-f.jpg"><img src="../../../res/imgs/article/chapter070/00-f.jpg" alt="第30卷封面" width="120" loading="lazy" /></a>
+<a href="../../../res/imgs/article/chapter070/00-g.jpg"><img src="../../../res/imgs/article/chapter070/00-g.jpg" alt="第31卷封面" width="120" loading="lazy" /></a>
+<a href="../../../res/imgs/article/chapter070/00-h.jpg"><img src="../../../res/imgs/article/chapter070/00-h.jpg" alt="第32卷封面" width="120" loading="lazy" /></a>
+<a href="../../../res/imgs/article/chapter070/00-i.jpg"><img src="../../../res/imgs/article/chapter070/00-i.jpg" alt="第33卷封面" width="120" loading="lazy" /></a>
+</p>
+
+以下彩页和设定图含本篇后续剧情；正文插图已放在对应场景附近。
+
+<details>
+<summary>第26卷彩页与设定图</summary>
+
+![第26卷彩页与设定图](../../../res/imgs/article/chapter070/01.png)
+
+![第26卷彩页与设定图](../../../res/imgs/article/chapter070/02.jpg)
+
+![第26卷彩页与设定图](../../../res/imgs/article/chapter070/03.jpg)
+
+![第26卷彩页与设定图](../../../res/imgs/article/chapter070/26-015.jpg)
+
+</details>
+
+<details>
+<summary>第27卷彩页与设定图</summary>
+
+![第27卷彩页与设定图](../../../res/imgs/article/chapter070/27-002.jpg)
+
+![第27卷彩页与设定图](../../../res/imgs/article/chapter070/27-003.jpg)
+
+![第27卷彩页与设定图](../../../res/imgs/article/chapter070/27-004.jpg)
+
+![第27卷彩页与设定图](../../../res/imgs/article/chapter070/27-015.jpg)
+
+</details>
+
+<details>
+<summary>第28卷彩页与设定图</summary>
+
+![第28卷彩页与设定图](../../../res/imgs/article/chapter070/002.jpg)
+
+![第28卷彩页与设定图](../../../res/imgs/article/chapter070/003.jpg)
+
+![第28卷彩页与设定图](../../../res/imgs/article/chapter070/004.jpg)
+
+![第28卷彩页与设定图](../../../res/imgs/article/chapter070/28-015.jpg)
+
+</details>
+
+<details>
+<summary>第29卷彩页与设定图</summary>
+
+![第29卷彩页与设定图](../../../res/imgs/article/chapter070/29-002.jpg)
+
+![第29卷彩页与设定图](../../../res/imgs/article/chapter070/29-003.jpg)
+
+![第29卷彩页与设定图](../../../res/imgs/article/chapter070/29-004.jpg)
+
+![第29卷彩页与设定图](../../../res/imgs/article/chapter070/29-015.jpg)
+
+</details>
+
+<details>
+<summary>第30卷彩页与设定图</summary>
+
+![第30卷彩页与设定图](../../../res/imgs/article/chapter070/30-002.jpg)
+
+![第30卷彩页与设定图](../../../res/imgs/article/chapter070/30-003.jpg)
+
+![第30卷彩页与设定图](../../../res/imgs/article/chapter070/30-004.jpg)
+
+![第30卷彩页与设定图](../../../res/imgs/article/chapter070/30-015.jpg)
+
+</details>
+
+<details>
+<summary>第31卷彩页与设定图</summary>
+
+![第31卷彩页与设定图](../../../res/imgs/article/chapter070/31-002.jpg)
+
+![第31卷彩页与设定图](../../../res/imgs/article/chapter070/31-003.jpg)
+
+![第31卷彩页与设定图](../../../res/imgs/article/chapter070/31-004.jpg)
+
+![第31卷彩页与设定图](../../../res/imgs/article/chapter070/31-015.jpg)
+
+</details>
+
+<details>
+<summary>第32卷彩页与设定图</summary>
+
+![第32卷彩页与设定图](../../../res/imgs/article/chapter070/32-kuchie-002.jpg)
+
+![第32卷彩页与设定图](../../../res/imgs/article/chapter070/32-kuchie-003.jpg)
+
+![第32卷彩页与设定图](../../../res/imgs/article/chapter070/32-kuchie-004.jpg)
+
+![第32卷彩页与设定图](../../../res/imgs/article/chapter070/32-lest.jpg)
+
+</details>

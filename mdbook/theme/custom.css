@@ -101,3 +101,14 @@
         display: none;
     }
 }
+
+/* PC 端限制小说封面与正文插图宽度，移动端沿用全宽显示。 */
+@media screen and (min-width: 761px) {
+    .content main img[src*="res/imgs/article/"] {
+        display: block;
+        max-width: 40%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

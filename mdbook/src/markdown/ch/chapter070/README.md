@@ -120,7 +120,7 @@
 
 ![](../../../res/imgs/article/chapter070/00-b.jpg)
 
-## 文库版封面与插图
+## epub 封面与插图
 
 <p>
 <a href="../../../res/imgs/article/chapter070/00-a.jpg"><img src="../../../res/imgs/article/chapter070/00-a.jpg" alt="第26卷封面" width="120" loading="lazy" /></a>
@@ -133,10 +133,8 @@
 <a href="../../../res/imgs/article/chapter070/00-i.jpg"><img src="../../../res/imgs/article/chapter070/00-i.jpg" alt="第33卷封面" width="120" loading="lazy" /></a>
 </p>
 
-以下彩页和设定图含本篇后续剧情；正文插图已放在对应场景附近。
-
 <details>
-<summary>第26卷彩页与设定图</summary>
+<summary>彩页与设定图</summary>
 
 ![](../../../res/imgs/article/chapter070/01.png)
 
@@ -146,11 +144,6 @@
 
 ![](../../../res/imgs/article/chapter070/26-015.jpg)
 
-</details>
-
-<details>
-<summary>第27卷彩页与设定图</summary>
-
 ![](../../../res/imgs/article/chapter070/27-002.jpg)
 
 ![](../../../res/imgs/article/chapter070/27-003.jpg)
@@ -158,11 +151,6 @@
 ![](../../../res/imgs/article/chapter070/27-004.jpg)
 
 ![](../../../res/imgs/article/chapter070/27-015.jpg)
-
-</details>
-
-<details>
-<summary>第28卷彩页与设定图</summary>
 
 ![](../../../res/imgs/article/chapter070/002.jpg)
 
@@ -172,11 +160,6 @@
 
 ![](../../../res/imgs/article/chapter070/28-015.jpg)
 
-</details>
-
-<details>
-<summary>第29卷彩页与设定图</summary>
-
 ![](../../../res/imgs/article/chapter070/29-002.jpg)
 
 ![](../../../res/imgs/article/chapter070/29-003.jpg)
@@ -184,11 +167,6 @@
 ![](../../../res/imgs/article/chapter070/29-004.jpg)
 
 ![](../../../res/imgs/article/chapter070/29-015.jpg)
-
-</details>
-
-<details>
-<summary>第30卷彩页与设定图</summary>
 
 ![](../../../res/imgs/article/chapter070/30-002.jpg)
 
@@ -198,11 +176,6 @@
 
 ![](../../../res/imgs/article/chapter070/30-015.jpg)
 
-</details>
-
-<details>
-<summary>第31卷彩页与设定图</summary>
-
 ![](../../../res/imgs/article/chapter070/31-002.jpg)
 
 ![](../../../res/imgs/article/chapter070/31-003.jpg)
@@ -210,11 +183,6 @@
 ![](../../../res/imgs/article/chapter070/31-004.jpg)
 
 ![](../../../res/imgs/article/chapter070/31-015.jpg)
-
-</details>
-
-<details>
-<summary>第32卷彩页与设定图</summary>
 
 ![](../../../res/imgs/article/chapter070/32-kuchie-002.jpg)
 

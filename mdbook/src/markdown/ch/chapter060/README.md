@@ -94,7 +94,9 @@
 - [后记　『篇章插图』](99.md)
 
 ![](../../../res/imgs/article/chapter060/00-b.png)
-## 文库版封面与插图
+
+
+## epub 封面与插图
 
 <p>
 <a href="../../../res/imgs/article/chapter060/00-a.jpg"><img src="../../../res/imgs/article/chapter060/00-a.jpg" alt="第21卷封面" width="120" loading="lazy" /></a>
@@ -104,10 +106,9 @@
 <a href="../../../res/imgs/article/chapter060/00-i.jpg"><img src="../../../res/imgs/article/chapter060/00-i.jpg" alt="第25卷封面" width="120" loading="lazy" /></a>
 </p>
 
-以下彩页和设定图含本篇后续剧情；正文插图已放在对应场景附近。
 
 <details>
-<summary>第22卷彩页与设定图</summary>
+<summary>彩页与设定图</summary>
 
 ![](../../../res/imgs/article/chapter060/22-002.jpg)
 
@@ -117,11 +118,6 @@
 
 ![](../../../res/imgs/article/chapter060/22-015.jpg)
 
-</details>
-
-<details>
-<summary>第23卷彩页与设定图</summary>
-
 ![](../../../res/imgs/article/chapter060/23-002.jpg)
 
 ![](../../../res/imgs/article/chapter060/23-003.jpg)
@@ -130,11 +126,6 @@
 
 ![](../../../res/imgs/article/chapter060/23-015.jpg)
 
-</details>
-
-<details>
-<summary>第24卷彩页与设定图</summary>
-
 ![](../../../res/imgs/article/chapter060/24-002.jpg)
 
 ![](../../../res/imgs/article/chapter060/24-003.jpg)
@@ -142,11 +133,6 @@
 ![](../../../res/imgs/article/chapter060/24-004.jpg)
 
 ![](../../../res/imgs/article/chapter060/24-013.jpg)
-
-</details>
-
-<details>
-<summary>第25卷彩页与设定图</summary>
 
 ![](../../../res/imgs/article/chapter060/25-002.jpg)
 

@@ -22,17 +22,17 @@
 
 但即使跨越无数血液、尸体和绝望，也要从死亡的命运中拯救少女！
 
-| 章节 | 汉化进度 | 润色进度 | 精校进度 | 链接 |
+| 章节 | 汉化进度 | 润色进度 | 精校进度 | 阅读 |
 |:---:|:---:|:---:|:---:|:---:|
-| 第一章・初见篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter010/README.md) |
-| 第二章・宅邸篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter020/README.md) |
-| 第三章・王选篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter030/README.md) |
-| 第四章・圣域篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter040/README.md) |
-| 第五章・水门都市篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter050/README.md) |
-| 第六章・贤者之塔篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter060/README.md) |
-| 第七章・帝国篇 | 全部 | 全部 | 2026-10-08 完全重新校对 | [Link](markdown/ch/chapter070/README.md) |
-| 第八章・帝皇篇 | 全部 | 全部 | 2026-10-09 完全重新校对 | [Link](markdown/ch/chapter080/README.md) |
-| 第九章・尾随星篇 | 全部 | 全部 | 2026-10-11 完全重新校对 | [Link](markdown/ch/chapter090/README.md) |
-| 第十章・王都动乱篇 | 全部 | 37 节 | 09 节 | [Link](markdown/ch/chapter100/README.md) |
+| 第一章・初见篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter010/index.html) |
+| 第二章・宅邸篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter020/index.html) |
+| 第三章・王选篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter030/index.html) |
+| 第四章・圣域篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter040/index.html) |
+| 第五章・水门都市篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter050/index.html) |
+| 第六章・贤者之塔篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter060/index.html) |
+| 第七章・帝国篇 | 全部 | 全部 | 2026-10-08 完全重新校对 | [Link](markdown/ch/chapter070/index.html) |
+| 第八章・帝皇篇 | 全部 | 全部 | 2026-10-09 完全重新校对 | [Link](markdown/ch/chapter080/index.html) |
+| 第九章・尾随星篇 | 全部 | 全部 | 2026-10-11 完全重新校对 | [Link](markdown/ch/chapter090/index.html) |
+| 第十章・王都动乱篇 | 全部 | 37 节 | 09 节 | [Link](markdown/ch/chapter100/index.html) |
 
 ![](res/imgs/index/01.png)

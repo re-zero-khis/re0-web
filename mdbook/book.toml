@@ -11,7 +11,7 @@ build-dir = "book"
 [output.html]
 site-url = "/mdbook/book/"
 git-repository-url = "https://github.com/re-zero-khis/re0-web"
-edit-url-template = "https://github.com/re-zero-khis/re0-web/edit/master/mdbook/src/{path}"
+edit-url-template = "https://github.com/re-zero-khis/re0-web/edit/master/mdbook/{path}"
 cname = "re0zero.top"
 no-section-label = true
 additional-css = ["theme/custom.css"]

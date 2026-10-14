@@ -33,6 +33,6 @@
 | 第七章・帝国篇 | 全部 | 全部 | 2026-10-08 完全重新校对 | [Link](markdown/ch/chapter070/index.html) |
 | 第八章・帝皇篇 | 全部 | 全部 | 2026-10-09 完全重新校对 | [Link](markdown/ch/chapter080/index.html) |
 | 第九章・尾随星篇 | 全部 | 全部 | 2026-10-11 完全重新校对 | [Link](markdown/ch/chapter090/index.html) |
-| 第十章・王都动乱篇 | 全部 | 37 节 | 28 节 | [Link](markdown/ch/chapter100/index.html) |
+| 第十章・王都动乱篇 | 全部 | 37 节 | 30 节 | [Link](markdown/ch/chapter100/index.html) |
 
 ![](res/imgs/index/01.png)

@@ -30,9 +30,9 @@
 | 第四章・圣域篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter040/index.html) |
 | 第五章・水门都市篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter050/index.html) |
 | 第六章・贤者之塔篇 | 全部 | 全部 | 全部 | [Link](markdown/ch/chapter060/index.html) |
-| 第七章・帝国篇 | 全部 | 全部 | 2026-10-08 完全重新校对 | [Link](markdown/ch/chapter070/index.html) |
-| 第八章・帝皇篇 | 全部 | 全部 | 2026-10-09 完全重新校对 | [Link](markdown/ch/chapter080/index.html) |
-| 第九章・尾随星篇 | 全部 | 全部 | 2026-10-11 完全重新校对 | [Link](markdown/ch/chapter090/index.html) |
-| 第十章・王都动乱篇 | 全部 | 37 节 | 37 节 | [Link](markdown/ch/chapter100/index.html) |
+| 第七章・帝国篇 | 全部 | 全部 | 重新校对 | [Link](markdown/ch/chapter070/index.html) |
+| 第八章・帝皇篇 | 全部 | 全部 | 重新校对 | [Link](markdown/ch/chapter080/index.html) |
+| 第九章・尾随星篇 | 全部 | 全部 | 重新校对 | [Link](markdown/ch/chapter090/index.html) |
+| 第十章・王都动乱篇 | 全部 | 39 节 | 39 节 | [Link](markdown/ch/chapter100/index.html) |
 
 ![](res/imgs/index/01.png)
